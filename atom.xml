@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Thoughts and Research on How to be Open</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2017-11-09T19:58:16+01:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Johan Linåker</name>
+   <email>johan[dot]linaker[at]cs[dot]lth[dot]se</email>
+ </author>
+
+ 
+ <entry>
+   <title>Time to share my thoughts and research</title>
+   <link href="http://localhost:4000/2017/11/09/time-to-share/"/>
+   <updated>2017-11-09T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2017/11/09/time-to-share</id>
+   <content type="html">&lt;p&gt;I’ve been doing research now for about three years, and I can tell you, time flies when you’re having fun! Doing a Ph.D. enables you with a lot of freedom to explore and investigate a given topic. Aligning with my passion for open source, for me that topic is how companies should work with their open source strategy, answering questions such as “what should we contribute/open-source?”, and “how should we invest and engage with the communities?”.&lt;/p&gt;
+
+&lt;p&gt;With this blog, I hope to share some of my insights, both personal and from research, on how companies can approach these questions and be open in a sustainable and profitable manner. Please feel free to share any comments or reach out and I’ll be happy to reply and discuss! You’ll find my contacts in the menu to the right! Enjoy!&lt;/p&gt;
+
+&lt;!--References
+-----------
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;/ol&gt;--&gt;
+</content>
+ </entry>
+ 
+
+</feed>
