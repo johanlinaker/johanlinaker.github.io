@@ -23,6 +23,8 @@ twitter_username: johanlinaker
 github_username: johanlinaker
 minimal_mistakes_skin: default
 search: false
+url: 'https://johanlinaker.github.io/' # your main domain
+baseurl: '' # if you're using custom domain keep this blank example: baseurl: ''
 
 # Build settings
 markdown: kramdown
