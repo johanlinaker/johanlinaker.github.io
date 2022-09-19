@@ -1,0 +1,74 @@
+---
+permalink: /publications/
+title: "Publications"
+---
+
+## Journal papers
+* Runeson, P., Olsson, T., & **Linåker, J.** (2021). *Open Data Ecosystems—An empirical investigation into an emerging industry collaboration concept*. Journal of Systems and Software, 182, 111088.
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1016/j.jss.2021.111088) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2109.01378.pdf)
+* **Linåker, J.**, & Runeson, P. (2021). *How to Enable Collaboration in Open Government Data Ecosystems: A Public Platform Provider's Perspective*. eJournal of eDemocracy & Open Government, 13(1).
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.29379/jedem.v13i1.634) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.00305.pdf)
+* Damian, D., **Linåker, J.**, Johnson, D., Clear, T., & Blincoe, K. (2021). *Challenges and Strategies for Managing Requirements Selection in Software Ecosystems*. IEEE Software, 38(6), 76-87.
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1109/MS.2021.3105044)
+* **Linåker, J.**, & Regnell, B. (2020). *What to share, when, and where: balancing the objectives and complexities of open source software contributions*. Empirical Software Engineering, 25(5), 3799-3840.
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/s10664-020-09855-2) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/abs/2208.00047) <i class="ai ai-figshare"></i> [Contribution request form questions](https://doi.org/10.6084/m9.figshare.21104167)
+* **Linåker, J.**, Regnell, B., & Damian, D. (2020). *A method for analyzing stakeholders’ influence on an open source software ecosystem’s requirements engineering process*. Requirements Engineering, 25(1), 115-130.
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/s00766-019-00310-3) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.00062.pdf)
+* **Linåker, J.**, Regnell, B., & Damian, D. (2019). *A Community Strategy Framework–How to obtain influence on requirements in meritocratic open source software communities?*. Information and Software Technology, 112, 102-114.
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1016/j.infsof.2019.04.010) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.03302.pdf)
+* Blincoe, K., Dehghan, A., Salaou, A. D., Neal, A., **Linåker, J.**, & Damian, D. (2019). *High-level software requirements and iteration changes: a predictive model*. Empirical Software Engineering, 24(3), 1610-1648.
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/s10664-018-9656-z)
+* **Linåker, J.**, Munir, H., Wnuk, K., & Mols, C. E. (2018). *Motivating the contributions: An open innovation perspective on what to share as open source software*. Journal of Systems and Software, 135, 17-36.
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1016/j.jss.2017.09.032F) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.00308.pdf)
+* Munir, H., **Linåker, J.**, Wnuk, K., Runeson, P., & Regnell, B. (2018). *Open innovation using open source tools: A case study at Sony Mobile*. Empirical Software Engineering, 23(1), 186-223.
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/s10664-017-9511-7) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.01406.pdf)
+
+## Conference papers
+* **Linåker, J.**, Papatheocharous, E., & Olsson, T. (2022). *How to characterize the health of an Open Source Software project? A snowball literature review of an emerging practice*. In The 18th International Symposium on Open Collaboration.
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1145/3555051.3555067) <i class="fa fa-file-pdf"></i> [PDF](https://dl.acm.org/doi/pdf/10.1145/3555051.3555067) <i class="ai ai-figshare"></i> [Data set from literature review](https://doi.org/10.6084/m9.figshare.20137175)
+* **Linåker, J.**, & Runeson, P. (2022). *Sustaining Open Data as a Digital Common-Design principles for Common Pool Resources applied to Open Data Ecosystems*. In The 18th International Symposium on Open Collaboration.
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1145/3555051.3555066) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.01694.pdf)
+* **Linåker, J.**, & Runeson, P. (2020). *Public sector platforms going open: creating and growing an ecosystem with open collaborative development*. In Proceedings of the 16th International Symposium on Open Collaboration (pp. 1-10).
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1145/3412569.3412572) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.00510.pdf)
+* **Linåker, J.**, & Runeson, P. (2020). *Collaboration in open government data ecosystems: Open cross-sector sharing and co-development of data and software*. In International Conference on Electronic Government (pp. 290-303). Springer, Cham.
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/978-3-030-57599-1\_22) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.01746.pdf)
+* Dehghan, A., Neal, A., Blincoe, K., **Linåker, J.**, & Damian, D. (2017). *Predicting likelihood of requirement implementation within the planned iteration: an empirical study at IBM.* In 2017 IEEE/ACM 14th International Conference on Mining Software Repositories (MSR) (pp. 124-134). IEEE.
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1109/MSR.2017.53)
+* **Linåker, J.**, & Regnell, B. (2017). *A contribution management framework for firms engaged in open source software ecosystems-a research preview*. In International Working Conference on Requirements Engineering: Foundation for Software Quality (pp. 50-57). Springer, Cham.
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/978-3-319-54045-0\_4) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.02630.pdf)
+* Mols, C. E., Wnuk, K., & **Linåker, J.** (2017, May). *The open source officer role–experiences*. In IFIP International Conference on Open Source Systems (pp. 55-59). Springer, Cham.
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/978-3-319-57735-7\_6)
+* **Linåker, J.**, Rempel, P., Regnell, B., & Mäder, P. (2016). *How firms adapt and interact in open source ecosystems: Analyzing stakeholder influence and collaboration patterns*. In International Working Conference on Requirements Engineering: Foundation for Software Quality (pp. 63-81). Springer, Cham.
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/978-3-319-30282-9\_5) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.02628.pdf)
+* **Linåker, J.**, Regnell, B., & Munir, H. (2015). *Requirements engineering in open innovation: a research agenda*. In Proceedings of the 2015 international conference on software and system process (pp. 208-212).
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1145/2785592.2795370) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.01741.pdf)
+* **Linåker, J.**, Munir, H., Runeson, P., Regnell, B., & Schrewelius, C. (2015). *A survey on the perception of innovation in a large product-focused software organization*. In International Conference of Software Business (pp. 66-80). Springer, Cham.
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/978-3-319-19593-3\_6) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.02002.pdf)
+* **Linåker, J.**, Krantz, M., & Höst, M. (2014). *On infrastructure for facilitation of inner source in small development teams*. In International Conference on Product-Focused Software Process Improvement (pp. 149-163). Springer, Cham.
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/978-3-319-13835-0_11) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.00037.pdf)
+
+## Workshop papers
+* **Linåker, J.**, & Wnuk, K. (2016). *Requirements analysis and management for benefiting openness*. In 2016 IEEE 24th International Requirements Engineering Conference Workshops (REW) (pp. 344-349). IEEE.
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1109/REW.2016.062) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.02629.pdf)
+* Bjarnasson, E., & **Linåker, J.** (2016). *Teaching Academic Writing to Large Classes of Engineering Students*. Pedagogiska inspirationskonferensen-Genombrottet. Lund University.
+  - <i class="ai ai-doi-square"></i> [DOI](https://journals.lub.lu.se/pige/article/view/21207) <i class="fa fa-file-pdf"></i> [PDF](https://journals.lub.lu.se/pige/article/view/21207/19114)
+
+## Editorials
+* **Linåker, J.**, Runeson, P., Zuiderwijk, A., & Brock, A. (2022). *Collaborative Aspects of Open Data in Software Engineering*. IEEE Software, 39(1), 31-35.
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1109/MS.2021.3118123) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/ftp/arxiv/papers/2208/2208.00488.pdf)
+
+## Technical reports
+* **Linåker, J.**, & Runeson, P. (2022). *Rekommendationer för samverkan och delning av data, teknik och kunskap inom myndighetsdrivna öppna data-ekosystem*. Lund university, Lund, Sweden.
+  - <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/sv/publications/rekommendationer-f%C3%B6r-samverkan-och-delning-av-data-teknik-och-kun) <i class="fa fa-file-pdf"></i> [PDF](https://lucris.lub.lu.se/ws/portalfiles/portal/112560914/Rapport_Rekommendationer_f_r_samverkan_och_delning_av_data_teknik_och_kunskap_inom_myndighetsdrivna_ppna_data_ekosystem.pdf)
+* **Linåker, J.**, Sulaman, S. M., Maiani de Mello, R., & Höst, M. (2015). *Guidelines for conducting surveys in software engineering*. Lund university, Lund, Sweden.
+  - <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/sv/publications/guidelines-for-conducting-surveys-in-software-engineering) <i class="fa fa-file-pdf"></i> [PDF](https://lucris.lub.lu.se/ws/portalfiles/portal/6062997/5463412.pdf)
+
+## Popular writing
+* Linåker, J., Dalhage, M., Södergren, J., & Nummelin Carlberg, A. (2021). *”Öppen källkod och bättre samarbete behövs för digitaliseringen av offentlig sektor”*. Open letter, Computer Sweden.
+  - <i class="ai ai-doi-square"></i> [DOI](https://computersweden.idg.se/2.2683/1.748296/oppen-kallkod-samverkan-nosad)
+* Regnell, B., Runeson, P., Höst, M., and **Linåker, J.** (2015, May). *Innovation med öppen källkod ger konkurrensfördelar*. Management of Innovation and Technology, volume 2.
+  - <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/sv/publications/innovation-through-open-source-gives-competitive-advantages) <i class="fa fa-file-pdf"></i> [PDF](https://lucris.lub.lu.se/ws/portalfiles/portal/5577180/5367353.pdf)
+
+## Doctoral dissertation
+* **Linåker, J.** (2019). *Guiding Development of Contribution and Community Strategies in Open Source Software Requirements Engineering*. Doctoral dissertation. Lund University, Lund, Sweden.
+  - <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/sv/publications/guiding-development-of-contribution-and-community-strategies-in-o) <i class="fa fa-file-pdf"></i> [PDF](https://cs.lth.se/fileadmin/cs/johan_linaker/Thesis.pdf)
