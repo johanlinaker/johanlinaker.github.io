@@ -8,10 +8,10 @@ title: "Service"
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1109/MS.2021.3118123) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/ftp/arxiv/papers/2208/2208.00488.pdf)
 
 ## Organizing committee memberships
-* Öppen källkod som strategi för en hållbar infrastruktur. Theme track. Internetdagarna (The Internet Days), 2022.
-* Digitala allmänningar: så skapar vi samhällsnytta. Theme track. Internetdagarna (The Internet Days), 2021.
-* Öppen källkod som bas för den digitala allemansrätten. Theme track. Foss-north, 2021).
-* Network Open Source and Data ([NOSAD](https://nosad.se)). National public sector network for sharing knowledge on how to use and collaborate on open data, open standards, and open source software. Arranged 30+ virtual and physical workshops and seminar, 2019-ongoing.
+* [Öppen källkod som strategi för en hållbar infrastruktur](https://internetdagarna.se/event/oppen-kallkod-som-strategi-for-en-hallbar-infrastruktur/). Theme track. Internetdagarna ([The Internet Days](https://internetdagarna.se/en/)), 2022.
+* [Digitala allmänningar: så skapar vi samhällsnytta](https://arkiv.internetdagarna.se/2021/index.html%3Fp=422.html). Theme track. Internetdagarna ([The Internet Days](https://internetdagarna.se/en/)), 2021.
+* Öppen källkod som bas för den digitala allemansrätten. Theme track. [Foss-north](https://foss-north.se/), 2021).
+* Network Open Source and Data ([NOSAD](https://nosad.se)). National public sector network for sharing knowledge on how to use and collaborate on open data, open standards, and open source software. Arranged [30+ virtual and physical workshops and seminar](https://nosad.se/workshops), 2019-ongoing.
 
 ## Maintainerships
 * [Offentligkod.se](https://offentligkod.se). Catalouge of open source software used by public sector entities in Sweden. Includes implementation and co-development of the international meta-data standard for public code, public-code.yml.
