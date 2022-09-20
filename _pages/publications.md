@@ -64,6 +64,14 @@ title: "Publications"
   - <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/sv/publications/guidelines-for-conducting-surveys-in-software-engineering) <i class="fa fa-file-pdf"></i> [PDF](https://lucris.lub.lu.se/ws/portalfiles/portal/6062997/5463412.pdf)
 
 ## Popular writing
+* Linåker, J., Nyman, L., & Nyström Holm, M. (2021). *Dela kostnader och undvik inlåsningar*. Series on public procurement and Open Source Software - pt1. Inköpsrådet.
+  - <i class="ai ai-doi-square"></i> [DOI](https://inkopsradet.se/dela-kostnader-och-undvik-inlasningar/)
+* Linåker, J., Nyman, L., & Nyström Holm, M. (2021). *Hitta öppen källkod som klarar kraven*. Series on public procurement and Open Source Software - pt2. Inköpsrådet.
+  - <i class="ai ai-doi-square"></i> [DOI](https://inkopsradet.se/hitta-oppen-kallkod-som-klarar-kraven/)
+* Linåker, J., Nyman, L., & Nyström Holm, M. (2021). *Utvecklas och förvaltas tillsammans*. Series on public procurement and Open Source Software - pt3. Inköpsrådet.
+  - <i class="ai ai-doi-square"></i> [DOI](https://inkopsradet.se/dela-kostnader-och-undvik-inlasningar/)
+* Linåker, J., Nyman, L., & Nyström Holm, M. (2021). *Undvik inlåsning vid it-upphandling*. Series on public procurement and Open Source Software - pt4. Inköpsrådet.
+  - <i class="ai ai-doi-square"></i> [DOI](https://inkopsradet.se/undvik-inlasning-vid-it-upphandling/)
 * Linåker, J., Dalhage, M., Södergren, J., & Nummelin Carlberg, A. (2021). *”Öppen källkod och bättre samarbete behövs för digitaliseringen av offentlig sektor”*. Open letter, Computer Sweden.
   - <i class="ai ai-doi-square"></i> [DOI](https://computersweden.idg.se/2.2683/1.748296/oppen-kallkod-samverkan-nosad)
 * Regnell, B., Runeson, P., Höst, M., and **Linåker, J.** (2015, May). *Innovation med öppen källkod ger konkurrensfördelar*. Management of Innovation and Technology, volume 2.
