@@ -10,7 +10,7 @@ title: "Talks and panels (selected)"
 * <i class="flag-icons SE"></i> *Öppen programvara och upphandling*. (2022, September). Offentliga Affärer. Invited talk, Virtual.
 * <i class="flag-icons SE"></i> *Hur ska vi ha råd och hur ska vi orka hålla i? Är öppen utveckling och samverkan svaret? - dialog på Tema Data, AI och hållbar digitalisering*. (2022, September). En framtidssäkrad allmännytta. Sveriges Allmännytta. Panel, Virtual.
 * <i class="flag-icons  GB"></i> *OSPOs! New Approaches to Public Sector Open Source*. (2022, June). OpenForum Europe Seminar. EU Digital Assembly. Panel, Tolouse, France.
-* <i class="flag-icons  GB"></i> *Acquisition and Development of Open Source Software in the Public Sector*. (2022, May). Open Source Observatory (OSOR) webinar on Public Procurement of Open Source Software. Talk, Virtual.
+* <i class="flag-icons  GB"></i> *Acquisition and Development of Open Source Software in the Public Sector*. (2022, May). Open Source Observatory (OSOR) webinar on Public Procurement of Open Source Software. Invited talk, Virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-development-and-acquisition-OSOR-webinar.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Open Strategic Autonomy: Public and Private Sector Perspectives*. (March, 2022). OpenForum Europe seminar. Panel, Virtual.
 * <i class="flag-icons SE"></i> *Proaktiv riskhantering för sårbarheter inom öppna programvaruprojekt*. (2022, March). NOSAD workshop. Invited talk, Virtual.
@@ -29,7 +29,7 @@ title: "Talks and panels (selected)"
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Dataekosystem_presentation.pdf">Slides</a>
 * <i class="flag-icons SE"></i> *Myndigheter som öppna plattformsbyggare*. (2020, October). Föreningen För Arikiv och Informationförvltning. Invited talk, Virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/FAI.pdf">Slides</a>
-* <i class="flag-icons SE"></i> *Myndigheter som öppna plattformsbyggare*. (2020, October). Svenska Koha Nätverket. Talk, Lund, Sweden. Arikiv och Informationförvltning. Invited talk, Virtual.
+* <i class="flag-icons SE"></i> *Myndigheter som öppna plattformsbyggare*. (2020, October). Svenska Koha Nätverket. Invited talk, Lund, Sweden. Arikiv och Informationförvltning. Invited talk, Virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/FAI.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Opening up the Swedish Labour Market Through Cross-sector Collaboration*. (2020, February). Foss-North. Submitted talk, Gothenburg, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Fossnorth.pdf">Slides</a>
