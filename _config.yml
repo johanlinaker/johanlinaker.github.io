@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Johan Linåker"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Senior Researcher at RISE Research Institutes of Sweden"
+  bio    : "Senior Researcher at <a href=\"https://www.ri.se/en/person/johan-linaker\">RISE Research Institutes of Sweden</a>"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
