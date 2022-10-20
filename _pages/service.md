@@ -26,10 +26,10 @@ title: "Service"
 * European Conference of Information Systems: ECIS (2022)
 
 ### Conferences (other tracks) and workshops
+* International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems: SESoS (2022-2023)
 * Hawaii International Conference on System Sciences: Privacy, trust, and governance in the data-driven economy mini-track (2022)
 * International Workshop on Requirement Engineering for Software startups and Emerging Technologies: RESET (2021)
 * Workshop on AI Engineering – Software Engineering for AI: WAIN (2021)
-* International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems: SESoS (2022)
 
 ## Journal reviewing
 * ACM Transactions on Software Engineering and Methodology (2022)
@@ -38,7 +38,6 @@ title: "Service"
 * Journal of Software and Systems (2017, 2022)
 * Information and Software Technology (2019, 2021, 2022)
 * Requirements Engineering Journal (2020)
-* Baltic Journal of Management (2018)
 * Journal of Internet Services and Applications (2016, 2017)
 * Scientific Data (2022)
 

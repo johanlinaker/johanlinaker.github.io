@@ -4,6 +4,8 @@ title: "Publications"
 ---
 
 ## Journal papers
+* <i class="flag-icons  GB"></i> Susha, I., van den Broek, T.A., van Veenstra, A.F., & **Linåker, J.** (2022). *An ecosystem perspective on developing data collaboratives for addressing societal issues: The role of conveners*. Government Information Quarterly. 101763.
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1016/j.giq.2022.101763) <i class="fa fa-file-pdf"></i> [PDF](https://reader.elsevier.com/reader/sd/pii/S0740624X22000995?token=185D0600332918FD933E510095C05E7264A3DB891792EB8A369D8FA4AA38048D6A4D2E1E24441E7BDB03210329016940&originRegion=eu-west-1&originCreation=20221014180306)
 * <i class="flag-icons  GB"></i> Runeson, P., Olsson, T., & **Linåker, J.** (2021). *Open Data Ecosystems—An empirical investigation into an emerging industry collaboration concept*. Journal of Systems and Software, 182, 111088.
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1016/j.jss.2021.111088) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2109.01378.pdf)
 * <i class="flag-icons  GB"></i> **Linåker, J.**, & Runeson, P. (2021). *How to Enable Collaboration in Open Government Data Ecosystems: A Public Platform Provider's Perspective*. eJournal of eDemocracy & Open Government, 13(1).

@@ -3,6 +3,8 @@ permalink: /talks/
 title: "Talks and panels (selected)"
 ---
 
+* <i class="flag-icons  GB"></i> *What to Share, When, and Where - Creating a Distributed and Efficient Contribution Process While Balancing Value and Risk*. (2022, September). Linux Foundation OSPOlogy Workshop. Invited talk, Stockholm, Sweden.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-Contribution-Strategies-OSPOlogy-Sthlm-RI.pdf">Slides</a> <i class="ai ai-doi-square"></i> [Paper DOI](https://doi.org/10.1007/s10664-020-09855-2) <i class="fa fa-file-pdf"></i> [Paper PDF](https://arxiv.org/abs/2208.00047) <i class="ai ai-figshare"></i> [Contribution request form questions](https://doi.org/10.6084/m9.figshare.21104167)
 * <i class="flag-icons  GB"></i> *What to Share, When, and Where - Creating a Distributed and Efficient Contribution Process While Balancing Value and Risk*. (2022, September). Linux Foundation Open Source Summit Europe. Submitted talk, Dublin, Ireland.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-Contribution-Strategies-OSSEU-Dublin-RI.pdf">Slides</a> <i class="ai ai-doi-square"></i> [Paper DOI](https://doi.org/10.1007/s10664-020-09855-2) <i class="fa fa-file-pdf"></i> [Paper PDF](https://arxiv.org/abs/2208.00047) <i class="ai ai-figshare"></i> [Contribution request form questions](https://doi.org/10.6084/m9.figshare.21104167)
 * <i class="flag-icons  GB"></i> *How to Identify and Avoid Cracks and Bumps in your Digital Infrastructure? -> By Considering the Health of Open Source in your Intake Process*. (2022, September). Linux Foundation Open Source Summit Europe. Submitted talk, Dublin, Ireland.
