@@ -20,10 +20,10 @@ title: "Service"
 
 ### Conferences (main research paper tracks)
 * International Conference of Software Engineering: ICSE (2022, 2024)
-* International Symposium on Empirical Software Engineering and Measurement (2023)
+* International Symposium on Empirical Software Engineering and Measurement: ESEM (2023)
 * International Conference on Electronic Government: EGOV (2020 - 2023)
 * International Conference on Software Business: ICSOB (2020 - 2022)
-* International Conference of Information Systems. ICIS (2020)
+* International Conference of Information Systems: ICIS (2020)
 * European Conference of Information Systems: ECIS (2022)
 
 ### Conferences (other tracks) and workshops
