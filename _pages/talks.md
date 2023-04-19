@@ -3,7 +3,7 @@ permalink: /talks/
 title: "Talks and panels (selected)"
 ---
 * <i class="flag-icons  GB"></i> *Municipal collaboration on
-Open Source Software - Why is it so hard?*. (2023, April). FOSS-North Conference. Submitted talk, Gontheburg, Sweden.
+Open Source Software - Why is it so hard?*. (2023, April). FOSS-North Conference. Submitted talk, Gothenburg, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Municipal-OSS-FOSS-North.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Cybersecurity: Understanding the Role of Open Source in Society*. (2023, April). OpenForum Europe Seminar. Open Source Driving the European Digital Decade. Panel, Stockholm, Sweden.
 * <i class="flag-icons  GB"></i> *A Study on OSPOs in the European Public Sector*. (2023, March). Open Source Observatory (OSOR) webinar on Public services open-source governance and collaboration. Invited talk, Virtual.
