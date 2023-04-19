@@ -8,7 +8,7 @@ title: "Activity"
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1109/MS.2021.3118123) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/ftp/arxiv/papers/2208/2208.00488.pdf)
 
 ## Organizing committee memberships
-* <i class="flag-icons SE">The Swedish OSPO network. A national network for companies and public administrations with support functions for promoting and enabling use and collaboration of open source software. Arranging regular physical workshops, and online webinars to share knowledge and establish common practice.
+* <i class="flag-icons SE"></i> [The Swedish OSPO network](https://nosad.se/ospo). A national network for companies and public administrations with support functions for promoting and enabling use and collaboration of open source software. Arranging regular physical workshops, and online webinars to share knowledge and establish common practice. 2023-ongoing
 * <i class="flag-icons SE"></i> [Öppen källkod som strategi för en hållbar infrastruktur](https://internetdagarna.se/event/oppen-kallkod-som-strategi-for-en-hallbar-infrastruktur/). Theme track. Internetdagarna ([The Internet Days](https://internetdagarna.se/en/)), 2022.
 * <i class="flag-icons SE"></i> [Digitala allmänningar: så skapar vi samhällsnytta](https://arkiv.internetdagarna.se/2021/index.html%3Fp=422.html). Theme track. Internetdagarna ([The Internet Days](https://internetdagarna.se/en/)), 2021.
 * <i class="flag-icons SE"></i> Öppen källkod som bas för den digitala allemansrätten. Theme track. [Foss-north](https://foss-north.se/), 2021).
