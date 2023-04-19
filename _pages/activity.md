@@ -1,6 +1,6 @@
 ---
-permalink: /service/
-title: "Service"
+permalink: /activity/
+title: "Activity"
 ---
 ## Editorial assignments
 * **Linåker, J.**, Muto, S., Robles, G., & Bryant, D. (2023). Open Source Software in Public Sector. IEEE Software (ongoing).
@@ -8,6 +8,7 @@ title: "Service"
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1109/MS.2021.3118123) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/ftp/arxiv/papers/2208/2208.00488.pdf)
 
 ## Organizing committee memberships
+* <i class="flag-icons SE">The Swedish OSPO network. A national network for companies and public administrations with support functions for promoting and enabling use and collaboration of open source software. Arranging regular physical workshops, and online webinars to share knowledge and establish common practice.
 * <i class="flag-icons SE"></i> [Öppen källkod som strategi för en hållbar infrastruktur](https://internetdagarna.se/event/oppen-kallkod-som-strategi-for-en-hallbar-infrastruktur/). Theme track. Internetdagarna ([The Internet Days](https://internetdagarna.se/en/)), 2022.
 * <i class="flag-icons SE"></i> [Digitala allmänningar: så skapar vi samhällsnytta](https://arkiv.internetdagarna.se/2021/index.html%3Fp=422.html). Theme track. Internetdagarna ([The Internet Days](https://internetdagarna.se/en/)), 2021.
 * <i class="flag-icons SE"></i> Öppen källkod som bas för den digitala allemansrätten. Theme track. [Foss-north](https://foss-north.se/), 2021).
@@ -29,7 +30,7 @@ title: "Service"
 ### Conferences (other tracks) and workshops
 * International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems: SESoS (2022-2023)
 * Hawaii International Conference on System Sciences: Privacy, trust, and governance in the data-driven economy mini-track (2022)
-* International Workshop on Requirement Engineering for Software startups and Emerging Technologies: RESET (2021)
+* International Workshop on Requirement Engineering for Software startups and Emerging Technologies: RESET (2021, 2023)
 * Workshop on AI Engineering – Software Engineering for AI: WAIN (2021)
 
 ## Journal reviewing
