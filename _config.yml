@@ -67,7 +67,7 @@ author:
       url: "https://twitter.com/johanlinaker"
     - label: "Mastodon"
       icon: "fab fa-mastodon"
-      url: "https://mastodon.se/@johanlinaker"
+      url: "https://mastodon.acm.org/@johanlinaker"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/johanlinaker"
