@@ -51,7 +51,6 @@ title: "Activity"
 
 ## Other reviewing, and Subject Matter Expert assignments
 * Advisory board. Open Source Observatory (OSOR) Joinup and OpenForum Europe (2022-ongoing).
-* Member of the Free Software Europe Legal Network.
 * Subject Matter Expert and reviewer. OSPOs in the Public Sector study. OpenForum Europe (2022).
 * External review committee member of the PhD program at Blekinge Institue of Technology (2019).
 * Subject Matter Expert and reviewer of the Swedish translations of IREB certification training and examination material (2016-2020).
