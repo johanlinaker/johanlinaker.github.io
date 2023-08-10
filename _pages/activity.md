@@ -3,7 +3,8 @@ permalink: /activity/
 title: "Activity"
 ---
 ## Editorial assignments
-* **Linåker, J.**, Muto, S., Robles, G., & Bryant, D. (2023). Open Source Software in Public Sector. IEEE Software (ongoing).
+* **Linåker, J.**, Robles, G., Bryant, D., & Muto, S. (2023). Open Source Software in Public Sector. IEEE Software , 40(4), 39-44.
+    - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1109/MS.2023.3266105) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/ftp/arxiv/papers/2308/2308.04766.pdf)
 * **Linåker, J.**, Runeson, P., Zuiderwijk, A., & Brock, A. (2022). Collaborative Aspects of Open Data in Software Engineering. IEEE Software, 39(1), 31-35.
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1109/MS.2021.3118123) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/ftp/arxiv/papers/2208/2208.00488.pdf)
 
@@ -23,7 +24,7 @@ title: "Activity"
 * International Conference of Software Engineering: ICSE (2022, 2024)
 * International Symposium on Empirical Software Engineering and Measurement: ESEM (2023)
 * International Conference on Electronic Government: EGOV (2020 - 2023)
-* International Conference on Software Business: ICSOB (2020 - 2022)
+* International Conference on Software Business: ICSOB (2020 - 2023)
 * International Conference of Information Systems: ICIS (2020)
 * European Conference of Information Systems: ECIS (2022)
 
@@ -42,6 +43,7 @@ title: "Activity"
 * Requirements Engineering Journal (2020)
 * Journal of Internet Services and Applications (2016, 2017)
 * Scientific Data (2022)
+* Communications of the Association for Information Systems (2023)
 
 ## Grant proposal reviewing
 * Deutsche Forschungsgemeinschaft (2022)
@@ -49,7 +51,11 @@ title: "Activity"
 
 ## Other reviewing, and Subject Matter Expert assignments
 * Advisory board. Open Source Observatory (OSOR) Joinup and OpenForum Europe (2022-ongoing).
+* Member of the Free Software Europe Legal Network.
 * Subject Matter Expert and reviewer. OSPOs in the Public Sector study. OpenForum Europe (2022).
 * External review committee member of the PhD program at Blekinge Institue of Technology (2019).
 * Subject Matter Expert and reviewer of the Swedish translations of IREB certification training and examination material (2016-2020).
 * Chair of the Advisory board. Hack for Sweden (2018-2020).
+
+## Membership of networks and associations
+* Member of the Free Software Europe Legal Network.

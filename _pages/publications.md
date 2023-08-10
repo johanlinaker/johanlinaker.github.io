@@ -56,6 +56,8 @@ title: "Publications"
   - <i class="ai ai-doi-square"></i> [DOI](https://journals.lub.lu.se/pige/article/view/21207) <i class="fa fa-file-pdf"></i> [PDF](https://journals.lub.lu.se/pige/article/view/21207/19114)
 
 ## Editorials
+* <i class="flag-icons  GB"></i> **Linåker, J.**, Robles, G., Bryant, D., & Muto, S. (2023). *Open Source Software in the Public Sector: 25 Years and Still in Its Infancy*. IEEE Software, 40(4), 39-44.
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1109/MS.2023.3266105) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/ftp/arxiv/papers/2308/2308.04766.pdf)
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Runeson, P., Zuiderwijk, A., & Brock, A. (2022). *Collaborative Aspects of Open Data in Software Engineering*. IEEE Software, 39(1), 31-35.
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1109/MS.2021.3118123) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/ftp/arxiv/papers/2208/2208.00488.pdf)
 
