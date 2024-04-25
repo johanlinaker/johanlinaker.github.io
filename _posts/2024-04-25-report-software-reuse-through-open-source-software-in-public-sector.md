@@ -10,7 +10,7 @@ tags:
 
 Last week at Foss-north, me and Sachiko Muto presented our recently published report commissioned by the Danish Agency for Digital Government (Digitaliseringsstyrelsen), where we examined how software reuse through Open Source Software (OSS) can be supported and realized through public policy and related support actions. In the report, we surveyed policies and practices related to software reuse, focusing on OSS, in 16 digitally mature countries. Our analysis, grounded in desk research and interviews, provides a comprehensive overview with individual case studies for each country.
 
-Below is a brief summary of the report. Get the full report with all case studies at: https://www.diva-portal.org/smash/get/diva2:1848137/FULLTEXT01.pdf
+Below is a brief summary of the report. Get the [full report](https://www.diva-portal.org/smash/get/diva2:1848137/FULLTEXT01.pdf) for all insights along with the 16 case studies!
 
 #### Policy design and ownership
 Most surveyed countries have established policies addressing software reuse through OSS, encompassing both inbound (acquiring new software) and outbound (sharing acquired solutions) aspects. While policies vary in scope (national, regional, local, institution-specific) and level of prescriptiveness (high-level endorsement, advisory, prescriptive), they are primarily owned by central Public Sector Organizations (PSOs) responsible for digital government, transformation, and procurement. Although the emphasis is on policies concerning the public sector’s use of OSS, a subset of countries also promotes OSS uptake in the domestic technology sector (e.g., in Japan and South Korea).
