@@ -2,7 +2,7 @@
 layout: single
 ---
 <p>
- Hi there! I'm a Senior Researcher at <a href="https://www.ri.se/en/person/johan-linaker" target="_top">RISE Research Institutes of Sweden</a> and an affiliated researcher at <a href="https://lu.se" target="_top">Lund University</a>. My research interests include empirical software engineering in the context of open technologies. Open technologies refer to technology-related artifacts that is shared, reused and collaboratively developed between its users and stakeholders. Here, I'm specifically interested in how actors in public and private sector can use, develop, and collaborate on Open Source Software, Open and shared data, and Open Standards to enable and promote interoperability, technological independence, and open innovation.
+ Hi there! I'm a Senior Researcher at <a href="https://www.ri.se/en/person/johan-linaker" target="_top">RISE Research Institutes of Sweden</a> and <a href="https://lu.se" target="_top">Lund University</a>. My research interests include empirical software engineering in the context of open technologies. Open technologies refer to technology-related artifacts that is shared, reused and collaboratively developed between its users and stakeholders. Here, I'm specifically interested in how actors in public and private sector can use, develop, and collaborate on Open Source Software, Open and shared data, and Open Standards to enable and promote interoperability, technological independence, and open innovation.
 <p /><p>
  My research commonly touches on the human and social aspects of software engineering, as the development of open technologies by design is a collaborative and social effort. This implies several challenges from a socio-technical perspective, often requiring a qualitative or mixed-method approach to investigate. My goal, however, goes beyond problem understanding, and is focused on developing knowledge and designing artifacts that can help to address the problem at hand in a real-world context. An iterative process I prefer to do in collaboration with the actors present in the problem context.
 <p /><p>
@@ -14,3 +14,31 @@ Areas I'm currently investigating include:
   <li>how and when open technologies can considered as digital commons, and how their sustainability may be informed by theory of the commons.</li>
   <li>how public actors can apply and collaborate on procurement activities to enable an open and agile development of systems and software.</li>
 </ul>
+
+
+{{ content }}
+
+<ul class="taxonomy__index">
+  {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+  {% for year in postsInYear %}
+    <li>
+      <a href="#{{ year.name }}">
+        <strong>{{ year.name }}</strong> <span class="taxonomy__count">{{ year.items | size }}</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+{% assign postsByYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+{% for year in postsByYear %}
+  <section id="{{ year.name }}" class="taxonomy__section">
+    <h2 class="archive__subtitle">{{ year.name }}</h2>
+    <div class="entries-{{ entries_layout }}">
+      {% for post in year.items %}
+        {% include archive-single.html type=entries_layout %}
+      {% endfor %}
+    </div>
+    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+  </section>
+{% endfor %}
