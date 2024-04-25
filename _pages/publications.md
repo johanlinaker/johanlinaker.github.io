@@ -3,6 +3,14 @@ permalink: /publications/
 title: "Publications"
 ---
 
+## Technical reports
+* <i class="flag-icons GB"></i> **Linåker, J.**, & Muto, S. (2024). *Software Reuse through Open Source Software in the Public Sector: A qualitative survey on Policy and Practice*. RISE Research Institutes of Sweden, Lund, Sweden.
+- <i class="ai ai-doi-square"></i> [DOI](https://urn.kb.se/resolve?urn=urn:nbn:se:ri:diva-72465) <i class="fa fa-file-pdf"></i> [PDF](https://www.diva-portal.org/smash/get/diva2:1848137/FULLTEXT01.pdf)
+* <i class="flag-icons SE"></i> **Linåker, J.**, & Runeson, P. (2022). *Rekommendationer för samverkan och delning av data, teknik och kunskap inom myndighetsdrivna öppna data-ekosystem*. Lund university, Lund, Sweden.
+- <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/sv/publications/rekommendationer-f%C3%B6r-samverkan-och-delning-av-data-teknik-och-kun) <i class="fa fa-file-pdf"></i> [PDF](https://lucris.lub.lu.se/ws/portalfiles/portal/112560914/Rapport_Rekommendationer_f_r_samverkan_och_delning_av_data_teknik_och_kunskap_inom_myndighetsdrivna_ppna_data_ekosystem.pdf)
+* <i class="flag-icons  GB"></i> **Linåker, J.**, Sulaman, S. M., Maiani de Mello, R., & Höst, M. (2015). *Guidelines for conducting surveys in software engineering*. Lund university, Lund, Sweden.
+- <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/sv/publications/guidelines-for-conducting-surveys-in-software-engineering) <i class="fa fa-file-pdf"></i> [PDF](https://lucris.lub.lu.se/ws/portalfiles/portal/6062997/5463412.pdf)
+
 ## Journal papers
 * <i class="flag-icons  GB"></i> Susha, I., van den Broek, T.A., van Veenstra, A.F., & **Linåker, J.** (2022). *An ecosystem perspective on developing data collaboratives for addressing societal issues: The role of conveners*. Government Information Quarterly. 101763.
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1016/j.giq.2022.101763) <i class="fa fa-file-pdf"></i> [PDF](https://reader.elsevier.com/reader/sd/pii/S0740624X22000995?token=185D0600332918FD933E510095C05E7264A3DB891792EB8A369D8FA4AA38048D6A4D2E1E24441E7BDB03210329016940&originRegion=eu-west-1&originCreation=20221014180306)
