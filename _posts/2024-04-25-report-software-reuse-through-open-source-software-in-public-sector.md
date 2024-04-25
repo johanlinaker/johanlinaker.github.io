@@ -10,9 +10,9 @@ header:
   - teaser: "/assets/images/2024-04-25-report-software-reuse-through-open-source-software-in-public-sector/teaser.jpg"
 ---
 
-![teaser.jpg](/assets/images/2024-04-25-report-software-reuse-through-open-source-software-in-public-sector/teaser.jpg)
-
 Last week at Foss-north, me and Sachiko Muto presented our recently published report commissioned by the Danish Agency for Digital Government (Digitaliseringsstyrelsen), where we examined how software reuse through Open Source Software (OSS) can be supported and realized through public policy and related support actions. In the report, we surveyed policies and practices related to software reuse, focusing on OSS, in 16 digitally mature countries. Our analysis, grounded in desk research and interviews, provides a comprehensive overview with individual case studies for each country.
+
+![teaser.jpg](/assets/images/2024-04-25-report-software-reuse-through-open-source-software-in-public-sector/teaser.jpg)
 
 Below is a brief summary of the report. Get the [full report](https://www.diva-portal.org/smash/get/diva2:1848137/FULLTEXT01.pdf) for all insights along with the 16 case studies!
 
