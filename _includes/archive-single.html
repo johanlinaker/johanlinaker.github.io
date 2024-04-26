@@ -25,7 +25,7 @@
       {% endif %}
     </h2>
     {% include page__meta.html type=include.type %}
-    {% if teaser %}
+    {% if include.type == "grid" or teaser %}
      <div>
        <img src="{{ teaser | relative_url }}" alt="">
      </div>
