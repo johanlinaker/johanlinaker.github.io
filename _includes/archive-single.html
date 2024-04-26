@@ -28,8 +28,10 @@
     <div class="archive__item-teaser">
        <img src=
          {% if teaser contains "://" %}
+         "{{ teaser }}"
+          {% else %}
+            "{{ teaser | relative_url }}"
          {% endif %}
-         {{ teaser | relative_url }}
          alt="">
      </div>
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 400 }}</p>{% endif %}
