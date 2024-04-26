@@ -56,6 +56,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-archives
+  - jekyll-seo-tag
 
 author:
   name   : "Johan Linåker"

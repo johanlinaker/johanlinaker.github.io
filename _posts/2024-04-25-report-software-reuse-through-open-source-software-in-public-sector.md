@@ -1,5 +1,8 @@
 ---
 title: "Report: Software Reuse through Open Source Software in the Public Sector"
+seo_title: "Report: Software Reuse through Open Source Software in the Public Sector - a survey of 16 digitally mature countries"
+excerpt: "Summary and main take-aways from report commissioned by the Danish Agency for Digital Government (Digitaliseringsstyrelsen), where we examined how software reuse through Open Source Software (OSS) can be supported and realized through public policy and related support actions. In the report, we surveyed policies and practices related to software reuse, focusing on OSS, in 16 digitally mature countries."
+seo_description: "Summary and main take-aways from report commissioned by the Danish Agency for Digital Government (Digitaliseringsstyrelsen), where we examined how software reuse through Open Source Software (OSS) can be supported and realized through public policy and related support actions. In the report, we surveyed policies and practices related to software reuse, focusing on OSS, in 16 digitally mature countries."
 date: 2024-04-25T15:34:30-04:00
 categories:
   - blog
