@@ -9,7 +9,8 @@ categories:
 tags:
   - open-source-software
   - public-sector
-teaser: "/assets/images/2024-04-25-report-software-reuse-through-open-source-software-in-public-sector/teaser.jpg"
+header:
+  - teaser: "/assets/images/2024-04-25-report-software-reuse-through-open-source-software-in-public-sector/teaser.jpg"
 ---
 
 ![teaser.jpg](/assets/images/2024-04-25-report-software-reuse-through-open-source-software-in-public-sector/teaser.jpg)
