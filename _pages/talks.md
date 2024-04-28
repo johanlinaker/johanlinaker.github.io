@@ -2,7 +2,7 @@
 permalink: /talks/
 title: "Talks and panels (selected)"
 ---
-* <i class="flag-icons  SV"></i> *Öppna (Upphandlings)data - Verktyg och möjlighet till transparens och innovation*. (2024, April). Skånska kommuners Öppna Data nätverk. Invited talk, Lund, Sweden.
+* <i class="flag-icons  SE"></i> *Öppna (Upphandlings)data - Verktyg och möjlighet till transparens och innovation*. (2024, April). Skånska kommuners Öppna Data nätverk. Invited talk, Lund, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Open-Procurement-Data.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Open Source Software and Open Science*. (2024, April). AIoTwins Research Workshop. Invited talk, Stockholm, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-intro-open-science.pdf">Slides</a>
@@ -17,7 +17,7 @@ title: "Talks and panels (selected)"
 * <i class="flag-icons  GB"></i> *Behind the Scenes of Open Source Program Offices in the Public Sector: Insights and Guidelines*. (2023, September). Linux Foundation Open Source Summit Europe. Submitted talk, Bilbao, Spain.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Public-sector-OSPOs-OSSEU-2023.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Municipal collaboration on Open Source Software - Why is it so hard?*. (2023, April). The International Symposium on Open Collaboration. Submitted talk, Virtual.
-- <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Municipal-OSS-OpenSym-OSS-2023.pdf">Slides</a>
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Municipal-OSS-OpenSym-OSS-2023.pdf">Slides</a>
 * <i class="flag-icons SE"></i> *Förvaltningsmodeller Öppen Källkod*. (2023, June). NOSAD workshop. Invited panel and talk, Hybrid.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-governance-NOSAD-final.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Municipal collaboration on
