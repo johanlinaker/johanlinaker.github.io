@@ -3,7 +3,7 @@ title: "Summary from the EU Open Source Policy Summit 2023"
 seo_title: "Summary from the EU Open Source Policy Summit 2023"
 excerpt: "Some takeaways after two intense days in Brussels, including the #EUOpenSource Policy Summit 2023 hosted by OpenForum Europe."
 seo_description: "Some takeaways after two intense days in Brussels, including the #EUOpenSource Policy Summit 2023 hosted by OpenForum Europe."
-date: 2024-02-07T15:34:30-04:00
+date: 2023-02-04T15:34:30-04:00
 categories:
   - blog
 tags:

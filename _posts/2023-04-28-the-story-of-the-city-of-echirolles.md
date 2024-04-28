@@ -3,7 +3,7 @@ title: "The story on Municipal Open Source in the city of Echirolles in France"
 seo_title: "The story on Municipal Open Source in the city of Echirolles in France"
 excerpt: "Continuing on the topic of Municipal adoption and collaboration on Open Source Software (OSS). Listened to the story of the city of Echirolles in France yesterday at the OSOR webinar on Policy and Strategy Aspects of OSS in Public Administrations. An inspiring story. Here's a summary and reflections."
 seo_description: "Continuing on the topic of Municipal adoption and collaboration on Open Source Software (OSS). Listened to the story of the city of Echirolles in France yesterday at the OSOR webinar on Policy and Strategy Aspects of OSS in Public Administrations. An inspiring story. Here's a summary and reflections."
-date: 2024-02-07T15:34:30-04:00
+date: 2023-04-28T15:34:30-04:00
 categories:
   - blog
 tags:
@@ -15,7 +15,7 @@ header:
 
 
 <div class="thumbnail-container">
-<img src="/assets/images/2023-04-28-the-story-of-the-city-of-echirolles/teaser.jpg" alt=""></div>
+<img src="/assets/images/2023-04-28-the-story-of-the-city-of-echirolles/teaser.jpg" alt="https://www.flickr.com/photos/186165403@N05/49955370897/"></div>
 
 Continuing on the topic of Municipal adoption and collaboration on Open Source Software (OSS). Listened to the story of the city of Echirolles in France yesterday at the OSOR webinar on Policy and Strategy Aspects of OSS in Public Administrations. An inspiring story.
 

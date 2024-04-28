@@ -3,7 +3,7 @@ title: "Arbetsgruppen för Samordning av Mjukvara (ASOM) - ny myndighetssamverka
 seo_title: "Arbetsgruppen för Samordning av Mjukvara - ny myndighetssamverkan kring öppen programvara"
 excerpt: "Kul och extremt bra exempel på myndighetssamverkan presenterades idag på NOSAD av gänget bakom ASOM (Arbetsgruppen för Samordning av Mjukvara) som består av flertalet myndigheter, inkl. Havs och vatten, Försäkringskassan och DIGG. Arbetsgruppen utgör ett komplement till befintliga aktörer som NOSAD och eSam genom att praktiskt utveckla pusselbitar där det finns ett gemensamt behov kring, och ett ramverk för hur detta kan utföras i formen av öppen programvara med en gemensam förvaltning under DIGGs GiHub-organisation."
 seo_description: "Kul och extremt bra exempel på myndighetssamverkan presenterades idag på NOSAD av gänget bakom ASOM (Arbetsgruppen för Samordning av Mjukvara) som består av flertalet myndigheter, inkl. Havs och vatten, Försäkringskassan och DIGG. Arbetsgruppen utgör ett komplement till befintliga aktörer som NOSAD och eSam genom att praktiskt utveckla pusselbitar där det finns ett gemensamt behov kring, och ett ramverk för hur detta kan utföras i formen av öppen programvara med en gemensam förvaltning under DIGGs GiHub-organisation."
-date: 2024-02-16T15:34:30-04:00
+date: 2024-01-28T15:34:30-04:00
 categories:
   - blog
 tags:

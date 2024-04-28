@@ -3,7 +3,7 @@ title: "Special Issue in IEEE Software on Open Source Software in the Public Sec
 seo_title: "Special Issue in IEEE Software on Open Source Software in the Public Sector"
 excerpt: "We (Sachiko Muto, Gregorio Robles, Deborah Bryant, and me) have just had our special issue in IEEE Software on Open Source Software in the Public Sector released. Here is a brief summary of the four papers included in the issue."
 seo_description: "We (Sachiko Muto, Gregorio Robles, Deborah Bryant, and me) have just had our special issue in IEEE Software on Open Source Software in the Public Sector released. Here is a brief summary of the four papers included in the issue."
-date: 2024-02-07T15:34:30-04:00
+date: 2023-07-01T15:34:30-04:00
 categories:
   - blog
 tags:
