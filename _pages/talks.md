@@ -4,6 +4,8 @@ title: "Talks and panels (selected)"
 ---
 * <i class="flag-icons  SE"></i> *Öppna (Upphandlings)data - Verktyg och möjlighet till transparens och innovation*. (2024, April). Skånska kommuners Öppna Data nätverk. Invited talk, Lund, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Open-Procurement-Data.pdf">Slides</a>
+* <i class="flag-icons  GB"></i> *Software Reuse through Open Source Software in the Public Sector A qualitative survey on Policy and Practice*. (2024, April). FOSS-North Conference. Submitted talk, Gothenburg, Sweden.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-for-reuse-foss-north.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Open Source Software and Open Science*. (2024, April). AIoTwins Research Workshop. Invited talk, Stockholm, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-intro-open-science.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Municipal collaboration on Open Source Software - A lever for innovation in Smart Cities*. (2024, April). Nordic Connected Society. Invited talk, Malmö, Sweden.
@@ -20,8 +22,7 @@ title: "Talks and panels (selected)"
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Municipal-OSS-OpenSym-OSS-2023.pdf">Slides</a>
 * <i class="flag-icons SE"></i> *Förvaltningsmodeller Öppen Källkod*. (2023, June). NOSAD workshop. Invited panel and talk, Hybrid.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-governance-NOSAD-final.pdf">Slides</a>
-* <i class="flag-icons  GB"></i> *Municipal collaboration on
-Open Source Software - Why is it so hard?*. (2023, April). FOSS-North Conference. Submitted talk, Gothenburg, Sweden.
+* <i class="flag-icons  GB"></i> *Municipal collaboration on Open Source Software - Why is it so hard?*. (2023, April). FOSS-North Conference. Submitted talk, Gothenburg, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Municipal-OSS-FOSS-North.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Cybersecurity: Understanding the Role of Open Source in Society*. (2023, April). OpenForum Europe Seminar. Open Source Driving the European Digital Decade. Panel, Stockholm, Sweden.
 * <i class="flag-icons  GB"></i> *A Study on OSPOs in the European Public Sector*. (2023, March). Open Source Observatory (OSOR) webinar on Public services open-source governance and collaboration. Invited talk, Virtual.
