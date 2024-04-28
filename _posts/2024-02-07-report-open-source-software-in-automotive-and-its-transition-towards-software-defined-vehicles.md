@@ -11,12 +11,12 @@ tags:
   - industry
   - automotive
 header:
-  teaser: "/assets/images/2024-02-07-open-source-software-in-automotive-and-its-transition-towards-software-defined-vehicles/teaser.jpg"
+  teaser: "/assets/images/2024-02-07-report-open-source-software-in-automotive-and-its-transition-towards-software-defined-vehicles/teaser.jpg"
 ---
 
 
 <div class="thumbnail-container">
-<img src="/assets/images/2024-02-07-open-source-software-in-automotive-and-its-transition-towards-software-defined-vehicles/teaser.jpg" alt="https://pxhere.com/sv/photo/1575621"></div>
+<img src="/assets/images/2024-02-07-report-open-source-software-in-automotive-and-its-transition-towards-software-defined-vehicles/teaser.jpg" alt="https://pxhere.com/sv/photo/1575621"></div>
 
 Open Source Software (OSS) is catching on across industry verticals, so also in Automotive. Me and Astor Nummelin Carlberg recently published a vision paper outlining the current state and future potential for OSS in Automotive through in-depth interviews with leaders from the industry, including both international manufacturers and suppliers. The study was commissioned by the Eclipse Software Defined Vehicle (SDV) working group and recently discussed at the European Commission's Workshop on Open Source key areas for Digital Autonomy.
 
