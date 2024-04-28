@@ -2,6 +2,24 @@
 permalink: /talks/
 title: "Talks and panels (selected)"
 ---
+* <i class="flag-icons  SV"></i> *Öppna (Upphandlings)data - Verktyg och möjlighet till transparens och innovation*. (2024, April). Skånska kommuners Öppna Data nätverk. Invited talk, Lund, Sweden.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Open-Procurement-Data.pdf">Slides</a>
+* <i class="flag-icons  GB"></i> *Open Source Software and Open Science*. (2024, April). AIoTwins Research Workshop. Invited talk, Stockholm, Sweden.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-intro-open-science.pdf">Slides</a>
+* <i class="flag-icons  GB"></i> *Municipal collaboration on Open Source Software - A lever for innovation in Smart Cities*. (2024, April). Nordic Connected Society. Invited talk, Malmö, Sweden.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Nordic-Connected-Society-Malmoe.pdf">Slides</a>
+* <i class="flag-icons  GB"></i> *Open Source AI – An undefined divide between community and vendor development*. (2024, March). RISE AI Network. Invited talk, Virtual.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Open-Source-AI.pdf">Slides</a>
+* <i class="flag-icons  GB"></i> *Municipal collaboration on Open Source Software - A lever for innovation, transparency and sovereignty*. (2023, November). Coding Cities. Invited talk, Malmö, Sweden.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Coding-Cities-Malmoe.pdf">Slides</a>
+* <i class="flag-icons  GB"></i> *Supporting Open Source Software in the European Public Sector The Role of Open Source Programme Offices (OSPOs)*. (2023, October). European Commission's Open Source Observatory (OSOR) turns 15 Awards. Invited talk, Brussels, Belgium.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Public-sector-OSPOs-OSOR-Awards-2023-OSOR-final.pdf">Slides</a>
+* <i class="flag-icons  GB"></i> *Behind the Scenes of Open Source Program Offices in the Public Sector: Insights and Guidelines*. (2023, September). Linux Foundation Open Source Summit Europe. Submitted talk, Bilbao, Spain.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Public-sector-OSPOs-OSSEU-2023.pdf">Slides</a>
+* <i class="flag-icons  GB"></i> *Municipal collaboration on Open Source Software - Why is it so hard?*. (2023, April). The International Symposium on Open Collaboration. Submitted talk, Virtual.
+- <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Municipal-OSS-OpenSym-OSS-2023.pdf">Slides</a>
+* <i class="flag-icons SE"></i> *Förvaltningsmodeller Öppen Källkod*. (2023, June). NOSAD workshop. Invited panel and talk, Hybrid.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-governance-NOSAD-final.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Municipal collaboration on
 Open Source Software - Why is it so hard?*. (2023, April). FOSS-North Conference. Submitted talk, Gothenburg, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Municipal-OSS-FOSS-North.pdf">Slides</a>

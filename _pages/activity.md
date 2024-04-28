@@ -22,32 +22,39 @@ title: "Activity"
 
 ### Conferences (main research paper tracks)
 * International Conference of Software Engineering: ICSE (2022, 2024)
-* International Symposium on Empirical Software Engineering and Measurement: ESEM (2023)
-* International Conference on Electronic Government: EGOV (2020 - 2023)
-* International Conference on Software Business: ICSOB (2020 - 2023)
+* International Symposium on Empirical Software Engineering and Measurement: ESEM (2023, 2024)
+* International Conference on Electronic Government: EGOV (2020 - 2024)
+* International Conference on Software Business: ICSOB (2020 - 2024)
 * International Conference of Information Systems: ICIS (2020)
 * European Conference of Information Systems: ECIS (2022)
 
 ### Conferences (other tracks) and workshops
-* International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems: SESoS (2022-2023)
+* International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems: SESoS (2022-2024)
 * Hawaii International Conference on System Sciences: Privacy, trust, and governance in the data-driven economy mini-track (2022)
 * International Workshop on Requirement Engineering for Software startups and Emerging Technologies: RESET (2021, 2023)
 * Workshop on AI Engineering – Software Engineering for AI: WAIN (2021)
 
 ## Journal reviewing
-* ACM Transactions on Software Engineering and Methodology (2022)
-* eJournal of eDemocracy and open government (2021, 2022)
-* IEEE transactions on software engineering (2021)
-* Journal of Software and Systems (2017, 2022)
+* ACM Transactions on Software Engineering and Methodology (2022, 2024)
+* IEEE transactions on software engineering (2021, 2024)
+* Journal of Software and Systems (2017, 2022, 2024)
 * Information and Software Technology (2019, 2021, 2022)
 * Requirements Engineering Journal (2020)
-* Journal of Internet Services and Applications (2016, 2017)
-* Scientific Data (2022)
 * Communications of the Association for Information Systems (2023)
+* Government information quarterly (2024)
+* Technovation (2023)
+* eJournal of eDemocracy and open government (2021, 2022, 2024)
+* Scientific Data (2022)
+* Data & knowledge engineering (2023, 2024)
+* Journal of Internet Services and Applications (2016, 2017)
 
 ## Grant proposal reviewing
+* Austrian Science Fund (2023)
 * Deutsche Forschungsgemeinschaft (2022)
-* Vinnova (2020).
+* Vinnova (2020)
+
+## Opponent/Discussant
+* Xingru Chen. Licentiate thesis: Improving Internal Software Reuse in the Context of Contemporary Software Engineering Practices. Supervisors: Muhammad Usman (also the appointed examiner), Deepika Badampudi. 2023. Blekinge Institute of Technology, Karlskrona, Sweden.
 
 ## Other reviewing, and Subject Matter Expert assignments
 * Advisory board. Open Source Observatory (OSOR) Joinup and OpenForum Europe (2022-ongoing).
