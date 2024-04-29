@@ -2,6 +2,8 @@
 permalink: /talks/
 title: "Talks and panels (selected)"
 ---
+
+## 2024
 * <i class="flag-icons  SE"></i> *Öppna (Upphandlings)data - Verktyg och möjlighet till transparens och innovation*. (2024, April). Skånska kommuners Öppna Data nätverk. Invited talk, Lund, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Open-Procurement-Data.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Software Reuse through Open Source Software in the Public Sector A qualitative survey on Policy and Practice*. (2024, April). FOSS-North Conference. Submitted talk, Gothenburg, Sweden.
@@ -12,6 +14,8 @@ title: "Talks and panels (selected)"
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Nordic-Connected-Society-Malmoe.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Open Source AI – An undefined divide between community and vendor development*. (2024, March). RISE AI Network. Invited talk, Virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Open-Source-AI.pdf">Slides</a>
+
+## 2023
 * <i class="flag-icons  GB"></i> *Municipal collaboration on Open Source Software - A lever for innovation, transparency and sovereignty*. (2023, November). Coding Cities. Invited talk, Malmö, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Coding-Cities-Malmoe.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Supporting Open Source Software in the European Public Sector The Role of Open Source Programme Offices (OSPOs)*. (2023, October). European Commission's Open Source Observatory (OSOR) turns 15 Awards. Invited talk, Brussels, Belgium.
@@ -29,6 +33,12 @@ title: "Talks and panels (selected)"
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Public-sector-OSPOs-OSOR-virtual.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *HASMOSS - Health and Security Management for Open Source Software project presentation*. (2023, January). Cybernode Collaboration Conference. Invited talk, Stochholm, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/HASMOSS-CyberSecDay-Sthlm-RI.pdf">Slides</a>
+
+## 2022
+* <i class="flag-icons  GB"></i> *How to characterize the health of an Open Source Software project? A snowball literature review of an emerging practice*. (2022, September). Open Source Systems (OSS) Conference. Paper presentation, Madrid, Spain.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-health-HASMOSS-OSS22-Madrid-RI.pdf">Slides</a> <i class="ai ai-doi-square"></i> [Paper DOI](https://doi.org/10.1145/3555051.3555067) <i class="fa fa-file-pdf"></i> [Paper PDF](https://dl.acm.org/doi/pdf/10.1145/3555051.3555067) <i class="ai ai-figshare"></i> [Data set from literature review](https://doi.org/10.6084/m9.figshare.20137175)
+* <i class="flag-icons  GB"></i> *Sustaining Open Data as a Digital Common Design principles for Common Pool Resources applied to Open Data Ecosystems*. (2022, September). International Symposium on Open Collaboration (OpenSym). Paper presentation, Madrid, Spain.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Digital-Commons-OpenSym22-Madrid-RI.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *What to Share, When, and Where - Creating a Distributed and Efficient Contribution Process While Balancing Value and Risk*. (2022, September). Linux Foundation OSPOlogy Workshop. Invited talk, Stockholm, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-Contribution-Strategies-OSPOlogy-Sthlm-RI.pdf">Slides</a> <i class="ai ai-doi-square"></i> [Paper DOI](https://doi.org/10.1007/s10664-020-09855-2) <i class="fa fa-file-pdf"></i> [Paper PDF](https://arxiv.org/abs/2208.00047) <i class="ai ai-figshare"></i> [Contribution request form questions](https://doi.org/10.6084/m9.figshare.21104167)
 * <i class="flag-icons  GB"></i> *What to Share, When, and Where - Creating a Distributed and Efficient Contribution Process While Balancing Value and Risk*. (2022, September). Linux Foundation Open Source Summit Europe. Submitted talk, Dublin, Ireland.
@@ -45,10 +55,14 @@ title: "Talks and panels (selected)"
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-health-NOSAD.pdf">Slides</a>
 * <i class="flag-icons SE"></i> *JobTech Dev – Exempel på Delning och Samverkan inom Myndighets-drivna Öppna Data-ekosystem*. (February, 2022). Swedish Jobtech. Invited talk, Virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Swedish JobTech seminar.pdf">Slides</a>
+
+## 2021
 * <i class="flag-icons SE"></i> *Utveckling och anskaffning av Öppen programvara inom och av offentlig sektor*. (2021, September). Open Source - Enabler för Resurseffektiv Offentlig Digitalisering och Ökad Kommunal Samverkan. Sambruk. Invited talk, Virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-utveckling-och-anskaffning-no-OBS-Sambruk.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Health and Sustainability of Open Source Software from a Public Sector Perspective*. (2021, May). Open Source Observatory (OSOR) webinar on Sustainability of Open Source Software communities. Invited talk, Virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-health-OSOR-no-obs.pdf">Slides</a>
+
+## 2020
 * <i class="flag-icons SE"></i> *Hållbara digitala plattformar och ekosystem*. (2020, November). Internetdagarna. Invited talk, Stockholm, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Internetdagarna.pdf">Slides</a>
 * <i class="flag-icons SE"></i> *MyData – Datadelning med individen i centrum*. (2020, October). AILund. Invited talk, Lund, Sweden.
@@ -63,11 +77,17 @@ title: "Talks and panels (selected)"
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Fossnorth.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Application of Health metrics on a Cross-sector software ecosystem*. (2020, January). Community Health Analytics Open Source Software Conference Europe (CHAOSSCon EU). Submitted talk, Brussels, Belgium.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/ChaossCon2020.pdf">Slides</a>
+
+## 2019
 * <i class="flag-icons  GB"></i> *Opening up the Swedish Labour Market Through Cross-sector Collaboration*. (2019, October). Linux Foundation Open Source Summit Europe. Submitted talk, Lyon, France.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS_Public_Sector.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Grounding Contributions and Community Engagement in Your Business Goals*. (2019, October).Linux Foundation Open Source Summit Europe. Submitted talk, Lyon, France.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSSEU19_ThesisTalkFinal.pdf">Slides</a>
+
+## 2018
 * <i class="flag-icons  GB"></i> *Purpose-Driven Contribution Decisions*. (2018, March). Linux Foundation Open Source Leadership Summit. Submitted talk. San Francisco, US.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSLS_Purpose-driven_Contribution_Decisionsnarv2.pdf">Slides</a>
+
+## 2017
 * <i class="flag-icons  GB"></i> *Purpose-Driven Community Engagement*. (2017, October). Linux Foundation Open Source Summit Europe. Submitted talk. Prauge, Czech Republic.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS EuropePDCV3NAR1023.pdf">Slides</a>
