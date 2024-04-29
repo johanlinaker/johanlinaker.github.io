@@ -73,12 +73,6 @@ title: "Publications"
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Runeson, P., Zuiderwijk, A., & Brock, A. (2022). *Collaborative Aspects of Open Data in Software Engineering*. IEEE Software, 39(1), 31-35.
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1109/MS.2021.3118123) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/ftp/arxiv/papers/2208/2208.00488.pdf)
 
-## Technical reports
-* <i class="flag-icons SE"></i> **Linåker, J.**, & Runeson, P. (2022). *Rekommendationer för samverkan och delning av data, teknik och kunskap inom myndighetsdrivna öppna data-ekosystem*. Lund university, Lund, Sweden.
-  - <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/sv/publications/rekommendationer-f%C3%B6r-samverkan-och-delning-av-data-teknik-och-kun) <i class="fa fa-file-pdf"></i> [PDF](https://lucris.lub.lu.se/ws/portalfiles/portal/112560914/Rapport_Rekommendationer_f_r_samverkan_och_delning_av_data_teknik_och_kunskap_inom_myndighetsdrivna_ppna_data_ekosystem.pdf)
-* <i class="flag-icons  GB"></i> **Linåker, J.**, Sulaman, S. M., Maiani de Mello, R., & Höst, M. (2015). *Guidelines for conducting surveys in software engineering*. Lund university, Lund, Sweden.
-  - <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/sv/publications/guidelines-for-conducting-surveys-in-software-engineering) <i class="fa fa-file-pdf"></i> [PDF](https://lucris.lub.lu.se/ws/portalfiles/portal/6062997/5463412.pdf)
-
 ## Popular writing
 * <i class="flag-icons SE"></i> Nyman, L., Nyström Holm, M., & **Linåker, J.**. (2021). *Dela kostnader och undvik inlåsningar*. Series on public procurement and Open Source Software - pt1. Inköpsrådet.
   - <i class="ai ai-doi-square"></i> [DOI](https://inkopsradet.se/dela-kostnader-och-undvik-inlasningar/)
