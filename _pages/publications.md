@@ -2,12 +2,12 @@
 permalink: /publications/
 title: "Publications"
 header:
-  teaser: "/assets/images/publications/teaser.png"
+  teaser: "/assets/images/publications/teaser.jpg"
 ---
 
 
 <div class="thumbnail-container">
-<img src="/assets/images/publications/teaser.png" alt="https://unsplash.com/photos/flat-screen-tv-0bTdk1u42KY"></div>
+<img src="/assets/images/publications/teaser.jpg" alt="https://unsplash.com/photos/black-framed-eyeglasses-on-white-book-page-GWbIHT51VT4"></div>
 
 ## Technical reports
 * <i class="flag-icons GB"></i> **Linåker, J.**, & Muto, S. (2024). *Software Reuse through Open Source Software in the Public Sector: A qualitative survey on Policy and Practice*. RISE Research Institutes of Sweden, Lund, Sweden.

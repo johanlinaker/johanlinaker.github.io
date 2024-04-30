@@ -2,12 +2,12 @@
 permalink: /activity/
 title: "Activity"
 header:
-  teaser: "/assets/images/activity/teaser.png"
+  teaser: "/assets/images/activity/teaser.jpg"
 ---
 
 
 <div class="thumbnail-container">
-<img src="/assets/images/activity/teaser.png" alt="https://unsplash.com/photos/flat-screen-tv-0bTdk1u42KY"></div>
+<img src="/assets/images/activity/teaser.jpg" alt="https://unsplash.com/photos/flat-screen-tv-0bTdk1u42KY"></div>
 
 ## Editorial assignments
 * **Linåker, J.**, Robles, G., Bryant, D., & Muto, S. (2023). Open Source Software in Public Sector. IEEE Software , 40(4), 39-44.

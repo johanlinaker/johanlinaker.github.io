@@ -2,12 +2,12 @@
 permalink: /teaching/
 title: "Teaching"
 header:
-  teaser: "/assets/images/teaching/teaser.png"
+  teaser: "/assets/images/teaching/teaser.jpg"
 ---
 
 
 <div class="thumbnail-container">
-<img src="/assets/images/teaching/teaser.png" alt="https://unsplash.com/photos/flat-screen-tv-0bTdk1u42KY"></div>
+<img src="/assets/images/teaching/teaser.jpg" alt="https://unsplash.com/photos/flat-screen-tv-0bTdk1u42KY"></div>
 
 Currently, I am not engaged in any active teaching duties, beyond giving regular guest lectures in reoccuring courses, mainly held at Lund University. Topics include business models, software ecosystems, requriements engineering, open source software, and open data. Teaching and education is, however, still a core passion and an area I wish to engage in the future. Below is a brief summary of past teaching experience, followed by my core principles that I believe help to enforce learning outcomes and increase student motivation to partake in the teaching activities.
 
