@@ -1,7 +1,14 @@
 ---
 permalink: /activity/
 title: "Activity"
+header:
+  teaser: "/assets/images/activity/teaser.png"
 ---
+
+
+<div class="thumbnail-container">
+<img src="/assets/images/activity/teaser.png" alt="https://unsplash.com/photos/flat-screen-tv-0bTdk1u42KY"></div>
+
 ## Editorial assignments
 * **Linåker, J.**, Robles, G., Bryant, D., & Muto, S. (2023). Open Source Software in Public Sector. IEEE Software , 40(4), 39-44.
     - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1109/MS.2023.3266105) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/ftp/arxiv/papers/2308/2308.04766.pdf)

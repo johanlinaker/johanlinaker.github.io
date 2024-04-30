@@ -2,12 +2,12 @@
 permalink: /talks/
 title: "Talks and panels (selected)"
 header:
-  teaser: "/assets/images/talks/teaser.png"
+  teaser: "/assets/images/talks/teaser.jpg"
 ---
 
 
 <div class="thumbnail-container">
-<img src="/assets/images/talks/teaser.png" alt="https://unsplash.com/photos/flat-screen-tv-0bTdk1u42KY"></div>
+<img src="/assets/images/talks/teaser.jpg" alt="https://unsplash.com/photos/white-ice-on-blue-surface-H9lcNEmlEyY"></div>
 
 ## 2024
 * <i class="flag-icons  SE"></i> *Öppna (Upphandlings)data - Verktyg och möjlighet till transparens och innovation*. (2024, April). Skånska kommuners Öppna Data nätverk. Invited talk, Lund, Sweden.

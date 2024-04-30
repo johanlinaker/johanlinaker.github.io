@@ -1,7 +1,13 @@
 ---
 permalink: /contact/
 title: "Ways of getting in touch"
+header:
+  teaser: "/assets/images/contact/teaser.png"
 ---
+
+
+<div class="thumbnail-container">
+<img src="/assets/images/contact/teaser.png" alt="https://unsplash.com/photos/flat-screen-tv-0bTdk1u42KY"></div>
 
 <p><span><i class="fa fa-envelope"></i><a href="mailto:johan.linaker@ri.se" target="_blank"> johan.linaker@ri.se</a></span><br /><br /></p>
 
