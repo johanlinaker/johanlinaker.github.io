@@ -22,7 +22,7 @@ Last week at Foss-north, me and Sachiko Muto presented our recently published re
 
 Below is a brief summary of the report. Get the [full report](https://www.diva-portal.org/smash/get/diva2:1848137/FULLTEXT01.pdf) for all insights along with the 16 case studies!
 
-#### Policy design and ownership
+## Policy design and ownership
 Most surveyed countries have established policies addressing software reuse through OSS, encompassing both inbound (acquiring new software) and outbound (sharing acquired solutions) aspects. While policies vary in scope (national, regional, local, institution-specific) and level of prescriptiveness (high-level endorsement, advisory, prescriptive), they are primarily owned by central Public Sector Organizations (PSOs) responsible for digital government, transformation, and procurement. Although the emphasis is on policies concerning the public sector’s use of OSS, a subset of countries also promotes OSS uptake in the domestic technology sector (e.g., in Japan and South Korea). Below is a more detailed overview of how the policies can be differentiated.
 
 <table border="1" width="979" cellspacing="0" cellpadding="0">
@@ -162,7 +162,7 @@ Most surveyed countries have established policies addressing software reuse thro
 </tbody>
 </table>
 
-#### Policy goals
+## Policy goals
 Government policies promoting OSS (re)use in the public sector stem from various factors, with key policy goals including:
 *	Interoperability among public services and digital infrastructure, nationally and internationally.
 *	Digital sovereignty by empowering PSOs to make technical decisions based on national, regional, and local laws, norms, and values.
@@ -171,7 +171,7 @@ Government policies promoting OSS (re)use in the public sector stem from various
 
 Economic arguments feature prominently in policies, while interoperability and transparency play strong roles in specific cases. Digital sovereignty varies in prominence, and the security aspect of OSS is approached from both positive and negative perspectives.
 
-#### Policy support actions
+## Policy support actions
 Many policy support initiatives are in place or emerging among the surveyed countries. Some initiatives have been fragile in terms of support and funding leading to dormancy in some cases while in others, the support efforts have been picked up in later years.
 
 ##### Open Source Program Offices (OSPOs)
@@ -196,12 +196,12 @@ Several countries maintain software catalogues covering software developed and/o
 
 A less formal but generally recognized example is offentligkod.se in Sweden, a software catalogue listing OSS used and/or developed by Swedish PSOs. The catalogue was initiated by the Swedish PSO-centered knowledge-sharing network NOSAD. All reports are contributed on a volunteer basis either by the PSOs directly or the vendors providing services based on the OSS.
 
-#### Success stories
+## Success stories
 There are several success stories of public sector OSS projects, such as X-Road, Signalen, and gvSIG, demonstrating the potential and opportunities for (re)use and collaborative development of OSS. The highlighted projects exemplify the common practice of hosting projects in independent organizations where the PSOs are either members or owners.
 
 These joint organizations help pool resources and collaborate on planning, procurement, development, and maintenance of the project(s). More capable PSOs, such as larger cities and municipalities, typically play a leading role in the development and ensuring the long-term sustainability of the projects.
 
-#### Recommendations
+## Recommendations
 Based on our findings and identified practice, we offer recommendations for public sector organisations at national, regional, and local government levels. These recommendations aim to provide actionable insights for policymakers and decision-makers in Denmark and other countries seeking to leverage software reuse through OSS in their digital transformations. Briefly summarized, these include:
 
 ##### Policy for software reuse through OSS:
@@ -223,7 +223,7 @@ Based on our findings and identified practice, we offer recommendations for publ
 *	Create a national software repository for hosting and collaborative development of public sector OSS projects.
 *	Engage in the national and international OSS ecosystem through key organizations, networks, and communities.
 
-#### Looking forward: Need for new and revised indicators and indexes
+## Looking forward: Need for new and revised indicators and indexes
 However, a forward-looking approach to planning, steering, and following up on goals and practices for enabling software reuse through OSS is lacking. While current indicators for digital maturity touch on the topic to varying degrees, none delve into detailed steps for enabling software reuse or potential policy goals.
 
 We strongly recommend the development of such metrics, both among countries leveraging OSS in their digital transformations and among organizations maintaining indicators for digital maturity. These metrics can serve as a guiding framework for countries seeking to mature and evolve digitally, with the recommendations of this report forming part of their foundation.
