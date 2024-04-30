@@ -16,7 +16,7 @@ header:
 
 
 <div class="thumbnail-container">
-<img src="/assets/images/2024-04-25-report-software-reuse-through-open-source-software-in-public-sector/teaser.jpg" alt="https://unsplash.com/photos/a-room-filled-with-lots-of-blue-and-purple-lights-D6RyctKZ-dk"></div>
+<img src="/assets/images/2024-04-25-report-software-reuse-through-open-source-software-in-public-sector/teaser.jpg"></div>
 
 In a recent report commissioned by the Danish Agency for Digital Government (Digitaliseringsstyrelsen), Sachiko Muto and I examined how software reuse through Open Source Software (OSS) can be supported and realized through public policy and related support actions.
 
