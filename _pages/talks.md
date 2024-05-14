@@ -11,7 +11,7 @@ header:
 
 ## 2024
 * <i class="flag-icons  GB"></i> *Time to Rethink Collaboration and Competition - A Study on the Role of Open Source Software in Enabling Tomorrow’s Automotive Industry*. (2024, May). Automotive Open Source Summit. Invited talk, Starnberg, Germany.
-- <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Automotive-OSS-Vision-Paper-AOSS.pdf">Slides</a> <i class="fa fa-file-pdf"></i> <a href="/assets/slides/VISION PAPER_ Open Source Software in the Automotive Industry.pdf">Underpinning report</a>
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Automotive-OSS-Vision-Paper-AOSS.pdf">Slides</a> <i class="fa fa-file-pdf"></i> <a href="/assets/slides/VISION PAPER_ Open Source Software in the Automotive Industry.pdf">Underpinning report</a>
 * <i class="flag-icons  SE"></i> *Öppna (Upphandlings)data - Verktyg och möjlighet till transparens och innovation*. (2024, April). Skånska kommuners Öppna Data nätverk. Invited talk, Lund, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Open-Procurement-Data.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Software Reuse through Open Source Software in the Public Sector A qualitative survey on Policy and Practice*. (2024, April). FOSS-North Conference. Submitted talk, Gothenburg, Sweden.
