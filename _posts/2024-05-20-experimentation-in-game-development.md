@@ -3,22 +3,22 @@ title: "Research on Experimentation in Game Development"
 seo_title: "Research on Experimentation in Game Development"
 excerpt: "As part of WASP-funded research project, we are investigating how game companies experiment with and evaluate new ideas, features, and changes throughout the development process. The goal is to be able to reject or accept any assumption about an idea as early as possible based on the experiment, for example, based on the technical and commercial viability among (potential) users. Earlier feedback and better decisions lead to more efficient development, faster release cycles, and hopefully better reception among players."
 seo_description: "As part of WASP-funded research project, we are investigating how game companies experiment with and evaluate new ideas, features, and changes throughout the development process. The goal is to be able to reject or accept any assumption about an idea as early as possible based on the experiment, for example, based on the technical and commercial viability among (potential) users. Earlier feedback and better decisions lead to more efficient development, faster release cycles, and hopefully better reception among players."
-date: 2024-05-21T15:34:30-04:00
+date: 2024-05-20T15:34:30-04:00
 categories:
   - blog
 tags:
   - experimentation
   - games
 header:
-  teaser: "/assets/images/2024-05-21-experimentation-in-game-development/teaser.png"
+  teaser: "/assets/images/2024-05-20-experimentation-in-game-development/teaser.png"
 ---
 
 <div class="thumbnail-container">
-<img src="/assets/images/2024-05-21-experimentation-in-game-development/teaser.jpg" alt="https://pixabay.com/sv/illustrations/analyser-forskning-studie-test-6898420"></div>
+<img src="/assets/images/2024-05-20-experimentation-in-game-development/teaser.jpg" alt="https://pixabay.com/sv/illustrations/analyser-forskning-studie-test-6898420"></div>
 
 ## Research on Experimentation in Game Development: Looking for Interviewees
 
-*Are you experienced with experimenting, prototyping, and evaulating ideas and features in various parts of game development? Want to contribute to research and learn more at the same time? Please read on!* 
+*Are you experienced with experimenting, prototyping, and evaulating ideas and features in various parts of game development? Want to contribute to research and learn more at the same time? Please read on!*
 
 As part of (WASP-funded research project)[https://portal.research.lu.se/sv/projects/wasp-continuous-experimentation-with-limited-user-data], we are investigating how game companies experiment with and evaluate new ideas, features, and changes throughout the development process. The goal is to be able to reject or accept any assumption about an idea as early as possible based on the experiment, for example, based on the technical and commercial viability among (potential) users. Earlier feedback and better decisions lead to more efficient development, faster release cycles, and hopefully better reception among players.
 
