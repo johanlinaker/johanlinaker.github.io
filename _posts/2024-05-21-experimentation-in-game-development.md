@@ -18,7 +18,7 @@ header:
 
 ## Research on Experimentation in Game Development: Looking for Interviewees
 
-*Are you experienced with experimenting, prototyping, and evaulating ideas and features in various parts of game development? Want to contribute to research and learn more at the same time? Please read on!*
+*Are you experienced with experimenting, prototyping, and evaulating ideas and features in various parts of game development? Want to contribute to research and learn more at the same time? Please read on!* 
 
 As part of (WASP-funded research project)[https://portal.research.lu.se/sv/projects/wasp-continuous-experimentation-with-limited-user-data], we are investigating how game companies experiment with and evaluate new ideas, features, and changes throughout the development process. The goal is to be able to reject or accept any assumption about an idea as early as possible based on the experiment, for example, based on the technical and commercial viability among (potential) users. Earlier feedback and better decisions lead to more efficient development, faster release cycles, and hopefully better reception among players.
 
