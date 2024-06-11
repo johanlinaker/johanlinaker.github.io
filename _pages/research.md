@@ -8,7 +8,9 @@ header:
 
 <div class="thumbnail-container">
 <img src="/assets/images/research/teaser.jpg" alt="https://unsplash.com/photos/group-of-people-with-signages-nKNrOZ5MXZY"></div>
-My research commonly touches on the human and social aspects of software engineering, as the development of open technologies by design is a collaborative and social effort. This implies several challenges from a socio-technical perspective, often requiring a qualitative or mixed-method approach to investigate. My goal, however, goes beyond problem understanding, and is focused on developing knowledge and designing artifacts that can help to address the problem at hand in a real-world context. An iterative process I prefer to do in collaboration with the actors present in the problem context.
+My research interests include empirical software engineering in the context of open technologies. Open technologies refer to technology-related artifacts that is shared, reused and collaboratively developed between its users and stakeholders. Here, I'm specifically interested in how actors in public and private sector can use, develop, and collaborate on Open Source Software, Open and shared data, and Open Standards to enable and promote interoperability, technological independence, and open innovation.
+
+The research commonly touches on the human and social aspects of software engineering, as the development of open technologies by design is a collaborative and social effort. This implies several challenges from a socio-technical perspective, often requiring a qualitative or mixed-method approach to investigate. My goal, however, goes beyond problem understanding, and is focused on developing knowledge and designing artifacts that can help to address the problem at hand in a real-world context. An iterative process I prefer to do in collaboration with the actors present in the problem context.
 <p /><p>
 
 Areas I'm currently investigating include:
