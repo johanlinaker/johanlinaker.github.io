@@ -29,14 +29,14 @@ header:
 
 ### Conferences (main research paper tracks)
 * International Conference of Software Engineering: ICSE (2022, 2024)
-* International Symposium on Empirical Software Engineering and Measurement: ESEM (2023, 2024)
+* International Symposium on Empirical Software Engineering and Measurement: ESEM (2023 - 2024)
 * International Conference on Electronic Government: EGOV (2020 - 2024)
 * International Conference on Software Business: ICSOB (2020 - 2024)
 * International Conference of Information Systems: ICIS (2020)
 * European Conference of Information Systems: ECIS (2022)
 
 ### Conferences (other tracks) and workshops
-* International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems: SESoS (2022-2024)
+* International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems: SESoS (2022 - 2024)
 * Hawaii International Conference on System Sciences: Privacy, trust, and governance in the data-driven economy mini-track (2022)
 * International Workshop on Requirement Engineering for Software startups and Emerging Technologies: RESET (2021, 2023)
 * Workshop on AI Engineering – Software Engineering for AI: WAIN (2021)
@@ -47,12 +47,15 @@ header:
 * Journal of Software and Systems (2017, 2022, 2024)
 * Information and Software Technology (2019, 2021, 2022)
 * Requirements Engineering Journal (2020)
-* Communications of the Association for Information Systems (2023)
 * Government information quarterly (2024)
+* Technological Forecasting & Social Change (2024)
 * Technovation (2023, 2024)
 * eJournal of eDemocracy and open government (2021, 2022, 2024)
-* Scientific Data (2022)
 * Data & knowledge engineering (2023, 2024)
+* Journal of Innovation & Knowledge (2024)
+* Computers in Industry (2024)
+* Communications of the Association for Information Systems (2023)
+* Scientific Data (2022)
 * Journal of Internet Services and Applications (2016, 2017)
 
 ## Grant proposal reviewing
