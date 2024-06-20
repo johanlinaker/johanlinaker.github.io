@@ -37,7 +37,7 @@ header:
 
 ### Conferences (other tracks) and workshops
 * International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems: SESoS (2022 - 2024)
-* Hawaii International Conference on System Sciences: Privacy, trust, and governance in the data-driven economy mini-track (2022)
+* Hawaii International Conference on System Sciences (2022, 2024)
 * International Workshop on Requirement Engineering for Software startups and Emerging Technologies: RESET (2021, 2023)
 * Workshop on AI Engineering – Software Engineering for AI: WAIN (2021)
 
