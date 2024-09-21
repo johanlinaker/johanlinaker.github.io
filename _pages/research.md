@@ -104,28 +104,19 @@ Areas I'm currently investigating include:
     </ul></li>
 </ul>
 
-
 <h3>Supervision in third cycle studies:</h3>
 <ul>
     <li>Assistant supervisor for: Konstantin Malysh, 2022-2026, PhD. student, Lund University Faculty of Engineering, "Tool support for data sharing and management in data ecosystem", Principal supervisor: Prof. Dr. Per Runeson. </li>
     <li>Assistant supervisor for: John Larsson, 2023-2027, PhD. student, Lund University Faculty of Engineering, "Publicly Driven Data Sharing and Collaboration for More Efficient Freight Transports", Principal supervisor: Prof. Dr. Per Runeson. </li>
 </ul>
 
-
-<h3>International exchanges:</h3>
-<ul>
-    <li>Sept-Nov 2016 – Visiting Researcher, Department of Computer Science, University of Victoria, Victoria, Canada. </li>
-    <li>Sept 2017 – Visiting Researcher, Department of Computer Science, University of Victoria, Victoria, Canada. </li>
-</ul>
-
 <h3>Education:</h3>
-
 <ul>
     <li>April 2014 – Sept 2019
     <ul>
-        <li>Ph.D. in Software Engineering<br />
-        "Guiding Development of Contribution and Community Strategies in Open Source Software Requirements Engineering".</li>
-        Department of Computer Science, Lund University, Lund, Sweden.</li>
+        <li>Ph.D. in Software Engineering</li>
+        <li>"Guiding Development of Contribution and Community Strategies in Open Source Software Requirements Engineering".</li>
+        <li>Department of Computer Science, Lund University, Lund, Sweden.</li>
     </ul></li>
 </ul>
 
@@ -133,13 +124,12 @@ Areas I'm currently investigating include:
     <li>Sept 2008 – Aug 2012
     <ul>
         <li>MSc. in Industrial Engineering and Management.</li>
-        Specialization in Software Engineering.</li>
-        Lund University, Lund, Sweden.</li>
+        <li>Specialization in Software Engineering.</li>
+        <li>Lund University, Lund, Sweden.</li>
     </ul></li>
 </ul>
 
 <h3>Appointments:</h3>
-
 <ul>
     <li>Aug 2021 – Senior Researcher, RISE – Research Institutes of Sweden AB, Lund, Sweden.
     <ul>
