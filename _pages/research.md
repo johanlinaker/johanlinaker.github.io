@@ -13,6 +13,8 @@ My research interests include empirical software engineering in the context of o
 The research commonly touches on the human and social aspects of software engineering, as the development of open technologies by design is a collaborative and social effort. This implies several challenges from a socio-technical perspective, often requiring a qualitative or mixed-method approach to investigate. My goal, however, goes beyond problem understanding, and is focused on developing knowledge and designing artifacts that can help to address the problem at hand in a real-world context. An iterative process I prefer to do in collaboration with the actors present in the problem context.
 <p /><p>
 
+
+<h3>Main research questions:</h3>
 Areas I'm currently investigating include:
 <ul>
 	<li>how public sector can use, develop, and collaborate on Open Source Software in a sustainable manner.</li>
@@ -22,7 +24,7 @@ Areas I'm currently investigating include:
 	<li>how public actors can apply and collaborate on procurement activities to enable an open and agile development of systems and software.</li>
 </ul>
 
-<h3>Ongoing projects</h3>
+<h3>Ongoing projects:</h3>
 <ul>
     <li>OSAwards.EU – Public Recognition of Open Source, 2024-2027.
     <ul>
@@ -116,7 +118,7 @@ Areas I'm currently investigating include:
     <li>Sept 2017 – Visiting Researcher, Department of Computer Science, University of Victoria, Victoria, Canada. </li>
 </ul>
 
-<h3>Education</h3>
+<h3>Education:</h3>
 
 <ul>
     <li>April 2014 – Sept 2019
@@ -136,7 +138,7 @@ Areas I'm currently investigating include:
     </ul></li>
 </ul>
 
-<h3>Appointments</h3>
+<h3>Appointments:</h3>
 
 <ul>
     <li>Aug 2021 – Senior Researcher, RISE – Research Institutes of Sweden AB, Lund, Sweden.
@@ -158,7 +160,7 @@ Areas I'm currently investigating include:
 
 <ul>
     <li>Mar 2023 – Researcher (part-time.)</li>
-    Jan 2022 – Feb 2023 – Affiliated Researcher, Department of Computer Science, Lund University, Lund, Sweden.
+    <li>Jan 2022 – Feb 2023 – Affiliated Researcher, Department of Computer Science, Lund University, Lund, Sweden.
     <ul>
         <li>Co-supervision of two PhD. students.</li>
         <li>Research on Continuous Experimentation in Game Development.</li>
