@@ -52,6 +52,7 @@ header:
 * Technovation (2023, 2024)
 * eJournal of eDemocracy and open government (2021, 2022, 2024)
 * Data & knowledge engineering (2023, 2024)
+* Computer Law and Security (2024)
 * Journal of Innovation & Knowledge (2024)
 * Computers in Industry (2024)
 * Communications of the Association for Information Systems (2023)
