@@ -10,6 +10,9 @@ header:
 <img src="/assets/images/talks/teaser.jpg" alt="https://unsplash.com/photos/white-ice-on-blue-surface-H9lcNEmlEyY"></div>
 
 ## 2024
+
+* <i class="flag-icons  GB"></i> *Software Reuse through Open Source Software in the Public Sector: A qualitative survey on Policy and Practice*. (2024, Sept). Fællesoffentlig Digital Arkitektur Konference. Invited talk, Copenhagen, Denmark.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-for-reuse-Faellesoffentlig-Digital-Arkitektur.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Health Check-ups on Open Source Software Projects Managing Risks while Promoting (Re)use*. (2024, May). Linux Foundation OSPOlogy Workshop. Invited talk, Malmö, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-health-HASMOSS-OSPOlogy-Malmo.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Navigating the Future with OSS in the Automotive Industry*. (2024, May). Eclipse SDV Working Group. Invited talk, Virtual.
