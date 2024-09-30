@@ -10,7 +10,7 @@ header:
 <img src="/assets/images/activity/teaser.jpg" alt="https://unsplash.com/photos/flat-screen-tv-0bTdk1u42KY"></div>
 
 
-<h3>Table of contents</h3>
+<h3>Sections</h3>
 <ul>
 	<li><a href="#editorial-assignments">Editorial assignments</a></li>
 	<li><a href="#organizing-committee-memberships">Organizing committee memberships</a></li>

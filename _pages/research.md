@@ -9,10 +9,10 @@ header:
 <div class="thumbnail-container">
 <img src="/assets/images/research/teaser.jpg" alt="https://unsplash.com/photos/group-of-people-with-signages-nKNrOZ5MXZY"></div>
 
-<h3>Subsections</h3>
+<h3>Sections</h3>
 <ul>
 	<li><a href="#research-scope-and-philosophy">Research scope and philosophy</a></li>
-	<li><a href="#main-research-question">Main research questions</a></li>
+	<li><a href="#main-research-questions">Main research questions</a></li>
 	<li><a href="#ongoing-projects">Ongoing projects</a></li>
 	<li><a href="#ended-projects">Ended projects</a></li>
 	<li><a href="#supervision">Supervision in third cycle studies</a></li>
@@ -20,7 +20,7 @@ header:
 	<li><a href="#appointments">Appointments</a></li>
 </ul>
 
-<div id="main-research-questions" />
+<div id="research-scope-and-philosophy" />
 <h3>Research scope and philosophy:</h3>
 My research interests include empirical software engineering in the context of open technologies. Open technologies refer to technology-related artifacts that is shared, reused and collaboratively developed between its users and stakeholders. Here, I'm specifically interested in how actors in public and private sector can use, develop, and collaborate on Open Source Software, Open and shared data, and Open Standards to enable and promote interoperability, technological independence, and open innovation.
 

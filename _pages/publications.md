@@ -9,7 +9,7 @@ header:
 <div class="thumbnail-container">
 <img src="/assets/images/publications/teaser.jpg" alt="https://unsplash.com/photos/black-framed-eyeglasses-on-white-book-page-GWbIHT51VT4"></div>
 
-<h3>Subsections</h3>
+<h3>Sections</h3>
 <ul>
 	<li><a href="#technical-reports">Technical reports</a></li>
 	<li><a href="#peer-reviewed-papers">Peer-reviewed papers</a>

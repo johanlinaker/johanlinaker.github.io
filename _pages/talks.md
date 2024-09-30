@@ -10,7 +10,7 @@ header:
 <img src="/assets/images/talks/teaser.jpg" alt="https://unsplash.com/photos/white-ice-on-blue-surface-H9lcNEmlEyY"></div>
 
 
-<h3>Subsections</h3>
+<h3>Sections</h3>
 <ul>
 	<li><a href="#2024">2024</a></li>
 	<li><a href="#2023">2023</a></li>
