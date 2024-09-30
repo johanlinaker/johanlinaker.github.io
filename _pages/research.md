@@ -21,7 +21,7 @@ header:
 </ul>
 
 <h3>Research scope and philosophy:</h3>
-<a id="main-research-questions" />
+<div id="main-research-questions" />
 My research interests include empirical software engineering in the context of open technologies. Open technologies refer to technology-related artifacts that is shared, reused and collaboratively developed between its users and stakeholders. Here, I'm specifically interested in how actors in public and private sector can use, develop, and collaborate on Open Source Software, Open and shared data, and Open Standards to enable and promote interoperability, technological independence, and open innovation.
 
 The research commonly touches on the human and social aspects of software engineering, as the development of open technologies by design is a collaborative and social effort. This implies several challenges from a socio-technical perspective, often requiring a qualitative or mixed-method approach to investigate. My goal, however, goes beyond problem understanding, and is focused on developing knowledge and designing artifacts that can help to address the problem at hand in a real-world context. An iterative process I prefer to do in collaboration with the actors present in the problem context.
@@ -30,7 +30,7 @@ The research commonly touches on the human and social aspects of software engine
 
 
 <h3>Main research questions:</h3>
-<a id="main-research-questions" />
+<div id="main-research-questions" />
 Areas I'm currently investigating include:
 <ul>
 	<li>how public sector can use, develop, and collaborate on Open Source Software in a sustainable manner.</li>
@@ -41,7 +41,7 @@ Areas I'm currently investigating include:
 </ul>
 
 <h3>Ongoing projects:</h3>
-<a id="ongoing-projects" />
+<div id="ongoing-projects" />
 <ul>
     <li>OSAwards.EU – Public Recognition of Open Source, 2024-2027.
     <ul>
@@ -82,7 +82,7 @@ Areas I'm currently investigating include:
 </ul>
 
 <h3>Ended projects:</h3>
-<a id="ended-projects" />
+<div id="ended-projects" />
 <ul>
     <li>Study on Software reuse through Open Source Software in the Public sector, 2023.
     <ul>
@@ -123,14 +123,14 @@ Areas I'm currently investigating include:
 </ul>
 
 <h3>Supervision in third cycle studies:</h3>
-<a id="supervision" />
+<div id="supervision" />
 <ul>
     <li>Assistant supervisor for: Konstantin Malysh, 2022-2026, PhD. student, Lund University Faculty of Engineering, "Tool support for data sharing and management in data ecosystem", Principal supervisor: Prof. Dr. Per Runeson. </li>
     <li>Assistant supervisor for: John Larsson, 2023-2027, PhD. student, Lund University Faculty of Engineering, "Publicly Driven Data Sharing and Collaboration for More Efficient Freight Transports", Principal supervisor: Prof. Dr. Per Runeson. </li>
 </ul>
 
 <h3>Education:</h3>
-<a id="education" />
+<div id="education" />
 <ul>
     <li>April 2014 – Sept 2019
     <ul>
@@ -150,7 +150,7 @@ Areas I'm currently investigating include:
 </ul>
 
 <h3>Appointments:</h3>
-<a id="appointments" />
+<div id="appointments" />
 <ul>
     <li>Aug 2021 – Senior Researcher, RISE – Research Institutes of Sweden AB, Lund, Sweden.
     <ul>

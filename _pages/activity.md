@@ -22,7 +22,7 @@ header:
 			<li><a href="#conferences-other-tracks-and-workshops">Conferences (other tracks) and workshops</a></li>
 		</ul>
 	</li>
-	<li><a href="#journal-reviewing">Journal reviewing</li>
+	<li><a href="#journal-reviewing">Journal reviewing</a></li>
 	<li><a href="#grant-proposal-reviewing">Grant proposal reviewing</a></li>
 	<li><a href="#opponent-discussant">Opponent/Discussant</a></li>
 	<li><a href="#other-reviewing">Other reviewing, and Subject Matter Expert assignments</a></li>

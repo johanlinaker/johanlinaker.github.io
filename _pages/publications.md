@@ -14,16 +14,16 @@ header:
 	<li><a href="#">technical-reports</a></li>
 	<li><a href="#">peer-reviewed-papers</a>
 		<ul>
-			<li>2024</i>
-			<li>2022</i>
-			<li>2021</i>
-			<li>2020</i>
-			<li>2019</i>
-			<li>2018</i>
-			<li>2017</i>
-			<li>2016</i>
-			<li>2015</i>
-			<li>2014</i>
+			<li><a href="#2024>2024</a></li>
+			<li><a href="#2022>2022</a></li>
+			<li><a href="#2021>2021</a></li>
+			<li><a href="#2020>2020</a></li>
+			<li><a href="#2019>2019</a></li>
+			<li><a href="#2018>2018</a></li>
+			<li><a href="#2017>2017</a></li>
+			<li><a href="#2016>2016</a></li>
+			<li><a href="#2015>2015</a></li>
+			<li><a href="#2014>2014</a></li>
 		</ul>
 	</li>
 	<li><a href="#pedagogic-papers">Pedagogic papers</a></li>
