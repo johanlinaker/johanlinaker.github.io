@@ -65,7 +65,7 @@ header:
 #### 2022 | <a href="#top">Top</a>
 * <i class="flag-icons  GB"></i> Susha, I., van den Broek, T.A., van Veenstra, A.F., & **Linåker, J.** (2022). *An ecosystem perspective on developing data collaboratives for addressing societal issues: The role of conveners*. Government Information Quarterly. 101763.
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1016/j.giq.2022.101763) <i class="fa fa-file-pdf"></i> [PDF](https://reader.elsevier.com/reader/sd/pii/S0740624X22000995?token=185D0600332918FD933E510095C05E7264A3DB891792EB8A369D8FA4AA38048D6A4D2E1E24441E7BDB03210329016940&originRegion=eu-west-1&originCreation=20221014180306)
-  * <i class="flag-icons  GB"></i> **Linåker, J.**, Papatheocharous, E., & Olsson, T. (2022). *How to characterize the health of an Open Source Software project? A snowball literature review of an emerging practice*. In 18th International Symposium on Open Collaboration.
+* <i class="flag-icons  GB"></i> **Linåker, J.**, Papatheocharous, E., & Olsson, T. (2022). *How to characterize the health of an Open Source Software project? A snowball literature review of an emerging practice*. In 18th International Symposium on Open Collaboration.
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1145/3555051.3555067) <i class="fa fa-file-pdf"></i> [PDF](https://dl.acm.org/doi/pdf/10.1145/3555051.3555067) <i class="ai ai-figshare"></i> [Data set from literature review](https://doi.org/10.6084/m9.figshare.20137175)
 * <i class="flag-icons  GB"></i> **Linåker, J.**, & Runeson, P. (2022). *Sustaining Open Data as a Digital Common-Design principles for Common Pool Resources applied to Open Data Ecosystems*. In International Symposium on Open Collaboration.
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1145/3555051.3555066) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.01694.pdf)
@@ -98,7 +98,7 @@ header:
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/s10664-018-9656-z)
   
 <div id="2018" />
-#### 2018
+#### 2018 | <a href="#top">Top</a>
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Munir, H., Wnuk, K., & Mols, C. E. (2018). *Motivating the contributions: An open innovation perspective on what to share as open source software*. Journal of Systems and Software, 135, 17-36.
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1016/j.jss.2017.09.032F) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.00308.pdf)
 * <i class="flag-icons  GB"></i> Munir, H., **Linåker, J.**, Wnuk, K., Runeson, P., & Regnell, B. (2018). *Open innovation using open source tools: A case study at Sony Mobile*. Empirical Software Engineering, 23(1), 186-223.
@@ -121,7 +121,7 @@ header:
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1109/REW.2016.062) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.02629.pdf)
 
 <div id="2015" />
-#### 2015  
+#### 2015 | <a href="#top">Top</a>
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Regnell, B., & Munir, H. (2015). *Requirements engineering in open innovation: a research agenda*. In Proceedings of the 2015 international conference on software and system process (pp. 208-212).
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1145/2785592.2795370) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.01741.pdf)
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Munir, H., Runeson, P., Regnell, B., & Schrewelius, C. (2015). *A survey on the perception of innovation in a large product-focused software organization*. In International Conference of Software Business (pp. 66-80). Springer, Cham.
@@ -133,7 +133,7 @@ header:
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/978-3-319-13835-0_11) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.00037.pdf)
 
 <div id="pedagogic-papers" />
-## Pedagogic papers
+## Pedagogic papers | <a href="#top">Top</a>
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Bjarnasson, E., & Regnell, B. (2019). *Involving real-world stakeholders in course group projects: Opportunities and challenges [extended abstract].*. Lund University’s Teaching and Learning Conference. Lund, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Involving_real_world_stakeholders_in_course_group_projects__Opportunities_and_challenges_.pdf">PDF</a>
 * <i class="flag-icons  GB"></i> Bjarnasson, E., & **Linåker, J.** (2016). *Teaching Academic Writing to Large Classes of Engineering Students*. Pedagogiska inspirationskonferensen-Genombrottet. Lund University, Lund, Sweden.
@@ -147,7 +147,7 @@ header:
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1109/MS.2021.3118123) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/ftp/arxiv/papers/2208/2208.00488.pdf)
 
 <div id="popular-writing" />
-## Popular writing
+## Popular writing | <a href="#top">Top</a>
 * <i class="flag-icons SE"></i> Nyman, L., Nyström Holm, M., & **Linåker, J.**. (2021). *Dela kostnader och undvik inlåsningar*. Series on public procurement and Open Source Software - pt1. Inköpsrådet.
   - <i class="ai ai-doi-square"></i> [DOI](https://inkopsradet.se/dela-kostnader-och-undvik-inlasningar/)
 * <i class="flag-icons SE"></i> Nyman, L., Nyström Holm, M., & **Linåker, J.**. (2021). *Hitta öppen källkod som klarar kraven*. Series on public procurement and Open Source Software - pt2. Inköpsrådet.
