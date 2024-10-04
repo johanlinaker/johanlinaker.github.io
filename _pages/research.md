@@ -168,8 +168,8 @@ Areas I'm currently investigating include:
 </ul>
 
 <ul>
-    <li>Mar 2023 – Researcher (part-time.)</li>
-    <li>Jan 2022 – Feb 2023 – Affiliated Researcher, Department of Computer Science, Lund University, Lund, Sweden.
+    <li>Nov 2023 – Senior Researcher (part-time.)</li>
+    <li>Jan 2022 – Oct 2023 – Affiliated Researcher, Department of Computer Science, Lund University, Lund, Sweden.
     <ul>
         <li>Co-supervision of two PhD. students.</li>
         <li>Research on Continuous Experimentation in Game Development.</li>
