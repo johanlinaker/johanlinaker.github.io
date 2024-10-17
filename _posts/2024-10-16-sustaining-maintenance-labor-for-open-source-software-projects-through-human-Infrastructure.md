@@ -26,7 +26,7 @@ The aspects highlight that highlight that human infrastructure in OSS is not jus
 
 Our observations suggest that there is a dependency between the two categories where a limited amount of Contributor Labor creates a burden and dependency on the maintainer, while too high amounts may create too large of an overhead for maintainers, resulting in increased stress and pressure. Attraction of new contributors is considered pivotal for a healthy project, but needs to be balanced with an onboarding process that can empower the newcomers to make better contributions, requiring less attention from the maintainers. Non-code contributions, such as helping out with support, community management, and marketing are specifically highlighted as important contributions. Finally, Resource Funding is seen as a means of enabling maintainers and contributors to create a healthy work-life-balance, while also improving the project health.
 
-A longer story follows below (or check out the paper if you have too much time on your hands!):
+A longer story follows below (or check out the <a href="paper if you have too much time on your hands!):
 
 <h4>Maintenance Labor: The Foundation of Open Source Health and Sustainability</h4>
 Open Source Software (OSS) has become an integral component of today's software supply chains. This widespread adoption underscores the importance of OSS, which to large degrees are driven by community efforts. These communities consist of individuals who contribute either voluntarily or on behalf of their employers. The collective effort these individuals invest in developing and maintaining OSS projects we refer to as maintenance labor. 
