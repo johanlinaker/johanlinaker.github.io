@@ -3,7 +3,7 @@ title: "Paper: Sustaining Maintenance Labor for Healthy Open Source Software Pro
 seo_title: "Paper: Sustaining Maintenance Labor for Healthy Open Source Software Projects through Human Infrastructure: A Maintainer Perspective"
 excerpt: "We (Me, Georg Link, and Kevin Lumbard) did a study exploring how human infrastructure may help to support and secure the necessary amount of maintenance labor needed to ensure the long-term health of an OSS project. We identify a framework of infrastructure design aspects that maintainers and communities may consider when building human infrastructure. The design aspects consider specifically the human factors required, e.g., enabling a sustainable work-life balance, managing social pressure, promoting inclusiveness, and setting up guard rails for managing toxicity. "
 seo_description: "We (Me, Georg Link, and Kevin Lumbard) did a study exploring how human infrastructure may help to support and secure the necessary amount of maintenance labor needed to ensure the long-term health of an OSS project. We identify a framework of infrastructure design aspects that maintainers and communities may consider when building human infrastructure. The design aspects consider specifically the human factors required, e.g., enabling a sustainable work-life balance, managing social pressure, promoting inclusiveness, and setting up guard rails for managing toxicity. "
-date: 2024-10-17T15:34:30-04:00
+date: 2024-10-16T15:34:30-04:00
 categories:
   - blog
 tags:
@@ -12,12 +12,12 @@ tags:
   - policy
   - digital-commons
 header:
-  teaser: "/assets/images/2024-10-17-sustaining-maintenance-labor-for-open-source-software-projects-through-human-Infrastructure/teaser.jpg"
+  teaser: "/assets/images/2024-10-16-sustaining-maintenance-labor-for-open-source-software-projects-through-human-Infrastructure/teaser.jpg"
 ---
 
 
 <div class="thumbnail-container">
-<img src="/assets/images/2024-10-17-sustaining-maintenance-labor-for-open-source-software-projects-through-human-Infrastructure/teaser.jpg" alt="https://unsplash.com/photos/time-lapse-photo-of-are-filled-with-people-n0kwms_G_cw"></div>
+<img src="/assets/images/2024-10-16-sustaining-maintenance-labor-for-open-source-software-projects-through-human-Infrastructure/teaser.jpg" alt="https://unsplash.com/photos/time-lapse-photo-of-are-filled-with-people-n0kwms_G_cw"></div>
 
 <h4>TL;DR.... </h4>
 To keep it short. We (Me, Georg Link, and Kevin Lumbard) did a study exploring how human infrastructure may help to support and secure the necessary amount of maintenance labor needed to ensure the long-term health of an OSS project. We identify a framework of infrastructure design aspects that maintainers and communities may consider when building human infrastructure. The design aspects consider specifically the human factors required, e.g., enabling a sustainable work-life balance, managing social pressure, promoting inclusiveness, and setting up guard rails for managing toxicity. 
