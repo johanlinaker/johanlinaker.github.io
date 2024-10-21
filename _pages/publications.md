@@ -15,6 +15,7 @@ header:
 	<li><a href="#peer-reviewed-papers">Peer-reviewed papers</a>
 		<ul>
 			<li><a href="#2024">2024</a></li>
+			<li><a href="#2023">2023</a></li>
 			<li><a href="#2022">2022</a></li>
 			<li><a href="#2021">2021</a></li>
 			<li><a href="#2020">2020</a></li>
@@ -51,20 +52,23 @@ header:
 <div id="2024" />
 #### 2024 | <a href="#top">Top</a>
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Link, G., & Lumbard, K. (2024). *Sustaining Maintenance Labor for Healthy Open Source Software Projects through Human Infrastructure: A Maintainer Perspective*. In 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement.
-  - <i class="ai ai-doi-square"></i> <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2408.06723)
-* <i class="flag-icons  GB"></i> Persson, P., & **Linåker, J.** (2024). *Soft-lockins in Public sector acquisitions of Open Source Software-solutions: A case study on a e-service platform for Swedish municipalites*. In 57th Hawaii International Conference on System Sciences 2024 (HICSS-57).
-  - <i class="ai ai-doi-square"></i> <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.01694.pdf)
+  - <i class="ai ai-doi-square"></i> [DOI](https://dl.acm.org/doi/10.1145/3674805.3686667) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2408.06723)
+* <i class="flag-icons  GB"></i> Persson, P., & **Linåker, J.** (2024). *Soft-lockins in Public sector acquisitions of Open Source Software-solutions: A case study on a e-service platform for Swedish municipalites*. In 58th Hawaii International Conference on System Sciences 2024 (HICSS-58).
+  - <i class="ai ai-doi-square"></i> <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2409.01118)
 * <i class="flag-icons  GB"></i> Larsson, J., **Linåker, J.**, & Runeson, P. (2024). *Enabling Data-sharing in Freight Logistics through Open Data Ecosystems*. In International Conference on Electronic Government. Springer, Cham.
-  - <i class="ai ai-doi-square"></i> <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.01694.pdf)
-* <i class="flag-icons  GB"></i> Malysh, K., Ahmed, T., Runeson, P., & **Linåker, J.** (2024). *Inter-organizational Data Sharing Processes - an exploratory analysis of incentives and challenges*. In 50th Euromicro Conference Series on Software Engineering and Advanced Applications (SEAA).
-  - <i class="ai ai-doi-square"></i> <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.01694.pdf)
+  - <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/en/publications/enabling-data-sharing-in-logistics-through-open-data-ecosystems-a) <i class="fa fa-file-pdf"></i> [PDF](https://ceur-ws.org/Vol-3737/paper4.pdf)
+* <i class="flag-icons  GB"></i> Malysh, K., Ahmed, T., **Linåker, J.**, & Runeson, P. (2024). *Inter-organizational Data Sharing Processes - an exploratory analysis of incentives and challenges*. In 50th Euromicro Conference Series on Software Engineering and Advanced Applications (SEAA).
+  - <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/en/publications/inter-organizational-data-sharing-processes-an-exploratory-analys) <i class="fa fa-file-pdf"></i> [PDF](https://lucris.lub.lu.se/ws/portalfiles/portal/194583080/802600a080.pdf)
 * <i class="flag-icons  GB"></i> Alami, A., Pardo, R., & **Linåker, J.** (2024). *Free open source communities sustainability: Does it make a difference in software quality?*. Empirical Software Engineering, 29(5), 114.
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/s10664-024-10529-6) <i class="fa fa-file-pdf"></i> [PDF](https://link.springer.com/content/pdf/10.1007/s10664-024-10529-6.pdf)
 
+<div id="2023" />
+#### 2023 | <a href="#top">Top</a>
+* <i class="flag-icons  GB"></i> Susha, I., van den Broek, T.A., van Veenstra, A.F., & **Linåker, J.** (2023). *An ecosystem perspective on developing data collaboratives for addressing societal issues: The role of conveners*. Government Information Quarterly. 101763.
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1016/j.giq.2022.101763) <i class="fa fa-file-pdf"></i> [PDF](https://reader.elsevier.com/reader/sd/pii/S0740624X22000995?token=185D0600332918FD933E510095C05E7264A3DB891792EB8A369D8FA4AA38048D6A4D2E1E24441E7BDB03210329016940&originRegion=eu-west-1&originCreation=20221014180306)
+
 <div id="2022" />
 #### 2022 | <a href="#top">Top</a>
-* <i class="flag-icons  GB"></i> Susha, I., van den Broek, T.A., van Veenstra, A.F., & **Linåker, J.** (2022). *An ecosystem perspective on developing data collaboratives for addressing societal issues: The role of conveners*. Government Information Quarterly. 101763.
-  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1016/j.giq.2022.101763) <i class="fa fa-file-pdf"></i> [PDF](https://reader.elsevier.com/reader/sd/pii/S0740624X22000995?token=185D0600332918FD933E510095C05E7264A3DB891792EB8A369D8FA4AA38048D6A4D2E1E24441E7BDB03210329016940&originRegion=eu-west-1&originCreation=20221014180306)
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Papatheocharous, E., & Olsson, T. (2022). *How to characterize the health of an Open Source Software project? A snowball literature review of an emerging practice*. In 18th International Symposium on Open Collaboration.
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1145/3555051.3555067) <i class="fa fa-file-pdf"></i> [PDF](https://dl.acm.org/doi/pdf/10.1145/3555051.3555067) <i class="ai ai-figshare"></i> [Data set from literature review](https://doi.org/10.6084/m9.figshare.20137175)
 * <i class="flag-icons  GB"></i> **Linåker, J.**, & Runeson, P. (2022). *Sustaining Open Data as a Digital Common-Design principles for Common Pool Resources applied to Open Data Ecosystems*. In International Symposium on Open Collaboration.
