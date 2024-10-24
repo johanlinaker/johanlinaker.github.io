@@ -1,16 +1,25 @@
 ---
-title: "Paper: Sustaining Maintenance Labor for Healthy Open Source Software Projects through Human Infrastructure: A Maintainer Perspective"
-seo_title: "Paper: Sustaining Maintenance Labor for Healthy Open Source Software Projects through Human Infrastructure: A Maintainer Perspective"
-excerpt: "We (Me, Georg Link, and Kevin Lumbard) did a study exploring how human infrastructure may help to support and secure the necessary amount of maintenance labor needed to ensure the long-term health of an OSS project. We identify a framework of infrastructure design aspects that maintainers and communities may consider when building human infrastructure. The design aspects consider specifically the human factors required, e.g., enabling a sustainable work-life balance, managing social pressure, promoting inclusiveness, and setting up guard rails for managing toxicity. "
-seo_description: "We (Me, Georg Link, and Kevin Lumbard) did a study exploring how human infrastructure may help to support and secure the necessary amount of maintenance labor needed to ensure the long-term health of an OSS project. We identify a framework of infrastructure design aspects that maintainers and communities may consider when building human infrastructure. The design aspects consider specifically the human factors required, e.g., enabling a sustainable work-life balance, managing social pressure, promoting inclusiveness, and setting up guard rails for managing toxicity. "
+
+
+title: "Paper: Sustaining Availability of the Maintenance Labor with Human Infastructrue Key for Healthy Open Source Software Projects"
+seo_title: "Paper: Sustaining Availability of the Maintenance Labor with Human Infastructrue Key for Healthy Open Source Software Projects"
+excerpt: "We (Me, Georg Link, and Kevin Lumbard) explore how the health and sustainability of Open Source Software projects is dependent on the human activity invested by project maintainers and contributors. 
+The activity invested is labaled maintainence labor, and can accordingly originate either from the maintainers (maintainer labor) and the contributors (contributor labor). 
+The latter includes the full spectra between long-term to episodic contributors).The maintenance labor is substractable, meaning its availability is limited to the human actvity invested, and can be depleated, e.g., due to abandonment or limitations among currnet maintainers. 
+The labor can be compared to a common-pool resource, as it is also difficult to exclude others from benefitting from. To enable a long-term and viably maintained OSS project, the availability of maintenance labor need to be sustained from both sources (maintainers and contributors).
+Human infrastructure can help sustain this availability and need especially consider human factors, e.g., enabling a sustainable work-life balance, managing social pressure, promoting inclusiveness, and setting up guard rails for managing toxicity. 
+There is a dependency between the two categories of maintenance labor where a limited amount of contributor Labor creates a burden and dependency on the maintainer, while too high amounts may create too large of an overhead for maintainers, resulting in increased stress and pressure.
+Attraction of new contributors is considered pivotal for a healthy project, but needs to be balanced with an onboarding process that can empower the newcomers to make better contributions, requiring less attention from the maintainers. 
+Non-code contributions, such as helping out with support, community management, and marketing are specifically highlighted as important contributions. 
+Finally, Resource Funding is seen as a means of enabling maintainers and contributors to create a healthy work-life-balance, while also improving the project health. "
 date: 2024-10-16T15:34:30-04:00
 categories:
   - blog
 tags:
   - open-source-software
-  - public-sector
-  - policy
   - digital-commons
+  - health
+  - sustainability
 header:
   teaser: "/assets/images/2024-10-16-sustaining-maintenance-labor-for-open-source-software-projects-through-human-Infrastructure/teaser.jpg"
 ---
@@ -20,13 +29,28 @@ header:
 <img src="/assets/images/2024-10-16-sustaining-maintenance-labor-for-open-source-software-projects-through-human-Infrastructure/teaser.jpg" alt="https://unsplash.com/photos/time-lapse-photo-of-are-filled-with-people-n0kwms_G_cw"></div>
 
 <h4>TL;DR.... </h4>
-To keep it short. We (Me, Georg Link, and Kevin Lumbard) did a study exploring how human infrastructure may help to support and secure the necessary amount of maintenance labor needed to ensure the long-term health of an OSS project. We identify a framework of infrastructure design aspects that maintainers and communities may consider when building human infrastructure. The design aspects consider specifically the human factors required, e.g., enabling a sustainable work-life balance, managing social pressure, promoting inclusiveness, and setting up guard rails for managing toxicity. 
+<ul>
+	<li> We (Me, Georg Link, and Kevin Lumbard) explore how the health and sustainability of Open Source Software projects is dependent on the human activity invested by project maintainers and contributors.
+	</li>
+	<li> The activity invested is labaled maintainence labor, and can accordingly originate either from the maintainers (maintainer labor) and the contributors (contributor labor). The latter includes the full spectra between long-term to episodic contributors).
+	 </li>
+	<li> The maintenance labor is substractable, meaning its availability is limited to the human actvity invested, and can be depleated, e.g., due to abandonment or limitations among currnet maintainers.
+	<li> The labor can be compared to a common-pool resource, as it is also difficult to exclude others from benefitting from.
+	</li>
+	<li> To enable a long-term and viably maintained OSS project, the availability of maintenance labor need to be sustained from both sources (maintainers and contributors).
+	</li>
+	<li>Human infrastructure can help sustain this availability and need especially consider human factors, e.g., enabling a sustainable work-life balance, managing social pressure, promoting inclusiveness, and setting up guard rails for managing toxicity. 
+	</li>
+	<li> There is a dependency between the two categories of maintenance labor where a limited amount of contributor Labor creates a burden and dependency on the maintainer, while too high amounts may create too large of an overhead for maintainers, resulting in increased stress and pressure.
+	</li>Attraction of new contributors is considered pivotal for a healthy project, but needs to be balanced with an onboarding process that can empower the newcomers to make better contributions, requiring less attention from the maintainers. 
+	</li>
+	<li>Non-code contributions, such as helping out with support, community management, and marketing are specifically highlighted as important contributions. 
+	</li>
+	<li>Finally, Resource Funding is seen as a means of enabling maintainers and contributors to create a healthy work-life-balance, while also improving the project health.
+	</li>
+</ul>
 
-The aspects highlight that highlight that human infrastructure in OSS is not just about platforms, processes, and governance structures, but is equally about the human factors in play among the people performing the development and maintenance of the OSS projects. The design aspects further considers the two categories of maintenance labor as Maintainer and Contributor Labor, representing labor coming from the maintainers and the contributors of an OSS project respectively. Both sources of labor are in essence comparable to common pool resources in that they are depletable and need to be replenished and sustained for an OSS project to stay healthy, i.e., viably maintained long-term without interruption or weakening.
-
-Our observations suggest that there is a dependency between the two categories where a limited amount of Contributor Labor creates a burden and dependency on the maintainer, while too high amounts may create too large of an overhead for maintainers, resulting in increased stress and pressure. Attraction of new contributors is considered pivotal for a healthy project, but needs to be balanced with an onboarding process that can empower the newcomers to make better contributions, requiring less attention from the maintainers. Non-code contributions, such as helping out with support, community management, and marketing are specifically highlighted as important contributions. Finally, Resource Funding is seen as a means of enabling maintainers and contributors to create a healthy work-life-balance, while also improving the project health.
-
-A longer story follows below (or check out the <a href="https://arxiv.org/pdf/2408.06723" target="_blank">paper</a> if you have too much time on your hands!):
+For further overview, consider reviewing the <a href="/assets/slides/OSS-Health-and-Human-Infrastructure-ESEM.pdf" target="_blank">presentation slides</a>. A longer story follows below (or check out the <a href="https://arxiv.org/pdf/2408.06723" target="_blank">paper</a> if you have too much time on your hands!)
 
 <h4>Maintenance Labor: The Foundation of Open Source Health and Sustainability</h4>
 Open Source Software (OSS) has become an integral component of today's software supply chains. This widespread adoption underscores the importance of OSS, which to large degrees are driven by community efforts. These communities consist of individuals who contribute either voluntarily or on behalf of their employers. The collective effort these individuals invest in developing and maintaining OSS projects we refer to as maintenance labor. 
