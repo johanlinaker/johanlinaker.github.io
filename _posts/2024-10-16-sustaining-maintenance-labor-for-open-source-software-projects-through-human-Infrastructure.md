@@ -42,7 +42,8 @@ header:
 	<li>Human infrastructure can help sustain this availability and need, especially considering human factors, e.g., enabling a sustainable work-life balance, managing social pressure, promoting inclusiveness, and setting up guard rails for managing toxicity. 
 	</li>
 	<li> There is a dependency between the two categories of Maintenance Labor where a limited amount of Contributor Labor creates a burden and dependency on the maintainer, while too high amounts may create too large of overhead for maintainers, resulting in increased stress and pressure.
-	</li>Attraction of new contributors is considered pivotal for a healthy project but needs to be balanced with an onboarding process that can empower the newcomers to make better contributions, requiring less attention from the maintainers. 
+	</li>
+	<li>Attraction of new contributors is considered pivotal for a healthy project but needs to be balanced with an onboarding process that can empower the newcomers to make better contributions, requiring less attention from the maintainers. 
 	</li>
 	<li>Non-code contributions, such as helping with support, community management, and marketing, are highlighted as important contributions. 
 	</li>
