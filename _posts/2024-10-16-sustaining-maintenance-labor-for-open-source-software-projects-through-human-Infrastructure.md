@@ -30,24 +30,24 @@ header:
 
 <h4>TL;DR.... </h4>
 <ul>
-	<li> We (Me, Georg Link, and Kevin Lumbard) explore how Open Source Software projects' health and sustainability depend on the human activity invested by project maintainers and contributors.
+	<li> We (Me, Georg Link, and Kevin Lumbard) explore how <b>Open Source Software projects' health and sustainability</b> depend on the human activity invested by project maintainers and contributors.
 	</li>
-	<li> The activity invested is labeled Maintenance Labor and can accordingly originate either from the maintainers (Maintainer Labor) or the contributors (Contributor Labor). The latter includes the full spectra between long-term to episodic contributors).
+	<li> The activity invested is labeled <b>Maintenance Labor</b> and can accordingly originate either from the maintainers (<b>Maintainer Labor</b>) or the contributors (<b>Contributor Labor</b>). The latter includes the full spectra between long-term to episodic contributors.
 	 </li>
-	<li> The Maintenance Labor is subtractable, meaning its availability is limited to the human activity invested, and can be depleted, e.g., due to abandonment or limitations among current maintainers.
-	<li> The Labor can be compared to a common-pool resource, as excluding others from benefitting from it is also difficult.
+	<li> The Maintenance Labor is <b>subtractable</b>, meaning its availability is limited to the human activity invested, and can be depleted, e.g., due to abandonment or limitations among current maintainers.
+	<li> The Labor can be compared to a <b>common-pool resource</b>, as also excluding others from benefitting of the maintainers' output is difficult.
 	</li>
 	<li> To enable a long-term and viably maintained OSS project, the availability of Maintenance Labor needs to be sustained from both sources (maintainers and contributors).
 	</li>
-	<li>Human infrastructure can help sustain this availability and need, especially considering human factors, e.g., enabling a sustainable work-life balance, managing social pressure, promoting inclusiveness, and setting up guard rails for managing toxicity. 
+	<li><b>Human infrastructure</b> can help sustain this availability and need, especially considering <b>human factors</b>, e.g., enabling a sustainable work-life balance, managing social pressure, promoting inclusiveness, and setting up guard rails for managing toxicity. 
 	</li>
-	<li> There is a dependency between the two categories of Maintenance Labor where a limited amount of Contributor Labor creates a burden and dependency on the maintainer, while too high amounts may create too large of overhead for maintainers, resulting in increased stress and pressure.
+	<li> There is a <b>dependency</b> between the two categories of Maintenance Labor where a limited amount of Contributor Labor creates a burden and dependency on the maintainer, while too high amounts may create too large of overhead for maintainers, resulting in increased stress and pressure.
 	</li>
-	<li>Attraction of new contributors is considered pivotal for a healthy project but needs to be balanced with an onboarding process that can empower the newcomers to make better contributions, requiring less attention from the maintainers. 
+	<li>Attraction of new contributors is considered pivotal for a healthy project but <b>needs to be balanced</b> with an onboarding process that can empower the newcomers to make better contributions, requiring less attention from the maintainers. 
 	</li>
-	<li>Non-code contributions, such as helping with support, community management, and marketing, are highlighted as important contributions. 
+	<li><b>Non-code contributions</b>, such as helping with support, community management, and marketing, are highlighted as important contributions. 
 	</li>
-	<li>Finally, Resource Funding is seen as a means of enabling maintainers and contributors to create a healthy work-life balance while also improving the project's health.
+	<li>Finally, <b>Resource Funding</b> is seen as a means of enabling maintainers and contributors to create a healthy work-life balance while also improving the project's health.
 	</li>
 </ul>
 
