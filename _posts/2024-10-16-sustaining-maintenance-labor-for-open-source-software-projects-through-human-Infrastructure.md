@@ -35,6 +35,7 @@ header:
 	<li> The activity invested is labeled <b>Maintenance Labor</b> and can accordingly originate either from the maintainers (<b>Maintainer Labor</b>) or the contributors (<b>Contributor Labor</b>). The latter includes the full spectra between long-term to episodic contributors.
 	 </li>
 	<li> The Maintenance Labor is <b>subtractable</b>, meaning its availability is limited to the human activity invested, and can be depleted, e.g., due to abandonment or limitations among current maintainers.
+	</li>
 	<li> The Labor can be compared to a <b>common-pool resource</b>, as also excluding others from benefitting of the maintainers' output is difficult.
 	</li>
 	<li> To enable a long-term and viably maintained OSS project, the availability of Maintenance Labor needs to be sustained from both sources (maintainers and contributors).
@@ -48,6 +49,16 @@ header:
 	<li><b>Non-code contributions</b>, such as helping with support, community management, and marketing, are highlighted as important contributions. 
 	</li>
 	<li>Finally, <b>Resource Funding</b> is seen as a means of enabling maintainers and contributors to create a healthy work-life balance while also improving the project's health.
+	</li>
+	<li><b>Implications</b>: 
+		<ul>
+			<li>Policy needs to recognize the sensitivity of the Maintenance Labor and its role in sustaining the digital commons and infrastructure that underpins society today.
+			</li>
+			<li>Initaitives and human infrastructure are needed to support maintainers through funding and reduce overhead in managing volatile communities while maintaining a healthy work-life balance and in-project working environment. 
+			</li>
+			<li>Users of the OSS, especially industry and governments, must consider their role and responsibility in sustaining the OSS and the human activity that goes into its long-term maintenance.
+			</li>
+		</ul>
 	</li>
 </ul>
 
