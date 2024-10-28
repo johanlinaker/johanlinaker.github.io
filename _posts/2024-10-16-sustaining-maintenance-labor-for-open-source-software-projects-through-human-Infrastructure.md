@@ -28,7 +28,7 @@ header:
 <div class="thumbnail-container">
 <img src="/assets/images/2024-10-16-sustaining-maintenance-labor-for-open-source-software-projects-through-human-Infrastructure/teaser.jpg" alt="https://unsplash.com/photos/time-lapse-photo-of-are-filled-with-people-n0kwms_G_cw"></div>
 
-<h4>TL;DR.... </h4>
+<h4>TL;DR / Summary: </h4>
 <ul>
 	<li> We (Me, Georg Link, and Kevin Lumbard) explore how <b>Open Source Software projects' health and sustainability</b> depend on the human activity invested by project maintainers and contributors.
 	</li>
