@@ -25,6 +25,10 @@ header:
 <div id="2024" />
 ## 2024 | <a href="#top">Top</a>
 
+* <i class="flag-icons  GB"></i> *Opening up for share and reuse of data - Why is it so hard?*. (2024, Nov). AI and Digitalization seminar at the Faculty of Engineering, Lund University. Invited talk, Lund, Sweden.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Opening-up-for-share-and-reuse-of-data-AID-LTH.pdf">Slides</a>
+* <i class="flag-icons  GB"></i> *Public Sector Open Source Program Offices - Archetypes for how to Grow (Common) Institutional Capabilities*. (2024, Nov). OpenForum Academy Symposium. Submitted talk, Boston, US.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Public-sector-OSPOs-OFA-Symposium-2024-OSOR-final.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Sustaining Maintenance Labor for Healthy Open Source Software Projects through Human Infrastructure - A Maintainer Perspective*. (2024, Oct). 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement. Paper presentation, Barcelona, Spain.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-Health-and-Human-Infrastructure-ESEM.pdf">Slides</a> <i class="ai ai-doi-square"></i> [Paper DOI](https://dl.acm.org/doi/10.1145/3674805.3686667) <i class="fa fa-file-pdf"></i> [Paper PDF](https://arxiv.org/pdf/2408.06723)
 * <i class="flag-icons  GB"></i> *Software Reuse through Open Source Software in the Public Sector: A qualitative survey on Policy and Practice*. (2024, Sept). Fællesoffentlig Digital Arkitektur Konference. Invited talk, Copenhagen, Denmark.
