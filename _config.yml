@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Johan Linåker"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Senior Researcher at <a href=\"https://www.ri.se/en/person/johan-linaker\">RISE Research Institutes of Sweden</a>" and Adjunct Assistant Professor at <a href=\"https://portal.research.lu.se/sv/persons/johan-lin%C3%A5ker\" target="_top">Lund University</a>
+  bio    : "Senior Researcher at <a href=\"https://www.ri.se/en/person/johan-linaker\" target=\"_top\">RISE Research Institutes of Sweden</a> and Adjunct Assistant Professor at <a href=\"https://portal.research.lu.se/sv/persons/johan-lin%C3%A5ker\" target=\"_top\">Lund University</a>"
   links:
     - label: "Mastodon"
       icon: "fab fa-mastodon"
