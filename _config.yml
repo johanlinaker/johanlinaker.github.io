@@ -64,9 +64,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Senior Researcher at <a href=\"https://www.ri.se/en/person/johan-linaker\">RISE Research Institutes of Sweden</a>"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/johanlinaker"
     - label: "Mastodon"
       icon: "fab fa-mastodon"
       url: "https://mastodon.acm.org/@johanlinaker"

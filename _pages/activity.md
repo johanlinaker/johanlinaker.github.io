@@ -53,8 +53,8 @@ header:
 
 <div id="conferences-main-research-paper-tracks" />
 ### Conferences (main research paper tracks) | <a href="#top">Top</a>
-* International Conference of Software Engineering: ICSE (2022, 2024)
-* International Symposium on Empirical Software Engineering and Measurement: ESEM (2023 - 2024)
+* International Conference of Software Engineering: ICSE (2022, 2024, 2026)
+* International Symposium on Empirical Software Engineering and Measurement: ESEM (2023 - 2025)
 * International Conference on Electronic Government: EGOV (2020 - 2024)
 * International Conference on Software Business: ICSOB (2020 - 2024)
 * International Conference of Information Systems: ICIS (2020)
@@ -75,7 +75,7 @@ header:
 * Journal of Software and Systems (2017, 2022, 2024)
 * Information and Software Technology (2019, 2021, 2022)
 * Requirements Engineering Journal (2020)
-* Government information quarterly (2024)
+* Government information quarterly (2024, 2025)
 * Technological Forecasting & Social Change (2024)
 * Technovation (2023, 2024)
 * eJournal of eDemocracy and open government (2021, 2022, 2024)

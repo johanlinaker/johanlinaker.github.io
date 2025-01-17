@@ -4,7 +4,7 @@
 title: "Chapter: Health Check-ups on Open Source Software Projects: Managing Risks while Promoting (Re)use"
 seo_title: "Chapter: Health Check-ups on Open Source Software Projects: Managing Risks while Promoting (Re)use"
 excerpt: ""
-date: 2024-12-16T15:34:30-04:00
+date: 2025-03-01T15:34:30-04:00
 categories:
   - blog
 tags:

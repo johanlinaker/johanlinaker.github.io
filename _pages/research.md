@@ -161,20 +161,21 @@ Areas I'm currently investigating include:
 </ul>
 
 <ul>
-    <li>Oct 2019 – Aug 2021 – Open Source Strategist, Axis Communications, Lund, Sweden.
-    <ul>
-        <li>Supported and developed the OSS strategy and operations concerning consumption, compliance and development. </li>
-    </ul></li>
-</ul>
-
-<ul>
-    <li>Nov 2023 – Senior Researcher (part-time.)</li>
+    <li>Jan 2025 - Adjunct Assistant Professor (part-time.)</li>
+    <li>Nov 2023 – Dec 2024 - Senior Researcher (part-time.)</li>
     <li>Jan 2022 – Oct 2023 – Affiliated Researcher, Department of Computer Science, Lund University, Lund, Sweden.
     <ul>
         <li>Co-supervision of two PhD. students.</li>
         <li>Research on Continuous Experimentation in Game Development.</li>
         <li>Guest lectures in MSc. courses on Requirements Engineering, and Business of Software.</li>
 		<li>Lecturing, and course development in PhD student courses.</li>
+    </ul></li>
+</ul>
+
+<ul>
+    <li>Oct 2019 – Aug 2021 – Open Source Strategist, Axis Communications, Lund, Sweden.
+    <ul>
+        <li>Supported and developed the OSS strategy and operations concerning consumption, compliance and development. </li>
     </ul></li>
 </ul>
 
