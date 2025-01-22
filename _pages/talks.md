@@ -22,6 +22,13 @@ header:
 	<li><a href="#2017">2017</a></li>
 </ul>
 
+<div id="2025" />
+## 2024 | <a href="#top">Top</a>
+* <i class="flag-icons  GB"></i> *Health Check-ups on Open Source Software Projects Managing Risks while Promoting (Re)use*. (2025, Jan). Avancerad Digitalisering - Vinnova. Invited talk, Gothenburg, Sweden.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-health-HASMOSS-Avancerad-Digitalisering.pdf">Slides</a>
+* <i class="flag-icons  GB"></i> *Public Sector Open Source Program Offices - Archetypes for how to Grow (Common) Institutional Capabilities*. (2025, Jan). Helmholtz Open Science Seminar. Invited talk, Virtual.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Public-sector-OSPOs-Helmholtz-Open-Science-2024-OSOR-final.pdf">Slides</a>
+
 <div id="2024" />
 ## 2024 | <a href="#top">Top</a>
 
