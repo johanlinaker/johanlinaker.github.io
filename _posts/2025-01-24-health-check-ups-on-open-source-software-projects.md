@@ -3,7 +3,7 @@
 
 title: "Health Check-ups on OSS Software Projects: Managing Risks while Promoting (Re)use"
 seo_title: "Health Check-ups on OSS Software Projects: Managing Risks while Promoting (Re)use"
-excerpt: "Getting an overview of Open Source Software (OSS) intake (including upstream dependencies) is a huge challenge as consumption is ever-growing. Each OSS component comes with a risk in terms of its ability to stay maintained long-term, with high quality and without interruption. Analyzing and monitoring the health of OSS intake can enable proactive management of potential risks, but it is also a mountain to climb, but it is possible."
+excerpt: "Getting an overview of Open Source Software (OSS) intake (including upstream dependencies) is a challenge as consumption is ever-growing. Each OSS component comes with a risk in terms of its ability to stay maintained long-term, with high quality and without interruption. Analyzing and monitoring the health of OSS intake can enable proactive management of potential risks, but it is also a mountain to climb, but it is possible."
 date: 2025-01-24T01:00:00-04:00
 categories:
   - blog
@@ -22,13 +22,13 @@ header:
 
 <h4>TL;DR / Summary: </h4>
 <ul>
-	<li>Getting an overview of Open Source Software (OSS) intake (including upstream dependencies) is a huge challenge as consumption is ever-growing.
+	<li>Getting an overview of Open Source Software (OSS) intake (including upstream dependencies) is a challenge as consumption is ever-growing.
 	</li>
-	<li>Each OSS component comes with a risk in terms of its ability to stay maintained long-term, with high quality and without interruption.
+	<li>This is important for many reasons, where one is that OSS component comes with a risk in terms of its health, meaning its ability to stay maintained long-term, with high quality and without interruption.
 	</li>
-	<li>Analyzing and monitoring the health of OSS intake can enable proactive management of potential risks, but it is also a mountain to climb, but it is possible.
+	<li>Analyzing and monitoring the health of OSS intake can enable proactive management of such potential risks, but it is also a mountain to climb although possible as we show.
 	</li>
-	<li>Health is neither a number nor black or white. There are many ways in which health can be characterized, symptoms that need a diagnosis, and potential prescriptions, as with a doctor's visit.
+	<li>OSS health is neither a number nor black or white. Issues can be many, as with the underlying reasons. Questions need to be asked based on the symptoms, a diagnosis made, and potential prescriptions applied, similar as to a doctor's appointment.
 	</li>
 	<li>You cannot compare apples, oranges, and bananas. All projects are different by context and subjective importance and need to be viewed and compared accordingly. The stages in the life cycle, complexity, governance concentration, and strategic importance for the adopter are some characteristics that need consideration.
 	</li>
