@@ -1,10 +1,10 @@
 ---
 
 
-title: "Chapter: Health Check-ups on OSS Software Projects: Managing Risks while Promoting (Re)use"
-seo_title: "Chapter: Health Check-ups on OSS Software Projects: Managing Risks while Promoting (Re)use"
-excerpt: ""
-date: 2025-03-01T15:34:30-04:00
+title: "Health Check-ups on OSS Software Projects: Managing Risks while Promoting (Re)use"
+seo_title: "Health Check-ups on OSS Software Projects: Managing Risks while Promoting (Re)use"
+excerpt: "Getting an overview of Open Source Software (OSS) intake (including upstream dependencies) is a huge challenge as consumption is ever-growing. Each OSS component comes with a risk in terms of its ability to stay maintained long-term, with high quality and without interruption. Analyzing and monitoring the health of OSS intake can enable proactive management of potential risks, but it is also a mountain to climb, but it is possible."
+date: 2025-01-24T01:00:00-04:00
 categories:
   - blog
 tags:
@@ -26,7 +26,7 @@ header:
 	</li>
 	<li>Each OSS component comes with a risk in terms of its ability to stay maintained long-term, with high quality and without interruption.
 	</li>
-	<li>Analyzing and monitoring the health of OSS intake can enable proactive management of potential risks, but it is also a mountain to climb.
+	<li>Analyzing and monitoring the health of OSS intake can enable proactive management of potential risks, but it is also a mountain to climb, but it is possible.
 	</li>
 	<li>Health is neither a number nor black or white. There are many ways in which health can be characterized, symptoms that need a diagnosis, and potential prescriptions, as with a doctor's visit.
 	</li>
