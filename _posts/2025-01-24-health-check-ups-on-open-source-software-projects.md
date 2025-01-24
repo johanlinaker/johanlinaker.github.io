@@ -56,9 +56,9 @@ header:
 
 <h4>Longer version</h4>
 
-OSS Software is undoubtedly everywhere around us, with organizations increasing their intake per year. An international Telco company highlighted recently how they have increased their intake of unique OSS components per year from 30 to more than 50k. This is great from many perspectives, including cost-effiency and innovation. However, it also comes with risks. 
+OSS Software is undoubtedly everywhere around us, with organizations increasing their intake per year. An international IT-heavy company highlighted recently how they have increased their intake of unique OSS components per year from 30 to more than 50k. This is great from many perspectives, including cost-effiency and innovation. However, it also comes with risks. 
 
-Each OSS component is maintained by its community, and all different levels and amounts of resources are put into their continued development and maintenance. The quality and security of the OSS are very much dependent on these resources, which we can also refer to as maintenance labor, coming either from the maintainers or contributors of the OSS community. How can the aforementioned Telco company be sure that all 50K+ components are maintained at a reasonable level? Is it feasible to acquire support contracts from service suppliers for all components? And what about their upstream dependencies?
+Each OSS component is maintained by its community, and all different levels and amounts of resources are put into their continued development and maintenance. The quality and security of the OSS are very much dependent on these resources, which we can also refer to as maintenance labor, coming either from the maintainers or contributors of the OSS community. How can the aforementioned company be sure that all 50K+ components are maintained at a reasonable level? Is it feasible to acquire support contracts from service suppliers for all components? And what about their upstream dependencies?
 
 This quicly becomes a complex saga, highlighting the need to be able to cost-effectively yet systematically monitor the ability of potential and already adopted OSS projects to stay maintained long-term to a reasonable level of quality, and withouth interruption. This is what we also refer to as the OSS project's health or sustainability.
 
