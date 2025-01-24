@@ -76,8 +76,7 @@ Each organization must answer the question of what aspects and attributes to use
 <h4>Implementing health assessments in practice</h4>
 To evaluate the applicability of the health framework, we tailored it through a case study to the specific context of a large international automotive manufacturer. In the process, we narrowed down the health attributes to a questionnaire and designed a candidate process suited to the company's needs.
 
-<div class="thumbnail-container">
-<img src="/assets/images/2025-01-24-health-check-ups-on-open-source-software-projects/process-fig.png"></div>
+<img src="/assets/images/2025-01-24-health-check-ups-on-open-source-software-projects/process-fig.png">
 
 The proposed process focuses on semi-automating the health assessments, where OSS components at the intake stage, are manually inspected using standardized checklist with automated tool support as needed. Inspections need to be lightweight yet rigorous enough to capture the concerned health aspects of importance. A lightweight documentation process is needed to persist and index analysis for future follow-up, peer-review, and training.
 
