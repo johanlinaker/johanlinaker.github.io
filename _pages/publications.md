@@ -162,7 +162,7 @@ header:
 
 <div id="book-chapters" />
 ## Book chapters | <a href="#top">Top</a>
-* <i class="flag-icons  GB"></i> *Germonprez, M. & **Linåker, J.**. (2024). *Chapter 5: Measuring and Communicating Impact by your OSPO*. The Open Source (Program) Office Book. The TODO Group/Linux Foundation.
+* <i class="flag-icons  GB"></i> Germonprez, M. & **Linåker, J.**. (2024). *Chapter 5: Measuring and Communicating Impact by your OSPO*. The Open Source (Program) Office Book. The TODO Group/Linux Foundation.
   - <i class="fa fa-file-pdf"></i> [PDF](https://github.com/todogroup/ospology/blob/cca7e569864f243138e921177e2103dae781e4cc/ospo-book/content/en/05-chapter.md)
 
 <div id="popular-writing" />
