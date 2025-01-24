@@ -13,7 +13,7 @@ tags:
   - health
   - sustainability
 header:
-  teaser: "/assets/images/2024-10-16-sustaining-maintenance-labor-for-open-source-software-projects-through-human-Infrastructure/teaser.jpg"
+  teaser: "/assets/images/2025-01-24-health-check-ups-on-open-source-software-projects/teaser.jpg"
 ---
 
 
