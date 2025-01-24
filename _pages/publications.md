@@ -29,6 +29,7 @@ header:
 	</li>
 	<li><a href="#pedagogic-papers">Pedagogic papers</a></li>
 	<li><a href="#editorials">Editorials</a></li>
+	<li><a href="#book-chapters">Book chapters</a></li>
 	<li><a href="#popular-writing">Popular writing</a></li>
 	<li><a href="#doctoral-dissertation">Doctoral dissertation</a></li>
 </ul>
@@ -51,6 +52,14 @@ header:
 
 <div id="2024" />
 #### 2024 | <a href="#top">Top</a>
+* <i class="flag-icons  GB"></i> **Linåker, J.**, Bjarnason, E., & Fagerholm, F. (2024). *Pre-Release Experimentation in Indie Game Development: An Interview Survey*. In 15th International Conference on Software Business.
+  - <i class="ai ai-doi-square"></i> [DOI](https://dl.acm.org/doi/10.1145/3674805.3686667) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2408.06723)
+  
+  
+* <i class="flag-icons  GB"></i> **Linåker, J.**, Link, G., & Lumbard, K. (2024). *Sustaining Maintenance Labor for Healthy Open Source Software Projects through Human Infrastructure: A Maintainer Perspective*. In 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement.
+  - <i class="ai ai-doi-square"></i> [DOI](https://dl.acm.org/doi/10.1145/3674805.3686667) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2408.06723)
+  
+  
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Link, G., & Lumbard, K. (2024). *Sustaining Maintenance Labor for Healthy Open Source Software Projects through Human Infrastructure: A Maintainer Perspective*. In 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement.
   - <i class="ai ai-doi-square"></i> [DOI](https://dl.acm.org/doi/10.1145/3674805.3686667) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2408.06723)
 * <i class="flag-icons  GB"></i> Persson, P., & **Linåker, J.** (2024). *Soft-lockins in Public sector acquisitions of Open Source Software-solutions: A case study on a e-service platform for Swedish municipalites*. In 58th Hawaii International Conference on System Sciences 2024 (HICSS-58).
@@ -149,6 +158,12 @@ header:
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1109/MS.2023.3266105) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/ftp/arxiv/papers/2308/2308.04766.pdf)
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Runeson, P., Zuiderwijk, A., & Brock, A. (2022). *Collaborative Aspects of Open Data in Software Engineering*. IEEE Software, 39(1), 31-35.
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1109/MS.2021.3118123) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/ftp/arxiv/papers/2208/2208.00488.pdf)
+
+
+<div id="book-chapters" />
+## Book chapters | <a href="#top">Top</a>
+* <i class="flag-icons  GB"></i> *Germonprez, M. & **Linåker, J.**. (2024). *Chapter 5: Measuring and Communicating Impact by your OSPO*. The Open Source (Program) Office Book. The TODO Group/Linux Foundation.
+  - <i class="fa fa-file-pdf"></i> [PDF](https://github.com/todogroup/ospology/blob/cca7e569864f243138e921177e2103dae781e4cc/ospo-book/content/en/05-chapter.md)
 
 <div id="popular-writing" />
 ## Popular writing | <a href="#top">Top</a>
