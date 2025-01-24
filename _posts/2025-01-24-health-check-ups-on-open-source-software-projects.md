@@ -24,15 +24,15 @@ header:
 <ul>
 	<li>Getting an overview of Open Source Software (OSS) intake (including upstream dependencies) is a challenge as consumption is ever-growing.
 	</li>
-	<li>This is important for many reasons, where one is that adopting an OSS component comes with a risk in terms of its health, meaning its ability to stay maintained long-term, with high quality and without interruption.
+	<li>This is important for many reasons, one being the risk that comes in terms of an OSS component’s health, meaning its ability to stay maintained long-term, with high quality and without interruption.
 	</li>
-	<li>Analyzing and monitoring the health of OSS intake can enable proactive management of such potential risks, but it is also a mountain to climb (although possible as we show).
+	<li>Analyzing and monitoring the health of OSS in the intake process can enable proactive management of such potential risks, but it is also a mountain to climb in itself (although possible as we show).
 	</li>
-	<li>OSS health is neither a number nor black or white. Issues can be many, as with the underlying reasons. Questions need to be asked based on the symptoms, a diagnosis made, and potential prescriptions applied, similar as to a doctor's appointment.
+	<li>OSS health is neither a number nor something binary. Issues can be many, as with the underlying reasons. Questions need to be asked based on the symptoms, a diagnosis made, and potential prescriptions applied, similar as to a doctor's appointment.
 	</li>
-	<li>You cannot compare apples, oranges, and bananas. All projects are different by context, community and subjective importance and need to be viewed and compared accordingly. The stages in the life cycle, complexity, governance concentration, and strategic importance for the adopter are some characteristics that need consideration.
+	<li>You cannot compare apples, oranges, and bananas. All projects are different by (e.g.) context, community and subjective importance and need to be viewed and compared accordingly. The stages in the life cycle, complexity, governance concentration, and strategic importance for the adopter are some characteristics that need consideration.
 	</li>
-	<li>Frameworks and collection of metrics exist that can help to create checklists and awareness of what health aspects to look for, how to analyze, why, and how to address.
+	<li>Frameworks and collection of metrics exist that can help to create checklists and awareness of what health aspects to look for, what questions to ask, how to analyze, why, and how to address.
 	</li>
 	<li>Automated tooling should be tailored and leveraged to support manual inspections at the point of intake and continuously run to monitor existing dependencies. OSS components at risk should be flagged and analyzed manually by the one with contextual knowledge.
 	</li>
@@ -48,7 +48,7 @@ header:
 			</li>
 			<li> Skills development and training are critical across organizations. Standardized courses, processes, and tools as well as case studies are also needed.
 			</li>
-			<li>Indicators and monitoring efforts can support policy and the ecosystem where to direct investments and contributions but also risk creating blind spots and forgetting/ignoring parts of our OSS-based infrastructure. In the end, everything connects together, one way or the other.
+			<li>Indicators and monitoring efforts can support policy and the ecosystem where to direct investments and contributions but also risk oversimplifying, focusing solely on specific metrics, creating blind spots and forgetting/ignoring parts of our OSS-based infrastructure. In the end, everything connects together, one way or the other.
 			</li>
 		</ul>
 	</li>
