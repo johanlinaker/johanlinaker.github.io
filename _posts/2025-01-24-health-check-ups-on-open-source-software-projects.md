@@ -24,27 +24,29 @@ header:
 <ul>
 	<li>Getting an overview of Open Source Software (OSS) intake (including upstream dependencies) is a challenge as consumption is ever-growing.
 	</li>
-	<li>This is important for many reasons, where one is that OSS component comes with a risk in terms of its health, meaning its ability to stay maintained long-term, with high quality and without interruption.
+	<li>This is important for many reasons, where one is that adopting an OSS component comes with a risk in terms of its health, meaning its ability to stay maintained long-term, with high quality and without interruption.
 	</li>
-	<li>Analyzing and monitoring the health of OSS intake can enable proactive management of such potential risks, but it is also a mountain to climb although possible as we show.
+	<li>Analyzing and monitoring the health of OSS intake can enable proactive management of such potential risks, but it is also a mountain to climb (although possible as we show).
 	</li>
 	<li>OSS health is neither a number nor black or white. Issues can be many, as with the underlying reasons. Questions need to be asked based on the symptoms, a diagnosis made, and potential prescriptions applied, similar as to a doctor's appointment.
 	</li>
-	<li>You cannot compare apples, oranges, and bananas. All projects are different by context and subjective importance and need to be viewed and compared accordingly. The stages in the life cycle, complexity, governance concentration, and strategic importance for the adopter are some characteristics that need consideration.
+	<li>You cannot compare apples, oranges, and bananas. All projects are different by context, community and subjective importance and need to be viewed and compared accordingly. The stages in the life cycle, complexity, governance concentration, and strategic importance for the adopter are some characteristics that need consideration.
 	</li>
 	<li>Frameworks and collection of metrics exist that can help to create checklists and awareness of what health aspects to look for, how to analyze, why, and how to address.
 	</li>
-	<li>Aumotated tooling should be tailored and leveraged to support manual inspections at the point of intake and continuously run to monitor existing dependencies. OSS components at risk should be flagged and analyzed manually by the one with contextual knowledge.
+	<li>Automated tooling should be tailored and leveraged to support manual inspections at the point of intake and continuously run to monitor existing dependencies. OSS components at risk should be flagged and analyzed manually by the one with contextual knowledge.
 	</li>
-	<li>Any process should be decentralized, empower and overburden developers, and enable follow-up and knowledge-sharing. The latter is important for sharing and growing a common knowledge base and understanding of how development, culture, health, and other factors differ across projects.
+	<li>Any process should be decentralized, empower and not overburden developers, and enable follow-up and knowledge-sharing. The latter is important for sharing and growing a common knowledge base and understanding of how development, culture, health, and other factors differ across projects.
 	</li>
 	<li><b>Implications</b>: 
 		<ul>
-			<li>There are ways to manage the intake risk of OSS and to proactively improve health where most needed. 
+			<li>There are ways to manage the intake risk of OSS and to proactively improve health where needed. 
 			</li>
 			<li>Any organization (public and private) using and developing OSS in their products, services, and infrastructure needs to consider how to manage risk related to OSS health.
 			</li>
 			<li>Requirements on analysis procedures and foremost upstream contributions to central OSS components should (beyond a Software Bill of Material) be included in vendor, partner, and procurement contracts.
+			</li>
+			<li> Skills development and training are critical across organizations. Standardized courses, processes, and tools as well as case studies are also needed.
 			</li>
 			<li>Indicators and monitoring efforts can support policy and the ecosystem where to direct investments and contributions but also risk creating blind spots and forgetting/ignoring parts of our OSS-based infrastructure. In the end, everything connects together, one way or the other.
 			</li>
@@ -64,7 +66,7 @@ In a recent R&D project, funded by the Swedish Innovation Agency (Vinnova), we s
 
 The process can be compared to taking a project to a doctor's appointment, where questions are asked about the observed symptoms. Insights narrows down potential causes, and leads to a diagnosis, after which a decision is made regarding action and treatment.
 
-Below, follows a brief overview of the project outputs based on my contribution to the OSS Metrics chapter of the TODO group's OSPO book. For an even more condensed overview, consider looking at the slide set from a presentation I did recently on the topic. A pre-print of the underpinning paper (currently under review) is available <a href="/assets/slides/OSS_Health_Interview_Survey.pdf">here</a>.
+Below, follows a brief overview of the project outputs based on my contribution to the <a href="https://github.com/todogroup/ospology/blob/cca7e569864f243138e921177e2103dae781e4cc/ospo-book/content/en/05-chapter.md" target="_blank">OSS Metrics chapter of the TODO group's OSPO book</a> (shout out to <a href="https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/matt-germonprez.php" target="_blank>Matt Germonprez</a> who's the main author of the chapter!). For an even more condensed overview, consider looking at the slide set from a presentation I did recently on the topic. A pre-print of the underpinning paper (currently under review) is available <a href="/assets/slides/OSS_Health_Interview_Survey.pdf">here</a>.
 
 <h4>The many facets of OSS health</h4>
 Analyzing the health of an OSS project is, however, not black and white. When we surveyed the literature, we identified 107 different health aspects ranging on a socio-technical scale, both in project-centric and ecosystem-wide contexts (Linåker et al., 2022). Through interviews with 17 industry and community experts, we further condensed these into a framework of 21 health aspects considering community productivity and stability, orchestration, and production process and outputs. For each aspect, several attributes are defined to help break down and enable the analysis of a concerned aspect regarding an OSS project.
@@ -82,13 +84,13 @@ The proposed process focuses on semi-automating the health assessments, where OS
 
 A quantitative screening and monitoring process is required for OSS components already integrated and deployed. This part needs to be automated as large amounts of dependencies commonly exist, so manual overviews and inspections are not applicable. Tooling should ideally be customized and integrated into CI/CD pipelines or run on regular occasions.
 
-The quantitative screening runs high-level tests on dependencies tailored based on the type of ecosystem and dependencies and flags projects, directing attention where indicators together point towards potential health issues. Concerned developers or analysts then follow up with manual inspections. For the tooling, OSS projects such as GrimorieLab and Augur can provide initial candidates to adopt and tailor based on internal needs.
+The quantitative screening runs high-level tests on dependencies tailored based on the type of ecosystem and dependencies and flags projects, directing attention where indicators together point towards potential health issues. Concerned developers or analysts then follow up with manual inspections. For the tooling, OSS projects such as <a href="https://chaoss.github.io/grimoirelab/" target="_blank">GrimorieLab</a> and <a href="https://github.com/chaoss/augur" target="_blank">Augur</a> can provide initial candidates to adopt and tailor based on internal needs.
 
 Continuous training and follow-ups are critical to introducing a health assessment process. Workshops for introducing checklists and analysis processes are suggested, as well as recurrent feedback sessions for presenting an analysis of OSS projects, thereby encouraging discussions, knowledge-sharing, and a critical mindset. Ideally, the health assessment is integrated as a standard practice in development and Q&A
 
 <h4>Summing up</h4>
 
-Ultimately, our studies provide organizations with a valuable tool for proactively identifying potential health issues within OSS projects. Findings can be used as practical guidance and complement when consulting existing sources such as the CHAOSS project and the OpenSSF scorecard project. 
+Ultimately, our studies provide organizations with a valuable tool for proactively identifying potential health issues within OSS projects. Findings can be used as practical guidance and complement when consulting existing sources such as the <a href="https://chaoss.community/" target="_blank">CHAOSS project</a> and the <a href="https://openssf.org/projects/scorecard/" target="_blank">OpenSSF scorecard project</a>. The former provides a good approach connecting goals, questions, and metrics based on what you want to analyze, and also have started do develop case studies for inspiration on how to apply their metric suite.
 
 Despite the approach, by diagnosing symptoms early and applying necessary treatments, organizations can mitigate risks and ensure their OSS dependencies' long-term viability and security. This proactive approach enhances the stability and reliability of software products and contributes to the overall sustainability of the OSS ecosystem.
 
