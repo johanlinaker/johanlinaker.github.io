@@ -26,7 +26,7 @@ header:
 	</li>
 	<li>This is important for many reasons, one being the risk that comes in terms of an OSS component’s health, meaning its ability to stay maintained long-term, with high quality and without interruption.
 	</li>
-	<li>Analyzing and monitoring the health of OSS in the intake process can enable proactive management of such potential risks, but it is also a mountain to climb in itself (although possible as we show).
+	<li>Analyzing and monitoring the health of OSS in the intake process can enable proactive management of such potential risks, but it is also a mountain to climb in itself (although possible as we <a href="/assets/slides/OSS_Health_Interview_Survey.pdf">show</a>).
 	</li>
 	<li>OSS health is neither a number nor something binary. Issues can be many, as with the underlying reasons. Questions need to be asked based on the symptoms, a diagnosis made, and potential prescriptions applied, similar as to a doctor's appointment.
 	</li>
@@ -66,10 +66,10 @@ In a recent R&D project, funded by the Swedish Innovation Agency (Vinnova), we s
 
 The process can be compared to taking a project to a doctor's appointment, where questions are asked about the observed symptoms. Insights narrows down potential causes, and leads to a diagnosis, after which a decision is made regarding action and treatment.
 
-Below, follows a brief overview of the project outputs based on my contribution to the <a href="https://github.com/todogroup/ospology/blob/cca7e569864f243138e921177e2103dae781e4cc/ospo-book/content/en/05-chapter.md" target="_blank">OSS Metrics chapter of the TODO group's OSPO book</a> (shout out to <a href="https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/matt-germonprez.php" target="_blank>Matt Germonprez</a> who's the main author of the chapter!). For an even more condensed overview, consider looking at the slide set from a presentation I did recently on the topic. A pre-print of the underpinning paper (currently under review) is available <a href="/assets/slides/OSS_Health_Interview_Survey.pdf">here</a>.
+Below, follows a brief overview of the project outputs based on my contribution to the <a href="https://github.com/todogroup/ospology/blob/cca7e569864f243138e921177e2103dae781e4cc/ospo-book/content/en/05-chapter.md" target="_blank">OSS Metrics chapter of the TODO group's OSPO book</a> (shout out to <a href="https://www.unomaha.edu/college-of-information-science-and-technology/about/faculty-staff/matt-germonprez.php" target="_blank">Matt Germonprez</a> who's the main author of the chapter!). For an even more condensed overview, consider looking at the slide set from a presentation I did recently on the topic. A pre-print of the underpinning paper (currently under review) is available <a href="/assets/slides/OSS_Health_Interview_Survey.pdf">here</a>.
 
 <h4>The many facets of OSS health</h4>
-Analyzing the health of an OSS project is, however, not black and white. When we surveyed the literature, we identified 107 different health aspects ranging on a socio-technical scale, both in project-centric and ecosystem-wide contexts (Linåker et al., 2022). Through interviews with 17 industry and community experts, we further condensed these into a framework of 21 health aspects considering community productivity and stability, orchestration, and production process and outputs. For each aspect, several attributes are defined to help break down and enable the analysis of a concerned aspect regarding an OSS project.
+Analyzing the health of an OSS project is, however, not black and white. When we surveyed the literature, we identified <a href="https://dl.acm.org/doi/pdf/10.1145/3555051.3555067" target="_blank">107 different health aspects</a> ranging on a socio-technical scale, both in project-centric and ecosystem-wide contexts (Linåker et al., 2022). Through interviews with 17 industry and community experts, we further condensed these into a framework of <a href="/assets/slides/OSS_Health_Interview_Survey.pdf">21 health aspects</a> considering community productivity and stability, orchestration, and production process and outputs. For each aspect, several attributes are defined to help break down and enable the analysis of a concerned aspect regarding an OSS project.
 
 Interviewees stress that organizations need to vary the type and traits of the OSS project being analyzed, as these factors may influence how the different health aspects of the health framework potentially should be applied and evaluated. Factors include the life cycle, complexity, and governance concentration of the OSS project and its strategic importance to the organization analyzing the project as part of its intake process. When introducing health assessments, organizations need to consider these factors and accordingly only compare OSS projects with similar traits (e.g., complexity and life-cycle stage).
 
@@ -80,7 +80,7 @@ To evaluate the applicability of the health framework, we tailored it through a 
 
 <img src="/assets/images/2025-01-24-health-check-ups-on-open-source-software-projects/process-fig.png">
 
-The proposed process focuses on semi-automating the health assessments, where OSS components at the intake stage, are manually inspected using standardized checklist with automated tool support as needed. Inspections need to be lightweight yet rigorous enough to capture the concerned health aspects of importance. A lightweight documentation process is needed to persist and index analysis for future follow-up, peer-review, and training.
+<a href="/assets/slides/OSS_Health_Interview_Survey.pdf">The proposed process</a> focuses on semi-automating the health assessments, where OSS components at the intake stage, are manually inspected using standardized checklist with automated tool support as needed. Inspections need to be lightweight yet rigorous enough to capture the concerned health aspects of importance. A lightweight documentation process is needed to persist and index analysis for future follow-up, peer-review, and training.
 
 A quantitative screening and monitoring process is required for OSS components already integrated and deployed. This part needs to be automated as large amounts of dependencies commonly exist, so manual overviews and inspections are not applicable. Tooling should ideally be customized and integrated into CI/CD pipelines or run on regular occasions.
 
@@ -97,6 +97,6 @@ Despite the approach, by diagnosing symptoms early and applying necessary treatm
 
 <h4>References</h4>
 <ul>
-	<li>Linåker, J., Olsson, T., & Papatheocharous, E. (2024). How to Assess the Health of OSS Software Dependencies in an Organization's Intake Process: Insights from an Interview-survey and Case Study. Under review in a Software Engineering journal.</li>
+	<li>Linåker, J., Olsson, T., & Papatheocharous, E. (2024). How to Assess the Health of OSS Software Dependencies in an Organization's Intake Process: Insights from an Interview-survey and Case Study. Under review in a Software Engineering journal. Preprint <a href="/assets/slides/OSS_Health_Interview_Survey.pdf">here</a>.</li>
 	<li>Linåker, J., Papatheocharous, E., & Olsson, T. (2022). How to characterize the health of an OSS Software project? A snowball literature review of an emerging practice. In 18th International Symposium on Open Collaboration. DOI: https://doi.org/10.1145/3555051.3555067 </li>
 </ul>
