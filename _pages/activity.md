@@ -69,7 +69,7 @@ header:
 
 <div id="journal-reviewing" />
 ## Journal reviewing | <a href="#top">Top</a>
-* ACM Transactions on Software Engineering and Methodology (2022, 2024)
+* ACM Transactions on Software Engineering and Methodology (2022, 2024, 2025)
 * IEEE Transactions on Software Engineering (2021, 2024)
 * Empirical Software Engineering (2024)
 * Journal of Software and Systems (2017, 2022, 2024)

@@ -54,12 +54,10 @@ header:
 #### 2024 | <a href="#top">Top</a>
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Bjarnason, E., & Fagerholm, F. (2024). *Pre-Release Experimentation in Indie Game Development: An Interview Survey*. In 15th International Conference on Software Business.
   - <i class="ai ai-doi-square"></i> [DOI](https://dl.acm.org/doi/10.1145/3674805.3686667) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2408.06723)
-  
-  
+* <i class="flag-icons  GB"></i> Chren, S., Fagerholm, F., Bjarnason, E., **Linåker, J.**, Rafi, S., Lehtelä, B., Runeson, R. & Kauppinen, M. (2024). Data-Limited Continuous Experimentation (dlCE): A Literature Review. In International Conference on Software Business. Springer.  
+  - <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/en/publications/data-limited-continuous-experimentation-dlce-a-literature-review)
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Link, G., & Lumbard, K. (2024). *Sustaining Maintenance Labor for Healthy Open Source Software Projects through Human Infrastructure: A Maintainer Perspective*. In 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement.
-  - <i class="ai ai-doi-square"></i> [DOI](https://dl.acm.org/doi/10.1145/3674805.3686667) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2408.06723)
-  
-  
+  - <i class="ai ai-doi-square"></i> [DOI](https://dl.acm.org/doi/10.1145/3674805.3686667) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2408.06723) 
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Link, G., & Lumbard, K. (2024). *Sustaining Maintenance Labor for Healthy Open Source Software Projects through Human Infrastructure: A Maintainer Perspective*. In 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement.
   - <i class="ai ai-doi-square"></i> [DOI](https://dl.acm.org/doi/10.1145/3674805.3686667) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2408.06723)
 * <i class="flag-icons  GB"></i> Persson, P., & **Linåker, J.** (2024). *Soft-lockins in Public sector acquisitions of Open Source Software-solutions: A case study on a e-service platform for Swedish municipalites*. In 58th Hawaii International Conference on System Sciences 2024 (HICSS-58).
