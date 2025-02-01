@@ -25,6 +25,11 @@ header:
 
 <div id="2025" />
 ## 2025 | <a href="#top">Top</a>
+* <i class="flag-icons  GB"></i> *How is Development and Collaboration Done in Public Sector Open Source Software Projects? 
+Insights from Six Mature Case Studies*. (2025, Feb). Government Collaboration Devroom, FOSDEM. submitted talk, Brussels, Belgium.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Government-Collaboration-FOSDEM.pdf">Slides</a>
+* <i class="flag-icons  GB"></i> *What do maintainers need from funders and others? We asked Maintainers to find out.*. (2025, Feb). Funding the FOSS Ecosystem Devroom, FOSDEM. submitted talk, Brussels, Belgium.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Maintainer-Funding-FOSDEM.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Health Check-ups on Open Source Software Projects Managing Risks while Promoting (Re)use*. (2025, Jan). Avancerad Digitalisering - Vinnova. Invited talk, Gothenburg, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-health-HASMOSS-Avancerad-Digitalisering.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Public Sector Open Source Program Offices - Archetypes for how to Grow (Common) Institutional Capabilities*. (2025, Jan). Helmholtz Open Science Seminar. Invited talk, Virtual.
