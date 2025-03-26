@@ -1,10 +1,8 @@
 ---
-
-
 title: "Public Sector Open Source Projects – How is development organized?"
-seo_title: "HPublic Sector Open Source Projects – How is development organized?"
-excerpt: ""
-date: 2025-01-24T01:00:00-04:00
+seo_title: "Public Sector Open Source Projects – How is development organized?"
+excerpt: "While the practice and process for Open Source Software (OSS) development is quite explored in industry and general community contexts, less is known about how development is done on OSS in the public sector context, specifically those developed and governed by Public Sector Organizations (PSOs). To shed light on this, we looked at six mature examples of public sector OSS projects, identified by crawling different public sector OSS project catalogues, including those of Italy, France, US, Denmark, Finland, and Sweden."
+date: 2025-03-26T01:00:00-04:00
 categories:
   - blog
 tags:
@@ -22,7 +20,7 @@ header:
 <h4>TL;DR / Summary: </h4>
 <ul>
 	<li>While the practice and process for Open Source Software (OSS) development is quite explored in industry and general community contexts, less is known about how development is done on OSS in the public sector context, specifically those developed and governed by Public Sector Organizations (PSOs).</li>
-	<li>To shed light on this, we looked at six mature examples of public sector OSS projects, identified by crawling different public sector OSS project catalogues, including those of Italy, France, US, Denmark, Finland, and Sweden.</li>
+	<li>To shed light on this, in a <a href="https://link.springer.com/content/pdf/10.1007/s10664-025-10626-0.pdf">recent paper</a>, we looked at six mature examples of public sector OSS projects, identified by crawling different public sector OSS project catalogues, including those of Italy, France, US, Denmark, Finland, and Sweden.</li>
 	<li>80% of development is typically concentrated to 5-15 developers.</li>
 	<li>There is a preference for local and national service supplierd, and growing trusted relationships.</li>
 	<li>Formally defined development and quality assurance processes and means of coordination commonly used.</li>
@@ -59,7 +57,7 @@ header:
 
 <h4>Longer version</h4>
 
-While the practice and process for Open Source Software (OSS) development is quite explored in industry and general community contexts, less is known about how development is done on OSS in the public sector context, specifically those developed and governed by Public Sector Organizations (PSOs). To shed light on this, we looked at six mature examples of public sector OSS projects, identified by crawling different public sector OSS project catalogues, including those of Italy, France, US, Denmark, Finland, and Sweden. 
+While the practice and process for Open Source Software (OSS) development is quite explored in industry and general community contexts, less is known about how development is done on OSS in the public sector context, specifically those developed and governed by Public Sector Organizations (PSOs). To shed light on this, in a <a href="https://link.springer.com/content/pdf/10.1007/s10664-025-10626-0.pdf">recent paper</a>, we looked at six mature examples of public sector OSS projects, identified by crawling different public sector OSS project catalogues, including those of Italy, France, US, Denmark, Finland, and Sweden. 
 
 By combining interviews and quantitative analysis of the projects’ code repositories we gained several insights and examples on how PSOs can go about with doing OSS development in the public sector context and how that may differ towards the more general and maybe informal practice that one can find among projects in the wild. The We consists of myself and the greats of Björn Lundell, Francisco Servant, Jonas Gamalielsson, Satchiko Muto and Gregorio Robles. 
 
