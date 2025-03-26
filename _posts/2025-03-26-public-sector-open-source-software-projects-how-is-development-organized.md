@@ -114,7 +114,7 @@ The size and role of the community, however, differ somewhat between the project
 The rationale for releasing the software as OSS differs across the cases, and relates to the potential for reuse and community growth of the OSS project. The release and public development of the IO app is mainly due to legal requirements and to provide transparency into how the application, e.g., uses and collects data. Similar rationales can be found across policies in several countries, implying that there is less focus on enabling general reuse. For Oskari and EnergyPlus, there are more explicit intentions of growing a community to enable collaborative development and reuse.
 
 <h6>Sustainability dependent on a central PSO</h6>
-From a sustainability and community point of view, the high level of dependence on a central PSO poses a risk for the communities of Oskari and EnergyPlus. A refactoring or change in business scope may imply that the OSS projects risk becoming unmaintained~\cite{linaaker2022characterize}. 
+From a sustainability and community point of view, the high level of dependence on a central PSO poses a risk for the communities of Oskari and EnergyPlus. A refactoring or change in business scope may imply that the OSS projects risk becoming unmaintained. 
 
 <h5>Decentralized sponsorship</h5>
 OS2forms and Geotrek represent cases where multiple PSOs collaborate through the pooling of resources that sponsor the development, commonly procured from service providers. Similarities can be found in the user-driven where development is mainly directed and sponsored by software-intensive organizations addressing internal use-cases, or the building of non-commercial (e.g., public) services.
