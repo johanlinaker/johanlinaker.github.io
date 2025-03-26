@@ -14,6 +14,7 @@ header:
 	<li><a href="#technical-reports">Technical reports</a></li>
 	<li><a href="#peer-reviewed-papers">Peer-reviewed papers</a>
 		<ul>
+			<li><a href="#2025">2025</a></li>
 			<li><a href="#2024">2024</a></li>
 			<li><a href="#2023">2023</a></li>
 			<li><a href="#2022">2022</a></li>
@@ -50,6 +51,11 @@ header:
 <div id="peer-reviewed-papers" />
 ## Peer-reviewed papers | <a href="#top">Top</a>
 
+<div id="2025" />
+#### 2025 | <a href="#top">Top</a>
+* <i class="flag-icons  GB"></i> **Linåker, J.**, Lundell, B., Servant, F., Gamalielsson, J., Muto, S., & Robles, G. (2025). Public sector open source software projects-How is development organized?. Empirical Software Engineering, 30(3), 1-54.  
+  - <i class="ai ai-doi-square"></i> [DOI](https://link.springer.com/article/10.1007/s10664-025-10626-0) <i class="fa fa-file-pdf"></i> [PDF](https://link.springer.com/content/pdf/10.1007/s10664-025-10626-0.pdf)
+  
 <div id="2024" />
 #### 2024 | <a href="#top">Top</a>
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Bjarnason, E., & Fagerholm, F. (2024). *Pre-Release Experimentation in Indie Game Development: An Interview Survey*. In 15th International Conference on Software Business. Springer.  

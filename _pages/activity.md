@@ -72,7 +72,7 @@ header:
 * ACM Transactions on Software Engineering and Methodology (2022, 2024, 2025)
 * IEEE Transactions on Software Engineering (2021, 2024)
 * Empirical Software Engineering (2024)
-* Journal of Software and Systems (2017, 2022, 2024)
+* Journal of Software and Systems (2017, 2022, 2024, 2025)
 * Information and Software Technology (2019, 2021, 2022)
 * Requirements Engineering Journal (2020)
 * Government information quarterly (2024, 2025)
