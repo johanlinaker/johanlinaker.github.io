@@ -19,38 +19,59 @@ header:
 
 <h4>TL;DR / Summary: </h4>
 <ul>
-	<li>While the practice and process for Open Source Software (OSS) development is quite explored in industry and general community contexts, less is known about how development is done on OSS in the public sector context, specifically those developed and governed by Public Sector Organizations (PSOs).</li>
-	<li>To shed light on this, in a <a href="https://link.springer.com/content/pdf/10.1007/s10664-025-10626-0.pdf">recent paper</a>, we looked at six mature examples of public sector OSS projects, identified by crawling different public sector OSS project catalogues, including those of Italy, France, US, Denmark, Finland, and Sweden.</li>
-	<li>80% of development is typically concentrated to 5-15 developers.</li>
-	<li>There is a preference for local and national service supplierd, and growing trusted relationships.</li>
-	<li>Formally defined development and quality assurance processes and means of coordination commonly used.</li>
-	<li>High quality and stability of the OSS developed in the respective projects.</li>
-	<li>Two clusters of public sector OSS projects in terms of how the development is sponsored by the involved PSOs.</li>
+	<li>While the practice and process for Open Source Software (OSS) development is quite explored in industry and general community contexts, less is known about how development is done on OSS in the public sector context, specifically those developed and governed by Public Sector Organizations (PSOs).
+	</li>
+	<li>To shed light on this, in a <a href="https://link.springer.com/content/pdf/10.1007/s10664-025-10626-0.pdf">recent paper</a>, we looked at six mature examples of public sector OSS projects, identified by crawling different public sector OSS project catalogues, including those of Italy, France, US, Denmark, Finland, and Sweden.
+	</li>
+	<li>80% of development is typically concentrated to 5-15 developers.
+	</li>
+	<li>There is a preference for local and national service supplierd, and growing trusted relationships.
+	</li>
+	<li>Formally defined development and quality assurance processes and means of coordination commonly used.
+	</li>
+	<li>High quality and stability of the OSS developed in the respective projects.
+	</li>
+	<li>Two clusters of public sector OSS projects in terms of how the development is sponsored by the involved PSOs.
+	</li>
 	<li>Centralized sponsorship:
 		<ul>
-			<li>Main development is carried out or sponsored by, and in extension dependent on, one or a few resourceful PSOs. </li>
-			<li>The OSS typically also originates from these main PSOs, showing similarities to vendor-led OSS projects.</li>
-			<li>The OSS serves a business-critical use case warranting the dedicated development and sponsorship.</li>
-			<li>Community size typically limited and dependent on use case and complexity of the OSS.</li>
-			<li>Rationale for open sourcing connected to intentions for encouraging reuse and growing a community size.</li>
-			<li>A high level of dependence on a central PSO poses a sustainability risk for the OSS projects.</li>
+			<li>Main development is carried out or sponsored by, and in extension dependent on, one or a few resourceful PSOs. 
+			</li>
+			<li>The OSS typically also originates from these main PSOs, showing similarities to vendor-led OSS projects.
+			</li>
+			<li>The OSS serves a business-critical use case warranting the dedicated development and sponsorship.
+			</li>
+			<li>Community size typically limited and dependent on use case and complexity of the OSS.
+			</li>
+			<li>Rationale for open sourcing connected to intentions for encouraging reuse and growing a community size.
+			</li>
+			<li>A high level of dependence on a central PSO poses a sustainability risk for the OSS projects.
+			</li>
 		</ul>
 	</li>
 	<li>Decentralized sponsorship:
 		<ul>
-			<li>Development carried out through collaborative procurement of suppliers.</li>
-			<li>Dependency among the PSOs in the respective communities in collecting the necessary funds to sponsor the development.</li>
-			<li>Dependency on single service suppliers can threaten sustainability, e.g., due to emerging lock-in or change of business.</li>
+			<li>Development carried out through collaborative procurement of suppliers.
+			</li>
+			<li>Dependency among the PSOs in the respective communities in collecting the necessary funds to sponsor the development.
+			</li>
+			<li>Dependency on single service suppliers can threaten sustainability, e.g., due to emerging lock-in or change of business.
+			</li>
 		</ul>
 	</li>
 	<li>
 	<li><b>Implications</b>: 
 		<ul>
-			<li>Dependencies to a few PSOs or service providers should be proactively avoided by openly sharing of all necessary knowledge and tools for developing and deploying OSS.</li>
+			<li>Dependencies to a few PSOs or service providers should be proactively avoided by openly sharing of all necessary knowledge and tools for developing and deploying OSS.
+			</li>
 			<li>Facilitating development through Open Source Stewards can improve robustness, enable co-funding models, and access to standardized development processes and governance structures.
-			<li>Open Source Program Offices (OSPOs) can help to grow and provide internal capabilities and expertise for OSS adoption within PSOs. For less resourceful PSOs, associations (or stewards) such as OS2 can be a source of corresponding support.</li>
-			<li>Growing a competitive ecosystem of service suppliers is important for robustness, while decreasing the risk of ending up in a vendor lock-in. Limited availability of support is, however, a commonly reported challenges.</li>
-			<li>Growing community and collaborative culture among PSOs for co-funding development critical for long-term sustainability of public sector OSS projects.</li>	
+			</li>
+			<li>Open Source Program Offices (OSPOs) can help to grow and provide internal capabilities and expertise for OSS adoption within PSOs. For less resourceful PSOs, associations (or stewards) such as OS2 can be a source of corresponding support.
+			</li>
+			<li>Growing a competitive ecosystem of service suppliers is important for robustness, while decreasing the risk of ending up in a vendor lock-in. Limited availability of support is, however, a commonly reported challenges.
+			</li>
+			<li>Growing community and collaborative culture among PSOs for co-funding development critical for long-term sustainability of public sector OSS projects.
+			</li>	
 		</ul>
 	</li>
 </ul>
