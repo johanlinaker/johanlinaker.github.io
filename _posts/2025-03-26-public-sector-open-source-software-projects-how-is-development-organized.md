@@ -10,12 +10,12 @@ tags:
   - digital-commons
   - publi-sector
 header:
-  teaser: "/assets/images/2025-03-26-public-sector-open-source-software-projects-how-is-development-organized/teaser.jpg"
+  teaser: "/assets/images/2025-03-26-public-sector-open-source-software-projects-how-is-development-organized/teaser.png"
 ---
 
 
 <div class="thumbnail-container">
-<img src="/assets/images/2025-03-26-public-sector-open-source-software-projects-how-is-development-organized/teaser.jpg" alt=""></div>
+<img src="/assets/images/2025-03-26-public-sector-open-source-software-projects-how-is-development-organized/teaser.png" alt=""></div>
 
 <h4>TL;DR / Summary: </h4>
 <ul>
