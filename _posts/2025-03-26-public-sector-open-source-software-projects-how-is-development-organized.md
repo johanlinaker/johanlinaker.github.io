@@ -83,7 +83,7 @@ By combining interviews and quantitative analysis of the projects’ code reposi
 
 <h5>Cases investigated</h5>
 The six cases we looked at included:
-ul>
+<ul>
     <li><a href="https://github.com/NREL/EnergyPlus">EnergyPlus project</a> - a simulation program for energy consumption in houses from the U.S, mainly developed and governed by the National Renewable Energy Laboratory, under the US. Department of Energy. It was initiated in 1996 and published as OSS in 2012 to improve adoption. Today, the software is widely used primarily by software vendors as a component in end-user applications, but also for enabling academic research.</li>
     <li><a href="https://github.com/OS2Forms/os2forms8">OS2forms</a> – an e-service platform based on Drupal, mainly developed and governed through OS2, a Danish municipal association. The project was initiated in 2019 and is used by 11 municipalities in Denmark.</li>
     <li><a href="https://github.com/oskariorg/">Oskari</a> - a platform for constructing web-based mapping applications, mainly developed and governed by National Land Survey of Finland. The project was initiated in 2013, today powering several well-established solutions, including the Finnish National Geoportal.</li>
