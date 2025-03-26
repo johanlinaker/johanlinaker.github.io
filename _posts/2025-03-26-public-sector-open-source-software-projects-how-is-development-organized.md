@@ -59,7 +59,6 @@ header:
 			</li>
 		</ul>
 	</li>
-	<li>
 	<li><b>Implications</b>: 
 		<ul>
 			<li>Dependencies to a few PSOs or service providers should be proactively avoided by openly sharing of all necessary knowledge and tools for developing and deploying OSS.
