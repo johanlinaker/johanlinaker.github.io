@@ -19,19 +19,19 @@ header:
 
 <h4>TL;DR / Summary: </h4>
 <ul>
-	<li>While the practice and process for Open Source Software (OSS) development is quite explored in industry and general community contexts, less is known about how development is done on OSS in the public sector context, specifically those developed and governed by Public Sector Organizations (PSOs).
+	<li>While the practice and process for Open Source Software (OSS) development are quite explored in industry and general community contexts, less is known about how development is done on OSS in the public sector context, specifically, those developed and governed by Public Sector Organizations (PSOs).
 	</li>
-	<li>To shed light on this, in a <a href="https://link.springer.com/content/pdf/10.1007/s10664-025-10626-0.pdf">recent paper</a>, we looked at six mature examples of public sector OSS projects, identified by crawling different public sector OSS project catalogues, including those of Italy, France, US, Denmark, Finland, and Sweden.
+	<li>To shed light on this, in a <a href= "https://link.springer.com/content/pdf/10.1007/s10664-025-10626-0.pdf">recent paper</a>, we looked at six mature examples of public sector OSS projects, identified by crawling different public sector OSS project catalogs, including those of Italy, France, US, Denmark, Finland, and Sweden.
 	</li>
-	<li>80% of development is typically concentrated to 5-15 developers.
+	<li>We find that 80% of development is typically concentrated on 5-15 developers.
 	</li>
-	<li>There is a preference for local and national service supplierd, and growing trusted relationships.
+	<li>There is a preference for local and national service suppliers and growing trusted relationships.
 	</li>
-	<li>Formally defined development and quality assurance processes and means of coordination commonly used.
+	<li>Processes for  development, quality assurance and coordination are typically formally defined and ridged.
 	</li>
-	<li>High quality and stability of the OSS developed in the respective projects.
+	<li>The OSS developed is typically of high quality and stability.
 	</li>
-	<li>Two clusters of public sector OSS projects in terms of how the development is sponsored by the involved PSOs.
+	<li>There are two clusters of public sector OSS projects in terms of how the development is sponsored by the involved PSOs.
 	</li>
 	<li>Centralized sponsorship:
 		<ul>
@@ -39,9 +39,9 @@ header:
 			</li>
 			<li>The OSS typically also originates from these main PSOs, showing similarities to vendor-led OSS projects.
 			</li>
-			<li>The OSS serves a business-critical use case warranting the dedicated development and sponsorship.
+			<li>The OSS serves as a business-critical use case warranting the dedicated development and sponsorship.
 			</li>
-			<li>Community size typically limited and dependent on use case and complexity of the OSS.
+			<li>Community size is typically limited and dependent on the use case and complexity of the OSS.
 			</li>
 			<li>Rationale for open sourcing connected to intentions for encouraging reuse and growing a community size.
 			</li>
@@ -51,25 +51,29 @@ header:
 	</li>
 	<li>Decentralized sponsorship:
 		<ul>
-			<li>Development carried out through collaborative procurement of suppliers.
+			<li>Development carried out through co-funded and collaborative procurement of development and maintenance efforts from suppliers.
 			</li>
-			<li>Dependency among the PSOs in the respective communities in collecting the necessary funds to sponsor the development.
+			<li>There is a dependency among the PSOs in the respective communities in collecting the necessary funds to sponsor the development.
 			</li>
-			<li>Dependency on single service suppliers can threaten sustainability, e.g., due to emerging lock-in or change of business.
+			<li>There is also risk for dependency on single service suppliers can threaten sustainability, e.g., due to emerging lock-in or change of business.
 			</li>
 		</ul>
 	</li>
-	<li><b>Implications</b>: 
+	<li><b>Implications and recommendations</b>: 
 		<ul>
-			<li>Dependencies to a few PSOs or service providers should be proactively avoided by openly sharing of all necessary knowledge and tools for developing and deploying OSS.
+			<li>Public sector OSS projects stand out from traditional community-based and, to some extent, industry-led projects, requiring practice and guidelines to be tailored accordingly.
+			</li>
+			<li>Several contextual factors impact the public sector's ability to adopt, develop, and collaborate on OSS, e.g., in terms of culture, regulatory frameworks, and siloed organizational structures.
+			</li>
+			<li>Dependencies to a few PSOs or service providers should be proactively avoided by openly sharing all necessary knowledge and tools for developing and deploying OSS.
 			</li>
 			<li>Facilitating development through Open Source Stewards can improve robustness, enable co-funding models, and access to standardized development processes and governance structures.
 			</li>
-			<li>Open Source Program Offices (OSPOs) can help to grow and provide internal capabilities and expertise for OSS adoption within PSOs. For less resourceful PSOs, associations (or stewards) such as OS2 can be a source of corresponding support.
+			<li>Support structures (e.g., Open Source Program Offices (OSPOs)) can help to grow and provide internal capabilities and expertise for OSS adoption within PSOs. For less resourceful PSOs, associations (or stewards) such as OS2 can be a source of such support.
 			</li>
-			<li>Growing a competitive ecosystem of service suppliers is important for robustness, while decreasing the risk of ending up in a vendor lock-in. Limited availability of support is, however, a commonly reported challenges.
+			<li>Growing a competitive ecosystem of service suppliers is important for robustness while decreasing the risk of ending up in a vendor lock-in. Limited availability of support is, however, a commonly reported challenge.
 			</li>
-			<li>Growing community and collaborative culture among PSOs for co-funding development critical for long-term sustainability of public sector OSS projects.
+			<li>Growing community and collaborative culture among PSOs for co-funding development critical for the long-term sustainability of public sector OSS projects.
 			</li>	
 		</ul>
 	</li>
@@ -77,19 +81,19 @@ header:
 
 <h4>Longer version</h4>
 
-While the practice and process for Open Source Software (OSS) development is quite explored in industry and general community contexts, less is known about how development is done on OSS in the public sector context, specifically those developed and governed by Public Sector Organizations (PSOs). To shed light on this, in a <a href="https://link.springer.com/content/pdf/10.1007/s10664-025-10626-0.pdf">recent paper</a>, we looked at six mature examples of public sector OSS projects, identified by crawling different public sector OSS project catalogues, including those of Italy, France, US, Denmark, Finland, and Sweden. 
+While the practice and process for Open Source Software (OSS) development are quite explored in industry and general community contexts, less is known about how development is done on OSS in the public sector context, specifically, those developed and governed by Public Sector Organizations (PSOs). To shed light on this, in a <a href= "https://link.springer.com/content/pdf/10.1007/s10664-025-10626-0.pdf">recent paper</a>, we looked at six mature examples of public sector OSS projects, identified by crawling different public sector OSS project catalogs, including those of Italy, France, US, Denmark, Finland, and Sweden. 
 
-By combining interviews and quantitative analysis of the projects’ code repositories we gained several insights and examples on how PSOs can go about with doing OSS development in the public sector context and how that may differ towards the more general and maybe informal practice that one can find among projects in the wild. The We consists of myself and the greats of Björn Lundell, Francisco Servant, Jonas Gamalielsson, Satchiko Muto and Gregorio Robles. 
+By combining interviews and quantitative analysis of the project's code repositories, we gained several insights and examples on how PSOs can go about doing OSS development in the public sector context and how that may differ from the more general and maybe informal practice that one can find among projects in the wild. The We consists of myself and the greats of Björn Lundell, Francisco Servant, Jonas Gamalielsson, Satchiko Muto, and Gregorio Robles. 
 
 <h5>Cases investigated</h5>
 The six cases we looked at included:
 <ul>
-    <li><a href="https://github.com/NREL/EnergyPlus">EnergyPlus project</a> - a simulation program for energy consumption in houses from the U.S, mainly developed and governed by the National Renewable Energy Laboratory, under the US. Department of Energy. It was initiated in 1996 and published as OSS in 2012 to improve adoption. Today, the software is widely used primarily by software vendors as a component in end-user applications, but also for enabling academic research.</li>
-    <li><a href="https://github.com/OS2Forms/os2forms8">OS2forms</a> – an e-service platform based on Drupal, mainly developed and governed through OS2, a Danish municipal association. The project was initiated in 2019 and is used by 11 municipalities in Denmark.</li>
-    <li><a href="https://github.com/oskariorg/">Oskari</a> - a platform for constructing web-based mapping applications, mainly developed and governed by National Land Survey of Finland. The project was initiated in 2013, today powering several well-established solutions, including the Finnish National Geoportal.</li>
-    <li><a href="https://github.com/GeotrekCE">GeoTrek</a> - a platform for managing and publishing tracks, signages, and interventions within national parks, developed and governed through a collaboration of French National Parks, along with a national vendor. Created in 2013, the project today is estimated to have about 150 mainly PSOs as its users.</li>
-    <li><a href="https://github.com/demarches-simplifiees/demarches-simplifiees.fr">Démarches simplifiées</a> - a platform for generating forms to be integrated into public online services and managing and automating data processing. The project is hosted, developed, and managed by the Interdepartmental Administration for Digital (DINUM) and provided as a service to all PSOs in France. Today, the project has about 1000 PSOs using the platform.</li>
-    <li><a href="https://github.com/pagopa/io-app">The IO app</a> - a single point of entry for Italian citizens when communicating and interacting with public online services. Developed and maintained by PagoPA, a government-owned company focused on developing, maintaining, and providing software services for the Italian government.</li>
+    <li><a href= "https://github.com/NREL/EnergyPlus">EnergyPlus</a> - a simulation program for energy consumption in houses from the US, mainly developed and governed by the National Renewable Energy Laboratory, under the US. Department of Energy. It was initiated in 1996 and published as OSS in 2012 to improve adoption. Today, the software is widely used primarily by software vendors as a component in end-user applications and for enabling academic research.</li>
+    <li><a href= "https://github.com/OS2Forms/os2forms8">OS2forms</a> – an e-service platform based on Drupal, mainly developed and governed through OS2, a Danish municipal association. The project was initiated in 2019 and is used by 11 municipalities in Denmark.</li>
+    <li><a href= "https://github.com/oskariorg/">Oskari</a> - a platform for constructing web-based mapping applications, mainly developed and governed by the National Land Survey of Finland. The project was initiated in 2013, today powering several well-established solutions, including the Finnish National Geoportal.</li>
+    <li><a href= "https://github.com/GeotrekCE">GeoTrek</a> - a platform for managing and publishing tracks, signages, and interventions within national parks, developed and governed through a collaboration of French National Parks, along with a national vendor. Created in 2013, the project today is estimated to have about 150 mainly PSOs as its users.</li>
+    <li><a href= "https://github.com/demarches-simplifiees/demarches-simplifiees.fr">Démarches simplifiées</a> - a platform for generating forms to be integrated into public online services and managing and automating data processing. The project is hosted, developed, and managed by the Interdepartmental Administration for Digital (DINUM) and provided as a service to all PSOs in France. Today, the project has about 1000 PSOs using the platform.</li>
+    <li><a href= "https://github.com/pagopa/io-app">The IO app</a> - a single point of entry for Italian citizens when communicating and interacting with public online services. Developed and maintained by PagoPA, a government-owned company focused on developing, maintaining, and providing software services for the Italian government.</li>
 </ul>
 
 <h5>Concentrated development with external resources</h5>
