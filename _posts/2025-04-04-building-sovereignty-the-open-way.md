@@ -36,7 +36,7 @@ header:
 		</ul></li>
 	<li>Strategic planning is needed for how to leverage capabilities appropriately. By investing and contributing to key technology, control, and influence are gained that help steer technologies in alignment with internal goals.</lI>
 	<li>There are several front-runners setting an example for how to grow and leverage the necessary capabilities and several examples of initiatives and solutions that provide viable alternatives to existing solutions where external dependencies are an issue.</li>
-	<li> The First order of business should be to ask what the potential risks and threats are for your organization or level of government and whether plans and capabilities for resilience and contingency management are appropriately sized.
+	<li> The First order of business should be to ask what the potential risks and threats are for your organization or level of government and whether plans and capabilities for resilience and contingency management are appropriately sized.</li>
 	<li>Open source is a powerful tool for growng collaboration, while promoting competition; for gaining control of technology, while enabling interoperability; for solving your own needs, while benefitting others. It is a tool for breaking dependencies while building bridges at the same time.</li>
 </ul>
 
@@ -53,7 +53,7 @@ To grow open strategic autonomy, you need to grow the right capabilities for lev
 
 Capabilities, in turn, are made up of people. People with the mind and skillset required to understand and master how open source works, both in culture and practice. People, including engineers and artisans, who can leverage the arts and sciences, along with knowledge and curiosity, to drive innovation and solve complex problems.
 
-While there definitely is quality, Europe still lacks the necessary quantity of people with the required mind- and skillset. Training and skills development must increase through elementary and high school, higher education, and lifelong learning. The current generational shift happening in open source is not leaving Europe unaffected. Training programs must consider roles across society, from policy and decision-makers to procurement officers, civil servants, product owners, developers, IT technicians, etc.
+While there definitely is quality, Europe still lacks the necessary quantity of people with the required mind- and skillset. Training and skills development on STEM and open technolgies must be pushed more strongly through the Skills agendas both on the <a href="https://employment-social-affairs.ec.europa.eu/policies-and-activities/skills-and-qualifications/european-skills-agenda_en">European</a> and national levels, and injected through elementary and high school, higher education, and lifelong learning. The current generational shift happening in open source is not leaving Europe unaffected. Training programs must consider roles across society, from policy and decision-makers to procurement officers, civil servants, product owners, developers, IT technicians, etc.
 
 Beyond skills training, there is also a need for significant growth in entrepreneurs and SMEs that can help to serve the many specialized needs of Euroepan industries and society. Public sector organizations, especially on the municipal level, generally lack the technical capabilities themselves and are dependent on suppliers that can offer and support the adoption of the many open source solutions available. 
 
