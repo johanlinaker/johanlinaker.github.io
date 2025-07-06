@@ -26,7 +26,7 @@ header:
 <div id="2025" />
 ## 2025 | <a href="#top">Top</a>
 * <i class="flag-icons  GB"></i> *Open Source Software and AI - The What, the Why, the How, and the When*. (2025, June). Part of external course on AI engineering. RISE, Kisa, Sweden.
-  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Open-Source-AI-External-course.pdff">Slides</a>
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Open-Source-AI-External-course.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Qualitative Data Analysis*. (2025, June). Part of Theory and methods of Software Engineering, PhD student course. Lund University, Lund, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Qualitative-Data-Analysis-LU.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Public Sector Open Source Program Offices Archetypes for how to Grow (Common) Institutional Capabilities*. (2025, May). OSOR Webinar on OSPOs - Public Sector Open Source Program Offices - The role of Open Source Programme Offices (OSPOs) in transforming public services with open source. Invited talk, Virtual.
