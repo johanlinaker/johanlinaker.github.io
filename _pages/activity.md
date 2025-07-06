@@ -38,7 +38,8 @@ header:
 
 <div id="organizing-committee-memberships" />
 ## Organizing committee memberships | <a href="#top">Top</a>
-* <i class="flag-icons SE"></i> [The Swedish OSPO network](https://nosad.se/ospo). A national network for companies and public administrations with support functions for promoting and enabling use and collaboration of open source software. Arranging regular physical workshops, and online webinars to share knowledge and establish common practice. 2023-ongoing
+* <i class="flag-icons GB"></i> [UN Open Source Week 2025 Community Side events](https://www.un.org/digital-emerging-technologies/content/open-source-week-2025). Organizing committee, collaboraing closely with the UN Office for Digital and Emerging Technology, for the planning and execution of the Community side events during the UN Open Source week, including the program for Tuesday and Friday. The latter included a five track full day event with presentations and panels from leaders and experts 60+ organizations, from the global north and south, covering topics as Digital public infrastructure, Digital recilience, Capacity building and AI. 2025.
+* <i class="flag-icons SE"></i> [The Swedish OSPO network](https://nosad.se/ospo). A national network for companies and public administrations with support functions for promoting and enabling use and collaboration of open source software. Arranging regular physical workshops, and online webinars to share knowledge and establish common practice. 2023-ongoing.
 * <i class="flag-icons SE"></i> [Öppen källkod som strategi för en hållbar infrastruktur](https://internetdagarna.se/event/oppen-kallkod-som-strategi-for-en-hallbar-infrastruktur/). Theme track. Internetdagarna ([The Internet Days](https://internetdagarna.se/en/)), 2022.
 * <i class="flag-icons SE"></i> [Digitala allmänningar: så skapar vi samhällsnytta](https://arkiv.internetdagarna.se/2021/index.html%3Fp=422.html). Theme track. Internetdagarna ([The Internet Days](https://internetdagarna.se/en/)), 2021.
 * <i class="flag-icons SE"></i> Öppen källkod som bas för den digitala allemansrätten. Theme track. [Foss-north](https://foss-north.se/), 2021).
@@ -53,11 +54,12 @@ header:
 
 <div id="conferences-main-research-paper-tracks" />
 ### Conferences (main research paper tracks) | <a href="#top">Top</a>
+* International Conference on the Foundations of Software Engineering: FSE (2026)
 * International Conference of Software Engineering: ICSE (2022, 2024, 2026)
 * International Symposium on Empirical Software Engineering and Measurement: ESEM (2023 - 2025)
-* International Conference on Electronic Government: EGOV (2020 - 2024)
-* International Conference on Software Business: ICSOB (2020 - 2024)
-* International Conference of Information Systems: ICIS (2020)
+* International Conference on Electronic Government: EGOV (2020 - 2025)
+* International Conference on Software Business: ICSOB (2020 - 2025)
+* International Conference of Information Systems: ICIS (2020, 2025)
 * European Conference of Information Systems: ECIS (2022)
 
 <div id="conferences-other-tracks-and-workshops" />
@@ -71,9 +73,9 @@ header:
 ## Journal reviewing | <a href="#top">Top</a>
 * ACM Transactions on Software Engineering and Methodology (2022, 2024, 2025)
 * IEEE Transactions on Software Engineering (2021, 2024)
-* Empirical Software Engineering (2024)
+* Empirical Software Engineering (2024, 2025)
 * Journal of Software and Systems (2017, 2022, 2024, 2025)
-* Information and Software Technology (2019, 2021, 2022)
+* Information and Software Technology (2019, 2021, 2022, 2025)
 * Requirements Engineering Journal (2020)
 * Government information quarterly (2024, 2025)
 * Technological Forecasting & Social Change (2024)

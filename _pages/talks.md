@@ -25,6 +25,19 @@ header:
 
 <div id="2025" />
 ## 2025 | <a href="#top">Top</a>
+* <i class="flag-icons  GB"></i> *Open Source Software and AI - The What, the Why, the How, and the When*. (2025, June). Part of external course on AI engineering. RISE, Kisa, Sweden.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Open-Source-AI-External-course.pdff">Slides</a>
+* <i class="flag-icons  GB"></i> *Qualitative Data Analysis*. (2025, June). Part of Theory and methods of Software Engineering, PhD student course. Lund University, Lund, Sweden.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Qualitative-Data-Analysis-LU.pdf">Slides</a>
+* <i class="flag-icons  GB"></i> *Public Sector Open Source Program Offices Archetypes for how to Grow (Common) Institutional Capabilities*. (2025, May). OSOR Webinar on OSPOs - Public Sector Open Source Program Offices - The role of Open Source Programme Offices (OSPOs) in transforming public services with open source. Invited talk, Virtual.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Public-sector-OSPOs-OSOR-webinar-2025.pdf">Slides</a>
+* <i class="flag-icons  GB"></i> *Growing the courage to change what “works”*. (2025, May). OS2 and OpenData.DK Annual summit. Keynote, Vejle, Denmark.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Keynote-OS2-OpendataDK-final.pdf">Slides</a>
+* <i class="flag-icons  GB"></i> *Procurement and acquisition of Open Source Software Challenges and Practices from a Swedish context*. (2025, May). Open Ireland Network workshop on public procurement of open source. Invited talk, Dublin, Ireland.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-procurement-Dublin.pdf.pdf">Slides</a>
+* <i class="flag-icons SE"></i> *Hur offentlig sektor använder öppen programvara för att stärka Europas digital suveränitet*. (2025, March). Sambruk. Invited talk, Virtual.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-and-Digital-sovereignty-Sambruk.pdf">Slides</a>
+
 * <i class="flag-icons  GB"></i> *Open Source Strategy and Risk Management - A birds-eye view*. (2025, Feb). The Turing Way, Allan Turing Institute. Invited talk, virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-intro-turing-way.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *How is Development and Collaboration Done in Public Sector Open Source Software Projects? 
