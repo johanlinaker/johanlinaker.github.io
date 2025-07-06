@@ -9,9 +9,9 @@ header:
 <div class="thumbnail-container">
 <img src="/assets/images/contact/teaser.jpg" alt="https://unsplash.com/photos/flat-screen-tv-0bTdk1u42KY"></div>
 
-<p><span><i class="fa fa-envelope"></i><a href="mailto:johan.linaker@ri.se" target="_blank"> johan.linaker@ri.se</a></span><br /><br /></p>
+<p><span><i class="fa fa-envelope"></i><a href="mailto:johan [dot] linaker [at] ri[dot] se" target="_blank">johan [dot] linaker [at] ri[dot] se</a></span</p>
 
-<p><span><i class="fa fa-phone"></i>+46 10 228 43 07</span><br /><br /></p>
+<p><span><i class="fa fa-phone"></i>[plus 46] (0) 10 228 43 07</span></p>
 
 <p><span><b>Mailing Address</b><br />
 RISE Research Institutes of Sweden<br />
