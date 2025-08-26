@@ -25,6 +25,11 @@ header:
 
 <div id="2025" />
 ## 2025 | <a href="#top">Top</a>
+* <i class="flag-icons  GB"></i> *Health Check-ups on Open Source Software Projects - Managing Risks while Promoting (Re)use*. (2025, August). Linux Foundation Open Source Summit Europe. Submitted talk, Amsterdam, Netherlands.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-health-HASMOSS-OSSEU-2025.pdf">Slides</a>
+* <i class="flag-icons  GB"></i> *How Development and Collaboration is Done in Public Sector Open Source Software Projects*. (2025, August). Linux Foundation Open Source Summit Europe. Submitted talk (together with Sachiko Muto), Amsterdam, Netherlands.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Government-Collaboration-LFOSSEU-Amsterdam.pdf">Slides</a>
+* <i class="flag-icons  GB"></i> *Panel Discussion: Driving the UN Digital Compact With Open Source*. (2025, August). Linux Foundation Open Source Summit Europe. Submitted panel (together with Sachiko Muto), Amsterdam, Netherlands.
 * <i class="flag-icons  GB"></i> *Open Source Software and AI - The What, the Why, the How, and the When*. (2025, June). Part of external course on AI engineering. RISE, Kisa, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Open-Source-AI-External-course.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Qualitative Data Analysis*. (2025, June). Part of Theory and methods of Software Engineering, PhD student course. Lund University, Lund, Sweden.
