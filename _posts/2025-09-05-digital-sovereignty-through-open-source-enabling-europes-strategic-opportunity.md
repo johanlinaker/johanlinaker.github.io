@@ -1,0 +1,129 @@
+---
+title: "Digital Sovereignty through Open Source - Enabling Europe’s strategic opportunity"
+seo_title: "Digital Sovereignty through Open Source - Enabling Europe’s strategic opportunity"
+excerpt: "The world is turning in a strange way these days. Tariffs and sanctions are increasingly used to pressure and push agendas onto others. Digital sovereignty has, accordingly, singled up to a more general discourse and top of people's minds. Sense of urgency is now moving beyond data sovereignty (and whether the Trans-Atlantic Data Privacy Framework gives any comfort or not) to the broader question of what if - what if tariffs and sanctions are brought into the software domain? What if large foreign vendors and service providers are required to pull the switch? Speaking for most of Sweden, we would be shut down. From a European standpoint, governments and industries need to think about how they can gain control of their own infrastructure, data, and digital future (because most probably they aren't)."
+date: 2025-03-26T01:00:00-04:00
+categories:
+  - blog
+Tags:
+  - open-source-software
+  - digital-commons
+  - public-sector
+  - digital-sovereigenty
+header:
+  teaser: "/assets/images/2025-09-05-digital-sovereignty-through-open-source-enabling-europes-strategic-opportunity.md/teaser.png"
+---
+
+
+<div class="thumbnail-container">
+<img src="/assets/images/2025-09-05-digital-sovereignty-through-open-source-enabling-europes-strategic-opportunity.md/teaser.jpg" alt=""></div>
+
+<h4>TL;DR / Summary: </h4>
+<ul>
+  <li>Europe is currently facing a choice: convenience through dependencies vs. strategic autonomy.</li>
+  <li>The continent is currently digitally dependent on a few global incumbents (closed standards, long contracts, limited data access).</li>
+  <li>Geopolitical tensions are exposing risks in supply chains, digital infrastructure, and critical technologies.</li>
+  <li>Governments and agencies across Europe are increasingly calling for digital sovereignty and reduced reliance on non-European providers.</li>
+  <li>Sovereignty is a full-stack problem — beyond applications, it extends to operating systems, chip design tools, hardware, and raw materials.</li>
+  <li>Digital and physical infrastructures are converging, making sovereignty a topic about complete systemic control.</li>
+  <li>Digital sovereignty can better be described by Open Strategic Autonomy. It is about control of the digital sphere, while promoting and leveraging interoperability, collaboration, reuse, and open innovation — not isolation.</li>
+  <li>Control requires on investments and contributions, which in turn requires capabilities (skilled workforce, SME ecosystem, policies, support structures).</li>
+  <li>Public sector is facing a "Comfort Syndrome" typically diagnosed through risk-averse procurement, self-centricity, and resistance to change. Cure includes sustainable political leadership and systemic reforms.</li>
+  <li>Open technologies provides a toolbox, including open source software, standards, data, hardware, science, and innovation.</li>
+  <li>Inbound and outbound policies are required to enable both consumption and contribution of open source at all government levels.</li>
+  <li>Support structures like OSPOs (Open Source Program Offices) are essential as policy enablers, change agents, and connectors between government, industry, and academia.</li>
+  <li>Strategic investments (e.g., the OpenDesk/La Suite Numerique collaboration) prove migration away from proprietary ecosystems is possible. Schleswig-Holstein is leading by example.</li>
+  <li>Awareness of open source’s role in digital infrastructure is lacking; initiatives like the @European Open Source Academy and European Open Source Awards can bridge this gap.</li>
+  <li>Sustainability and maintenance are critical, requiring collective responsibility (government, industry, communities).</li>
+  <li>SMEs and sustainable suppliers are pivotal to resilient open source adoption and long-term digital sovereignty.</li>
+  <li>Concluding - Sovereignty = control through openness. OSPOs are key enablers, and strategic investments plus cultural change are necessary to achieve autonomy.</li>
+</ul>
+
+
+Europe is at a crossroads where it has to choose whether to default to the red path of convenience towards increased dependencies or take the optional route towards strategic autonomy. In reality, this is not a decision that can be avoided. Yesterday, I had the opportunity to present a keynote on why Europe needs to take the journey towards strategic autonomy together, and how open source can be used as a vehicle for the journey, as well as a tool for exploiting the many opportunities that the accelerating technology provides.
+
+<h3>Europe digitally cuffed by dependencies</h3>
+The opportunities are highlighted through both hype cycles and magic quadrants, as well as expectations expressed, such as those outlined in the EU Digital Decade and the Interoperable Europe Act, which aim to create an online and interoperable Europe by 2030. Such visions are, however, hampered by the fact that Europe is digitally cuffed by dependencies. Regardless of the vertical, 3-4 incumbents typically dominate the market, commonly through closed data formats and standards, long-horizon contracts, gated access to user data, and exploitation of the risk-averse, conservative, and self-centric procurement practices that often prevail in the public sector.
+
+<h3>...and fueld by geopolitical cracks</h3>
+There's no news to this picture, though. What is new (relatively speaking) is the geopolitical cracks that are rupturing across the globe, where threats on regulatory actions, tariffs, and trade wars are targeting our access to components critical to our supply chains, as well as digital products, services, and infrastructure on which our Industry and governments depend.
+
+<h3>Massive responses from across Europe</h3>
+The response has accordingly been quite massive from various parts throughout Europe. Data integrity agencies (e.g., Sweden and Norway) are expressing caution in where and how organisations store their data. Parliaments (e.g., the Netherlands and Denmark) are calling for decreased dependency on non-European cloud and software service providers. Several examples are emerging of how national and federal governments are taking concrete steps to replace what many think is irreparable. Both European political leadership and Industry are expressing common calls for increased sovereignty and autonomy. They are calling for an end to the dependencies that keep being reinforced through continued and misdirected spending. 
+
+<h3>Sovereignty is a Full-stack problem</h3>
+From the discourse, it is easily misunderstood that sovereignty is all about the clouds and the desktops. We couldn't, however, be more mistaken. Sovereignty is a full-stack problem where applications are just the tip of the iceberg, consisting of the operating system, kernel, drivers, and firmware. These latter parts are on the positive note, what many consider a commodity, why the access to high-quality open source products and projects is relatively high.
+
+And below the software stack comes the hardware stack, which paints a darker picture. Here, there is a lack of most forms of tools, frameworks, and infrastructure, considering the supply chain of silicon chips, an essential component for almost all things powered and connected. An example regards the access to EDA tools capable of designing, simulating, and verifying chip designs. The three main options are all proprietary, limiting both SME growth and skill training, and thereby substantially impacting Europe's chances of growing its own regional capabilities in the area. Then there's the access to Foundries and raw material, which is a post in itself.
+
+<h3>Need to look at Infrastructrue as a whole (digital+physical)</h3>
+Another essential aspect to clarify is that sovereignty is a topic for all parts of the infrastructure. We need to talk about both the digital and physical parts of infrastructure, which are becoming more and more intertwined. Consider the context of roads and traffic, where intelligent traffic management systems, mobility as a service, connectivity, smart city environments, and autonomous driving are all relevant. The boundary between what's considered physical and digital is becoming increasingly thin.
+
+That's about the why - why we need to start talking about sovereignty. Next is how - how can we start walking the talk? And how can be leverage open source as a vehicle for the societal transformation necessary?
+
+<h3>Digital sovereignty <> Open Strategic Autonomy</h3>
+First, let's broaden the taxonomy beyond digital sovereignty to also talk about open strategic autonomy. The construct highlights the fact that what we are reaching for is control - control of our own digital sphere and the ability to make our own decisions therewithin, without the influence of anyone else. The way this is achieved is not by building walls and entering into self-isolation. It's done by keeping doors and windows open. It's achieved by promoting interoperability, sharing, reuse, open collaboration, and innovation. 
+
+<h3>Control <> Investments & contributions <> Capabilities</h3>
+Second, it is crucial to recognize that gaining control (i.e., autonomy) requires being prepared to make the necessary investments and contributions. Both are necessary in all areas of technology critical to society, encompassing both innovation and maintenance. This is how you gain influence, and by extension control, in open source and open technologies at large. Followingly, to be able to make these investments and contributions, having the necessary capabilities in place is pivotal, implicitly referring to a skilled taskforce, vibrant SME ecosystem, strong and clear policies and support structures (things I'll return to further down).
+
+Once we understand the relationship of autonomy <> control <> investments & contributions <> capabilities, we can start to realise that we don't have to close down. You can still be "sovereign" by collaborating openly, and so also globally. The discussion about "European" open source should, therefore, in my opinion, be avoided at all costs to prevent confusion and misinformation.
+
+<h3>The Comfort Syndrome</h3>
+Coming to this point, however, is no easy journey for any government or public entity. One explanation comes from the comfort syndrome that has been spreading and residing in the public sector for many (many) years. This is easily diagnosed through symptoms such as risk aversiveness, conservative procurement culture, self-centricity, siloed mindsets, and general resistance to change. That said, I'm not pointing any fingers. It's not a he or she or they problem. It's a WE-problem. 
+
+As highlighted by fore-runners such as the Chancellery of Schleswig-Holstein, there is a need for political leadership to act and foster an understanding that sovereignty requires systemic changes, not just technical replacements. This is challenging, as political leadership is often subject to change, and its priorities follow suit accordingly. Building sustainable support for change is therefore essential, again highlighting the need for us to be growing courage together and to start collaborating.
+
+<h3>The toolbox of Open Technologies</h3>
+This is where the toolbox of open technologies comes into the picture. And it's not just about open source software. The toolbox also covers open standards, open source AI, open source hardware, open data, and open science. Open innovation at large. These are all tools that prove value in different use cases. Ensuring requirements and use of open standards, including data formats, along with providing access and ownership of data, can often be enough.
+
+Buying a toolbox is not enough, though. First, you need direction and a clear vision for what you are building. It is accordingly critical that policymakers provide a clear vision for what they want to achieve and define appropriate goals and incentives. If it's strategic autonomy, this should be expressed loud and clear, as well as what it implies and when it is achieved (when will the house be finished? Was it designed according to the requirements?). Indicators and guardrails may be necessary to facilitate follow-up, benchmarking, and evaluation as governments progress towards autonomy.
+
+<h3>Policies guiding the way</h3>
+Policies (and other instruments providing intent and direction) should ideally consider both how autonomy can be achieved and grown from both the Industry and public sector perspectives. Typically, it is one or the other. The former is a prime focus in countries as South Korea and Japan, while European countries are overwhelmingly focused on government and public entities. Ultimately, dependencies that affect one end will also impact the other.
+
+Policies should further consider both the consumption and contribution sides of open source. This translates to inbound and outbound policies, referring to the acquisition and procurement of open source-based solutions, and the release of software developed through public funds, respectively. Such policies can either come in the form of high-level endorsements (e.g., in Sweden), be advisory (e.g., in Denmark, Iceland), or prescriptive (e.g., in France, Italy). Ideally, the latter two are preferable with explicit language on either when and how open source should be considered in the acquisition process, or if software developed should be released as open source. 
+
+Which one is more preferable is an open question. In Italy, open-by-default has been legislated since 2012 in both the inbound and outbound, but was not followed as guidance and incentives are lacking, including the lack of penalties. In the Netherlands, an open unless-policy rules that is triggered when a publicly developed software is requested by someone to be released. The software is then evaluated to determine whether there is any reason not to release the software as open source (considering, e.g., integrity and confidentiality rationales).
+
+Scope and coverage of the policies should further (ideally) have as complete coverage as possible, including both the national, regional, and local levels of government. Organisational or institution-specific policies should also be promoted, as some organisations may need to implement more specific strategies based on higher-level instructions. It is therefore worth noting that there may be a need for complementary policies that come in different forms and definitions, e.g., through legislation, government instructions, and strategies. 
+
+<h3>Support structures and OSPOs</h3>
+Once you have direction and vision, we can return to the hammer. Now we need to learn how to use it accordingly. In essence, someone is needed who can translate the policy lingo into words of practice. Let's consider open source first in the acquisition process. How is the total cost of ownership evaluated? How about matters related to licenses and IPR? Security, and by extension, the health and sustainability of the project? The need and availability of support? Or the need and presence of suitable OSS-based solutions? Is there a need to combine several, and for any customisation (most likely yes)? Then how are the open alternatives compared with each other and other proprietary options? And how do you define qualification requirements for suppliers, and define the necessary contracting terms so you don't end up in a lock-in (does not come by default just because you say open source)? The list could go on... The same also applies to the release of software as open source. 
+
+<h4>Construct imported from industry</h4>
+These are things that cannot be expected of the general procurement offices. That's why (as with the case of Italy) support structures are needed. These are more and more referred to as Open Source Program Offices (OSPOs), a term coming from the west-coast Big-tech in the early 2000s, and more conceptualized in the mid 2010s, as centres of competency for organisations' open source operations and structure. They support and help accelerate consumption, contribution, and collaboration. They help mature the organisational readiness, moving from accidental (re)use to systematic contribution and leadership, leveraging open source operations in alignment with the overarching business or policy goals. 
+
+<h4>OSPOs = Policy enablers and Change agents</h4>
+The OSPOs can be referred to as both policy enablers and change agents. They help realise the policies and strategies into practice. Here, it is essential to note that practices from the Industry and community on adopting and leveraging open source cannot always be copied directly. Public sector open source is different in many ways, e.g., in terms of how development resources typically need to be procured through rigid regulatory frameworks. Here, the OSPOs play an essential role in creating the necessary guidelines, tools, and infrastructure for both the procurement and release of open source from a public sector perspective.
+
+Most importantly, however, is that they provide vehicles of cultural and organisational change underneath (and sometimes outside of) their organisational umbrellas. This is one of the most critical aspects to consider. Open source requires a shift in mindset and ways of working, which, for many, is outside of what they are used to, comfortable with, or thought they were allowed to do. Many Big Tech companies have downsized their OSPOs in recent years, not because open source is no longer critical, but because they have worked with change management for so long that it has begun to have an impact. The OSPOs are still there, but not at the size and scope as previously needed.
+
+<h4>Growing common capabilities with OSPOs as the interface</h4>
+To gain strategic autonomy, however, one needs to go beyond the single organisational level and consider the society and public sector as a whole. Organisational change is necessary across the board. There is a need to develop common capabilities if control is to be achieved. The OSPOs help provide interfaces between organisations, levels of government, and parts of society. Creating a national government OSPO won't do it. They are commonly a good starting point, but don't scale and can't support a whole country with all its levels. A comprehensive support structure is needed with OSPOs all across national, regional, and local governments and institutions. 
+
+For government (whatever level) and public entities with limited resources, Association-based OSPOs (e.g., OS2 in Denmark, iMio in Belgium, or Addulact in France) can be a solution to help pool resources and steward projects on their members' behalf. The construct of government stewards should be considered either way, as public entities are commonly not geared to steward projects themselves long-term. In Industry and community, neutral proxy organisations in the form of non-profit open source foundations are typically the norm for projects reaching a certain mass and adoption across several organisations. Association-based OSPOs or more general government stewards can provide a corresponding way forward to the public sector, and a topic I'll return to in a separate post.
+
+<h4>OSPOs as enablers for open science and technology transfer</h4>
+Academic and scientific research institutes are another area that needs to be integrated into the bigger picture. Academic OSPOs typically involve the Technology Transfer Office, which helps researchers translate their research between and across projects as open source. It enables further exploitation by partners and follow-up projects that can build on earlier outputs through open science principles.
+
+<h4>Complementary OSPOs supporting public sector</h4>
+An interesting emerging example of OSPO structures is the Transnational OSPOs, such as the Inter-American Development Bank and its Code for Development initiative, which supports countries in the region in the design of open source policy, finding open source solutions, and building general capabilities in the area. Another type of complementary OSPOs supporting the public sector has also emerged from civil society (e.g., Coding for Romania in Romania, [Danes je nov dan](https://danesjenovdan.si/en/) in Slovenia), helping to create and onboard solutions, both new and existing, that address local and national needs.
+
+<h3>Findability and promotion of existing open source solutions</h3>
+A core feature of many OSPOs is to promote and enable the findability of relevant open source projects and solutions. These are not always as easy to find. A standard practice is to establish software catalogues that index open source solutions, either external or released by public entities. In a recent initiative from the European Commission, several country-specific catalogues have been aggregated into one single repository to promote cross-border reuse. The public-code.yml metadata standard emerging from Italy has been key to this work and is something to consider for all types of OSPOs.
+
+<h3>Strategic investments in key open source technologies</h3>
+Sometimes, there will be the need for making strategic investments and create core products where the market status quo resists to change. One example is the overlapping OpenDesk and La Suite Numerique initiatives from Germany and France, respectively, which integrate existing open source solutions (e.g., Jitsi for video, Nextcloud for document storage) by developing the glue between them, and integrating the solution with the rest of the surrounding infrastructure and application suites. Schleswig-Holstein has worked directly with implementing the underlying open source solutions, and as of October 2025, has reduced its Microsoft licences to 30% of the original share. By 2029, they project to reduce this to 1%. These examples show both that a migration is possible and that key investments can be critical to nudge the possibilities and, by extension, create trust and courage to take the steps needed. Since Italy, the Netherlands, and Switzerland have followed suit and joined the German-French desktop collaboration.
+
+<h3>Public recognition and awareness on open source lacking</h3>
+Awareness and recognition of the wide-scale adoption and potential of open source as a lever for strategic autonomy is also needed among the public. Very few know of the economic impact open source technology has, how it underpins 95%+ of our digital infrastructure, and that large amounts are (still) actually maintained by individuals in their spare time, not the government, as for most other types of infrastructure they use in their daily lives. The annual European Open Source Awards ceremony is a crucial component of this awareness-raising effort. The newly established European Open Source Academy, which gathers recognized and influential experts in open source software and hardware, aims to enlighten policymakers and the public on the impact of open source technologies and how they can be sustained.
+
+<h3>Sustainability and maintenance often neglected but pivotal</h3>
+The sustainability, meaning the longevity and long-term viability of an open source project to stay maintainable, is commonly neglected. From a strategic autonomy perspective, however, it is more critical than the development of new solutions. The question of how it is thought still resides in many people's minds. In essence, it needs to be a collective responsibility, including both the communities of volunteers and Industry, as well as the governments and public entities. There is no one solution, but rather a system of centralized and decentralized initiatives required, employing both push and pull, e.g., through central funding schemes, requirements in procurement contracts, and regulated responsibility similar to the CRA, which pushes for manufacturers to care for their supply chains.
+
+<h3>Sustainable suppliers = Sustainable software</h3>
+A critical component in this equation is the software service suppliers, and primarily so in the SME space. They are the ones that possess the incentives and skills to support the public sector in adopting and leveraging open source. They are key to maintaining a digital infrastructure that stays robust and resilient. When discussing the development of common capabilities, SMEs and service suppliers are as crucial as growing competency and culture within public entities, as most development resources tend to be outsourced. Governments should accordingly ensure that service suppliers can create sustainable business models and that maintenance is included in any contract signed, including hosting and support contracts.
+
+<h3>Final thoughts</h3>
+In summary, digital sovereignty is about gaining control of the digital sphere, not isolating it with walls and ceilings. Open source provides a vehicle and a tool set. Control requires strategic investments and contributions that encompass both innovation and maintenance. Such investments and contributions require growing common capabilities across the public sector, Industry, and all of society. Both policies and support structures are needed to make this happen. OSPOs provide a policy enabler, change agent, interface, and cornerstone for the support structure.
