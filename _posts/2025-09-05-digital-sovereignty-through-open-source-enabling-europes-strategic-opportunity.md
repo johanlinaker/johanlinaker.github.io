@@ -11,12 +11,12 @@ Tags:
   - public-sector
   - digital-sovereigenty
 header:
-  teaser: "/assets/images/2025-09-05-digital-sovereignty-through-open-source-enabling-europes-strategic-opportunity.md/teaser.png"
+  teaser: "/assets/images/2025-09-05-digital-sovereignty-through-open-source-enabling-europes-strategic-opportunity.md/teaser.jpg"
 ---
 
 
 <div class="thumbnail-container">
-<img src="/assets/images/2025-09-05-digital-sovereignty-through-open-source-enabling-europes-strategic-opportunity.md/teaser.png" alt=""></div>
+<img src="/assets/images/2025-09-05-digital-sovereignty-through-open-source-enabling-europes-strategic-opportunity.md/teaser.jpg" alt=""></div>
 
 <h4>TL;DR / Summary: </h4>
 <ul>
