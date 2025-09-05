@@ -85,7 +85,7 @@ Which one is more preferable is an open question. In Italy, open-by-default has 
 
 Scope and coverage of the policies should further (ideally) have as complete coverage as possible, including both the national, regional, and local levels of government. Organisational or institution-specific policies should also be promoted, as some organisations may need to implement more specific strategies based on higher-level instructions. It is therefore worth noting that there may be a need for complementary policies that come in different forms and definitions, e.g., through legislation, government instructions, and strategies. 
 
-<h3>Support structures and OSPOs</h3>
+<h3>Support structures and OSPOs</h3> 
 Once you have direction and vision, we can return to the hammer. Now we need to learn how to use it accordingly. In essence, someone is needed who can translate the policy lingo into words of practice. Let's consider open source first in the acquisition process. How is the total cost of ownership evaluated? How about matters related to licenses and IPR? Security, and by extension, the health and sustainability of the project? The need and availability of support? Or the need and presence of suitable OSS-based solutions? Is there a need to combine several, and for any customisation (most likely yes)? Then how are the open alternatives compared with each other and other proprietary options? And how do you define qualification requirements for suppliers, and define the necessary contracting terms so you don't end up in a lock-in (does not come by default just because you say open source)? The list could go on... The same also applies to the release of software as open source. 
 
 <h4>Construct imported from industry</h4>
