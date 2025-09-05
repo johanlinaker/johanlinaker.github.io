@@ -16,27 +16,24 @@ header:
 
 
 <div class="thumbnail-container">
-<img src="/assets/images/2025-09-05-digital-sovereignty-through-open-source-enabling-europes-strategic-opportunity.md/teaser.jpg" alt=""></div>
+<img src="/assets/images/2025-09-05-digital-sovereignty-through-open-source-enabling-europes-strategic-opportunity.md/teaser.png" alt=""></div>
 
 <h4>TL;DR / Summary: </h4>
 <ul>
-  <li>Europe is currently facing a choice: convenience through dependencies vs. strategic autonomy.</li>
-  <li>The continent is currently digitally dependent on a few global incumbents (closed standards, long contracts, limited data access).</li>
-  <li>Geopolitical tensions are exposing risks in supply chains, digital infrastructure, and critical technologies.</li>
-  <li>Governments and agencies across Europe are increasingly calling for digital sovereignty and reduced reliance on non-European providers.</li>
-  <li>Sovereignty is a full-stack problem — beyond applications, it extends to operating systems, chip design tools, hardware, and raw materials.</li>
-  <li>Digital and physical infrastructures are converging, making sovereignty a topic about complete systemic control.</li>
-  <li>Digital sovereignty can better be described by Open Strategic Autonomy. It is about control of the digital sphere, while promoting and leveraging interoperability, collaboration, reuse, and open innovation — not isolation.</li>
-  <li>Control requires on investments and contributions, which in turn requires capabilities (skilled workforce, SME ecosystem, policies, support structures).</li>
-  <li>Public sector is facing a "Comfort Syndrome" typically diagnosed through risk-averse procurement, self-centricity, and resistance to change. Cure includes sustainable political leadership and systemic reforms.</li>
-  <li>Open technologies provides a toolbox, including open source software, standards, data, hardware, science, and innovation.</li>
-  <li>Inbound and outbound policies are required to enable both consumption and contribution of open source at all government levels.</li>
-  <li>Support structures like OSPOs (Open Source Program Offices) are essential as policy enablers, change agents, and connectors between government, industry, and academia.</li>
-  <li>Strategic investments (e.g., the OpenDesk/La Suite Numerique collaboration) prove migration away from proprietary ecosystems is possible. Schleswig-Holstein is leading by example.</li>
-  <li>Awareness of open source’s role in digital infrastructure is lacking; initiatives like the @European Open Source Academy and European Open Source Awards can bridge this gap.</li>
-  <li>Sustainability and maintenance are critical, requiring collective responsibility (government, industry, communities).</li>
-  <li>SMEs and sustainable suppliers are pivotal to resilient open source adoption and long-term digital sovereignty.</li>
-  <li>Concluding - Sovereignty = control through openness. OSPOs are key enablers, and strategic investments plus cultural change are necessary to achieve autonomy.</li>
+  <li>Europe stands at a crossroads: continue down the path of dependency or invest in strategic autonomy.</li>
+  <li>Today, Europe remains digitally dependent on a few global providers — often tied by closed standards, restrictive contracts, and limited access to data.</li>
+  <li>Global geopolitical tensions are exposing the fragility of supply chains, digital infrastructure, and critical technologies. Calls for digital sovereignty are increasing across European governments and institutions</li>
+  <li>As digital and physical infrastructures converge, autonomy requires a systemic approach, not point solutions. Sovereignty is further a full-stack challenge — spanning software, operating systems, hardware, and raw materials.</li>
+  <li>Digital sovereignty can be translated with Open Strategic Autonomy, and is not about isolation, but about control through openness: interoperability, reuse, collaboration, and shared innovation provide a strategic opportunity for Europe.</li>
+  <li>Control requires investments and contributions, underpinned by collective capabilities — from skilled talent and vibrant SMEs to the necessary policies and support structures.</li>
+  <li>The public sector often struggles with "comfort syndrome": risk-averse procurement, siloed mindsets, and resistance to change are common symptoms. Overcoming this demands sustainable leadership and systemic reforms.</li>
+  <li>Open technologies form a critical toolbox and vehicle towards strategic autonomy, from open source software and standards to data, hardware, and science.</li>
+  <li>Support structures like Open Source Program Offices (OSPOs) are key enablers — translating policy into practice, fostering collaboration, and driving change across government, academia, and industry.</li>
+  <li>Strategic investments (e.g. the OpenDesk and La Suite Numeriqe initiatives, and Schleswig-Holstein’s migration journey) show that alternatives to proprietary ecosystems are possible — and practical.</li>
+  <li>Public awareness of open source’s role remains low, despite underpinning 95%+ of global digital infrastructure. Initiatives like the European Open Source Academy and Awards are working to change that.</li>
+  <li>Long-term sustainability and maintenance are just as critical as innovation to reach strategic autonomy, requiring collective responsibility across communities, industry, and public sector.</li>
+  <li>SMEs and sustainable suppliers are essential to resilience, enabling digital sovereignty through real-world adoption and ongoing support.</li>
+  <li><b>In summary:</b> Sovereignty is about control through openness. Achieving it requires not just technology, but investment, capabilities, and cultural change — with OSPOs and open collaboration at the core.</li>
 </ul>
 
 
