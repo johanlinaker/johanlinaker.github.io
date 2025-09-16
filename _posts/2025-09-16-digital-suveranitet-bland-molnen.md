@@ -1,7 +1,7 @@
 ---
 title: "Digital suveränitet uppe bland molnen"
 seo_title: "Digital suveränitet uppe bland molnen"
-excerpt: "Sverige och Europa är utmanade i en värld som geopolitiskt har förändrats markant på senare tid. Detta är särskilt tydligt om vi ser till vår digitala infrastruktur. Igår hade jag möjlighet att få kommentera utvecklingen utifrån den uppmärksamhet ämnet har fått i Danmark med särskilt fokus på molnfrågan. 
+excerpt: "Sverige och Europa är utmanade i en värld som geopolitiskt har förändrats markant på senare tid. Detta är särskilt tydligt om vi ser till vår digitala infrastruktur. Igår hade jag möjlighet att få kommentera utvecklingen utifrån den uppmärksamhet ämnet har fått i Danmark med särskilt fokus på molnfrågan."
 date: 2025-09-015T01:00:00-04:00
 categories:
   - blog
