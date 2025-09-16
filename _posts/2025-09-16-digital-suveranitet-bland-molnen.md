@@ -18,7 +18,7 @@ header:
 <div class="thumbnail-container">
 <img src="/assets/images/2025-09-16-digital-suveranitet-bland-molnen/teaser.jpeg" alt=""></div>
 
-Sverige och Europa är utmanade i en värld som geopolitiskt har förändrats markant på senare tid. Detta är särskilt tydligt om vi ser till vår digitala infrastruktur. Igår hade jag möjlighet att få kommentera utvecklingen i <a href="https://www.svtplay.se/video/e6dYgAo/aktuellt/igar-21-00?position=1576">Akutellt på SVT</a> utifrån den uppmärksamhet ämnet har fått i Danmark med särskilt fokus på molnfrågan. 
+Sverige och Europa är utmanade i en värld som geopolitiskt har förändrats markant på senare tid. Detta är särskilt tydligt om vi ser till vår digitala infrastruktur. Igår hade jag möjlighet att få kommentera utvecklingen i <a href="https://www.svtplay.se/video/e6dYgAo/aktuellt/igar-21-00?position=1576">Akutellt på SVT</a> utifrån den uppmärksamhet ämnet har fått i Danmark med särskilt fokus på molnfrågan.  
 
 Jag drar en liknelse med elnätet där vi får producerat elektricitet som flödar ut och håller liv i våra hem, industrier och samhällstjänster. I de så kallade molnen körs digitala tjänster som vi interagerar med dagligen med informationsmängder och data som flödar fram och tillbaka. 
 
