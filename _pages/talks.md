@@ -25,6 +25,10 @@ header:
 
 <div id="2025" />
 ## 2025 | <a href="#top">Top</a>
+* <i class="flag-icons  GB"></i> *Open Source Software Adoption and Reuse in European Local Governments: A Multiple-Case Study*. (2025, October). OSOR Webinar on Open Source Software Adoption and Reuse in European Local Governments. Invited talk, Virtual.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Local-gov-OSOR.pdf">Slides</a>
+* <i class="flag-icons  GB"></i> *Open Source Software Adoption and Reuse in European Local Governments: A Multiple-Case Study*. (2025, October). Luxembourg Open Source Conference. Invited talk, Luxembourg.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Local-gov-OSOR-Luxembourg.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Digital Sovereignty through Open Source - Enabling Europe’s strategic opportunity*. (2025, September). OSPOs for EUROPE 2025, hosted by Digital-Hub.SH, Schleswig-Holstein. Keynote, Brussles, Belgium.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Keynote-OSPOs-for-Europe-Brussels.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Health Check-ups on Open Source Software Projects - Managing Risks while Promoting (Re)use*. (2025, August). Linux Foundation Open Source Summit Europe. Submitted talk, Amsterdam, Netherlands.
