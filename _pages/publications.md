@@ -12,6 +12,7 @@ header:
 <h3>Sections</h3>
 <ul>
 	<li><a href="#technical-reports">Technical reports</a></li>
+	<li><a href="#book-chapters">Book chapters</a></li>
 	<li><a href="#peer-reviewed-papers">Peer-reviewed papers</a>
 		<ul>
 			<li><a href="#2025">2025</a></li>
@@ -47,7 +48,14 @@ header:
   - <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/sv/publications/rekommendationer-f%C3%B6r-samverkan-och-delning-av-data-teknik-och-kun) <i class="fa fa-file-pdf"></i> [PDF](https://lucris.lub.lu.se/ws/portalfiles/portal/112560914/Rapport_Rekommendationer_f_r_samverkan_och_delning_av_data_teknik_och_kunskap_inom_myndighetsdrivna_ppna_data_ekosystem.pdf)
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Sulaman, S. M., Maiani de Mello, R., & Höst, M. (2015). *Guidelines for conducting surveys in software engineering*. Lund university, Lund, Sweden.
   - <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/sv/publications/guidelines-for-conducting-surveys-in-software-engineering) <i class="fa fa-file-pdf"></i> [PDF](https://lucris.lub.lu.se/ws/portalfiles/portal/6062997/5463412.pdf)
+  ´
+  
+<div id="book-chapters" />
+## Book chapters | <a href="#top">Top</a>
+* <i class="flag-icons  GB"></i> **Linåker, J.**, Rudmark, D., Östling, A. (2025). *Lessons Learnt from Horizontal Coordination of Data Ecosystems in the Swedish Public Transport Sector*. In: Behnke, N., Petersohn, B. (eds) Horizontal Intergovernmental Coordination at Local and Regional Levels. Palgrave Macmillan, Cham. 
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/978-3-031-83567-4_20) <i class="fa fa-file-pdf"></i> [PDF](https://link.springer.com/content/pdf/10.1007/978-3-031-83567-4_20.pdf?pdf=inline%20link)
 
+  
 <div id="peer-reviewed-papers" />
 ## Peer-reviewed papers | <a href="#top">Top</a>
 
