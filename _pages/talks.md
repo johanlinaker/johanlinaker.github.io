@@ -47,7 +47,7 @@ header:
 * <i class="flag-icons  GB"></i> *Growing the courage to change what “works”*. (2025, May). OS2 and OpenData.DK Annual summit. Keynote, Vejle, Denmark.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Keynote-OS2-OpendataDK-final.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Procurement and acquisition of Open Source Software Challenges and Practices from a Swedish context*. (2025, May). Open Ireland Network workshop on public procurement of open source. Invited talk, Dublin, Ireland.
-  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-procurement-Dublin.pdf.pdf">Slides</a>
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-procurement-Dublin.pdf">Slides</a>
 * <i class="flag-icons SE"></i> *Hur offentlig sektor använder öppen programvara för att stärka Europas digital suveränitet*. (2025, March). Sambruk. Invited talk, Virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-and-Digital-sovereignty-Sambruk.pdf">Slides</a>
 
