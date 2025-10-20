@@ -38,6 +38,8 @@ header:
 
 <div id="technical-reports" />
 ## Technical reports | <a href="#top">Top</a>
+* <i class="flag-icons GB"></i> **Linåker, J.**, Gates, N., Chourmouziadis, Y., & Weber, S. (2025). *Open Source Software Adoption and Reuse in European Local Governments A Multiple-Case Study*. Directorate-General for Digital Services (DIGIT). 
+	- <i class="ai ai-doi-square"></i> [DOI](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/multiple-case-study-public-sector-open-source) <i class="fa fa-file-pdf"></i> [PDF](/assets/slides/open-source-software-adoption-and-reuse-in-european-local-governments-a-multiple-case-study.pdf)
 * <i class="flag-icons GB"></i> **Linåker, J.**, & Muto, S. (2024). *Software Reuse through Open Source Software in the Public Sector: A qualitative survey on Policy and Practice*. RISE Research Institutes of Sweden, Lund, Sweden.
   - <i class="ai ai-doi-square"></i> [DOI](https://urn.kb.se/resolve?urn=urn:nbn:se:ri:diva-72465) <i class="fa fa-file-pdf"></i> [PDF](https://www.diva-portal.org/smash/get/diva2:1848137/FULLTEXT01.pdf)
 * <i class="flag-icons GB"></i> **Linåker, J.**, & Nummelin Carlberg, A. (2024). *Open Source Software in the Automotive Industry - A Vision Paper*. Eclipse Software Defined Vehicle Working Group, Brussels, Belgium.

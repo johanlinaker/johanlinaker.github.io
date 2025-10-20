@@ -25,6 +25,8 @@ header:
 
 <div id="2025" />
 ## 2025 | <a href="#top">Top</a>
+* <i class="flag-icons  SE"></i> *Open Source Software in Research*. (2025, October). Invited panel, Lund University National Open Science community, virtual, Sweden.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-as-open-science-SciLifeLab-panel.pdf">Slides</a>
 * <i class="flag-icons  SE"></i> *Hälsa och säkerhet hos öppen programvara vid utveckling och anskaffning*. (2025, October). Inner/open sourcing inom Svensk offentlig sektor. Invited talk, Trafikverket, Stockholm, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-health-public-sector-TRV.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Open Source Software Adoption and Reuse in European Local Governments: A Multiple-Case Study*. (2025, October). OSOR Webinar on Open Source Software Adoption and Reuse in European Local Governments. Invited talk, Virtual.
