@@ -1,7 +1,7 @@
 ---
 title: "Open Source in Open Science and the role of Academic Open Source Program Offices (OSPOs)"
 seo_title: "Open Source in Open Science and the role of Academic Open Source Program Offices (OSPOs)"
-excerpt: ""
+excerpt: "Countries across Europe are ramping up their efforts to adapt to the changing geopolitical climate, preparing for uncertainties that the near future might bring. Dependencies on non-European cloud providers are substantial and require proactive action both top-down and bottom-up. Top-down includes policy and legislation setting the stage by, for example, enabling demand and guiding buyers in making informed decisions. Bottom-up includes, for example, growing the necessary capabilities and supply needed. EuroStack highlights the need for both aspects through their “Buy and Sell European” principles."
 date: 2025-10-20T01:00:00-04:00
 categories:
   - blog
