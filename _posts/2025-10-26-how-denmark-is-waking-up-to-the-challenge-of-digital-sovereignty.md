@@ -1,14 +1,14 @@
 ---
 title: "How Denmark is Waking Up to the Challenge of Digital Sovereignty"
-seo_title: "Open Source in Open Science and the role of Academic Open Source Program Offices (OSPOs)"
+seo_title: "How Denmark is Waking Up to the Challenge of Digital Sovereignty"
 excerpt: "Society's institutions and our everyday lives have, for a long time (and increasingly) been transforming from physical to digital, where services, interactions, and communication now transcend the two worlds, which are becoming ever more integrated. Interestingly (and unfortunately), public policy and leadership have not kept pace, which, in the long term, poses a threat to security and, by extension, democracy. Some, however, have started to wake up due to the alarm bells that are going off with increasing frequency. One of the newly awakened is Denmark, where the question of digital sovereignty (or strategic autonomy) has become present at the top of mind among both politicians and citizens."
 date: 2025-10-20T01:00:00-04:00
 categories:
   - blog
 Tags:
   - open-source-software
-  - academia
-  - open-science
+  - public-sector
+  - digital-sovereignty
 header:
   teaser: "/assets/images/2025-10-26-how-denmark-is-waking-up-to-the-challenge-of-digital-sovereignty/teaser.png"
 ---
