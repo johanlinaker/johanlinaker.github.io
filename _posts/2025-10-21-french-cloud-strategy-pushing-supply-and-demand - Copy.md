@@ -46,3 +46,5 @@ Procurement through this channel minimises administrative overhead and standardi
 Open source technologies play a structural and strategic role in the national cloud strategy, underpinning its goals of sovereignty, interoperability, and long‑term sustainability. In contrast to proprietary ecosystems that foster dependence on foreign suppliers, open source software offers transparency, auditability, and collective control over critical technological components.  
 
 DINUM supports public administrations through the development and provisioning of open source‑based solutions, as well as providing guidance on where to find, how to assess the health and security of, and how to adopt these technologies. This kind of support is critical for growing knowledge, awareness, and capabilities to procure services that align with overarching goals of strengthening strategic autonomy and promoting interoperability, both in France and across Europe.
+
+*Thanks to Stéfane Fermigier for contributing to the framing of this post.*
