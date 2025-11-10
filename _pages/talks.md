@@ -25,6 +25,8 @@ header:
 
 <div id="2025" />
 ## 2025 | <a href="#top">Top</a>
+* <i class="flag-icons  SE"></i> *Public sector Open Source Program Offices - Archetypes and practices*. (2025, November). Invited talk, OSPO training for Combodia Public Administrations, part of UNDP Open Source Ecosystem Enabler (OSEE) program, virtual, Cambodia.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSPO-training-UNDP.pdf">Slides</a>
 * <i class="flag-icons  SE"></i> *Digital suveränitet genom öppenhet*. (2025, October). Invited talk, Informationssäkerhetsnätverket inom Dataföreningen, virtual, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Digital-suveränitet-Dataföreningen.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *The Danish Public Sector & Open Source: What is Missing?*. (2025, October). Invited Panel Moderator, OFE Capital Series Denmark, Folketinget, Copenhagen, Denmark.
