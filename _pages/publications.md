@@ -159,6 +159,11 @@ header:
 
 <div id="pedagogic-papers" />
 ## Pedagogic papers | <a href="#top">Top</a>
+* <i class="flag-icons  GB"></i> **Linåker, J.**, Alce, G., Eom, N., Niklewski, J., and Iao-Jörgensen, J. (2025). *Enabling PhD student collaboration
+in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund University, Lund, Sweden.
+  - <i class="fa fa-file-pdf"></i> [PDF](/assets/slides/PedKonf-2025.pdf)
+* <i class="flag-icons  GB"></i> Bjarnasson, E., & **Linåker, J.** (2016). *Teaching Academic Writing to Large Classes of Engineering Students*. Pedagogiska inspirationskonferensen-Genombrottet. Lund University, Lund, Sweden.
+  - <i class="ai ai-doi-square"></i> [DOI](https://journals.lub.lu.se/pige/article/view/21207) <i class="fa fa-file-pdf"></i> [PDF](https://journals.lub.lu.se/pige/article/view/21207/19114)
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Bjarnasson, E., & Regnell, B. (2019). *Involving real-world stakeholders in course group projects: Opportunities and challenges [extended abstract].*. Lund University’s Teaching and Learning Conference. Lund, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Involving_real_world_stakeholders_in_course_group_projects__Opportunities_and_challenges_.pdf">PDF</a>
 * <i class="flag-icons  GB"></i> Bjarnasson, E., & **Linåker, J.** (2016). *Teaching Academic Writing to Large Classes of Engineering Students*. Pedagogiska inspirationskonferensen-Genombrottet. Lund University, Lund, Sweden.

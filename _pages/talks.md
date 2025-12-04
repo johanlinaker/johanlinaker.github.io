@@ -25,6 +25,9 @@ header:
 
 <div id="2025" />
 ## 2025 | <a href="#top">Top</a>
+* <i class="flag-icons  GB"></i> *Enabling PhD student collaboration
+in research groups*. (2025, December). Pedagogiska inspirationskonferensen-Genombrottet. Lund University, Lund, Sweden.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/PPT LTH 2025 pedagog conference.pdf">Slides</a>
 * <i class="flag-icons  SE"></i> *A Cartography of Collaboration in Open Source AI: Mapping Collaboration in the Development and Reuse Lifecycle of 12 Open Large Language Models*. (2025, November). OpenForum Academy. Submitted talk, Rio de Janiero, Brazil.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Open-Source-AI-Collab-OFA.pdf">Slides</a>
 * <i class="flag-icons  SE"></i> *Public sector open source software projects – How is development organized?*. (2025, November). OpenForum Academy. Submitted talk, Rio de Janiero, Brazil.
