@@ -2,7 +2,7 @@
 title: "Open Source in Open Science and the role of Academic Open Source Program Offices (OSPOs)"
 seo_title: "Open Source in Open Science and the role of Academic Open Source Program Offices (OSPOs)"
 excerpt: ""
-date: 2025-11-30T01:00:00-04:00
+date: 2025-01-30T01:00:00-04:00
 categories:
   - blog
 Tags:

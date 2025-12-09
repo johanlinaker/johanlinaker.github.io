@@ -28,13 +28,13 @@ header:
 * <i class="flag-icons  GB"></i> *Enabling PhD student collaboration
 in research groups*. (2025, December). Pedagogiska inspirationskonferensen-Genombrottet. Lund University, Lund, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/PPT LTH 2025 pedagog conference.pdf">Slides</a>
-* <i class="flag-icons  SE"></i> *A Cartography of Collaboration in Open Source AI: Mapping Collaboration in the Development and Reuse Lifecycle of 12 Open Large Language Models*. (2025, November). OpenForum Academy. Submitted talk, Rio de Janiero, Brazil.
+* <i class="flag-icons  GB"></i> *A Cartography of Collaboration in Open Source AI: Mapping Collaboration in the Development and Reuse Lifecycle of 12 Open Large Language Models*. (2025, November). OpenForum Academy. Submitted talk, Rio de Janiero, Brazil.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Open-Source-AI-Collab-OFA.pdf">Slides</a>
-* <i class="flag-icons  SE"></i> *Public sector open source software projects – How is development organized?*. (2025, November). OpenForum Academy. Submitted talk, Rio de Janiero, Brazil.
+* <i class="flag-icons  GB"></i> *Public sector open source software projects – How is development organized?*. (2025, November). OpenForum Academy. Submitted talk, Rio de Janiero, Brazil.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Government-Collaboration-OFA.pdf">Slides</a>
 * <i class="flag-icons  SE"></i> *Hälsa och säkerhet hos öppen programvara vid utveckling och anskaffning*. (2025, November). Arkitekturnätverket hos Skatteverket. Invited talk, virtual, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-health-public-sector-TRV.pdf">Slides</a>
-* <i class="flag-icons  SE"></i> *Public sector Open Source Program Offices - Archetypes and practices*. (2025, November). Invited talk, OSPO training for Combodia Public Administrations, part of UNDP Open Source Ecosystem Enabler (OSEE) program, virtual, Cambodia.
+* <i class="flag-icons  GB"></i> *Public sector Open Source Program Offices - Archetypes and practices*. (2025, November). Invited talk, OSPO training for Combodia Public Administrations, part of UNDP Open Source Ecosystem Enabler (OSEE) program, virtual, Cambodia.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSPO-training-UNDP.pdf">Slides</a>
 * <i class="flag-icons  SE"></i> *Digital suveränitet genom öppenhet*. (2025, October). Invited talk, Informationssäkerhetsnätverket inom Dataföreningen, virtual, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Digital-suveränitet-Dataföreningen.pdf">Slides</a>
