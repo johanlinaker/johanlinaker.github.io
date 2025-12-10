@@ -1,6 +1,6 @@
 ---
-title: "Evig nyttjanderätt medför evig inlåsning"
-seo_title: "Evig nyttjanderätt medför evig inlåsning"
+title: "Evig nyttjanderätt = evig inlåsning"
+seo_title: "Evig nyttjanderätt = evig inlåsning"
 excerpt: "Att offentlig sektor lider av leverantörssinlåsningar är ingen löpsedelsnyhet. Dock börjar det bli dags att vi tar tag i detta grundläggande problem när vissa av våra beroenden helt plötsligt har börjat utvecklas till brickor i ett geopolitiskt spel."
 date: 2025-12-08T01:00:00-04:00
 categories:
@@ -16,11 +16,11 @@ header:
 <div class="thumbnail-container">
 <img src="/assets/images/2025-12-09-evig-nyttjanderatt-medfor-evig-inlasning/teaser.jpg" alt=""></div>
 
-Att offentlig sektor lider av leverantörssinlåsningar är ingen löpsedelsnyhet. Dock börjar det bli dags att vi tar tag i detta grundläggande problem när vissa av våra beroenden helt plötsligt har börjat utvecklas till brickor i ett geopolitiskt spel. 
+Att offentlig sektor lider av leverantörssinlåsningar kommer inte som någon löpsedel. Dock börjar det bli dags att vi tar tag i detta grundläggande problem allt eftersom licenskostnader fortsätter att <a href="https://computersweden.se/article/4102244/m365-kunder-bor-undersoka-alternativ-och-planera-for-att-diskutera-nar-prishojningar-hotar-analytiker.html">skjuta iväg</a> och vissa av våra beroenden helt plötsligt har börjat utvecklas till brickor i ett geopolitiskt spel. 
 
 
 #### Göteborgs Stad och Treserva
-Ett exempel (som inte primärt har med geopolitiska aspekter att göra) som jag nyligen <a href="https://www.sverigesradio.se/artikel/goteborgs-stad-efter-kritiserade-it-upphandlingen-moment-22">kommenterade</a> kring gäller hur Göteborgs Stad 2008 anskaffade ett socialtjänstsystem med *"en icke exklusiv och i tiden obegränsad licens till systemet [och dess källkod]"*. 
+Ett exempel som jag nyligen <a href="https://www.sverigesradio.se/artikel/goteborgs-stad-efter-kritiserade-it-upphandlingen-moment-22">kommenterade</a> kring gäller hur Göteborgs Stad 2008 anskaffade ett socialtjänstsystem med *"en icke exklusiv och i tiden obegränsad licens till systemet [och dess källkod]"*. 
 
 Dokumenten Ekot fått tillgång till visar hur ev. nya leverantörer som vill svara på upphandling kring fortsatt utveckling och underhåll av plattformen behöver begära tillgång till källkoden från den befintliga leverantören (något den senare ej är pigg på eller skyldig att tillgodose). Staden skriver i sitt svar till Konkurrensverket (Socialförvaltningen Nordost, Upplysning i ärende dnr 846/2025):
 
