@@ -31,7 +31,6 @@ header:
 	</li>
 	<li><a href="#pedagogic-papers">Pedagogic papers</a></li>
 	<li><a href="#editorials">Editorials</a></li>
-	<li><a href="#book-chapters">Book chapters</a></li>
 	<li><a href="#media">Media and interviews</a></li>
 	<li><a href="#popular-writing">Popular writing</a></li>
 	<li><a href="#doctoral-dissertation">Doctoral dissertation</a></li>
@@ -55,10 +54,12 @@ header:
   
 <div id="book-chapters" />
 ## Book chapters | <a href="#top">Top</a>
-* <i class="flag-icons  GB"></i> Bjarnason, E., **Linåker, J.**, & Fagerholm, F. (2025). *Experimentation practice in indie game startups*. In: Advances in software startups.: generative AI, product nngineering and business development (pp. 137-152). Springer Nature. 
+* <i class="flag-icons  GB"></i> Bjarnason, E., **Linåker, J.**, & Fagerholm, F. (2025). *Experimentation practice in indie game startups*. In: Advances in software startups: generative AI, product engineering and business development (pp. 137-152). Springer Nature. 
   - <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/en/publications/experimentation-practice-in-indie-game-startups/)
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Rudmark, D., Östling, A. (2025). *Lessons Learnt from Horizontal Coordination of Data Ecosystems in the Swedish Public Transport Sector*. In: Behnke, N., Petersohn, B. (eds) Horizontal Intergovernmental Coordination at Local and Regional Levels. Palgrave Macmillan, Cham. 
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/978-3-031-83567-4_20) <i class="fa fa-file-pdf"></i> [PDF](https://link.springer.com/content/pdf/10.1007/978-3-031-83567-4_20.pdf?pdf=inline%20link)
+* <i class="flag-icons  GB"></i> Germonprez, M. & **Linåker, J.**. (2024). *Chapter 5: Measuring and Communicating Impact by your OSPO*. The Open Source (Program) Office Book. The TODO Group/Linux Foundation.
+  - <i class="fa fa-file-pdf"></i> [PDF](https://github.com/todogroup/ospology/blob/cca7e569864f243138e921177e2103dae781e4cc/ospo-book/content/en/05-chapter.md)
 
   
 <div id="peer-reviewed-papers" />
@@ -181,15 +182,10 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Runeson, P., Zuiderwijk, A., & Brock, A. (2022). *Collaborative Aspects of Open Data in Software Engineering*. IEEE Software, 39(1), 31-35.
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1109/MS.2021.3118123) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/ftp/arxiv/papers/2208/2208.00488.pdf)
 
-
-<div id="book-chapters" />
-## Book chapters | <a href="#top">Top</a>
-* <i class="flag-icons  GB"></i> Germonprez, M. & **Linåker, J.**. (2024). *Chapter 5: Measuring and Communicating Impact by your OSPO*. The Open Source (Program) Office Book. The TODO Group/Linux Foundation.
-  - <i class="fa fa-file-pdf"></i> [PDF](https://github.com/todogroup/ospology/blob/cca7e569864f243138e921177e2103dae781e4cc/ospo-book/content/en/05-chapter.md)
-
-
 <div id="media" />
 ## Media and interviews | <a href="#top">Top</a>
+* <i class="flag-icons SE"></i> *Svenska forskare: Så klarar vi en IT-krasch*. (December, 2025). Interview, Dagensps.se.
+  - <i class="ai ai-doi-square"></i> [Article](https://www.dagensps.se/foretag/svenska-forskare-sa-klarar-vi-en-it-krasch/)
 * <i class="flag-icons SE"></i> *Så kan Sverige klara globalt it-haveri*. (December, 2025). Interview and co-authored blogpost, Forskning.se.
   - <i class="ai ai-doi-square"></i> [Article](https://forskning.se/2025/12/05/sa-kan-sverige-klara-globalt-it-haveri/)
 * <i class="flag-icons SE"></i> *Interview on a lock-in situation in the City of Gothenburg*. (December, 2025). Ekot (Swedish public service radio national daily news).
