@@ -25,6 +25,11 @@ header:
 
 <div id="2026" />
 ## 2026 | <a href="#top">Top</a>
+* <i class="flag-icons  GB"></i> *Securing the Next Grant: Early Insights on Aligning FOSS and Funders*. (2026, January). Funding the FOSS Ecosystem Devroom. Submitted talk, FOSDEM, Brussels, Belgium.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Funding Devroom FOSDEM 2026.pdf">Slides</a>
+* <i class="flag-icons  GB"></i> *Forging Digital Sovereignty Ground Up through Local Governments with Open Source Public Digital Infrastructure*. (2026, January). Building Europe’s Public Digital Infrastructure Devroom. Submitted talk, FOSDEM, Brussels, Belgium.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Local-Gov-OSOR-FOSDEM-v2.pdf">Slides</a>
+* <i class="flag-icons  GB"></i> *OSPOs as Sovereignty Engines*. (2026, January). Panel moderator, EU Open Source Policy Summit, Brussels, Belgium.
 * <i class="flag-icons  SE"></i> *Varför, vad och när bör ni dela programvara?*. (2026, January). Frukostseminarie - Skapa värde med Open Source. Invited talk, Great IT/Redpill Linpro, Gothenburg, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-Contribution-Strategies-Great-IT-GBG.pdf">Slides</a>
 
