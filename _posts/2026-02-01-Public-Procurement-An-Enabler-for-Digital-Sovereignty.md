@@ -2,7 +2,7 @@
 title: "Public Procurement - An Enabler for Digital Sovereignty"
 seo_title: "Public Procurement - An Enabler for Digital Sovereignty"
 excerpt: "A main theme from this year FOSDEM was without a doubt the role of public procurement in enabling Europe's digital sovereignty and improving sustainability and security of its digital infrastructure. Several panels and talks were more or less dedicated to the topic, stressing its importance for promoting demand and supply under sovereign conditions. Below are some key take aways and reflections."
-date: 2026-02-1T15:34:30-04:00
+date: 2026-01-31T15:34:30-04:00
 categories:
   - blog
 tags:
