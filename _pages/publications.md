@@ -168,8 +168,6 @@ header:
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Alce, G., Eom, N., Niklewski, J., and Iao-Jörgensen, J. (2025). *Enabling PhD student collaboration
 in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund University, Lund, Sweden.
   - <i class="fa fa-file-pdf"></i> [PDF](/assets/slides/PedKonf-2025.pdf)
-* <i class="flag-icons  GB"></i> Bjarnasson, E., & **Linåker, J.** (2016). *Teaching Academic Writing to Large Classes of Engineering Students*. Pedagogiska inspirationskonferensen-Genombrottet. Lund University, Lund, Sweden.
-  - <i class="ai ai-doi-square"></i> [DOI](https://journals.lub.lu.se/pige/article/view/21207) <i class="fa fa-file-pdf"></i> [PDF](https://journals.lub.lu.se/pige/article/view/21207/19114)
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Bjarnasson, E., & Regnell, B. (2019). *Involving real-world stakeholders in course group projects: Opportunities and challenges [extended abstract].*. Lund University’s Teaching and Learning Conference. Lund, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Involving_real_world_stakeholders_in_course_group_projects__Opportunities_and_challenges_.pdf">PDF</a>
 * <i class="flag-icons  GB"></i> Bjarnasson, E., & **Linåker, J.** (2016). *Teaching Academic Writing to Large Classes of Engineering Students*. Pedagogiska inspirationskonferensen-Genombrottet. Lund University, Lund, Sweden.
@@ -184,6 +182,10 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
 
 <div id="media" />
 ## Media and interviews | <a href="#top">Top</a>
+* <i class="flag-icons SE"></i> *Vad händer om USA drar ur sladden – och släcker molnen?*. (January, 2026). Interview, Ekonomikanalen (EFN).
+  - <i class="ai ai-doi-square"></i> [Article](https://efn.se/vad-hander-om-usa-drar-ur-sladden-och-slacker-molnen)
+* <i class="flag-icons GB"></i> *Europe’s digital reliance on US Big Tech: Does the EU have a plan?*. (January, 2026). Interview, France24.
+  - <i class="ai ai-doi-square"></i> [Article](https://www.france24.com/en/europe/20260124-europe-s-digital-reliance-on-us-big-tech-does-the-eu-have-a-plan)
 * <i class="flag-icons SE"></i> *Svenska forskare: Så klarar vi en IT-krasch*. (December, 2025). Interview, Dagensps.se.
   - <i class="ai ai-doi-square"></i> [Article](https://www.dagensps.se/foretag/svenska-forskare-sa-klarar-vi-en-it-krasch/)
 * <i class="flag-icons SE"></i> *Så kan Sverige klara globalt it-haveri*. (December, 2025). Interview and co-authored blogpost, Forskning.se.
@@ -198,6 +200,10 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
 
 <div id="popular-writing" />
 ## Popular writing | <a href="#top">Top</a>
+* <i class="flag-icons SE"></i> *Så kan vi alla bidra till Europas digitala oberoende*. (January, 2026). News piece, self-authored, Forskning och Framsteg.
+  - <i class="ai ai-doi-square"></i> [Article](https://fof.se/artikel/sa-kan-vi-alla-bidra-till-europas-digitala-oberoende/)
+* <i class="flag-icons GB"></i> *Europe wants to end its dangerous reliance on US internet technology*. (January, 2026). News piece, self-authored, The Conversation UK.
+  - <i class="ai ai-doi-square"></i> [Article](https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042)
 * <i class="flag-icons SE"></i> Nyman, L., Nyström Holm, M., & **Linåker, J.**. (2021). *Dela kostnader och undvik inlåsningar*. Series on public procurement and Open Source Software - pt1. Inköpsrådet.
   - <i class="ai ai-doi-square"></i> [DOI](https://inkopsradet.se/dela-kostnader-och-undvik-inlasningar/)
 * <i class="flag-icons SE"></i> Nyman, L., Nyström Holm, M., & **Linåker, J.**. (2021). *Hitta öppen källkod som klarar kraven*. Series on public procurement and Open Source Software - pt2. Inköpsrådet.

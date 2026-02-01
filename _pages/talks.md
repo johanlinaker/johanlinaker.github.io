@@ -23,10 +23,16 @@ header:
 	<li><a href="#2017">2017</a></li>
 </ul>
 
+<div id="2026" />
+## 2026 | <a href="#top">Top</a>
+* <i class="flag-icons  SE"></i> *Varför, vad och när bör ni dela programvara?*. (2026, January). Frukostseminarie - Skapa värde med Open Source. Invited talk, Great IT/Redpill Linpro, Gothenburg, Sweden.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-Contribution-Strategies-Great-IT-GBG.pdf">Slides</a>
+
+
 <div id="2025" />
 ## 2025 | <a href="#top">Top</a>
-* <i class="flag-icons  GB"></i> *Enabling PhD student collaboration
-in research groups*. (2025, December). Pedagogiska inspirationskonferensen-Genombrottet. Lund University, Lund, Sweden.
+* <i class="flag-icons  GB"></i> *Open Source for Europe's Tech Sovereignty*. (2025, December). Cognit Day 2025. Invited panel, virtual.
+* <i class="flag-icons  GB"></i> *Enabling PhD student collaboration in research groups*. (2025, December). Pedagogiska inspirationskonferensen-Genombrottet. Lund University, Lund, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/PPT LTH 2025 pedagog conference.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *A Cartography of Collaboration in Open Source AI: Mapping Collaboration in the Development and Reuse Lifecycle of 12 Open Large Language Models*. (2025, November). OpenForum Academy. Submitted talk, Rio de Janiero, Brazil.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Open-Source-AI-Collab-OFA.pdf">Slides</a>

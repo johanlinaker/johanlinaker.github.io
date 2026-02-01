@@ -71,26 +71,28 @@ header:
 
 <div id="journal-reviewing" />
 ## Journal reviewing | <a href="#top">Top</a>
-* ACM Transactions on Software Engineering and Methodology (2022, 2024, 2025)
-* IEEE Transactions on Software Engineering (2021, 2024)
-* Empirical Software Engineering (2024, 2025)
-* Journal of Software and Systems (2017, 2022, 2024, 2025)
-* Information and Software Technology (2019, 2021, 2022, 2025)
-* Requirements Engineering Journal (2020)
-* Government information quarterly (2024, 2025)
-* Technological Forecasting & Social Change (2024)
-* Technovation (2023, 2024)
-* eJournal of eDemocracy and open government (2021, 2022, 2024)
-* Data & knowledge engineering (2023, 2024)
-* Computer Law and Security (2024)
-* Journal of Innovation & Knowledge (2024)
-* Computers in Industry (2024)
-* Computers and Industrial Engineering (2024, 2025)
-* Computer Law and Security (2024)
-* Transportation Research Part E: Logistics and Transportation Review (2024, 2025)
-* Communications of the Association for Information Systems (2023)
-* Scientific Data (2022)
-* Journal of Internet Services and Applications (2016, 2017)
+* ACM Transactions on Software Engineering and Methodology
+* IEEE Transactions on Software Engineering
+* Empirical Software Engineering
+* Journal of Software and Systems
+* Information and Software Technology
+* Requirements Engineering Journal
+* Government information quarterly
+* Technological Forecasting & Social Change
+* Technovation
+* eJournal of eDemocracy and open government
+* Data & knowledge engineering
+* Computer Law and Security
+* Journal of Innovation & Knowledge
+* Computers in Industry
+* Computers and Industrial Engineering
+* Computer Law and Security
+* Transportation Research Part E: Logistics and Transportation Review
+* Communications of the Association for Information Systems
+* Scientific Data
+* Journal of Internet Services and Applications
+
+See <a href="https://orcid.org/0000-0001-9851-1404">ORCID records</a> for further details.
 
 <div id="grant-proposal-reviewing" />
 ## Grant proposal reviewing | <a href="#top">Top</a>

@@ -2,7 +2,7 @@
 title: "Riskanalys och hantering av hälsan hos öppna programvaruprojekt"
 seo_title: "Riskanalys och hantering av hälsan hos öppna programvaruprojekt"
 excerpt: ""
-date: 2025-12-26T01:00:00-04:00
+date: 2026-12-26T01:00:00-04:00
 categories:
   - blog
 Tags:
@@ -135,4 +135,4 @@ Det här måste byggas in och det kommer att vara en investering i början. Men 
 ## Behandling, riskhantering och engagemang
 Och sen är det också det här med behandling och att adressera det man ser. Går i, går in och kolla. Ja, men är det här är det här projektet kritiskt eller beroende av det? Men om en natt det finns brister, då måste vi gå in och engagera oss och faktiskt börja bidra. För att hantera att hantera de här riskerna.
 
-Det kräver investeringar. Likadant om ni vill ha inflytande och kontroll i ett projekt. Det kräver investeringar. Det kräver att man bidrar. Det kräver att man är där och att man deltar. Och man kan delta på många sätt. Det är inte bara att göra progress på gård. Det är också att bidra i kravhanteringen. Det är att bidra finansiellt genom att hosta CSID-körningar. Genom att bidra till dokumentationen, men också kvalitetssäkring och så vidare. Och det är också att tänka på internt när vi pratar inresurser. 
+Det kräver investeringar. Likadant om ni vill ha inflytande och kontroll i ett projekt. Det kräver investeringar. Det kräver att man bidrar. Det kräver att man är där och att man deltar. Och man kan delta på många sätt. Det är inte bara att göra progress på gård. Det är också att bidra i kravhanteringen. Det är att bidra finansiellt genom att hosta CI/CD-körningar. Genom att bidra till dokumentationen, men också kvalitetssäkring och så vidare. Och det är också att tänka på internt när vi pratar inresurser. 
