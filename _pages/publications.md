@@ -182,6 +182,12 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
 
 <div id="media" />
 ## Media and interviews | <a href="#top">Top</a>
+* <i class="flag-icons GB"></i> *Digital sovereignty (2/3): Can Europe’s businesses survive without US Big Tech?*. (February, 2026). Interview, France24.
+  - <i class="ai ai-doi-square"></i> [Article](https://www.france24.com/en/technology/20260203-digital-sovereignty-can-european-businesses-survive-without-us-big-tech)
+* <i class="flag-icons GB"></i> *Digital sovereignty (1/3): Have Trump’s threats spurred a European awakening?*. (February, 2026). Interview, France24.
+  - <i class="ai ai-doi-square"></i> [Article](https://www.france24.com/en/technology/20260202-digital-sovereignty-have-trump-threats-spurred-european-awakening)
+* <i class="flag-icons SE"></i> *Regionen börjar med AI-journaler – trots avrådan?*. (Febuary, 2026). Interview, Dagens Nyheter.
+  - <i class="ai ai-doi-square"></i> [Article](https://www.dn.se/sverige/regionen-borjar-med-ai-journaler-trots-avradan/)
 * <i class="flag-icons SE"></i> *Vad händer om USA drar ur sladden – och släcker molnen?*. (January, 2026). Interview, Ekonomikanalen (EFN).
   - <i class="ai ai-doi-square"></i> [Article](https://efn.se/vad-hander-om-usa-drar-ur-sladden-och-slacker-molnen)
 * <i class="flag-icons GB"></i> *Europe’s digital reliance on US Big Tech: Does the EU have a plan?*. (January, 2026). Interview, France24.
@@ -200,7 +206,9 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
 
 <div id="popular-writing" />
 ## Popular writing | <a href="#top">Top</a>
-* <i class="flag-icons SE"></i> *Så kan vi alla bidra till Europas digitala oberoende*. (January, 2026). News piece, self-authored, Forskning och Framsteg.
+* <i class="flag-icons SE"></i> *Europa vil gøre op med farlig afhængighed af amerikansk internet-teknologi*. (January, 2026). News piece, self-authored, Videnskab.dk (republished from The Conversation UK).
+  - <i class="ai ai-doi-square"></i> [Article](https://videnskab.dk/teknologi/europa-vil-goere-op-med-farlig-afhaengighed-af-amerikansk-internet-teknologi/)
+* <i class="flag-icons SE"></i> *Så kan vi alla bidra till Europas digitala oberoende*. (January, 2026). News piece, self-authored, Forskning och Framsteg (republished from The Conversation UK).
   - <i class="ai ai-doi-square"></i> [Article](https://fof.se/artikel/sa-kan-vi-alla-bidra-till-europas-digitala-oberoende/)
 * <i class="flag-icons GB"></i> *Europe wants to end its dangerous reliance on US internet technology*. (January, 2026). News piece, self-authored, The Conversation UK.
   - <i class="ai ai-doi-square"></i> [Article](https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042)
