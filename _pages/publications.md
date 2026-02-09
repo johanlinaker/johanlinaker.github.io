@@ -206,11 +206,13 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
 
 <div id="popular-writing" />
 ## Popular writing | <a href="#top">Top</a>
-* <i class="flag-icons SE"></i> *Europa vil gøre op med farlig afhængighed af amerikansk internet-teknologi*. (January, 2026). News piece, self-authored, Videnskab.dk (republished from The Conversation UK).
+* <i class="flag-icons GB"></i> Le Pape, A., Gates, N., **Linåker, J.**, Neuhäusler, P., Luiz Darold, D., & Väliharju, T. *EU's Digital Sovereignty Depends On Investment In Open-Source And Talent*. (January, 2026). News piece, self-authored, TechPolicy.press.
+  - <i class="ai ai-doi-square"></i> [Article](https://www.techpolicy.press/eus-digital-sovereignty-depends-on-investment-in-opensource-and-talent/)
+* <i class="flag-icons SE"></i> **Linåker, J.** *Europa vil gøre op med farlig afhængighed af amerikansk internet-teknologi*. (January, 2026). News piece, self-authored, Videnskab.dk (republished from The Conversation UK).
   - <i class="ai ai-doi-square"></i> [Article](https://videnskab.dk/teknologi/europa-vil-goere-op-med-farlig-afhaengighed-af-amerikansk-internet-teknologi/)
-* <i class="flag-icons SE"></i> *Så kan vi alla bidra till Europas digitala oberoende*. (January, 2026). News piece, self-authored, Forskning och Framsteg (republished from The Conversation UK).
+* <i class="flag-icons SE"></i> **Linåker, J.** *Så kan vi alla bidra till Europas digitala oberoende*. (January, 2026). News piece, self-authored, Forskning och Framsteg (republished from The Conversation UK).
   - <i class="ai ai-doi-square"></i> [Article](https://fof.se/artikel/sa-kan-vi-alla-bidra-till-europas-digitala-oberoende/)
-* <i class="flag-icons GB"></i> *Europe wants to end its dangerous reliance on US internet technology*. (January, 2026). News piece, self-authored, The Conversation UK.
+* <i class="flag-icons GB"></i> **Linåker, J.** *Europe wants to end its dangerous reliance on US internet technology*. (January, 2026). News piece, self-authored, The Conversation UK.
   - <i class="ai ai-doi-square"></i> [Article](https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042)
 * <i class="flag-icons SE"></i> Nyman, L., Nyström Holm, M., & **Linåker, J.**. (2021). *Dela kostnader och undvik inlåsningar*. Series on public procurement and Open Source Software - pt1. Inköpsrådet.
   - <i class="ai ai-doi-square"></i> [DOI](https://inkopsradet.se/dela-kostnader-och-undvik-inlasningar/)
