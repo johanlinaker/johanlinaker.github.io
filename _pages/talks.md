@@ -26,7 +26,7 @@ header:
 <div id="2026" />
 ## 2026 | <a href="#top">Top</a>
 * <i class="flag-icons  GB"></i> *OSPOs for Public Good*. (2026, Febuary). Invited panelist, National Open Source Innovation Summit 2026, Dublin, Ireland.
-* <i class="flag-icons  GB"></i> *Making Open Source Work in the Public Sector *. (2026, Febuary). Panel moderator, National Open Source Innovation Summit 2026, Dublin, Ireland.
+* <i class="flag-icons  GB"></i> *Making Open Source Work in the Public Sector*. (2026, Febuary). Panel moderator, National Open Source Innovation Summit 2026, Dublin, Ireland.
 * <i class="flag-icons  SE"></i> *Digital suveränitet och beredskap inom hälso och sjukvård*. (2026, January). Hälso- och Sjukvårdsnätverket. Invited talk, virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Digital-suveränitet-HSVN.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Securing the Next Grant: Early Insights on Aligning FOSS and Funders*. (2026, January). Funding the FOSS Ecosystem Devroom. Submitted talk, FOSDEM, Brussels, Belgium.
