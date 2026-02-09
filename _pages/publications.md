@@ -206,7 +206,7 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
 
 <div id="popular-writing" />
 ## Popular writing | <a href="#top">Top</a>
-* <i class="flag-icons GB"></i> Le Pape, A., Gates, N., **Linåker, J.**, Neuhäusler, P., Luiz Darold, D., & Väliharju, T. *EU's Digital Sovereignty Depends On Investment In Open-Source And Talent*. (January, 2026). News piece, self-authored, TechPolicy.press.
+* <i class="flag-icons GB"></i> Le Pape, A., Gates, N., **Linåker, J.**, Neuhäusler, P., Luiz Darold, D., & Väliharju, T. *EU's Digital Sovereignty Depends On Investment In Open-Source And Talent*. (January, 2026). Op-Ed, TechPolicy.press.
   - <i class="ai ai-doi-square"></i> [Article](https://www.techpolicy.press/eus-digital-sovereignty-depends-on-investment-in-opensource-and-talent/)
 * <i class="flag-icons SE"></i> **Linåker, J.** *Europa vil gøre op med farlig afhængighed af amerikansk internet-teknologi*. (January, 2026). News piece, self-authored, Videnskab.dk (republished from The Conversation UK).
   - <i class="ai ai-doi-square"></i> [Article](https://videnskab.dk/teknologi/europa-vil-goere-op-med-farlig-afhaengighed-af-amerikansk-internet-teknologi/)
@@ -222,7 +222,7 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
   - <i class="ai ai-doi-square"></i> [DOI](https://inkopsradet.se/dela-kostnader-och-undvik-inlasningar/)
 * <i class="flag-icons SE"></i> Nyman, L., Nyström Holm, M., & **Linåker, J.**. (2021). *Undvik inlåsning vid it-upphandling*. Series on public procurement and Open Source Software - pt4. Inköpsrådet.
   - <i class="ai ai-doi-square"></i> [DOI](https://inkopsradet.se/undvik-inlasning-vid-it-upphandling/)
-* <i class="flag-icons SE"></i> **Linåker, J**., Dalhage, M., Södergren, J., & Nummelin Carlberg, A. (2021). *”Öppen källkod och bättre samarbete behövs för digitaliseringen av offentlig sektor”*. Open letter, Computer Sweden.
+* <i class="flag-icons SE"></i> **Linåker, J**., Dalhage, M., Södergren, J., & Nummelin Carlberg, A. (2021). *”Öppen källkod och bättre samarbete behövs för digitaliseringen av offentlig sektor”*. Op-Ed, Computer Sweden.
   - <i class="ai ai-doi-square"></i> [DOI](https://computersweden.idg.se/2.2683/1.748296/oppen-kallkod-samverkan-nosad)
 * <i class="flag-icons SE"></i> Regnell, B., Runeson, P., Höst, M., and **Linåker, J.** (2015, May). *Innovation med öppen källkod ger konkurrensfördelar*. Management of Innovation and Technology, volume 2.
   - <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/sv/publications/innovation-through-open-source-gives-competitive-advantages) <i class="fa fa-file-pdf"></i> [PDF](https://lucris.lub.lu.se/ws/portalfiles/portal/5577180/5367353.pdf)
