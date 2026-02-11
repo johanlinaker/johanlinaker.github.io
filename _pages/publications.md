@@ -182,6 +182,8 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
 
 <div id="media" />
 ## Media and interviews | <a href="#top">Top</a>
+* <i class="flag-icons GB"></i> *What Europe really thinks of Mark Carney’s new world order*. (February, 2026). Interview, The Logic.
+  - <i class="ai ai-doi-square"></i> [Article](https://thelogic.co/news/the-big-read/canada-europe-uk-trade-new-world-order/)
 * <i class="flag-icons GB"></i> *Digital sovereignty (2/3): Can Europe’s businesses survive without US Big Tech?*. (February, 2026). Interview, France24.
   - <i class="ai ai-doi-square"></i> [Article](https://www.france24.com/en/technology/20260203-digital-sovereignty-can-european-businesses-survive-without-us-big-tech)
 * <i class="flag-icons GB"></i> *Digital sovereignty (1/3): Have Trump’s threats spurred a European awakening?*. (February, 2026). Interview, France24.
