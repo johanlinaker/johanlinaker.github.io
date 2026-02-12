@@ -199,7 +199,6 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
 * <i class="flag-icons SE"></i> *Så kan Sverige klara globalt it-haveri*. (December, 2025). Interview and co-authored blogpost, Forskning.se.
   - <i class="ai ai-doi-square"></i> [Article](https://forskning.se/2025/12/05/sa-kan-sverige-klara-globalt-it-haveri/)
 * <i class="flag-icons SE"></i> *Interview on a lock-in situation in the City of Gothenburg*. (December, 2025). Ekot (Swedish public service radio national daily news).
-  - <i class="ai ai-doi-square"></i> [Article](https://www.sverigesradio.se/artikel/goteborgs-stad-efter-kritiserade-it-upphandlingen-moment-22)
 * <i class="flag-icons SE"></i> *Så ska EU räddas från digitalt mörker*. (November, 2025). Interview and co-authored blogpost, Lund university.
   - <i class="ai ai-doi-square"></i> [Article](https://www.lu.se/artikel/sa-ska-eu-raddas-fran-digitalt-morker)
 * <i class="flag-icons SE"></i> *Digitalt beroende gör Europa sårbart*. (October, 2025).  Interview and co-authored blogpost, RISE.
@@ -215,7 +214,9 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
 * <i class="flag-icons SE"></i> **Linåker, J.** *Så kan vi alla bidra till Europas digitala oberoende*. (January, 2026). News piece, self-authored, Forskning och Framsteg (translated and republished from The Conversation UK).
   - <i class="ai ai-doi-square"></i> [Article](https://fof.se/artikel/sa-kan-vi-alla-bidra-till-europas-digitala-oberoende/)
 * <i class="flag-icons GB"></i> **Linåker, J.** *Europe wants to end its dangerous reliance on US internet technology*. (January, 2026). News piece, self-authored, The Conversation UK.
-  - <i class="ai ai-doi-square"></i> [Article](https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042)
+  - <i class="ai ai-doi-square"></i> [Article](https://fof.se/artikel/sa-kan-vi-alla-bidra-till-europas-digitala-oberoende/)
+* <i class="flag-icons GB"></i> **Linåker, J.** *Open Source AI as Sweden’s Path to an Independent Digital Future*. (December, 2026). Blog post, self-authored, RISE.
+  - <i class="ai ai-doi-square"></i> [Article](https://www.ri.se/en/artificial-intelligence/blogpost/open-source-ai-as-swedens-path-to-an-independent-digital-future)
 * <i class="flag-icons SE"></i> Nyman, L., Nyström Holm, M., & **Linåker, J.**. (2021). *Dela kostnader och undvik inlåsningar*. Series on public procurement and Open Source Software - pt1. Inköpsrådet.
   - <i class="ai ai-doi-square"></i> [DOI](https://inkopsradet.se/dela-kostnader-och-undvik-inlasningar/)
 * <i class="flag-icons SE"></i> Nyman, L., Nyström Holm, M., & **Linåker, J.**. (2021). *Hitta öppen källkod som klarar kraven*. Series on public procurement and Open Source Software - pt2. Inköpsrådet.
