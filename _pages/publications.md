@@ -58,7 +58,7 @@ header:
   - <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/en/publications/experimentation-practice-in-indie-game-startups/)
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Rudmark, D., Östling, A. (2025). *Lessons Learnt from Horizontal Coordination of Data Ecosystems in the Swedish Public Transport Sector*. In: Behnke, N., Petersohn, B. (eds) Horizontal Intergovernmental Coordination at Local and Regional Levels. Palgrave Macmillan, Cham. 
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/978-3-031-83567-4_20) <i class="fa fa-file-pdf"></i> [PDF](https://link.springer.com/content/pdf/10.1007/978-3-031-83567-4_20.pdf?pdf=inline%20link)
-* <i class="flag-icons  GB"></i> Germonprez, M. & **Linåker, J.**. (2024). *Chapter 5: Measuring and Communicating Impact by your OSPO*. The Open Source (Program) Office Book. The TODO Group/Linux Foundation.
+* <i class="flag-icons  GB"></i> Germonprez, M. & **Linåker, J.** (2024). *Chapter 5: Measuring and Communicating Impact by your OSPO*. The Open Source (Program) Office Book. The TODO Group/Linux Foundation.
   - <i class="fa fa-file-pdf"></i> [PDF](https://github.com/todogroup/ospology/blob/cca7e569864f243138e921177e2103dae781e4cc/ospo-book/content/en/05-chapter.md)
 
   
@@ -168,7 +168,7 @@ header:
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Alce, G., Eom, N., Niklewski, J., and Iao-Jörgensen, J. (2025). *Enabling PhD student collaboration
 in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund University, Lund, Sweden.
   - <i class="fa fa-file-pdf"></i> [PDF](/assets/slides/PedKonf-2025.pdf)
-* <i class="flag-icons  GB"></i> **Linåker, J.**, Bjarnasson, E., & Regnell, B. (2019). *Involving real-world stakeholders in course group projects: Opportunities and challenges [extended abstract].*. Lund University’s Teaching and Learning Conference. Lund, Sweden.
+* <i class="flag-icons  GB"></i> **Linåker, J.**, Bjarnasson, E., & Regnell, B. (2019). *Involving real-world stakeholders in course group projects: Opportunities and challenges [extended abstract].* Lund University’s Teaching and Learning Conference. Lund, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Involving_real_world_stakeholders_in_course_group_projects__Opportunities_and_challenges_.pdf">PDF</a>
 * <i class="flag-icons  GB"></i> Bjarnasson, E., & **Linåker, J.** (2016). *Teaching Academic Writing to Large Classes of Engineering Students*. Pedagogiska inspirationskonferensen-Genombrottet. Lund University, Lund, Sweden.
   - <i class="ai ai-doi-square"></i> [DOI](https://journals.lub.lu.se/pige/article/view/21207) <i class="fa fa-file-pdf"></i> [PDF](https://journals.lub.lu.se/pige/article/view/21207/19114)
