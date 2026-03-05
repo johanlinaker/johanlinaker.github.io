@@ -11,6 +11,7 @@ header:
 
 <h3>Sections</h3>
 <ul>
+	<li><a href="#ongoing">Ongoing work/In submission</a></li>
 	<li><a href="#technical-reports">Technical reports</a></li>
 	<li><a href="#book-chapters">Book chapters</a></li>
 	<li><a href="#peer-reviewed-papers">Peer-reviewed papers</a>
@@ -36,6 +37,17 @@ header:
 	<li><a href="#doctoral-dissertation">Doctoral dissertation</a></li>
 </ul>
 
+
+<div id="ongoing" />
+## Ongoing work/In submission | <a href="#top">Top</a>
+* <i class="flag-icons  GB"></i> **Linåker, J.**, Osborne, C., Ding, J., & Burthenshaw, B. (2025). *A cartography of open collaboration in open source ai: Mapping practices, motivations, and governance in 14 open large language model projects*. In submission.  
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.48550/arXiv.2509.25397) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2509.25397)
+* <i class="flag-icons  GB"></i> **Linåker, J.**, & Muto, S. (2025). *Advancing Digital Government: Integrating Open Source Software Enablement Indicators in Maturity Indexes*. In submission.  
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.48550/arXiv.2510.04603) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2510.04603)
+* <i class="flag-icons  GB"></i> **Linåker, J.**, Nummelin Carlberg, A., & O'Riordan, C. (2025). *Public Sector Open Source Program Offices - Archetypes for how to Grow (Common) Institutional Capabilities*. In submission.  
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.48550/arXiv.2510.04603) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2510.04603)
+
+
 <div id="technical-reports" />
 ## Technical reports | <a href="#top">Top</a>
 * <i class="flag-icons GB"></i> **Linåker, J.**, Gates, N., Chourmouziadis, Y., & Weber, S. (2025). *Open Source Software Adoption and Reuse in European Local Governments A Multiple-Case Study*. Directorate-General for Digital Services (DIGIT). 
@@ -44,7 +56,7 @@ header:
   - <i class="ai ai-doi-square"></i> [DOI](https://urn.kb.se/resolve?urn=urn:nbn:se:ri:diva-72465) <i class="fa fa-file-pdf"></i> [PDF](https://www.diva-portal.org/smash/get/diva2:1848137/FULLTEXT01.pdf)
 * <i class="flag-icons GB"></i> **Linåker, J.**, & Nummelin Carlberg, A. (2024). *Open Source Software in the Automotive Industry - A Vision Paper*. Eclipse Software Defined Vehicle Working Group, Brussels, Belgium.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/VISION PAPER_ Open Source Software in the Automotive Industry.pdf">PDF</a>
-* <i class="flag-icons GB"></i> **Linåker, J.**, & Nummelin Carlberg, A. (2024). *Institutionalising Support for Open Source Software in the European Public Sector*. Directorate-General Informatics, European Commission, Brussels, Belgium.
+* <i class="flag-icons GB"></i> **Linåker, J.**, Nummelin Carlberg, A., & O'Riordan, C. (2024). *Institutionalising Support for Open Source Software in the European Public Sector*. Directorate-General Informatics, European Commission, Brussels, Belgium.
   - <i class="fa fa-file-pdf"></i> *Under internal publication process of the EC*
 * <i class="flag-icons SE"></i> **Linåker, J.**, & Runeson, P. (2022). *Rekommendationer för samverkan och delning av data, teknik och kunskap inom myndighetsdrivna öppna data-ekosystem*. Lund university, Lund, Sweden.
   - <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/sv/publications/rekommendationer-f%C3%B6r-samverkan-och-delning-av-data-teknik-och-kun) <i class="fa fa-file-pdf"></i> [PDF](https://lucris.lub.lu.se/ws/portalfiles/portal/112560914/Rapport_Rekommendationer_f_r_samverkan_och_delning_av_data_teknik_och_kunskap_inom_myndighetsdrivna_ppna_data_ekosystem.pdf)
@@ -182,6 +194,8 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
 
 <div id="media" />
 ## Media and interviews | <a href="#top">Top</a>
+* <i class="flag-icons GB"></i> *Canada and Europe are breaking away from US tech. Can they collaborate?*. (February, 2026). Interview, Cybernews.
+  - <i class="ai ai-doi-square"></i> [Article](https://cybernews.com/tech/canada-eu-digital-sovereignty/)
 * <i class="flag-icons GB"></i> *What Europe really thinks of Mark Carney’s new world order*. (February, 2026). Interview, The Logic.
   - <i class="ai ai-doi-square"></i> [Article](https://thelogic.co/news/the-big-read/canada-europe-uk-trade-new-world-order/)
 * <i class="flag-icons GB"></i> *Digital sovereignty (2/3): Can Europe’s businesses survive without US Big Tech?*. (February, 2026). Interview, France24.

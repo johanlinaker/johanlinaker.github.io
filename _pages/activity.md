@@ -24,7 +24,7 @@ header:
 	</li>
 	<li><a href="#journal-reviewing">Journal reviewing</a></li>
 	<li><a href="#grant-proposal-reviewing">Grant proposal reviewing</a></li>
-	<li><a href="#opponent-discussant">Opponent/Discussant</a></li>
+	<li><a href="#opponent-discussant">PhD Student Opponent/Discussant/Committee</a></li>
 	<li><a href="#other-reviewing">Other reviewing, and Subject Matter Expert assignments</a></li>
 	<li><a href="#memberships">Membership of networks and associations</a></li>
 </ul>
@@ -101,8 +101,9 @@ See <a href="https://orcid.org/0000-0001-9851-1404">ORCID records</a> for furthe
 * Vinnova (2020)
 
 <div id="opponent-discussant" />
-## Opponent/Discussant | <a href="#top">Top</a>
-* Xingru Chen. Licentiate thesis: Improving Internal Software Reuse in the Context of Contemporary Software Engineering Practices. Supervisors: Muhammad Usman (also the appointed examiner), Deepika Badampudi. 2023. Blekinge Institute of Technology, Karlskrona, Sweden.
+## PhD Student Opponent/Discussant/Committee | <a href="#top">Top</a>
+* Grading Committee: Xingru Chen. PhD thesis: Improving and characterizing participatory reuse. Supervisors: Muhammad Usman, Deepika Badampudi. 2026. Blekinge Institute of Technology, Karlskrona, Sweden.
+* Opponent: Xingru Chen. Licentiate thesis: Improving Internal Software Reuse in the Context of Contemporary Software Engineering Practices. Supervisors: Muhammad Usman, Deepika Badampudi. 2023. Blekinge Institute of Technology, Karlskrona, Sweden.
 
 <div id="other-reviewing" />
 ## Other reviewing, and Subject Matter Expert assignments | <a href="#top">Top</a>
