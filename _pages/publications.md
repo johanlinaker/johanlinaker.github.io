@@ -45,7 +45,7 @@ header:
 * <i class="flag-icons  GB"></i> **Linåker, J.**, & Muto, S. (2025). *Advancing Digital Government: Integrating Open Source Software Enablement Indicators in Maturity Indexes*. In submission.  
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.48550/arXiv.2510.04603) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2510.04603)
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Nummelin Carlberg, A., & O'Riordan, C. (2025). *Public Sector Open Source Program Offices - Archetypes for how to Grow (Common) Institutional Capabilities*. In submission.  
-  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.48550/arXiv.2510.04603) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2510.04603)
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.48550/arXiv.2603.04891) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2603.04891)
 
 
 <div id="technical-reports" />
