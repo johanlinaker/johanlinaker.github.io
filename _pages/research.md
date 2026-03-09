@@ -11,7 +11,7 @@ header:
 
 <h3>Sections</h3>
 <ul>
-	<li><a href="#research-scope-and-philosophy">Research scope and philosophy</a></li>
+	<li><a href="#research-scope-and-philosophy">General bio and research philosophy</a></li>
 	<li><a href="#main-research-questions">Main research questions</a></li>
 	<li><a href="#ongoing-projects">Ongoing projects</a></li>
 	<li><a href="#ended-projects">Ended projects</a></li>
@@ -21,10 +21,14 @@ header:
 </ul>
 
 <div id="research-scope-and-philosophy" />
-<h3>Research scope and philosophy | <a href="#top">Top</a></h3>
-My research interests include empirical software engineering in the context of open technologies. Open technologies refer to technology-related artifacts that is shared, reused and collaboratively developed between its users and stakeholders. Here, I'm specifically interested in how actors in public and private sector can use, develop, and collaborate on Open Source Software, Open and shared data, and Open Standards to enable and promote interoperability, technological independence, and open innovation.
+<h3>General bio and research philosophy | <a href="#top">Top</a></h3>
+I am a Senior Researcher at RISE Research Institutes of Sweden and an Adjunct Assistant Professor at Lund University, working at the intersection of empirical software engineering, open technologies, and digital sovereignty. My work focuses on how public and private sector organizations can use, develop, and govern open source software, open and shared data, and open standards to strengthen interoperability, reduce lock-in, and enable sustainable digital transformation.
 
-The research commonly touches on the human and social aspects of software engineering, as the development of open technologies by design is a collaborative and social effort. This implies several challenges from a socio-technical perspective, often requiring a qualitative or mixed-method approach to investigate. My goal, however, goes beyond problem understanding, and is focused on developing knowledge and designing artifacts that can help to address the problem at hand in a real-world context. An iterative process I prefer to do in collaboration with the actors present in the problem context.
+I currently lead and support European and national initiatives on open source adoption in the public sector, including coordination of the EU-funded OSAwards.eu project and facilitation of networks around open technologies in Swedish industry and government, including NOSAD and the Swedish OSPO network. I regularly conduct reports and studies commissioned by various entities, including the European Commission, the Danish Agency for Digital Government, and the Eclipse Foundation, and collaborate across projects with several large international industry and government organizations on urgent matters related to open technologies. I also advise on governance models, procurement, and cybersecurity for public digital infrastructure and open technologies across different levels of government, with open strategic autonomy and governments’ capacity to shape their own digital future as a unifying theme.
+
+Previously, I have worked as an action researcher at the Swedish Public Employment Service, served as Open Source Strategist at Axis Communications, and founded OpenHack – Coding for Humanity, a social initiative promoting open source solutions for the UN Sustainable Development Goals. I enjoy collaborating with policymakers, practitioners, and researchers to turn research insights into practical strategies, guidelines, and communities around open and sustainable digital ecosystems.
+
+My research commonly touches on the human and social aspects of software engineering, as the development of open technologies by design is a collaborative and social effort. This implies several challenges from a socio-technical perspective, often requiring a qualitative or mixed-method approach to investigate. My goal, however, goes beyond problem understanding, and is focused on developing knowledge and designing artifacts that can help to address the problem at hand in a real-world context. An iterative process I prefer to do in collaboration with the actors present in the problem context.
 <p /><p>
 
 <div id="main-research-questions" />
