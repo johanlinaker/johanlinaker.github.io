@@ -194,6 +194,8 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
 
 <div id="media" />
 ## Media and interviews | <a href="#top">Top</a>
+* <i class="flag-icons SE"></i> *Så försöker länder lösa techberoendet av USA – och det kan man göra själv*. (March, 2026). Interview, Omni.
+  - <i class="ai ai-doi-square"></i> [Article](https://omni.se/sa-forsoker-lander-losa-techberoendet-av-usa-och-det-kan-man-gora-sjalv/a/0pQmg0)
 * <i class="flag-icons GB"></i> *Canada and Europe are breaking away from US tech. Can they collaborate?*. (February, 2026). Interview, Cybernews.
   - <i class="ai ai-doi-square"></i> [Article](https://cybernews.com/tech/canada-eu-digital-sovereignty/)
 * <i class="flag-icons GB"></i> *What Europe really thinks of Mark Carney’s new world order*. (February, 2026). Interview, The Logic.
