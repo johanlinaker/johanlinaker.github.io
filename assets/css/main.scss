@@ -75,3 +75,7 @@ html {
       margin-top: -11.5%;
       margin-bottom: -11.5%;
   }
+
+.facepalm::before {
+  content: ":\1F917";
+}
