@@ -79,7 +79,7 @@ author:
       icon: "ai ai-orcid"
       url: "https://orcid.org/0000-0001-9851-1404"
     - label: "Hugging Face"
-      icon: ":&#x1F917"
+      icon: "\1F917"
       url: "https://huggingface.co/johanlinaker"
 
 footer:
