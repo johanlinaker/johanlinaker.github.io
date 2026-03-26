@@ -196,6 +196,8 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
 ## Media and interviews | <a href="#top">Top</a>
 * <i class="flag-icons SE"></i> *Oro för USA-samarbete: ”Otroligt märkligt”*. (March, 2026). Interview, Svenska Dagbladet.
   - <i class="ai ai-doi-square"></i> [Article](https://www.svd.se/a/gkk0g5/usa-samarbetet-pax-silica-vacker-hard-kritik-otroligt-markligt)
+* <i class="flag-icons SE"></i> *Så blir du fri från amerikanska tjänster – här är alternativen*. (March, 2026). Interview, PC för Alla.
+  - <i class="ai ai-doi-square"></i> [Article](https://www.pcforalla.se/article/3087044/amerikanska-tekniktjanster-alternativ.html)
 * <i class="flag-icons SE"></i> *Så försöker länder lösa techberoendet av USA – och det kan man göra själv*. (March, 2026). Interview, Omni.
   - <i class="ai ai-doi-square"></i> [Article](https://omni.se/sa-forsoker-lander-losa-techberoendet-av-usa-och-det-kan-man-gora-sjalv/a/0pQmg0)
 * <i class="flag-icons GB"></i> *Canada and Europe are breaking away from US tech. Can they collaborate?*. (February, 2026). Interview, Cybernews.
