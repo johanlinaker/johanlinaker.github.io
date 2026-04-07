@@ -77,6 +77,10 @@ header:
 <div id="peer-reviewed-papers" />
 ## Peer-reviewed papers | <a href="#top">Top</a>
 
+<div id="2026" />
+* <i class="flag-icons  GB"></i> **Linåker, J.**, Olsson, T., & Papatheocharous, E. (2026). Assessing open source software health in organizations’ intake processes: A qualitative study on the practitioners’ perspective. Empirical Software Engineering, 31(105), 1-54.  
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/s10664-026-10846-y) <i class="fa fa-file-pdf"></i> [PDF](https://link.springer.com/epdf/10.1007/s10664-026-10846-y?sharing_token=9V-iaT7CToXM70FDQr93vfe4RwlQNchNByi7wbcMAY5sTo-4GduOLS-XN-ixrlN0PSZeP-nenxHS2twJ5L6tOb7xlRIhwO5KhxYdE1--iCqTiCtJb0rCAp6TWHa7_UikCjtGYQ76P7XtuSUEdIHxzKLJZ95LgXcDxt-7pu_UalA%3D)
+
 <div id="2025" />
 #### 2025 | <a href="#top">Top</a>
 * <i class="flag-icons  GB"></i> Malysh, K., Runeson, P. & **Linåker, J.** (2025). 	
