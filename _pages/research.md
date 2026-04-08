@@ -51,29 +51,11 @@ Areas I'm currently investigating include:
         <li>Johan initiated the application and consortium building, and was the main coordinator and author of the application. Johan now leads the project as the main project coordinator, as well as principal investigator and task leader for three research-foscused tasks within the project focused on OSS adoption, sustainability, and impact.</li>
         <li>Consortium: RISE (SE/Coordinator), OpenForum Europe (BE), Fraunhofer Society (DE), Barcelona Supercomputing Center (ES), Tecnalia (ES), APELL (BE), Trust IT Services (IT).</li>
     </ul></li>
-    <li>NexusForum.EU – Open Source for the Cloud-computing continuum, 2024-2026.
-    <ul>
-        <li>Funded by EU Horizon program. </li>
-        <li>Johan initiated the application and consortium building, and was one of the main authors of the application. Johan leads a research-focused task on how OSS can enable digital sovereignty.</li>
-        <li>Consortium: RISE (SE/Coordinator), OpenNebula (ES), Tecnalia (ES), Martel Innovate (CH), F6S (IE), Meiji University (JP), Yonsei University (KR).</li>
-    </ul></li>
-    <li>Study on Adoption and Collaboration on Open Source Software in Local Governments, 2024-2025.
-    <ul>
-        <li>Funded by by DIGIT, European Commission. </li>
-        <li>Johan is the principal investigator of the study and supervising two external resources from OpenForum Europe and Wavestone respectively.</li>
-        <li>Consortium: RISE (SE), OpenForum Europe (BE), Wavestone (FR). </li>
-    </ul></li>
     <li>Publicly Driven Data Sharing and Collaboration for More Efficient Freight Transports, 2023-2027.
     <ul>
         <li>Funded by Swedish Transport Administration.</li>
         <li>Johan initiated and wrote the application, with the support of Prof. Dr. Per Runeson. Johan is Co-Principal Investigator and Co-supervisor for John Larsson, PhD. student funded by the project, actively partiking in the research conducted.</li>
         <li>Consortium: Lund University (SE/Coordinator), RISE (SE), Helsingborg Municipality (SE), Södertörn municipalities (SE), Predctive Movement Innovation project (SE), Closer (SE). </li>
-    </ul></li>
-    <li>Continuous Experimentation with Limited User Data, 2022-2024.
-    <ul>
-        <li>Funded by WASP - Wallenberg Autonomous Systems Project.</li>
-        <li>Johan is project member driving research on Continuous Experimentation in the context of game development, and collaborator on broader research concerning Continuous Experimentation with limited user data together with researchers from Aalto university. Dr. Elizabeth Bjarnason is the Principal Investigator.</li>
-        <li>Consortium: Lund University (SE/Coordinator), Aalto University (FI). </li>
     </ul></li>
     <li>B2B Data Sharing for Industry 4.0 Machine Learning, 2021-2025.
     <ul>
@@ -86,6 +68,30 @@ Areas I'm currently investigating include:
 <div id="ended-projects" />
 <h3>Ended projects | <a href="#top">Top</a></h3>
 <ul>
+    <li>Study on a national public sector support structure/OSPO for Open Source Software in Denmark, 2026.
+    <ul>
+        <li>Funded by Danish Agency for Digital Government.</li>
+        <li>Johan was the principal investigator on the study.</li>
+        <li>Consortium: RISE (SE).</li>
+    </ul></li>
+    <li>Continuous Experimentation with Limited User Data, 2022-2026.
+    <ul>
+        <li>Funded by WASP - Wallenberg Autonomous Systems Project.</li>
+        <li>Johan was project member driving research on Continuous Experimentation in the context of game development, and collaborator on broader research concerning Continuous Experimentation with limited user data together with researchers from Aalto university. Dr. Elizabeth Bjarnason was the Principal Investigator.</li>
+        <li>Consortium: Lund University (SE/Coordinator), Aalto University (FI). </li>
+    </ul></li>
+    <li>Study on Adoption and Collaboration on Open Source Software in Local Governments, 2024-2025.
+    <ul>
+        <li>Funded by by DIGIT, European Commission. </li>
+        <li>Johan was the principal investigator of the study and supervising two external resources from OpenForum Europe and Wavestone respectively.</li>
+        <li>Consortium: RISE (SE), OpenForum Europe (BE), Wavestone (FR). </li>
+    </ul></li>
+    <li>NexusForum.EU – Open Source for the Cloud-computing continuum, 2024-2026.
+    <ul>
+        <li>Funded by EU Horizon program. </li>
+        <li>Johan initiated the application and consortium building, and was one of the main authors of the application. Johan leads a research-focused task on how OSS can enable digital sovereignty.</li>
+        <li>Consortium: RISE (SE/Coordinator), OpenNebula (ES), Tecnalia (ES), Martel Innovate (CH), F6S (IE), Meiji University (JP), Yonsei University (KR).</li>
+    </ul></li>
     <li>Study on Software reuse through Open Source Software in the Public sector, 2023.
     <ul>
         <li>Funded by Danish Agency for Digital Government.</li>
