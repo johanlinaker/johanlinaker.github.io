@@ -12,6 +12,7 @@ header:
 
 <h3>Sections</h3>
 <ul>
+	<li><a href="#2026">2026</a></li>
 	<li><a href="#2025">2025</a></li>
 	<li><a href="#2024">2024</a></li>
 	<li><a href="#2023">2023</a></li>
