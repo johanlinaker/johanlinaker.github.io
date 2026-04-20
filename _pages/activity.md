@@ -56,9 +56,9 @@ header:
 ### Conferences (main research paper tracks) | <a href="#top">Top</a>
 * International Conference on the Foundations of Software Engineering: FSE (2026)
 * International Conference of Software Engineering: ICSE (2022, 2024, 2026)
-* International Symposium on Empirical Software Engineering and Measurement: ESEM (2023 - 2025)
+* International Symposium on Empirical Software Engineering and Measurement: ESEM (2023 - 2026)
 * International Conference on Electronic Government: EGOV (2020 - 2026)
-* International Conference on Software Business: ICSOB (2020 - 2025)
+* International Conference on Software Business: ICSOB (2020 - 2026)
 * International Conference of Information Systems: ICIS (2020, 2025)
 * European Conference of Information Systems: ECIS (2022)
 
