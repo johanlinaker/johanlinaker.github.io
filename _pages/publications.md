@@ -51,9 +51,10 @@ header:
 
 <div id="technical-reports" />
 ## Technical reports | <a href="#top">Top</a>
+* <i class="flag-icons GB"></i> **Linåker, J.** (2026). *National Support Structures and Capabilities for growing Digital Sovereignty  through Sharing and Reuse of Open Source Software in the Public Sector*. RISE Research Institutes of Sweden, Lund, Sweden. Commissioned by Danish Agency of Digital Government, and Local Government Denmark.
 * <i class="flag-icons GB"></i> **Linåker, J.**, Gates, N., Chourmouziadis, Y., & Weber, S. (2025). *Open Source Software Adoption and Reuse in European Local Governments A Multiple-Case Study*. Directorate-General for Digital Services (DIGIT). 
 	- <i class="ai ai-doi-square"></i> [DOI](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/multiple-case-study-public-sector-open-source) <i class="fa fa-file-pdf"></i> [PDF](/assets/slides/open-source-software-adoption-and-reuse-in-european-local-governments-a-multiple-case-study.pdf)
-* <i class="flag-icons GB"></i> **Linåker, J.**, & Muto, S. (2024). *Software Reuse through Open Source Software in the Public Sector: A qualitative survey on Policy and Practice*. RISE Research Institutes of Sweden, Lund, Sweden.
+* <i class="flag-icons GB"></i> **Linåker, J.**, & Muto, S. (2024). *Software Reuse through Open Source Software in the Public Sector: A qualitative survey on Policy and Practice*. RISE Research Institutes of Sweden, Lund, Sweden. Commissioned by Danish Agency of Digital Government, and Local Government Denmark.
   - <i class="ai ai-doi-square"></i> [DOI](https://urn.kb.se/resolve?urn=urn:nbn:se:ri:diva-72465) <i class="fa fa-file-pdf"></i> [PDF](https://www.diva-portal.org/smash/get/diva2:1848137/FULLTEXT01.pdf)
 * <i class="flag-icons GB"></i> **Linåker, J.**, & Nummelin Carlberg, A. (2024). *Open Source Software in the Automotive Industry - A Vision Paper*. Eclipse Software Defined Vehicle Working Group, Brussels, Belgium.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/VISION PAPER_ Open Source Software in the Automotive Industry.pdf">PDF</a>
@@ -233,6 +234,9 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
 
 <div id="popular-writing" />
 ## Popular writing | <a href="#top">Top</a>
+* <i class="flag-icons SE"></i> *Digital suveränitet – från osynliga beroenden till strategiska val
+*. (April, 2026). Blogpost, RISE.
+  - <i class="ai ai-doi-square"></i> [Article](https://www.ri.se/sv/bloggpost/digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val)
 * <i class="flag-icons GB"></i> Le Pape, A., Gates, N., **Linåker, J.**, Neuhäusler, P., Luiz Darold, D., & Väliharju, T. *EU's Digital Sovereignty Depends On Investment In Open-Source And Talent*. (January, 2026). Op-Ed, TechPolicy.press.
   - <i class="ai ai-doi-square"></i> [Article](https://www.techpolicy.press/eus-digital-sovereignty-depends-on-investment-in-opensource-and-talent/)
 * <i class="flag-icons DK"></i> **Linåker, J.** *Europa vil gøre op med farlig afhængighed af amerikansk internet-teknologi*. (January, 2026). News piece, self-authored, Videnskab.dk (translated and republished from The Conversation UK).
