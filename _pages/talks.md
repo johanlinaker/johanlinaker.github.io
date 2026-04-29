@@ -26,6 +26,10 @@ header:
 
 <div id="2026" />
 ## 2026 | <a href="#top">Top</a>
+* <i class="flag-icons  SE"></i> *Digital Sovereignty through Open Source Enabling Europe’s strategic opportunity*. (2026, April). FOSS-North. Submitted talk, Gothenburg, Sweden.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Digital-sov-foss-north">Slides</a>
+* <i class="flag-icons  SE"></i> *Offentlig upphandling som verktyg för att främja digital suveränitet och svensk/europeisk utveckling*. (2026, April). Cybernoden. Invited talk, virtual.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Upphandling som drivkraft för digital suveränitet - cybernoden.pdf">Slides</a>
 * <i class="flag-icons  SE"></i> *Öppenhet och Digtal Suveränitet i en Skiftande Omvärld*. (2026, March). eSam Utvecklingsforum. Invited talk, virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Digital-suveränitet-eSam.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *OSPOs for Public Good*. (2026, Febuary). Invited panelist, National Open Source Innovation Summit 2026, Dublin, Ireland.
