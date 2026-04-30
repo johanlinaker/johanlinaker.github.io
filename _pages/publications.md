@@ -201,6 +201,11 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
 
 <div id="media" />
 ## Media and interviews | <a href="#top">Top</a>
+
+
+
+* <i class="flag-icons GB"></i> *The EU turns to 'Made in Europe' tech solutions*. (April, 2026). Interview, The Parliament Magazine.
+  - <i class="ai ai-doi-square"></i> [Article]https://www.theparliamentmagazine.eu/news/article/european-governments-turn-to-made-in-europe-tech-solutions)
 * <i class="flag-icons SE"></i> *Oro för USA-samarbete: ”Otroligt märkligt”*. (March, 2026). Interview, Svenska Dagbladet.
   - <i class="ai ai-doi-square"></i> [Article](https://www.svd.se/a/gkk0g5/usa-samarbetet-pax-silica-vacker-hard-kritik-otroligt-markligt)
 * <i class="flag-icons SE"></i> *Så blir du fri från amerikanska tjänster – här är alternativen*. (March, 2026). Interview, PC för Alla.
