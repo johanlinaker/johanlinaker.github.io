@@ -33,7 +33,7 @@ header:
 	</li>
 	<li><a href="#pedagogic-papers">Pedagogic papers</a></li>
 	<li><a href="#editorials">Editorials</a></li>
-	<li><a href="#media">Media and interviews</a></li>
+	<li><a href="#media">Media</a></li>
 	<li><a href="#pods">Pods</a></li>
 	<li><a href="#popular-writing">Popular writing</a></li>
 	<li><a href="#doctoral-dissertation">Doctoral dissertation</a></li>
@@ -55,7 +55,7 @@ header:
 * <i class="flag-icons GB"></i> **Linåker, J.** (2026). *National Support Structures and Capabilities for growing Digital Sovereignty  through Sharing and Reuse of Open Source Software in the Public Sector*. RISE Research Institutes of Sweden, Lund, Sweden. Commissioned by Danish Agency of Digital Government, and Local Government Denmark.
 * <i class="flag-icons GB"></i> **Linåker, J.**, Gates, N., Chourmouziadis, Y., & Weber, S. (2025). *Open Source Software Adoption and Reuse in European Local Governments A Multiple-Case Study*. Directorate-General for Digital Services (DIGIT). 
 	- <i class="ai ai-doi-square"></i> [DOI](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/multiple-case-study-public-sector-open-source) <i class="fa fa-file-pdf"></i> [PDF](/assets/slides/open-source-software-adoption-and-reuse-in-european-local-governments-a-multiple-case-study.pdf)
-* <i class="flag-icons GB"></i>Lundahl, J., Benmayor, A., Linåker, J., Östling, A., Nordell, E., Wernicke, P., Burden H., & Stenberg, S. (2025). *Report on existing regulatory frameworks and governance mechanisms for mobility data sharing*. deployEMDS Consortium. 
+* <i class="flag-icons GB"></i>Lundahl, J., Benmayor, A., **Linåker, J.**, Östling, A., Nordell, E., Wernicke, P., Burden H., & Stenberg, S. (2025). *Report on existing regulatory frameworks and governance mechanisms for mobility data sharing*. deployEMDS Consortium. 
 	- <i class="ai ai-doi-square"></i> [DOI](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A2024670&dswid=-6328) <i class="fa fa-file-pdf"></i> [PDF](https://www.diva-portal.org/smash/get/diva2:2024670/FULLTEXT01.pdf)
 * <i class="flag-icons GB"></i> **Linåker, J.**, & Muto, S. (2024). *Software Reuse through Open Source Software in the Public Sector: A qualitative survey on Policy and Practice*. RISE Research Institutes of Sweden, Lund, Sweden. Commissioned by Danish Agency of Digital Government, and Local Government Denmark.
   - <i class="ai ai-doi-square"></i> [DOI](https://urn.kb.se/resolve?urn=urn:nbn:se:ri:diva-72465) <i class="fa fa-file-pdf"></i> [PDF](https://www.diva-portal.org/smash/get/diva2:1848137/FULLTEXT01.pdf)
@@ -206,9 +206,9 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1109/MS.2021.3118123) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/ftp/arxiv/papers/2208/2208.00488.pdf)
 
 <div id="media" />
-## Media and interviews | <a href="#top">Top</a>
+## Media | <a href="#top">Top</a>
 * <i class="flag-icons GB"></i> *The EU turns to 'Made in Europe' tech solutions*. (April, 2026). Interview, The Parliament Magazine.
-  - <i class="ai ai-doi-square"></i> [Article]https://www.theparliamentmagazine.eu/news/article/european-governments-turn-to-made-in-europe-tech-solutions)
+  - <i class="ai ai-doi-square"></i> [Article](https://www.theparliamentmagazine.eu/news/article/european-governments-turn-to-made-in-europe-tech-solutions)
 * <i class="flag-icons SE"></i> *Oro för USA-samarbete: ”Otroligt märkligt”*. (March, 2026). Interview, Svenska Dagbladet.
   - <i class="ai ai-doi-square"></i> [Article](https://www.svd.se/a/gkk0g5/usa-samarbetet-pax-silica-vacker-hard-kritik-otroligt-markligt)
 * <i class="flag-icons SE"></i> *Så blir du fri från amerikanska tjänster – här är alternativen*. (March, 2026). Interview, PC för Alla.
