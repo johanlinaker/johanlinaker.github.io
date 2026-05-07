@@ -34,6 +34,7 @@ header:
 	<li><a href="#pedagogic-papers">Pedagogic papers</a></li>
 	<li><a href="#editorials">Editorials</a></li>
 	<li><a href="#media">Media and interviews</a></li>
+	<li><a href="#pods">Pods</a></li>
 	<li><a href="#popular-writing">Popular writing</a></li>
 	<li><a href="#doctoral-dissertation">Doctoral dissertation</a></li>
 </ul>
@@ -54,6 +55,8 @@ header:
 * <i class="flag-icons GB"></i> **Linåker, J.** (2026). *National Support Structures and Capabilities for growing Digital Sovereignty  through Sharing and Reuse of Open Source Software in the Public Sector*. RISE Research Institutes of Sweden, Lund, Sweden. Commissioned by Danish Agency of Digital Government, and Local Government Denmark.
 * <i class="flag-icons GB"></i> **Linåker, J.**, Gates, N., Chourmouziadis, Y., & Weber, S. (2025). *Open Source Software Adoption and Reuse in European Local Governments A Multiple-Case Study*. Directorate-General for Digital Services (DIGIT). 
 	- <i class="ai ai-doi-square"></i> [DOI](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/multiple-case-study-public-sector-open-source) <i class="fa fa-file-pdf"></i> [PDF](/assets/slides/open-source-software-adoption-and-reuse-in-european-local-governments-a-multiple-case-study.pdf)
+* <i class="flag-icons GB"></i>Lundahl, J., Benmayor, A., Linåker, J., Östling, A., Nordell, E., Wernicke, P., Burden H., & Stenberg, S. (2025). *Report on existing regulatory frameworks and governance mechanisms for mobility data sharing*. deployEMDS Consortium. 
+	- <i class="ai ai-doi-square"></i> [DOI](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A2024670&dswid=-6328) <i class="fa fa-file-pdf"></i> [PDF](https://www.diva-portal.org/smash/get/diva2:2024670/FULLTEXT01.pdf)
 * <i class="flag-icons GB"></i> **Linåker, J.**, & Muto, S. (2024). *Software Reuse through Open Source Software in the Public Sector: A qualitative survey on Policy and Practice*. RISE Research Institutes of Sweden, Lund, Sweden. Commissioned by Danish Agency of Digital Government, and Local Government Denmark.
   - <i class="ai ai-doi-square"></i> [DOI](https://urn.kb.se/resolve?urn=urn:nbn:se:ri:diva-72465) <i class="fa fa-file-pdf"></i> [PDF](https://www.diva-portal.org/smash/get/diva2:1848137/FULLTEXT01.pdf)
 * <i class="flag-icons GB"></i> **Linåker, J.**, & Nummelin Carlberg, A. (2024). *Open Source Software in the Automotive Industry - A Vision Paper*. Eclipse Software Defined Vehicle Working Group, Brussels, Belgium.
@@ -107,6 +110,9 @@ header:
   - <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/en/publications/inter-organizational-data-sharing-processes-an-exploratory-analys) <i class="fa fa-file-pdf"></i> [PDF](https://lucris.lub.lu.se/ws/portalfiles/portal/194583080/802600a080.pdf)
 * <i class="flag-icons  GB"></i> Alami, A., Pardo, R., & **Linåker, J.** (2024). *Free open source communities sustainability: Does it make a difference in software quality?*. Empirical Software Engineering, 29(5), 114.
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/s10664-024-10529-6) <i class="fa fa-file-pdf"></i> [PDF](https://link.springer.com/content/pdf/10.1007/s10664-024-10529-6.pdf)
+* <i class="flag-icons  GB"></i> Schweik, C., & **Linåker, J.** (2024). *Enabling sustainable collaboration on open source software in and among European Union municipalities*. Workshop on the Ostrom Workshop 7, Indiana University, Bloomington.
+  - <i class="ai ai-doi-square"></i> [DOI](https://dlc.dlib.indiana.edu/dlc/items/3fcc713e-ab4b-46b0-beae-bd1fd781ea04/full) <i class="fa fa-file-pdf"></i> [PDF](https://dlc.dlib.indiana.edu/dlcrest/api/core/bitstreams/0acc0646-6a43-4cc3-bec7-21f5c1542ca6/content)
+  
 
 <div id="2023" />
 #### 2023 | <a href="#top">Top</a>
@@ -201,9 +207,6 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
 
 <div id="media" />
 ## Media and interviews | <a href="#top">Top</a>
-
-
-
 * <i class="flag-icons GB"></i> *The EU turns to 'Made in Europe' tech solutions*. (April, 2026). Interview, The Parliament Magazine.
   - <i class="ai ai-doi-square"></i> [Article]https://www.theparliamentmagazine.eu/news/article/european-governments-turn-to-made-in-europe-tech-solutions)
 * <i class="flag-icons SE"></i> *Oro för USA-samarbete: ”Otroligt märkligt”*. (March, 2026). Interview, Svenska Dagbladet.
@@ -236,6 +239,19 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
 * <i class="flag-icons SE"></i> *Digitalt beroende gör Europa sårbart*. (October, 2025).  Interview and co-authored blogpost, RISE.
   - <i class="ai ai-doi-square"></i> [Article](https://www.ri.se/sv/digitalt-beroende-gor-europa-sarbart)
 * <i class="flag-icons SE"></i> *Interview on Denmark's increased focus on digital sovereignty*. (Sept, 2025). Aktuellt (Swedish public service television national evening news).
+
+<div id="pods" />
+## Pods | <a href="#top">Top</a>
+* <i class="flag-icons GB"></i> *Using Metrics in your OSPO*. (Mar, 2026). CHAOSSCast.
+  - <i class="ai ai-doi-square"></i> [Recording](https://podcast.chaoss.community/129)
+* <i class="flag-icons SE"></i> *#212 Software Reuse through Open Source Software in the Public Sector*. (Jun, 2024). IT Talks.
+  - <i class="ai ai-doi-square"></i> [Recording](https://ittalks.libsyn.com/212-software-reuse-through-open-source-software-in-the-public-sector-with-sachiko-muto-and-johan-linker-from-rise-swe)
+* <i class="flag-icons SE"></i> *#78 - Open Source, open data, and co-operation – a success factor for the public sector*. (May, 2021). IT Talks.
+  - <i class="ai ai-doi-square"></i> [Recording](https://ittalks.libsyn.com/78-open-source-open-data-and-co-operation-a-success-factor-for-the-public-sector-with-johan-linker-lund-university-swe)
+* <i class="flag-icons SE"></i> *#67 Rebroadcast - Open data, open source, open standards, open innovation*. (Feb, 2021). IT Talks.
+  - <i class="ai ai-doi-square"></i> [Recording](https://ittalks.libsyn.com/67-rebroadcast-open-data-open-source-open-standards-open-innovation-with-johan-linker-swe)
+* <i class="flag-icons SE"></i> *#12 - Open data, open source, open standards, open innovation*. (Dec, 2019). IT Talks.
+  - <i class="ai ai-doi-square"></i> [Recording](https://ittalks.libsyn.com/67-rebroadcast-open-data-open-source-open-standards-open-innovation-with-johan-linker-swe)
 
 <div id="popular-writing" />
 ## Popular writing | <a href="#top">Top</a>
