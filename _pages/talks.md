@@ -26,6 +26,8 @@ header:
 
 <div id="2026" />
 ## 2026 | <a href="#top">Top</a>
+* <i class="flag-icons  GB"></i> *Making Impact Visible in Funding of Open Source Software: A Study of the Funders Perspective*. (2026, May). NGI Commons Taskforce. Invited talk, virtual.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Funding-Impact-DC-taskforce.pdf">Slides</a>
 * <i class="flag-icons  SE"></i> *Öppenhet och Digtal Suveränitet i en Skiftande Omvärld*. (2026, May). LTH:s Näringslivsråd. Invited talk, Lund, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Digital-suveränitet-lth-naringslivsråd.pdf">Slides</a>
 * <i class="flag-icons  SE"></i> *Digital Sovereignty through Open Source Enabling Europe’s strategic opportunity*. (2026, April). FOSS-North. Submitted talk, Gothenburg, Sweden.
