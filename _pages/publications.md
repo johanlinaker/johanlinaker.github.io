@@ -255,8 +255,9 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
 
 <div id="popular-writing" />
 ## Popular writing | <a href="#top">Top</a>
-* <i class="flag-icons SE"></i> *Digital suveränitet – från osynliga beroenden till strategiska val
-*. (April, 2026). Blogpost, RISE.
+* <i class="flag-icons SE"></i> *Samverkan nyckel till stärkt europeisk digital suveränitet och kontroll*. (Maj, 2026). Blogpost, Europakommentaren, Centrum för Europaforskning vid Lunds universitet.
+  - <i class="ai ai-doi-square"></i> [Article](https://europakommentaren.se/2026/05/15/samverkan-nyckel-till-starkt-europeisk-digital-suveranitet-och-kontroll/)
+* <i class="flag-icons SE"></i> *Digital suveränitet – från osynliga beroenden till strategiska val*. (April, 2026). Blogpost, RISE.
   - <i class="ai ai-doi-square"></i> [Article](https://www.ri.se/sv/bloggpost/digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val)
 * <i class="flag-icons GB"></i> Le Pape, A., Gates, N., **Linåker, J.**, Neuhäusler, P., Luiz Darold, D., & Väliharju, T. *EU's Digital Sovereignty Depends On Investment In Open-Source And Talent*. (January, 2026). Op-Ed, TechPolicy.press.
   - <i class="ai ai-doi-square"></i> [Article](https://www.techpolicy.press/eus-digital-sovereignty-depends-on-investment-in-opensource-and-talent/)
