@@ -26,6 +26,10 @@ header:
 
 <div id="2026" />
 ## 2026 | <a href="#top">Top</a>
+* <i class="flag-icons  GB"></i> *Balancing Digital Sovereignty and Openness in a Changing World*. (2026, May). Nordic National Government Service Centres. Invited talk, virtual.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Digital-sov-SSC.pdf">Slides</a>
+* <i class="flag-icons  GB"></i> *Balancing Digital Sovereignty and Openness in a Changing World*. (2026, May). Dutch Embassy trade delegation. Invited talk, virtual.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Digital-sov-NL.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Making Impact Visible in Funding of Open Source Software: A Study of the Funders Perspective*. (2026, May). NGI Commons Taskforce. Invited talk, virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Funding-Impact-DC-taskforce.pdf">Slides</a>
 * <i class="flag-icons  SE"></i> *Öppenhet och Digtal Suveränitet i en Skiftande Omvärld*. (2026, May). LTH:s Näringslivsråd. Invited talk, Lund, Sweden.
