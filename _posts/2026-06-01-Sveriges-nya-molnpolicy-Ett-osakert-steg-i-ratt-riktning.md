@@ -1,6 +1,6 @@
 ---
-title: "Analys av Sveriges nya molnpolicy"
-seo_title: "Analys av Sveriges nya molnpolicy"
+title: "Sveriges nya molnpolicy - Ett osäkert steg i rätt riktning"
+seo_title: "Sveriges nya molnpolicy - Ett osäkert steg i rätt riktning"
 excerpt: "Policyn belyser tydligt hur det geopolitiska och i grunden förändrade säkerhetsläget medför risker som var offentlig aktör nu måste öppna upp ögonen inför, ta hänsyn till och analysera. Analysen lämnas för var och en att göra och att balansera mot den bredare kravbilden (bl.a. funktion, säkerhet, rådighet, suveränitet, robusthet och kostnadseffektivitet) utifrån lokala behov och förutsättningar. Dock slår policyn fast att digital teknik berör numera närmast varje del av det svenska samhället och att offentliga aktörer måste säkra sin tillgång till och rådighet över samhällsviktiga system, tjänster och funktioner för att fortsätta att bedriva sin verksamhet även vid avbrott i en molntjänst i alla lägen, vilket inkluderar kris, höjd beredskap och (i värsta fall) krig. "
 date: 2026-05-30T15:34:30-04:00
 categories:
@@ -11,11 +11,11 @@ tags:
   - policy
   - cloud
 header:
-  teaser: "/assets/images/2026-06-01-Analys-Av-Sveriges-Nya-Molnpolicy/teaser.jpg"
+  teaser: "/assets/images/2026-06-01-Sveriges-nya-molnpolicy-Ett-osakert-steg-i-ratt-riktning/teaser.jpg"
 ---
 
 <div class="thumbnail-container">
-<img src="/assets/images/2026-06-01-Analys-Av-Sveriges-Nya-Molnpolicy/teaser.jpg"></div>
+<img src="/assets/images/2026-06-01-Sveriges-nya-molnpolicy-Ett-osakert-steg-i-ratt-riktning/teaser.jpg"></div>
 
 Policyn belyser tydligt hur det geopolitiska och "<i>i grunden förändrade säkerhetsläget</i>" medför risker som var offentlig aktör nu måste öppna upp ögonen inför, ta hänsyn till och analysera. Analysen lämnas för var och en att göra och att balansera mot den bredare kravbilden ("<i>bl.a. funktion, säkerhet, rådighet, suveränitet, robusthet och kostnadseffektivitet</i>") utifrån lokala behov och förutsättningar. Dock slår policyn fast att "<i>digital teknik berör numera närmast varje del av det svenska samhället</i>" och att offentliga aktörer måste säkra sin "<i>tillgång till och rådighet över samhällsviktiga system, tjänster och funktioner</i>" för att "<i>fortsätta att bedriva sin verksamhet även vid avbrott i en molntjänst</i>" i alla lägen, vilket inkluderar kris, höjd beredskap och (i värsta fall) krig.  
 
