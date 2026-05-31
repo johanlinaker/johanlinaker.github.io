@@ -2,7 +2,7 @@
 title: "Analys av Sveriges nya molnpolicy"
 seo_title: "Analys av Sveriges nya molnpolicy"
 excerpt: "Policyn belyser tydligt hur det geopolitiska och i grunden förändrade säkerhetsläget medför risker som var offentlig aktör nu måste öppna upp ögonen inför, ta hänsyn till och analysera. Analysen lämnas för var och en att göra och att balansera mot den bredare kravbilden (bl.a. funktion, säkerhet, rådighet, suveränitet, robusthet och kostnadseffektivitet) utifrån lokala behov och förutsättningar. Dock slår policyn fast att digital teknik berör numera närmast varje del av det svenska samhället och att offentliga aktörer måste säkra sin tillgång till och rådighet över samhällsviktiga system, tjänster och funktioner för att fortsätta att bedriva sin verksamhet även vid avbrott i en molntjänst i alla lägen, vilket inkluderar kris, höjd beredskap och (i värsta fall) krig. "
-date: 2026-05-31T15:34:30-04:00
+date: 2026-05-30T15:34:30-04:00
 categories:
   - blog
 tags:
