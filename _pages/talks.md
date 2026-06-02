@@ -26,6 +26,8 @@ header:
 
 <div id="2026" />
 ## 2026 | <a href="#top">Top</a>
+* <i class="flag-icons  GB"></i> *Öppenhet och Digtal Suveränitet i en Skiftande Omvärld*. (2026, June). Region Örebro län. Invited talk, virtual.
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Digital-sov-Orebro.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Balancing Digital Sovereignty and Openness in a Changing World*. (2026, May). Nordic National Government Service Centres. Invited talk, virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Digital-sov-SSC.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Balancing Digital Sovereignty and Openness in a Changing World*. (2026, May). Dutch Embassy trade delegation. Invited talk, virtual.
