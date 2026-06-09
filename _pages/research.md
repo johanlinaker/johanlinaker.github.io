@@ -223,6 +223,6 @@ Areas I'm currently investigating include:
 <ul>
     <li>Sept 2012 – Apr 2014 – Software Developer, IKEA IT, Helsingborg, Sweden.
     <ul>
-        <li>Developed intergations between internal systems and a new Point-of-Sales third party system.</li>
+        <li>Developed intergations between internal systems and a third-party Point-of-Sales system.</li>
     </ul></li>
 </ul>

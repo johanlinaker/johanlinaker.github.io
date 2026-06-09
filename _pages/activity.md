@@ -97,7 +97,7 @@ See <a href="https://orcid.org/0000-0001-9851-1404">ORCID records</a> for furthe
 <div id="grant-proposal-reviewing" />
 ## Grant proposal reviewing | <a href="#top">Top</a>
 * Austrian Science Fund (2023)
-* Deutsche Forschungsgemeinschaft (2022)
+* Deutsche Forschungsgemeinschaft (2022, 2026)
 * Vinnova (2020)
 
 <div id="opponent-discussant" />

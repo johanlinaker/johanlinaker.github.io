@@ -42,17 +42,15 @@ header:
 
 <div id="ongoing" />
 ## Ongoing work/In submission | <a href="#top">Top</a>
-* <i class="flag-icons  GB"></i> Usman, M., **Linåker, J.**, Badampudi, D., & Sahlin, H. (2026). *Adopting InnerSource in a Public Sector Organization: An Exploratory Case Study*. In submission.
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Lumbard, K., & Link, G. (2026). *Making Impact Visible in Funding of Open Source Software: A Study of the Funders Perspective*. In submission.
 * <i class="flag-icons  GB"></i> Chren, S.. Fagerholm, F., Bjarnason, E., **Linåker, J.**, Rafi. S., & Lehtelä, B. (2026). *Exploring Experiment Cases in Continuous Experimentation: A Systematic Literature Review*. In submission.
 * <i class="flag-icons  GB"></i> Larsson, J., **Linåker, J.**, & Runeson, P. (2026). *Exploring public-private data sharing practices through the lens of Open Data Ecosystems: A multiple case study on municipal and regional freight logistics*. In submission.
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Bjarnason, E., & Fagerholm, F. (2026). *Experimentation in Game Development: An Interview Survey*. In submission.
+* <i class="flag-icons  GB"></i> Alami, A., Klockmann, S., Rehder Sörensen, L., Pardo, R., & **Linåker, J.** (2026). *Incubation and Beyond: A Comparative Analysis of ASF Projects Sustainability Impacts on Software Quality*. In submission.
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Osborne, C., Ding, J., & Burthenshaw, B. (2025). *A cartography of open collaboration in open source ai: Mapping practices, motivations, and governance in 14 open large language model projects*. In submission.  
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.48550/arXiv.2509.25397) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2509.25397)
 * <i class="flag-icons  GB"></i> **Linåker, J.**, & Muto, S. (2025). *Advancing Digital Government: Integrating Open Source Software Enablement Indicators in Maturity Indexes*. In submission.  
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.48550/arXiv.2510.04603) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2510.04603)
-* <i class="flag-icons  GB"></i> **Linåker, J.**, Nummelin Carlberg, A., & O'Riordan, C. (2025). *Public Sector Open Source Program Offices - Archetypes for how to Grow (Common) Institutional Capabilities*. In submission.  
-  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.48550/arXiv.2603.04891) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2603.04891)
 
 
 <div id="technical-reports" />
@@ -72,7 +70,6 @@ header:
   - <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/sv/publications/rekommendationer-f%C3%B6r-samverkan-och-delning-av-data-teknik-och-kun) <i class="fa fa-file-pdf"></i> [PDF](https://lucris.lub.lu.se/ws/portalfiles/portal/112560914/Rapport_Rekommendationer_f_r_samverkan_och_delning_av_data_teknik_och_kunskap_inom_myndighetsdrivna_ppna_data_ekosystem.pdf)
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Sulaman, S. M., Maiani de Mello, R., & Höst, M. (2015). *Guidelines for conducting surveys in software engineering*. Lund university, Lund, Sweden.
   - <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/sv/publications/guidelines-for-conducting-surveys-in-software-engineering) <i class="fa fa-file-pdf"></i> [PDF](https://lucris.lub.lu.se/ws/portalfiles/portal/6062997/5463412.pdf)
-  ´
   
 <div id="book-chapters" />
 ## Book chapters | <a href="#top">Top</a>
@@ -89,6 +86,9 @@ header:
 
 <div id="2026" />
 #### 2026 | <a href="#top">Top</a>
+* <i class="flag-icons  GB"></i> Usman, M., **Linåker, J.**, Badampudi, D., & Sahlin, H. (2026). *Adopting InnerSource in a Public Sector Organization: An Exploratory Case Study*. Accepted for publication at EuroMicro.
+* <i class="flag-icons  GB"></i> **Linåker, J.**, Nummelin Carlberg, A., & O'Riordan, C. (2025). *Public Sector Open Source Program Offices - Archetypes for how to Grow (Common) Institutional Capabilities*. Accepted for publication in Journal of Software and Systems.  
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.48550/arXiv.2603.04891) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2603.04891)
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Olsson, T., & Papatheocharous, E. (2026). *Assessing open source software health in organizations’ intake processes: A qualitative study on the practitioners’ perspective*. Empirical Software Engineering, 31(105), 1-54.  
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/s10664-026-10846-y) <i class="fa fa-file-pdf"></i> [PDF](https://link.springer.com/epdf/10.1007/s10664-026-10846-y?sharing_token=9V-iaT7CToXM70FDQr93vfe4RwlQNchNByi7wbcMAY5sTo-4GduOLS-XN-ixrlN0PSZeP-nenxHS2twJ5L6tOb7xlRIhwO5KhxYdE1--iCqTiCtJb0rCAp6TWHa7_UikCjtGYQ76P7XtuSUEdIHxzKLJZ95LgXcDxt-7pu_UalA%3D)
 
@@ -260,6 +260,8 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
 
 <div id="popular-writing" />
 ## Popular writing | <a href="#top">Top</a>
+* <i class="flag-icons SE"></i> *EU:s suveränitetspaket visar vägen mot digital rådighet*. (Juni, 2026). Blogpost, RISE.
+  - <i class="ai ai-doi-square"></i> [Article](https://www.ri.se/sv/bloggpost/eus-suveranitetspaket-visar-vagen-mot-digital-radighet)
 * <i class="flag-icons SE"></i> *Samverkan nyckel till stärkt europeisk digital suveränitet och kontroll*. (Maj, 2026). Blogpost, Europakommentaren, Centrum för Europaforskning vid Lunds universitet.
   - <i class="ai ai-doi-square"></i> [Article](https://europakommentaren.se/2026/05/15/samverkan-nyckel-till-starkt-europeisk-digital-suveranitet-och-kontroll/)
 * <i class="flag-icons SE"></i> *Digital suveränitet – från osynliga beroenden till strategiska val*. (April, 2026). Blogpost, RISE.
