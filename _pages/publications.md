@@ -74,7 +74,7 @@ header:
 <div id="book-chapters" />
 ## Book chapters | <a href="#top">Top</a>
 * <i class="flag-icons  GB"></i> Bjarnason, E., **Linåker, J.**, & Fagerholm, F. (2025). *Experimentation practice in indie game startups*. In: Advances in software startups: generative AI, product engineering and business development (pp. 137-152). Springer Nature. 
-  - <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/en/publications/experimentation-practice-in-indie-game-startups/)
+  - <i class="ai ai-doi-square"></i> [DOI](https://link.springer.com/chapter/10.1007/978-3-032-04294-1_8)
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Rudmark, D., Östling, A. (2025). *Lessons Learnt from Horizontal Coordination of Data Ecosystems in the Swedish Public Transport Sector*. In: Behnke, N., Petersohn, B. (eds) Horizontal Intergovernmental Coordination at Local and Regional Levels. Palgrave Macmillan, Cham. 
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/978-3-031-83567-4_20) <i class="fa fa-file-pdf"></i> [PDF](https://link.springer.com/content/pdf/10.1007/978-3-031-83567-4_20.pdf?pdf=inline%20link)
 * <i class="flag-icons  GB"></i> Germonprez, M. & **Linåker, J.** (2024). *Chapter 5: Measuring and Communicating Impact by your OSPO*. The Open Source (Program) Office Book. The TODO Group/Linux Foundation.
@@ -102,7 +102,7 @@ header:
 <div id="2024" />
 #### 2024 | <a href="#top">Top</a>
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Bjarnason, E., & Fagerholm, F. (2024). *Pre-Release Experimentation in Indie Game Development: An Interview Survey*. In 15th International Conference on Software Business. Springer.  
-  - <i class="ai ai-doi-square"></i> [DOI](https://dl.acm.org/doi/10.1145/3674805.3686667) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2408.06723)
+  - <i class="ai ai-doi-square"></i> [DOI](https://link.springer.com/chapter/10.1007/978-3-031-85849-9_24) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2408.06723)
 * <i class="flag-icons  GB"></i> Chren, S., Fagerholm, F., Bjarnason, E., **Linåker, J.**, Rafi, S., Lehtelä, B., Runeson, R. & Kauppinen, M. (2024). *Data-Limited Continuous Experimentation (dlCE): A Literature Review*. In 15th International Conference on Software Business. Springer.  
   - <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/en/publications/data-limited-continuous-experimentation-dlce-a-literature-review)
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Link, G., & Lumbard, K. (2024). *Sustaining Maintenance Labor for Healthy Open Source Software Projects through Human Infrastructure: A Maintainer Perspective*. In 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement.
@@ -260,6 +260,8 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
 
 <div id="popular-writing" />
 ## Popular writing | <a href="#top">Top</a>
+* <i class="flag-icons GB"></i> **Linåker, J.** *Europe wants to limit its reliance on foreign tech – but funding is limited and the proposed rules are weak*. (June, 2026). News piece, self-authored, The Conversation UK.
+  - <i class="ai ai-doi-square"></i> [Article](https://doi.org/10.64628/AB.mv7yhkqae)
 * <i class="flag-icons SE"></i> *EU:s suveränitetspaket visar vägen mot digital rådighet*. (Juni, 2026). Blogpost, RISE.
   - <i class="ai ai-doi-square"></i> [Article](https://www.ri.se/sv/bloggpost/eus-suveranitetspaket-visar-vagen-mot-digital-radighet)
 * <i class="flag-icons SE"></i> *Samverkan nyckel till stärkt europeisk digital suveränitet och kontroll*. (Maj, 2026). Blogpost, Europakommentaren, Centrum för Europaforskning vid Lunds universitet.
