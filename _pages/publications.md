@@ -88,7 +88,7 @@ header:
 #### 2026 | <a href="#top">Top</a>
 * <i class="flag-icons  GB"></i> Usman, M., **Linåker, J.**, Badampudi, D., & Sahlin, H. (2026). *Adopting InnerSource in a Public Sector Organization: An Exploratory Case Study*. Accepted for publication at EuroMicro.
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Nummelin Carlberg, A., & O'Riordan, C. (2025). *Public Sector Open Source Program Offices - Archetypes for how to Grow (Common) Institutional Capabilities*. Accepted for publication in Journal of Software and Systems.  
-  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.48550/arXiv.2603.04891) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2603.04891)
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1016/j.jss.2026.112998) <i class="fa fa-file-pdf"></i> [PDF](https://www.sciencedirect.com/science/article/pii/S0164121226002311/pdfft?md5=613aff71ef7ab7eaa2a0eb117ed94ecd&pid=1-s2.0-S0164121226002311-main.pdf)
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Olsson, T., & Papatheocharous, E. (2026). *Assessing open source software health in organizations’ intake processes: A qualitative study on the practitioners’ perspective*. Empirical Software Engineering, 31(105), 1-54.  
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/s10664-026-10846-y) <i class="fa fa-file-pdf"></i> [PDF](https://link.springer.com/epdf/10.1007/s10664-026-10846-y?sharing_token=9V-iaT7CToXM70FDQr93vfe4RwlQNchNByi7wbcMAY5sTo-4GduOLS-XN-ixrlN0PSZeP-nenxHS2twJ5L6tOb7xlRIhwO5KhxYdE1--iCqTiCtJb0rCAp6TWHa7_UikCjtGYQ76P7XtuSUEdIHxzKLJZ95LgXcDxt-7pu_UalA%3D)
 
@@ -260,6 +260,8 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
 
 <div id="popular-writing" />
 ## Popular writing | <a href="#top">Top</a>
+* <i class="flag-icons GB"></i> Serrano, J., Gates, N., and **Linåker, J.** *Without Open-Source Hardware, There Is No EU Tech Sovereignty*. (June, 2026). Op-Ed, TechPolicy.press.
+  - <i class="ai ai-doi-square"></i> [Article](https://www.techpolicy.press/without-opensource-hardware-there-is-no-eu-tech-sovereignty/)
 * <i class="flag-icons GB"></i> **Linåker, J.** *Europe wants to limit its reliance on foreign tech – but funding is limited and the proposed rules are weak*. (June, 2026). News piece, self-authored, The Conversation UK.
   - <i class="ai ai-doi-square"></i> [Article](https://doi.org/10.64628/AB.mv7yhkqae)
 * <i class="flag-icons SE"></i> *EU:s suveränitetspaket visar vägen mot digital rådighet*. (Juni, 2026). Blogpost, RISE.
