@@ -212,6 +212,8 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
 
 <div id="media" />
 ## Media | <a href="#top">Top</a>
+* <i class="flag-icons NL"></i> *Open source heeft ondersteunend ecosysteem nodig*. (June, 2026). Article, iBestuur.
+  - <i class="ai ai-doi-square"></i> [Article](https://ibestuur.nl/overheid-in-transitie/management-en-bedrijfsvoering/open-source-heeft-ondersteunend-ecosysteem-nodig)
 * <i class="flag-icons GB"></i> *The EU turns to 'Made in Europe' tech solutions*. (April, 2026). Interview, The Parliament Magazine.
   - <i class="ai ai-doi-square"></i> [Article](https://www.theparliamentmagazine.eu/news/article/european-governments-turn-to-made-in-europe-tech-solutions)
 * <i class="flag-icons SE"></i> *Oro för USA-samarbete: ”Otroligt märkligt”*. (March, 2026). Interview, Svenska Dagbladet.
