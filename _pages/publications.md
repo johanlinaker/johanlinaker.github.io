@@ -212,6 +212,10 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
 
 <div id="media" />
 ## Media | <a href="#top">Top</a>
+* <i class="flag-icons SE"></i> *Digital suveränitet kräver mer än datalagring – strategiska vägval formar framtidens digitala landskap*. (June, 2026). Interview, NyTeknik.
+  - <i class="ai ai-doi-square"></i> [Article](https://www.nyteknik.se/nyteducation/digital-suveraenitet-kraever-mer-aen-datalagring-strategiska-vaegval-formar-framtidens-digitala-landskap/4465321)
+* <i class="flag-icons GB"></i> *Europeans want less dependence on foreign technologies, study finds*. (June, 2026). Interview, Euronews.
+  - <i class="ai ai-doi-square"></i> [Article](https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds)
 * <i class="flag-icons NL"></i> *Open source heeft ondersteunend ecosysteem nodig*. (June, 2026). Article, iBestuur.
   - <i class="ai ai-doi-square"></i> [Article](https://ibestuur.nl/overheid-in-transitie/management-en-bedrijfsvoering/open-source-heeft-ondersteunend-ecosysteem-nodig)
 * <i class="flag-icons GB"></i> *The EU turns to 'Made in Europe' tech solutions*. (April, 2026). Interview, The Parliament Magazine.
