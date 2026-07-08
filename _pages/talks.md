@@ -114,7 +114,7 @@ Insights from Six Mature Case Studies*. (2025, Feb). Government Collaboration De
 * <i class="flag-icons  GB"></i> *Health Check-ups on Open Source Software Projects Managing Risks while Promoting (Re)use*. (2025, Jan). Avancerad Digitalisering - Vinnova. Invited talk, Gothenburg, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-health-HASMOSS-Avancerad-Digitalisering.pdf">Slides</a>  <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=n38MpFqEdXU&t=303s">Recording</a>
 * <i class="flag-icons  GB"></i> *Public Sector Open Source Program Offices - Archetypes for how to Grow (Common) Institutional Capabilities*. (2025, Jan). Helmholtz Open Science Seminar. Invited talk, Virtual.
-  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Public-sector-OSPOs-Helmholtz-Open-Science-2024-OSOR-final.pdf">Slides</a>
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Public-sector-OSPOs-Helmholtz-Open-Science-2024-OSOR-final.pdf">Slides</a> <i class="fab fa-youtube"></i> <a href="https://av.tib.eu/media/69822">Recording</a>
 
 <div id="2024" />
 ## 2024 | <a href="#top">Top</a>
@@ -185,7 +185,7 @@ Insights from Six Mature Case Studies*. (2025, Feb). Government Collaboration De
 * <i class="flag-icons SE"></i> *Proaktiv riskhantering för sårbarheter inom öppna programvaruprojekt*. (2022, March). NOSAD workshop. Invited talk, Virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-health-NOSAD.pdf">Slides</a>
 * <i class="flag-icons SE"></i> *JobTech Dev – Exempel på Delning och Samverkan inom Myndighets-drivna Öppna Data-ekosystem*. (February, 2022). Swedish Jobtech. Invited talk, Virtual.
-  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Swedish JobTech seminar.pdf">Slides</a>
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Swedish JobTech seminar.pdf">Slides</a> <i class="fab fa-youtube"></i>  <a href="https://www.youtube.com/watch?v=WHkZFibyFkM">Recording</a>
 
 <div id="2021" />
 ## 2021 | <a href="#top">Top</a>
