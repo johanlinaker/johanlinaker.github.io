@@ -137,7 +137,7 @@ Insights from Six Mature Case Studies*. (2025, Feb). Government Collaboration De
 * <i class="flag-icons  GB"></i> *Open Source Software and Open Science*. (2024, April). AIoTwins Research Workshop. Invited talk, Stockholm, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-intro-open-science.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Municipal collaboration on Open Source Software - A lever for innovation in Smart Cities*. (2024, April). Nordic Connected Society. Invited talk, Malmö, Sweden.
-  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Nordic-Connected-Society-Malmoe.pdf">Slides</a> | <i class="fa fa-youtube"></i> <a href="https://www.youtube.com/watch?v=r70K1JUSlNc&t=3s">Presentation recording</a>
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Nordic-Connected-Society-Malmoe.pdf">Slides</a> | <i class="fa-youtube"></i> <a href="https://www.youtube.com/watch?v=r70K1JUSlNc&t=3s">Presentation recording</a>
 * <i class="flag-icons  GB"></i> *Open Source AI – An undefined divide between community and vendor development*. (2024, March). RISE AI Network. Invited talk, Virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Open-Source-AI.pdf">Slides</a>
 
