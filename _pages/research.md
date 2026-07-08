@@ -45,7 +45,7 @@ Areas I'm currently investigating include:
 <div id="ongoing-projects" />
 <h3>Ongoing projects | <a href="#top">Top</a></h3>
 <ul>
-    <li>OUN Open Source Enablement Compass (OSEC), 2026–2028.
+    <li>UN Open Source Enablement Compass (OSEC), 2026–2028.
     <ul>
         <li>Funded by project partners, including GitHub and the Ethereum Foundation.</li>
         <li>Johan is a project member and research lead contributing to the development of the Open Source Enablement Compass, a practical framework supporting national governments in assessing and strengthening their capabilities to adopt, govern, contribute to, and sustainably collaborate on Open Source Software. Johan leads research and analysis activities related to open source governance, organisational capabilities, and enablement strategies, drawing on experiences from public sector and OSPO initiatives across Europe.</li>
