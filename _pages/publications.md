@@ -46,11 +46,8 @@ header:
 * <i class="flag-icons  GB"></i> Chren, S.. Fagerholm, F., Bjarnason, E., **Linåker, J.**, Rafi. S., & Lehtelä, B. (2026). *Exploring Experiment Cases in Continuous Experimentation: A Systematic Literature Review*. In submission.
 * <i class="flag-icons  GB"></i> Larsson, J., **Linåker, J.**, & Runeson, P. (2026). *Exploring public-private data sharing practices through the lens of Open Data Ecosystems: A multiple case study on municipal and regional freight logistics*. In submission.
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Bjarnason, E., & Fagerholm, F. (2026). *Experimentation in Game Development: An Interview Survey*. In submission.
-* <i class="flag-icons  GB"></i> Alami, A., Klockmann, S., Rehder Sörensen, L., Pardo, R., & **Linåker, J.** (2026). *Incubation and Beyond: A Comparative Analysis of ASF Projects Sustainability Impacts on Software Quality*. In submission.
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Osborne, C., Ding, J., & Burthenshaw, B. (2025). *A cartography of open collaboration in open source ai: Mapping practices, motivations, and governance in 14 open large language model projects*. In submission.  
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.48550/arXiv.2509.25397) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2509.25397)
-* <i class="flag-icons  GB"></i> **Linåker, J.**, & Muto, S. (2025). *Advancing Digital Government: Integrating Open Source Software Enablement Indicators in Maturity Indexes*. In submission.  
-  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.48550/arXiv.2510.04603) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2510.04603)
 
 
 <div id="technical-reports" />
@@ -86,6 +83,9 @@ header:
 
 <div id="2026" />
 #### 2026 | <a href="#top">Top</a>
+* <i class="flag-icons  GB"></i> Alami, A., Klockmann, S., Rehder Sörensen, L., Pardo, R., & **Linåker, J.** (2026). *Incubation and Beyond: A Comparative Analysis of ASF Projects Sustainability Impacts on Software Quality*. Accepted for publication in Empirical Software Engineering.
+* <i class="flag-icons  GB"></i> **Linåker, J.**, & Muto, S. (2025). *Advancing Digital Government: Integrating Open Source Software Enablement Indicators in Maturity Indexes*. Accepted for publication in Journal of Software and Systems.  
+  - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.48550/arXiv.2510.04603) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2510.04603)
 * <i class="flag-icons  GB"></i> Usman, M., **Linåker, J.**, Badampudi, D., & Sahlin, H. (2026). *Adopting InnerSource in a Public Sector Organization: An Exploratory Case Study*. Accepted for publication at EuroMicro.
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Nummelin Carlberg, A., & O'Riordan, C. (2025). *Public Sector Open Source Program Offices - Archetypes for how to Grow (Common) Institutional Capabilities*. Accepted for publication in Journal of Software and Systems.  
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1016/j.jss.2026.112998) <i class="fa fa-file-pdf"></i> [PDF](https://www.sciencedirect.com/science/article/pii/S0164121226002311/pdfft?md5=613aff71ef7ab7eaa2a0eb117ed94ecd&pid=1-s2.0-S0164121226002311-main.pdf)

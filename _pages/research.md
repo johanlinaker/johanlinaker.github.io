@@ -24,7 +24,7 @@ header:
 <h3>General bio and research philosophy | <a href="#top">Top</a></h3>
 I am a Senior Researcher at <a href="http://ri.se" target="_blank">RISE Research Institutes of Sweden</a> and an Adjunct Assistant Professor at <a href="http://lu.se" target="_blank">Lund University</a>, working at the intersection of empirical software engineering, open technologies, and digital sovereignty. My work focuses on how public and private sector organizations can use, develop, and govern open source software, open and shared data, and open standards to strengthen interoperability, reduce lock-in, and enable sustainable digital transformation.
 
-I currently lead and support European and national initiatives on open source adoption in the public sector, including coordination of the EU-funded <a href="http://europeanopensource.academy" target="_blank">OSAwards.eu</a> project and facilitation of networks around open technologies in Swedish industry and government, including <a href="http://nosad.se" target="_blank">NOSAD</a> and the <a href="http://swedish-ospo-network.se" target="_blank">Swedish OSPO network</a>. I regularly conduct reports and studies commissioned by various entities, including the <a href="https://interoperable-europe.ec.europa.eu/interoperable-europe" target="_blank">European Commission</a>, the <a href="https://digst.dk/" target="_blank">Danish Agency for Digital Government</a>, and the <a href="https://www.eclipse.org/" target="_blank">Eclipse Foundation</a>, and collaborate across projects with several large international industry and government organizations on urgent matters related to open technologies. I also advise on governance models, procurement, and cybersecurity for public digital infrastructure and open technologies across different levels of government, with open strategic autonomy and governments' capacity to shape their own digital future as a unifying theme.
+I currently lead and support European and national initiatives on open source adoption in the public sector, including coordination of the UN Open Source Enablement Compass, the EU-funded <a href="http://europeanopensource.academy" target="_blank">OSAwards.eu</a> project and facilitation of networks around open technologies in Swedish industry and government, including <a href="http://nosad.se" target="_blank">NOSAD</a> and the <a href="http://swedish-ospo-network.se" target="_blank">Swedish OSPO network</a>. I regularly conduct reports and studies commissioned by various entities, including the <a href="https://interoperable-europe.ec.europa.eu/interoperable-europe" target="_blank">European Commission</a>, the <a href="https://digst.dk/" target="_blank">Danish Agency for Digital Government</a>, and the <a href="https://www.eclipse.org/" target="_blank">Eclipse Foundation</a>, and collaborate across projects with several large international industry and government organizations on urgent matters related to open technologies. I also advise on governance models, procurement, and cybersecurity for public digital infrastructure and open technologies across different levels of government, with open strategic autonomy and governments' capacity to shape their own digital future as a unifying theme.
 
 Previously, I have worked as an action researcher at the <a href="http://www.arbetsformedlingen.se" target="_blank">Swedish Public Employment Service</a>, served as Open Source Strategist at <a href="http://axis.com" target="_blank">Axis Communications</a>, and founded OpenHack – Coding for Humanity, a social initiative promoting open source solutions for the UN Sustainable Development Goals, now part of <a href="https://www.ewb-swe.org/" target="_blank">Engineers Without Borders Sweden</a>. I enjoy collaborating with policymakers, practitioners, and researchers to turn research insights into practical strategies, guidelines, and communities around open and sustainable digital ecosystems.
 
@@ -45,6 +45,12 @@ Areas I'm currently investigating include:
 <div id="ongoing-projects" />
 <h3>Ongoing projects | <a href="#top">Top</a></h3>
 <ul>
+    <li>OUN Open Source Enablement Compass (OSEC), 2026–2028.
+    <ul>
+        <li>Funded by EU Horizon program.</li>
+        <li>Funded by the United Nations. Johan is a project member and research lead contributing to the development of the Open Source Enablement Compass, a practical framework supporting national governments in assessing and strengthening their capabilities to adopt, govern, contribute to, and sustainably collaborate on Open Source Software. Johan leads research and analysis activities related to open source governance, organisational capabilities, and enablement strategies, drawing on experiences from public sector and OSPO initiatives across Europe.</li>
+        <li>Consortium: United Nations (Lead), RISE (SE).</li>
+    </ul></li>
     <li>OSAwards.EU – Public Recognition of Open Source, 2024-2027.
     <ul>
         <li>Funded by EU Horizon program.</li>
@@ -57,7 +63,7 @@ Areas I'm currently investigating include:
         <li>Johan initiated and wrote the application, with the support of Prof. Dr. Per Runeson. Johan is Co-Principal Investigator and Co-supervisor for John Larsson, PhD. student funded by the project, actively partiking in the research conducted.</li>
         <li>Consortium: Lund University (SE/Coordinator), RISE (SE), Helsingborg Municipality (SE), Södertörn municipalities (SE), Predctive Movement Innovation project (SE), Closer (SE). </li>
     </ul></li>
-    <li>B2B Data Sharing for Industry 4.0 Machine Learning, 2021-2025.
+    <li>B2B Data Sharing for Industry 4.0 Machine Learning, 2021-2027.
     <ul>
         <li>Funded by the ELIIT Research program.</li>
         <li>Johan is project member and co-supervisor for Konstantin Malysh, PhD. student funded by the project. Prof. Dr. Per Runeson is the Principal Investigator.</li>
