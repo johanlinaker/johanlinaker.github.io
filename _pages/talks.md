@@ -37,12 +37,13 @@ header:
 * <i class="flag-icons  SE"></i> *Öppenhet och Digtal Suveränitet i en Skiftande Omvärld*. (2026, May). LTH:s Näringslivsråd. Invited talk, Lund, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Digital-suveränitet-lth-naringslivsråd.pdf">Slides</a>
 * <i class="flag-icons  SE"></i> *Digital Sovereignty through Open Source Enabling Europe’s strategic opportunity*. (2026, April). FOSS-North. Submitted talk, Gothenburg, Sweden.
-  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Digital-sov-foss-north">Slides</a>
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Digital-sov-foss-north">Slides</a>  <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=6XPJOHyBKeY">Recording</a>
 * <i class="flag-icons  SE"></i> *Offentlig upphandling som verktyg för att främja digital suveränitet och svensk/europeisk utveckling*. (2026, April). Cybernoden. Invited talk, virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Upphandling som drivkraft för digital suveränitet - cybernoden.pdf">Slides</a>
 * <i class="flag-icons  SE"></i> *Öppenhet och Digtal Suveränitet i en Skiftande Omvärld*. (2026, March). eSam Utvecklingsforum. Invited talk, virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Digital-suveränitet-eSam.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *OSPOs for Public Good*. (2026, Febuary). Invited panelist, National Open Source Innovation Summit 2026, Dublin, Ireland.
+  - <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=Ucyqgg5GZZ8">Recording</a>
 * <i class="flag-icons  GB"></i> *Making Open Source Work in the Public Sector*. (2026, Febuary). Panel moderator, National Open Source Innovation Summit 2026, Dublin, Ireland.
 * <i class="flag-icons  SE"></i> *Digital suveränitet och beredskap inom hälso och sjukvård*. (2026, January). Hälso- och Sjukvårdsnätverket. Invited talk, virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Digital-suveränitet-HSVN.pdf">Slides</a>
@@ -51,6 +52,7 @@ header:
 * <i class="flag-icons  GB"></i> *Forging Digital Sovereignty Ground Up through Local Governments with Open Source Public Digital Infrastructure*. (2026, January). Building Europe’s Public Digital Infrastructure Devroom. Submitted talk, FOSDEM, Brussels, Belgium.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Local-Gov-OSOR-FOSDEM-v2.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *OSPOs as Sovereignty Engines*. (2026, January). Panel moderator, EU Open Source Policy Summit, Brussels, Belgium.
+  - <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=qcxaBetVrLc">Recording</a>
 * <i class="flag-icons  SE"></i> *Varför, vad och när bör ni dela programvara?*. (2026, January). Frukostseminarie - Skapa värde med Open Source. Invited talk, Great IT/Redpill Linpro, Gothenburg, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-Contribution-Strategies-Great-IT-GBG.pdf">Slides</a>
 
@@ -61,7 +63,7 @@ header:
 * <i class="flag-icons  GB"></i> *Enabling PhD student collaboration in research groups*. (2025, December). Pedagogiska inspirationskonferensen-Genombrottet. Lund University, Lund, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/PPT LTH 2025 pedagog conference.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *A Cartography of Collaboration in Open Source AI: Mapping Collaboration in the Development and Reuse Lifecycle of 12 Open Large Language Models*. (2025, November). OpenForum Academy. Submitted talk, Rio de Janiero, Brazil.
-  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Open-Source-AI-Collab-OFA.pdf">Slides</a>
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Open-Source-AI-Collab-OFA.pdf">Slides</a> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=1vx2PEM5hYc">Recording</a>
 * <i class="flag-icons  GB"></i> *Public sector open source software projects – How is development organized?*. (2025, November). OpenForum Academy. Submitted talk, Rio de Janiero, Brazil.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Government-Collaboration-OFA.pdf">Slides</a>
 * <i class="flag-icons  SE"></i> *Hälsa och säkerhet hos öppen programvara vid utveckling och anskaffning*. (2025, November). Arkitekturnätverket hos Skatteverket. Invited talk, virtual, Sweden.
@@ -76,7 +78,7 @@ header:
 * <i class="flag-icons  SE"></i> *Hälsa och säkerhet hos öppen programvara vid utveckling och anskaffning*. (2025, October). Inner/open sourcing inom Svensk offentlig sektor. Invited talk, Trafikverket, Stockholm, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-health-public-sector-TRV.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Open Source Software Adoption and Reuse in European Local Governments: A Multiple-Case Study*. (2025, October). OSOR Webinar on Open Source Software Adoption and Reuse in European Local Governments. Invited talk, Virtual.
-  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Local-gov-OSOR.pdf">Slides</a>
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Local-gov-OSOR.pdf">Slides</a> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=LD40hS8y_yg&t=525s">Recording</a>
 * <i class="flag-icons  GB"></i> *Digital Sovereignty through Open Source - Enabling Europe’s strategic opportunity*. (2025, October). Luxembourg Open Source Conference. Invited talk, Luxembourg.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Open-Source-for-digita-sovereignty-LUX.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Open Source Software Adoption and Reuse in European Local Governments: A Multiple-Case Study*. (2025, October). Luxembourg Open Source Conference. Invited talk, Luxembourg.
@@ -84,16 +86,17 @@ header:
 * <i class="flag-icons  GB"></i> *Digital Sovereignty through Open Source - Enabling Europe’s strategic opportunity*. (2025, September). OSPOs for EUROPE 2025, hosted by Digital-Hub.SH, Schleswig-Holstein. Keynote, Brussles, Belgium.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Keynote-OSPOs-for-Europe-Brussels.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Health Check-ups on Open Source Software Projects - Managing Risks while Promoting (Re)use*. (2025, August). Linux Foundation Open Source Summit Europe. Submitted talk, Amsterdam, Netherlands.
-  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-health-HASMOSS-OSSEU-2025.pdf">Slides</a>
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-health-HASMOSS-OSSEU-2025.pdf">Slides</a> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=7qlGQReMCoQ">Recording</a>
 * <i class="flag-icons  GB"></i> *How Development and Collaboration is Done in Public Sector Open Source Software Projects*. (2025, August). Linux Foundation Open Source Summit Europe. Submitted talk (together with Sachiko Muto), Amsterdam, Netherlands.
-  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Government-Collaboration-LFOSSEU-Amsterdam.pdf">Slides</a>
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Government-Collaboration-LFOSSEU-Amsterdam.pdf">Slides</a> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=mhRvNprPzCw">Recording</a>
 * <i class="flag-icons  GB"></i> *Panel Discussion: Driving the UN Digital Compact With Open Source*. (2025, August). Linux Foundation Open Source Summit Europe. Submitted panel (together with Sachiko Muto), Amsterdam, Netherlands.
+  - <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=uPNxfkMJNHI&t=1s">Recording</a>
 * <i class="flag-icons  GB"></i> *Open Source Software and AI - The What, the Why, the How, and the When*. (2025, June). Part of external course on AI engineering. RISE, Kisa, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Open-Source-AI-External-course.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Qualitative Data Analysis*. (2025, June). Part of Theory and methods of Software Engineering, PhD student course. Lund University, Lund, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Qualitative-Data-Analysis-LU.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Public Sector Open Source Program Offices Archetypes for how to Grow (Common) Institutional Capabilities*. (2025, May). OSOR Webinar on OSPOs - Public Sector Open Source Program Offices - The role of Open Source Programme Offices (OSPOs) in transforming public services with open source. Invited talk, Virtual.
-  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Public-sector-OSPOs-OSOR-webinar-2025.pdf">Slides</a>
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Public-sector-OSPOs-OSOR-webinar-2025.pdf">Slides</a> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=OiFfQP4-23g">Recording</a>
 * <i class="flag-icons  GB"></i> *Growing the courage to change what “works”*. (2025, May). OS2 and OpenData.DK Annual summit. Keynote, Vejle, Denmark.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Keynote-OS2-OpendataDK-final.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Procurement and acquisition of Open Source Software Challenges and Practices from a Swedish context*. (2025, May). Open Ireland Network workshop on public procurement of open source. Invited talk, Dublin, Ireland.
@@ -109,7 +112,7 @@ Insights from Six Mature Case Studies*. (2025, Feb). Government Collaboration De
 * <i class="flag-icons  GB"></i> *What do maintainers need from funders and others? We asked Maintainers to find out.*. (2025, Feb). Funding the FOSS Ecosystem Devroom, FOSDEM. Submitted talk, Brussels, Belgium.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Maintainer-Funding-FOSDEM.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Health Check-ups on Open Source Software Projects Managing Risks while Promoting (Re)use*. (2025, Jan). Avancerad Digitalisering - Vinnova. Invited talk, Gothenburg, Sweden.
-  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-health-HASMOSS-Avancerad-Digitalisering.pdf">Slides</a>
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-health-HASMOSS-Avancerad-Digitalisering.pdf">Slides</a>  <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=n38MpFqEdXU&t=303s">Recording</a>
 * <i class="flag-icons  GB"></i> *Public Sector Open Source Program Offices - Archetypes for how to Grow (Common) Institutional Capabilities*. (2025, Jan). Helmholtz Open Science Seminar. Invited talk, Virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Public-sector-OSPOs-Helmholtz-Open-Science-2024-OSOR-final.pdf">Slides</a>
 
@@ -133,11 +136,11 @@ Insights from Six Mature Case Studies*. (2025, Feb). Government Collaboration De
 * <i class="flag-icons  SE"></i> *Öppna (Upphandlings)data - Verktyg och möjlighet till transparens och innovation*. (2024, April). Skånska kommuners Öppna Data nätverk. Invited talk, Lund, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Open-Procurement-Data.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Software Reuse through Open Source Software in the Public Sector A qualitative survey on Policy and Practice*. (2024, April). FOSS-North Conference. Submitted talk, Gothenburg, Sweden.
-  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-for-reuse-foss-north.pdf">Slides</a> <i class="fa fa-file-pdf"></i> <a href="https://www.diva-portal.org/smash/get/diva2:1848137/FULLTEXT01.pdf">Underpinning report</a>
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-for-reuse-foss-north.pdf">Slides</a> <i class="fa fa-file-pdf"></i> <a href="https://www.diva-portal.org/smash/get/diva2:1848137/FULLTEXT01.pdf">Underpinning report</a> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=3fXwcizsK4g&t=2563s">Recording</a>
 * <i class="flag-icons  GB"></i> *Open Source Software and Open Science*. (2024, April). AIoTwins Research Workshop. Invited talk, Stockholm, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-intro-open-science.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Municipal collaboration on Open Source Software - A lever for innovation in Smart Cities*. (2024, April). Nordic Connected Society. Invited talk, Malmö, Sweden.
-  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Nordic-Connected-Society-Malmoe.pdf">Slides</a>  <i class="fa fa-youtube-play"></i> <a href="https://www.youtube.com/watch?v=r70K1JUSlNc&t=3s">Recording</a>
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Nordic-Connected-Society-Malmoe.pdf">Slides</a>  <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=r70K1JUSlNc&t=3s">Recording</a>
 * <i class="flag-icons  GB"></i> *Open Source AI – An undefined divide between community and vendor development*. (2024, March). RISE AI Network. Invited talk, Virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Open-Source-AI.pdf">Slides</a>
 
@@ -146,7 +149,7 @@ Insights from Six Mature Case Studies*. (2025, Feb). Government Collaboration De
 * <i class="flag-icons  GB"></i> *Municipal collaboration on Open Source Software - A lever for innovation, transparency and sovereignty*. (2023, November). Coding Cities. Invited talk, Malmö, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Coding-Cities-Malmoe.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Supporting Open Source Software in the European Public Sector The Role of Open Source Programme Offices (OSPOs)*. (2023, October). European Commission's Open Source Observatory (OSOR) turns 15 Awards. Invited talk, Brussels, Belgium.
-  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Public-sector-OSPOs-OSOR-Awards-2023-OSOR-final.pdf">Slides</a>
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Public-sector-OSPOs-OSOR-Awards-2023-OSOR-final.pdf">Slides</a> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=GHbI0Aoj3Z0&t=938s">Recording</a>
 * <i class="flag-icons  GB"></i> *Behind the Scenes of Open Source Program Offices in the Public Sector: Insights and Guidelines*. (2023, September). Linux Foundation Open Source Summit Europe. Submitted talk, Bilbao, Spain.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Public-sector-OSPOs-OSSEU-2023.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Municipal collaboration on Open Source Software - Why is it so hard?*. (2023, April). The International Symposium on Open Collaboration. Submitted talk, Virtual.
@@ -154,7 +157,7 @@ Insights from Six Mature Case Studies*. (2025, Feb). Government Collaboration De
 * <i class="flag-icons SE"></i> *Förvaltningsmodeller Öppen Källkod*. (2023, June). NOSAD workshop. Invited panel and talk, Hybrid.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-governance-NOSAD-final.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Municipal collaboration on Open Source Software - Why is it so hard?*. (2023, April). FOSS-North Conference. Submitted talk, Gothenburg, Sweden.
-  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Municipal-OSS-FOSS-North.pdf">Slides</a>
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Municipal-OSS-FOSS-North.pdf">Slides</a> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=P5i8P8EJr_c">Recording</a>
 * <i class="flag-icons  GB"></i> *Cybersecurity: Understanding the Role of Open Source in Society*. (2023, April). OpenForum Europe Seminar. Open Source Driving the European Digital Decade. Panel, Stockholm, Sweden.
 * <i class="flag-icons  GB"></i> *A Study on OSPOs in the European Public Sector*. (2023, March). Open Source Observatory (OSOR) webinar on Public services open-source governance and collaboration. Invited talk, Virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Public-sector-OSPOs-OSOR-virtual.pdf">Slides</a>
@@ -170,14 +173,14 @@ Insights from Six Mature Case Studies*. (2025, Feb). Government Collaboration De
 * <i class="flag-icons  GB"></i> *What to Share, When, and Where - Creating a Distributed and Efficient Contribution Process While Balancing Value and Risk*. (2022, September). Linux Foundation OSPOlogy Workshop. Invited talk, Stockholm, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-Contribution-Strategies-OSPOlogy-Sthlm-RI.pdf">Slides</a> <i class="ai ai-doi-square"></i> [Paper DOI](https://doi.org/10.1007/s10664-020-09855-2) <i class="fa fa-file-pdf"></i> [Paper PDF](https://arxiv.org/abs/2208.00047) <i class="ai ai-figshare"></i> [Contribution request form questions](https://doi.org/10.6084/m9.figshare.21104167)
 * <i class="flag-icons  GB"></i> *What to Share, When, and Where - Creating a Distributed and Efficient Contribution Process While Balancing Value and Risk*. (2022, September). Linux Foundation Open Source Summit Europe. Submitted talk, Dublin, Ireland.
-  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-Contribution-Strategies-OSSEU-Dublin-RI.pdf">Slides</a> <i class="ai ai-doi-square"></i> [Paper DOI](https://doi.org/10.1007/s10664-020-09855-2) <i class="fa fa-file-pdf"></i> [Paper PDF](https://arxiv.org/abs/2208.00047) <i class="ai ai-figshare"></i> [Contribution request form questions](https://doi.org/10.6084/m9.figshare.21104167)
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-Contribution-Strategies-OSSEU-Dublin-RI.pdf">Slides</a> <i class="ai ai-doi-square"></i> [Paper DOI](https://doi.org/10.1007/s10664-020-09855-2) <i class="fa fa-file-pdf"></i> [Paper PDF](https://arxiv.org/abs/2208.00047) <i class="ai ai-figshare"></i> [Contribution request form questions](https://doi.org/10.6084/m9.figshare.21104167) <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=z7v7VOCSqJg">Recording</a>
 * <i class="flag-icons  GB"></i> *How to Identify and Avoid Cracks and Bumps in your Digital Infrastructure? -> By Considering the Health of Open Source in your Intake Process*. (2022, September). Linux Foundation Open Source Summit Europe. Submitted talk, Dublin, Ireland.
-  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-health-HASMOSS-OSSEU-Dublin-RI.pdf">Slides</a> <i class="ai ai-doi-square"></i> [Paper DOI](https://doi.org/10.1145/3555051.3555067) <i class="fa fa-file-pdf"></i> [Paper PDF](https://dl.acm.org/doi/pdf/10.1145/3555051.3555067) <i class="ai ai-figshare"></i> [Data set from literature review](https://doi.org/10.6084/m9.figshare.20137175)
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-health-HASMOSS-OSSEU-Dublin-RI.pdf">Slides</a> <i class="ai ai-doi-square"></i> [Paper DOI](https://doi.org/10.1145/3555051.3555067) <i class="fa fa-file-pdf"></i> [Paper PDF](https://dl.acm.org/doi/pdf/10.1145/3555051.3555067) <i class="ai ai-figshare"></i> [Data set from literature review](https://doi.org/10.6084/m9.figshare.20137175) <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=uVIeRMBiTLY">Recording</a>
 * <i class="flag-icons SE"></i> *Öppen programvara och upphandling*. (2022, September). Offentliga Affärer. Invited talk, Virtual.
 * <i class="flag-icons SE"></i> *Hur ska vi ha råd och hur ska vi orka hålla i? Är öppen utveckling och samverkan svaret? - dialog på Tema Data, AI och hållbar digitalisering*. (2022, September). En framtidssäkrad allmännytta. Sveriges Allmännytta. Panel, Virtual.
 * <i class="flag-icons  GB"></i> *OSPOs! New Approaches to Public Sector Open Source*. (2022, June). OpenForum Europe Seminar. EU Digital Assembly. Panel, Tolouse, France.
 * <i class="flag-icons  GB"></i> *Acquisition and Development of Open Source Software in the Public Sector*. (2022, May). Open Source Observatory (OSOR) webinar on Public Procurement of Open Source Software. Invited talk, Virtual.
-  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-development-and-acquisition-OSOR-webinar.pdf">Slides</a>
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-development-and-acquisition-OSOR-webinar.pdf">Slides</a> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=GanPngEGS6U">Recording</a>
 * <i class="flag-icons  GB"></i> *Open Strategic Autonomy: Public and Private Sector Perspectives*. (March, 2022). OpenForum Europe seminar. Panel, Virtual.
 * <i class="flag-icons SE"></i> *Proaktiv riskhantering för sårbarheter inom öppna programvaruprojekt*. (2022, March). NOSAD workshop. Invited talk, Virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-health-NOSAD.pdf">Slides</a>
@@ -202,11 +205,11 @@ Insights from Six Mature Case Studies*. (2025, Feb). Government Collaboration De
 * <i class="flag-icons SE"></i> *Myndigheter som öppna plattformsbyggare*. (2020, October). Föreningen För Arikiv och Informationförvltning. Invited talk, Virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/FAI.pdf">Slides</a>
 * <i class="flag-icons SE"></i> *Myndigheter som öppna plattformsbyggare*. (2020, October). Svenska Koha Nätverket. Invited talk, Lund, Sweden. Arikiv och Informationförvltning. Invited talk, Virtual.
-  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/FAI.pdf">Slides</a>
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/FAI.pdf">Slides</a> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=NTg_pgrG9K8">Recording</a>
 * <i class="flag-icons  GB"></i> *Opening up the Swedish Labour Market Through Cross-sector Collaboration*. (2020, February). Foss-North. Submitted talk, Gothenburg, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Fossnorth.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Application of Health metrics on a Cross-sector software ecosystem*. (2020, January). Community Health Analytics Open Source Software Conference Europe (CHAOSSCon EU). Submitted talk, Brussels, Belgium.
-  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/ChaossCon2020.pdf">Slides</a>
+  - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/ChaossCon2020.pdf">Slides</a> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=G6cdkn44RRs&t=70s">Recording</a>
 
 <div id="2019" />
 ## 2019 | <a href="#top">Top</a>
