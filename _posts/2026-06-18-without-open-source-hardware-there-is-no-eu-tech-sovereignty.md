@@ -1,7 +1,7 @@
 ---
 title: Without Open-Source Hardware, There Is No EU Tech Sovereignty
 seo_title: Without Open-Source Hardware, There Is No EU Tech Sovereignty
-excerpt: ""
+excerpt: "We talk a lot about tech sovereignty both in- and outside of Europe, but the discussion remains heavily focused on software. In this TechPolicy.press op-ed, co-authored between Javier Serrano (European Open Source Academy (EOSA)), Nicholas Gates(OpenForum Europe) and I, we argue that this is only part of the picture. True sovereignty is a full-stack challenge, where open source hardware is key."
 date: 2026-06-18T22:53:20+02:00
 categories:
   - blog
