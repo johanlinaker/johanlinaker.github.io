@@ -49,7 +49,7 @@ His research often addresses the human and social aspects of software engineerin
 
 <h3>Main research questions | <a href="#top">Top</a></h3>
 
-Areas I'm currently investigating include:
+Areas Johan is currently investigating include:
 
 <ul>
 
