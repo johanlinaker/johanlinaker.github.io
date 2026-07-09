@@ -12,21 +12,21 @@ header:
 
 <h3>Sections</h3>
 <ul>
-	<li><a href="#editorial-assignments">Editorial assignments</a></li>
-	<li><a href="#organizing-committee-memberships">Organizing committee memberships</a></li>
-	<li><a href="#maintainerships">Maintainerships</a></li>
-	<li><a href="#program-committee-memberships">Program committee memberships</a></li>
-	<li><a href="#">Program committee memberships</a>
-		<ul>
-			<li><a href="#conferences-main-research-paper-tracks">Conferences (main research paper tracks)</a></li>
-			<li><a href="#conferences-other-tracks-and-workshops">Conferences (other tracks) and workshops</a></li>
-		</ul>
-	</li>
-	<li><a href="#journal-reviewing">Journal reviewing</a></li>
-	<li><a href="#grant-proposal-reviewing">Grant proposal reviewing</a></li>
-	<li><a href="#opponent-discussant">PhD Student Opponent/Discussant/Committee</a></li>
-	<li><a href="#other-reviewing">Other reviewing, and Subject Matter Expert assignments</a></li>
-	<li><a href="#memberships">Membership of networks and associations</a></li>
+ <li><a href="#editorial-assignments">Editorial assignments</a></li>
+ <li><a href="#organizing-committee-memberships">Organizing committee memberships</a></li>
+ <li><a href="#maintainerships">Maintainerships</a></li>
+ <li><a href="#program-committee-memberships">Program committee memberships</a></li>
+ <li><a href="#">Program committee memberships</a>
+  <ul>
+   <li><a href="#conferences-main-research-paper-tracks">Conferences (main research paper tracks)</a></li>
+   <li><a href="#conferences-other-tracks-and-workshops">Conferences (other tracks) and workshops</a></li>
+  </ul>
+ </li>
+ <li><a href="#journal-reviewing">Journal reviewing</a></li>
+ <li><a href="#grant-proposal-reviewing">Grant proposal reviewing</a></li>
+ <li><a href="#opponent-discussant">PhD Student Opponent/Discussant/Committee</a></li>
+ <li><a href="#other-reviewing">Other reviewing, and Subject Matter Expert assignments</a></li>
+ <li><a href="#memberships">Membership of networks and associations</a></li>
 </ul>
 
 <div id="editorial-assignments" />
@@ -38,16 +38,16 @@ header:
 
 <div id="organizing-committee-memberships" />
 ## Organizing committee memberships | <a href="#top">Top</a>
-* <i class="flag-icons GB"></i> [UN Open Source Week Community Side events](https://www.un.org/digital-emerging-technologies/content/open-source-week-2025). Organizing and program committee, collaboraing closely with the UN Office for Digital and Emerging Technology, for the planning and execution of the multi-track community side events during the UN Open Source week. 2025-2026.
-* <i class="flag-icons SE"></i> [The Swedish OSPO network](https://swedish-ospo-network.se/). A national network for companies and public administrations with support functions for promoting and enabling use and collaboration of open source software. Arranging regular physical workshops, and online webinars to share knowledge and establish common practice. 2023-ongoing.
+* <i class="flag-icons GB"></i> [UN Open Source Week Community Side events](https://www.un.org/digital-emerging-technologies/content/open-source-week-2025). Organising and program committee, collaborating closely with the UN Office for Digital and Emerging Technology, for the planning and execution of the multi-track community side events during the UN Open Source week. 2025-2026.
+* <i class="flag-icons SE"></i> [The Swedish OSPO network](https://swedish-ospo-network.se/). A national network for companies and public administrations with support functions for promoting and enabling the use and collaboration of open source software. Arranging regular physical workshops and online webinars to share knowledge and establish common practice. 2023-ongoing.
 * <i class="flag-icons SE"></i> [Öppen källkod som strategi för en hållbar infrastruktur](https://internetdagarna.se/event/oppen-kallkod-som-strategi-for-en-hallbar-infrastruktur/). Theme track. Internetdagarna ([The Internet Days](https://internetdagarna.se/en/)), 2022.
 * <i class="flag-icons SE"></i> [Digitala allmänningar: så skapar vi samhällsnytta](https://arkiv.internetdagarna.se/2021/index.html%3Fp=422.html). Theme track. Internetdagarna ([The Internet Days](https://internetdagarna.se/en/)), 2021.
-* <i class="flag-icons SE"></i> Öppen källkod som bas för den digitala allemansrätten. Theme track. [Foss-north](https://foss-north.se/), 2021.
-* <i class="flag-icons SE"></i> Network Open Source and Data ([NOSAD](https://nosad.se)). National public sector network for sharing knowledge on how to use and collaborate on open data, open standards, and open source software. Arranged [30+ virtual and physical workshops and seminar](https://nosad.se/workshops), 2019-ongoing.
+* <i class="flag-icons SE"></i> Öppen källkod som grund för den digitala allemansrätten. Theme track. [Foss-north](https://foss-north.se/), 2021.
+* <i class="flag-icons SE"></i> Network Open Source and Data ([NOSAD](https://nosad.se)). National public sector network for sharing knowledge on how to use and collaborate on open data, open standards, and open source software. Arranged [30+ virtual and physical workshops and seminars](https://nosad.se/workshops), 2019-ongoing.
 
 <div id="maintainerships" />
 ## Maintainerships | <a href="#top">Top</a>
-* <i class="flag-icons SE"></i> [Offentligkod.se](https://offentligkod.se). Catalouge of open source software used by public sector entities in Sweden. Includes implementation and co-development of the international meta-data standard for public code, public-code.yml.
+* <i class="flag-icons SE"></i> [Offentligkod.se](https://offentligkod.se). Catalogue of open source software used by public-sector entities in Sweden. Includes implementation and co-development of the international metadata standard for public code, public-code.yml.
 
 <div id="program-committee-memberships" />
 ## Program committee memberships | <a href="#top">Top</a>
@@ -102,12 +102,12 @@ See <a href="https://orcid.org/0000-0001-9851-1404">ORCID records</a> for furthe
 
 <div id="opponent-discussant" />
 ## PhD Student Opponent/Discussant/Committee | <a href="#top">Top</a>
-* Grading Committee: Xingru Chen. PhD thesis: Improving and characterizing participatory reuse. Supervisors: Muhammad Usman, Deepika Badampudi. 2026. Blekinge Institute of Technology, Karlskrona, Sweden.
+* Grading Committee: Xingru Chen. PhD thesis: Improving and characterising participatory reuse. Supervisors: Muhammad Usman, Deepika Badampudi. 2026. Blekinge Institute of Technology, Karlskrona, Sweden.
 * Opponent: Xingru Chen. Licentiate thesis: Improving Internal Software Reuse in the Context of Contemporary Software Engineering Practices. Supervisors: Muhammad Usman, Deepika Badampudi. 2023. Blekinge Institute of Technology, Karlskrona, Sweden.
 
 <div id="other-reviewing" />
 ## Other reviewing, and Subject Matter Expert assignments | <a href="#top">Top</a>
-* Advisory board. Open Source Observatory (OSOR) Joinup and OpenForum Europe (2022-ongoing).
+* Advisory board. Open Source Observatory (OSOR), Joinup and OpenForum Europe (2022-ongoing).
 * Subject Matter Expert and reviewer. OSPOs in the Public Sector study. OpenForum Europe (2022).
 * External review committee member of the PhD program at Blekinge Institue of Technology (2019).
 * Subject Matter Expert and reviewer of the Swedish translations of IREB certification training and examination material (2016-2020).

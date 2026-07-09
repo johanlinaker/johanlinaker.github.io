@@ -12,16 +12,16 @@ header:
 
 <h3>Sections</h3>
 <ul>
-	<li><a href="#2026">2026</a></li>
-	<li><a href="#2025">2025</a></li>
-	<li><a href="#2024">2024</a></li>
-	<li><a href="#2023">2023</a></li>
-	<li><a href="#2022">2022</a></li>
-	<li><a href="#2021">2021</a></li>
-	<li><a href="#2020">2020</a></li>
-	<li><a href="#2019">2019</a></li>
-	<li><a href="#2018">2018</a></li>
-	<li><a href="#2017">2017</a></li>
+ <li><a href="#2026">2026</a></li>
+ <li><a href="#2025">2025</a></li>
+ <li><a href="#2024">2024</a></li>
+ <li><a href="#2023">2023</a></li>
+ <li><a href="#2022">2022</a></li>
+ <li><a href="#2021">2021</a></li>
+ <li><a href="#2020">2020</a></li>
+ <li><a href="#2019">2019</a></li>
+ <li><a href="#2018">2018</a></li>
+ <li><a href="#2017">2017</a></li>
 </ul>
 
 <div id="2026" />
@@ -42,7 +42,7 @@ header:
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Upphandling som drivkraft för digital suveränitet - cybernoden.pdf">Slides</a>
 * <i class="flag-icons  SE"></i> *Öppenhet och Digtal Suveränitet i en Skiftande Omvärld*. (2026, March). eSam Utvecklingsforum. Invited talk, virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Digital-suveränitet-eSam.pdf">Slides</a>
-* <i class="flag-icons  GB"></i> *OSPOs for Public Good*. (2026, Febuary). Invited panelist, National Open Source Innovation Summit 2026, Dublin, Ireland.
+* <i class="flag-icons  GB"></i> *OSPOs for Public Good*. (2026, February). Invited panellist, National Open Source Innovation Summit 2026, Dublin, Ireland.
   - <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=Ucyqgg5GZZ8">Recording</a>
 * <i class="flag-icons  GB"></i> *Making Open Source Work in the Public Sector*. (2026, Febuary). Panel moderator, National Open Source Innovation Summit 2026, Dublin, Ireland.
 * <i class="flag-icons  SE"></i> *Digital suveränitet och beredskap inom hälso och sjukvård*. (2026, January). Hälso- och Sjukvårdsnätverket. Invited talk, virtual.
@@ -62,13 +62,13 @@ header:
 * <i class="flag-icons  GB"></i> *Open Source for Europe's Tech Sovereignty*. (2025, December). Cognit Day 2025. Invited panel, virtual.
 * <i class="flag-icons  GB"></i> *Enabling PhD student collaboration in research groups*. (2025, December). Pedagogiska inspirationskonferensen-Genombrottet. Lund University, Lund, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/PPT LTH 2025 pedagog conference.pdf">Slides</a>
-* <i class="flag-icons  GB"></i> *A Cartography of Collaboration in Open Source AI: Mapping Collaboration in the Development and Reuse Lifecycle of 12 Open Large Language Models*. (2025, November). OpenForum Academy. Submitted talk, Rio de Janiero, Brazil.
+* <i class="flag-icons  GB"></i> *A Cartography of Collaboration in Open Source AI: Mapping Collaboration in the Development and Reuse Lifecycle of 12 Open Large Language Models*. (2025, November). OpenForum Academy. Submitted talk, Rio de Janeiro, Brazil.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Open-Source-AI-Collab-OFA.pdf">Slides</a> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=1vx2PEM5hYc">Recording</a>
-* <i class="flag-icons  GB"></i> *Public sector open source software projects – How is development organized?*. (2025, November). OpenForum Academy. Submitted talk, Rio de Janiero, Brazil.
+* <i class="flag-icons  GB"></i> *Public sector open source software projects – How is development organized?*. (2025, November). OpenForum Academy. Submitted talk, Rio de Janeiro, Brazil.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Government-Collaboration-OFA.pdf">Slides</a>
 * <i class="flag-icons  SE"></i> *Hälsa och säkerhet hos öppen programvara vid utveckling och anskaffning*. (2025, November). Arkitekturnätverket hos Skatteverket. Invited talk, virtual, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-health-public-sector-TRV.pdf">Slides</a>
-* <i class="flag-icons  GB"></i> *Public sector Open Source Program Offices - Archetypes and practices*. (2025, November). Invited talk, OSPO training for Combodia Public Administrations, part of UNDP Open Source Ecosystem Enabler (OSEE) program, virtual, Cambodia.
+* <i class="flag-icons  GB"></i> *Public sector Open Source Program Offices - Archetypes and practices*. (2025, November). Invited talk, OSPO training for the Cambodian Public Administrations, part of the UNDP Open Source Ecosystem Enabler (OSEE) program, virtual, Cambodia.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSPO-training-UNDP.pdf">Slides</a>
 * <i class="flag-icons  SE"></i> *Digital suveränitet genom öppenhet*. (2025, October). Invited talk, Informationssäkerhetsnätverket inom Dataföreningen, virtual, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Digital-suveränitet-Dataföreningen.pdf">Slides</a>
@@ -83,7 +83,7 @@ header:
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Open-Source-for-digita-sovereignty-LUX.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Open Source Software Adoption and Reuse in European Local Governments: A Multiple-Case Study*. (2025, October). Luxembourg Open Source Conference. Invited talk, Luxembourg.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Local-gov-OSOR-Luxembourg.pdf">Slides</a>
-* <i class="flag-icons  GB"></i> *Digital Sovereignty through Open Source - Enabling Europe’s strategic opportunity*. (2025, September). OSPOs for EUROPE 2025, hosted by Digital-Hub.SH, Schleswig-Holstein. Keynote, Brussles, Belgium.
+* <i class="flag-icons  GB"></i> *Digital Sovereignty through Open Source - Enabling Europe’s strategic opportunity*. (2025, September). OSPOs for EUROPE 2025, hosted by Digital-Hub.SH, Schleswig-Holstein. Keynote, Brussels, Belgium.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Keynote-OSPOs-for-Europe-Brussels.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Health Check-ups on Open Source Software Projects - Managing Risks while Promoting (Re)use*. (2025, August). Linux Foundation Open Source Summit Europe. Submitted talk, Amsterdam, Netherlands.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-health-HASMOSS-OSSEU-2025.pdf">Slides</a> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=7qlGQReMCoQ">Recording</a>
@@ -91,13 +91,13 @@ header:
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Government-Collaboration-LFOSSEU-Amsterdam.pdf">Slides</a> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=mhRvNprPzCw">Recording</a>
 * <i class="flag-icons  GB"></i> *Panel Discussion: Driving the UN Digital Compact With Open Source*. (2025, August). Linux Foundation Open Source Summit Europe. Submitted panel (together with Sachiko Muto), Amsterdam, Netherlands.
   - <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=uPNxfkMJNHI&t=1s">Recording</a>
-* <i class="flag-icons  GB"></i> *Open Source Software and AI - The What, the Why, the How, and the When*. (2025, June). Part of external course on AI engineering. RISE, Kisa, Sweden.
+* <i class="flag-icons  GB"></i> *Open Source Software and AI - The What, the Why, the How, and the When*. (2025, June). Part of an external course on AI engineering. RISE, Kisa, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Open-Source-AI-External-course.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Qualitative Data Analysis*. (2025, June). Part of Theory and methods of Software Engineering, PhD student course. Lund University, Lund, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Qualitative-Data-Analysis-LU.pdf">Slides</a>
-* <i class="flag-icons  GB"></i> *Public Sector Open Source Program Offices Archetypes for how to Grow (Common) Institutional Capabilities*. (2025, May). OSOR Webinar on OSPOs - Public Sector Open Source Program Offices - The role of Open Source Programme Offices (OSPOs) in transforming public services with open source. Invited talk, Virtual.
+* <i class="flag-icons  GB"></i> *Public Sector Open Source Program Offices Archetypes for how to Grow (Common) Institutional Capabilities*. (2025, May). OSOR Webinar on OSPOs - Public Sector Open Source Programme Offices - The role of Open Source Programme Offices (OSPOs) in transforming public services with open source. Invited talk, Virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Public-sector-OSPOs-OSOR-webinar-2025.pdf">Slides</a> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=OiFfQP4-23g">Recording</a>
-* <i class="flag-icons  GB"></i> *Growing the courage to change what “works”*. (2025, May). OS2 and OpenData.DK Annual summit. Keynote, Vejle, Denmark.
+* <i class="flag-icons  GB"></i> *Growing the courage to change what “works”*. (2025, May). OS2 and OpenData.DK Annual Summit. Keynote, Vejle, Denmark.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Keynote-OS2-OpendataDK-final.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Procurement and acquisition of Open Source Software Challenges and Practices from a Swedish context*. (2025, May). Open Ireland Network workshop on public procurement of open source. Invited talk, Dublin, Ireland.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-procurement-Dublin.pdf">Slides</a>
@@ -119,7 +119,7 @@ Insights from Six Mature Case Studies*. (2025, Feb). Government Collaboration De
 <div id="2024" />
 ## 2024 | <a href="#top">Top</a>
 
-* <i class="flag-icons  GB"></i> *Opening up for share and reuse of data - Why is it so hard?*. (2024, Nov). AI and Digitalization seminar at the Faculty of Engineering, Lund University. Invited talk, Lund, Sweden.
+* <i class="flag-icons  GB"></i> *Opening up for share and reuse of data - Why is it so hard?*. (2024, Nov). AI and Digitalisation seminar at the Faculty of Engineering, Lund University. Invited talk, Lund, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Opening-up-for-share-and-reuse-of-data-AID-LTH.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Public Sector Open Source Program Offices - Archetypes for how to Grow (Common) Institutional Capabilities*. (2024, Nov). OpenForum Academy Symposium. Submitted talk, Boston, US.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Public-sector-OSPOs-OFA-Symposium-2024-OSOR-final.pdf">Slides</a>
@@ -161,7 +161,7 @@ Insights from Six Mature Case Studies*. (2025, Feb). Government Collaboration De
 * <i class="flag-icons  GB"></i> *Cybersecurity: Understanding the Role of Open Source in Society*. (2023, April). OpenForum Europe Seminar. Open Source Driving the European Digital Decade. Panel, Stockholm, Sweden.
 * <i class="flag-icons  GB"></i> *A Study on OSPOs in the European Public Sector*. (2023, March). Open Source Observatory (OSOR) webinar on Public services open-source governance and collaboration. Invited talk, Virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Public-sector-OSPOs-OSOR-virtual.pdf">Slides</a>
-* <i class="flag-icons  GB"></i> *HASMOSS - Health and Security Management for Open Source Software project presentation*. (2023, January). Cybernode Collaboration Conference. Invited talk, Stochholm, Sweden.
+* <i class="flag-icons  GB"></i> *HASMOSS - Health and Security Management for Open Source Software project presentation*. (2023, January). Cybernode Collaboration Conference. Invited talk, Stockholm, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/HASMOSS-CyberSecDay-Sthlm-RI.pdf">Slides</a>
 
 <div id="2022" />
@@ -178,7 +178,7 @@ Insights from Six Mature Case Studies*. (2025, Feb). Government Collaboration De
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-health-HASMOSS-OSSEU-Dublin-RI.pdf">Slides</a> <i class="ai ai-doi-square"></i> [Paper DOI](https://doi.org/10.1145/3555051.3555067) <i class="fa fa-file-pdf"></i> [Paper PDF](https://dl.acm.org/doi/pdf/10.1145/3555051.3555067) <i class="ai ai-figshare"></i> [Data set from literature review](https://doi.org/10.6084/m9.figshare.20137175) <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=uVIeRMBiTLY">Recording</a>
 * <i class="flag-icons SE"></i> *Öppen programvara och upphandling*. (2022, September). Offentliga Affärer. Invited talk, Virtual.
 * <i class="flag-icons SE"></i> *Hur ska vi ha råd och hur ska vi orka hålla i? Är öppen utveckling och samverkan svaret? - dialog på Tema Data, AI och hållbar digitalisering*. (2022, September). En framtidssäkrad allmännytta. Sveriges Allmännytta. Panel, Virtual.
-* <i class="flag-icons  GB"></i> *OSPOs! New Approaches to Public Sector Open Source*. (2022, June). OpenForum Europe Seminar. EU Digital Assembly. Panel, Tolouse, France.
+* <i class="flag-icons  GB"></i> *OSPOs! New Approaches to Public Sector Open Source*. (2022, June). OpenForum Europe Seminar. EU Digital Assembly. Panel, Toulouse, France.
 * <i class="flag-icons  GB"></i> *Acquisition and Development of Open Source Software in the Public Sector*. (2022, May). Open Source Observatory (OSOR) webinar on Public Procurement of Open Source Software. Invited talk, Virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/OSS-development-and-acquisition-OSOR-webinar.pdf">Slides</a> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=GanPngEGS6U">Recording</a>
 * <i class="flag-icons  GB"></i> *Open Strategic Autonomy: Public and Private Sector Perspectives*. (March, 2022). OpenForum Europe seminar. Panel, Virtual.
@@ -202,9 +202,9 @@ Insights from Six Mature Case Studies*. (2025, Feb). Government Collaboration De
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/MyData">Slides</a>
 * <i class="flag-icons SE"></i> *Samverkan inom Ekosystem för Myndighetsdrivna Öppna Data-plattformar*. (2020, October). NOSAD workshop. Invited talk, Virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Dataekosystem_presentation.pdf">Slides</a>
-* <i class="flag-icons SE"></i> *Myndigheter som öppna plattformsbyggare*. (2020, October). Föreningen För Arikiv och Informationförvltning. Invited talk, Virtual.
+* <i class="flag-icons SE"></i> *Myndigheter som öppna plattformsbyggare*. (2020, October). Föreningen för arkiv och informationsförvaltning. Invited talk, Virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/FAI.pdf">Slides</a>
-* <i class="flag-icons SE"></i> *Myndigheter som öppna plattformsbyggare*. (2020, October). Svenska Koha Nätverket. Invited talk, Lund, Sweden. Arikiv och Informationförvltning. Invited talk, Virtual.
+* <i class="flag-icons SE"></i> *Myndigheter som öppna plattformsbyggare*. (2020, October). Svenska Koha-Nätverket. Invited talk, Lund, Sweden. Arkiv och informationsförvaltning. Invited talk, Virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/FAI.pdf">Slides</a> <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/watch?v=NTg_pgrG9K8">Recording</a>
 * <i class="flag-icons  GB"></i> *Opening up the Swedish Labour Market Through Cross-sector Collaboration*. (2020, February). Foss-North. Submitted talk, Gothenburg, Sweden.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Fossnorth.pdf">Slides</a>

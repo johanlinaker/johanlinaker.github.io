@@ -11,32 +11,32 @@ header:
 
 <h3>Sections</h3>
 <ul>
-	<li><a href="#ongoing">Ongoing work/In submission</a></li>
-	<li><a href="#technical-reports">Technical reports</a></li>
-	<li><a href="#book-chapters">Book chapters</a></li>
-	<li><a href="#peer-reviewed-papers">Peer-reviewed papers</a>
-		<ul>
-			<li><a href="#2026">2026</a></li>
-			<li><a href="#2025">2025</a></li>
-			<li><a href="#2024">2024</a></li>
-			<li><a href="#2023">2023</a></li>
-			<li><a href="#2022">2022</a></li>
-			<li><a href="#2021">2021</a></li>
-			<li><a href="#2020">2020</a></li>
-			<li><a href="#2019">2019</a></li>
-			<li><a href="#2018">2018</a></li>
-			<li><a href="#2017">2017</a></li>
-			<li><a href="#2016">2016</a></li>
-			<li><a href="#2015">2015</a></li>
-			<li><a href="#2014">2014</a></li>
-		</ul>
-	</li>
-	<li><a href="#pedagogic-papers">Pedagogic papers</a></li>
-	<li><a href="#editorials">Editorials</a></li>
-	<li><a href="#media">Media</a></li>
-	<li><a href="#pods">Pods</a></li>
-	<li><a href="#popular-writing">Popular writing</a></li>
-	<li><a href="#doctoral-dissertation">Doctoral dissertation</a></li>
+ <li><a href="#ongoing">Ongoing work/In submission</a></li>
+ <li><a href="#technical-reports">Technical reports</a></li>
+ <li><a href="#book-chapters">Book chapters</a></li>
+ <li><a href="#peer-reviewed-papers">Peer-reviewed papers</a>
+  <ul>
+   <li><a href="#2026">2026</a></li>
+   <li><a href="#2025">2025</a></li>
+   <li><a href="#2024">2024</a></li>
+   <li><a href="#2023">2023</a></li>
+   <li><a href="#2022">2022</a></li>
+   <li><a href="#2021">2021</a></li>
+   <li><a href="#2020">2020</a></li>
+   <li><a href="#2019">2019</a></li>
+   <li><a href="#2018">2018</a></li>
+   <li><a href="#2017">2017</a></li>
+   <li><a href="#2016">2016</a></li>
+   <li><a href="#2015">2015</a></li>
+   <li><a href="#2014">2014</a></li>
+  </ul>
+ </li>
+ <li><a href="#pedagogic-papers">Pedagogic papers</a></li>
+ <li><a href="#editorials">Editorials</a></li>
+ <li><a href="#media">Media</a></li>
+ <li><a href="#pods">Pods</a></li>
+ <li><a href="#popular-writing">Popular writing</a></li>
+ <li><a href="#doctoral-dissertation">Doctoral dissertation</a></li>
 </ul>
 
 
@@ -52,20 +52,20 @@ header:
 
 <div id="technical-reports" />
 ## Technical reports | <a href="#top">Top</a>
-* <i class="flag-icons GB"></i> **Linåker, J.** (2026). *National Support Structures and Capabilities for growing Digital Sovereignty  through Sharing and Reuse of Open Source Software in the Public Sector*. RISE Research Institutes of Sweden, Lund, Sweden. Commissioned by Danish Agency of Digital Government, and Local Government Denmark.
+* <i class="flag-icons GB"></i> **Linåker, J.** (2026). *National Support Structures and Capabilities for growing Digital Sovereignty  through Sharing and Reuse of Open Source Software in the Public Sector*. RISE Research Institutes of Sweden, Lund, Sweden. Commissioned by the Danish Agency of Digital Government and Local Government Denmark.
 * <i class="flag-icons GB"></i> **Linåker, J.**, Gates, N., Chourmouziadis, Y., & Weber, S. (2025). *Open Source Software Adoption and Reuse in European Local Governments A Multiple-Case Study*. Directorate-General for Digital Services (DIGIT). 
-	- <i class="ai ai-doi-square"></i> [DOI](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/multiple-case-study-public-sector-open-source) <i class="fa fa-file-pdf"></i> [PDF](/assets/slides/open-source-software-adoption-and-reuse-in-european-local-governments-a-multiple-case-study.pdf)
+ - <i class="ai ai-doi-square"></i> [DOI](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/multiple-case-study-public-sector-open-source) <i class="fa fa-file-pdf"></i> [PDF](/assets/slides/open-source-software-adoption-and-reuse-in-european-local-governments-a-multiple-case-study.pdf)
 * <i class="flag-icons GB"></i>Lundahl, J., Benmayor, A., **Linåker, J.**, Östling, A., Nordell, E., Wernicke, P., Burden H., & Stenberg, S. (2025). *Report on existing regulatory frameworks and governance mechanisms for mobility data sharing*. deployEMDS Consortium. 
-	- <i class="ai ai-doi-square"></i> [DOI](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A2024670&dswid=-6328) <i class="fa fa-file-pdf"></i> [PDF](https://www.diva-portal.org/smash/get/diva2:2024670/FULLTEXT01.pdf)
-* <i class="flag-icons GB"></i> **Linåker, J.**, & Muto, S. (2024). *Software Reuse through Open Source Software in the Public Sector: A qualitative survey on Policy and Practice*. RISE Research Institutes of Sweden, Lund, Sweden. Commissioned by Danish Agency of Digital Government, and Local Government Denmark.
+ - <i class="ai ai-doi-square"></i> [DOI](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A2024670&dswid=-6328) <i class="fa fa-file-pdf"></i> [PDF](https://www.diva-portal.org/smash/get/diva2:2024670/FULLTEXT01.pdf)
+* <i class="flag-icons GB"></i> **Linåker, J.**, & Muto, S. (2024). *Software Reuse through Open Source Software in the Public Sector: A qualitative survey on Policy and Practice*. RISE Research Institutes of Sweden, Lund, Sweden. Commissioned by the Danish Agency of Digital Government and Local Government Denmark.
   - <i class="ai ai-doi-square"></i> [DOI](https://urn.kb.se/resolve?urn=urn:nbn:se:ri:diva-72465) <i class="fa fa-file-pdf"></i> [PDF](https://www.diva-portal.org/smash/get/diva2:1848137/FULLTEXT01.pdf)
 * <i class="flag-icons GB"></i> **Linåker, J.**, & Nummelin Carlberg, A. (2024). *Open Source Software in the Automotive Industry - A Vision Paper*. Eclipse Software Defined Vehicle Working Group, Brussels, Belgium.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/VISION PAPER_ Open Source Software in the Automotive Industry.pdf">PDF</a>
 * <i class="flag-icons GB"></i> **Linåker, J.**, Nummelin Carlberg, A., & O'Riordan, C. (2024). *Institutionalising Support for Open Source Software in the European Public Sector*. Directorate-General Informatics, European Commission, Brussels, Belgium.
   - <i class="fa fa-file-pdf"></i> *Under internal publication process of the EC*
-* <i class="flag-icons SE"></i> **Linåker, J.**, & Runeson, P. (2022). *Rekommendationer för samverkan och delning av data, teknik och kunskap inom myndighetsdrivna öppna data-ekosystem*. Lund university, Lund, Sweden.
+* <i class="flag-icons SE"></i> **Linåker, J.**, & Runeson, P. (2022). *Rekommendationer för samverkan och delning av data, teknik och kunskap inom myndighetsdrivna öppna data-ekosystem*. Lund University, Lund, Sweden.
   - <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/sv/publications/rekommendationer-f%C3%B6r-samverkan-och-delning-av-data-teknik-och-kun) <i class="fa fa-file-pdf"></i> [PDF](https://lucris.lub.lu.se/ws/portalfiles/portal/112560914/Rapport_Rekommendationer_f_r_samverkan_och_delning_av_data_teknik_och_kunskap_inom_myndighetsdrivna_ppna_data_ekosystem.pdf)
-* <i class="flag-icons  GB"></i> **Linåker, J.**, Sulaman, S. M., Maiani de Mello, R., & Höst, M. (2015). *Guidelines for conducting surveys in software engineering*. Lund university, Lund, Sweden.
+* <i class="flag-icons  GB"></i> **Linåker, J.**, Sulaman, S. M., Maiani de Mello, R., & Höst, M. (2015). *Guidelines for conducting surveys in software engineering*. Lund University, Lund, Sweden.
   - <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/sv/publications/guidelines-for-conducting-surveys-in-software-engineering) <i class="fa fa-file-pdf"></i> [PDF](https://lucris.lub.lu.se/ws/portalfiles/portal/6062997/5463412.pdf)
   
 <div id="book-chapters" />
@@ -84,34 +84,34 @@ header:
 <div id="2026" />
 #### 2026 | <a href="#top">Top</a>
 * <i class="flag-icons  GB"></i> Alami, A., Klockmann, S., Rehder Sörensen, L., Pardo, R., & **Linåker, J.** (2026). *Incubation and Beyond: A Comparative Analysis of ASF Projects Sustainability Impacts on Software Quality*. Accepted for publication in Empirical Software Engineering.
-* <i class="flag-icons  GB"></i> **Linåker, J.**, & Muto, S. (2025). *Advancing Digital Government: Integrating Open Source Software Enablement Indicators in Maturity Indexes*. Accepted for publication in Journal of Software and Systems.  
+* <i class="flag-icons  GB"></i> **Linåker, J.**, & Muto, S. (2025). *Advancing Digital Government: Integrating Open Source Software Enablement Indicators in Maturity Indexes*. Accepted for publication in the Journal of Software and Systems.  
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.48550/arXiv.2510.04603) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2510.04603)
 * <i class="flag-icons  GB"></i> Usman, M., **Linåker, J.**, Badampudi, D., & Sahlin, H. (2026). *Adopting InnerSource in a Public Sector Organization: An Exploratory Case Study*. Accepted for publication at EuroMicro.
-* <i class="flag-icons  GB"></i> **Linåker, J.**, Nummelin Carlberg, A., & O'Riordan, C. (2025). *Public Sector Open Source Program Offices - Archetypes for how to Grow (Common) Institutional Capabilities*. Accepted for publication in Journal of Software and Systems.  
+* <i class="flag-icons  GB"></i> **Linåker, J.**, Nummelin Carlberg, A., & O'Riordan, C. (2025). *Public Sector Open Source Program Offices - Archetypes for how to Grow (Common) Institutional Capabilities*. Accepted for publication in the Journal of Software and Systems.  
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1016/j.jss.2026.112998) <i class="fa fa-file-pdf"></i> [PDF](https://www.sciencedirect.com/science/article/pii/S0164121226002311/pdfft?md5=613aff71ef7ab7eaa2a0eb117ed94ecd&pid=1-s2.0-S0164121226002311-main.pdf)
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Olsson, T., & Papatheocharous, E. (2026). *Assessing open source software health in organizations’ intake processes: A qualitative study on the practitioners’ perspective*. Empirical Software Engineering, 31(105), 1-54.  
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/s10664-026-10846-y) <i class="fa fa-file-pdf"></i> [PDF](https://link.springer.com/epdf/10.1007/s10664-026-10846-y?sharing_token=9V-iaT7CToXM70FDQr93vfe4RwlQNchNByi7wbcMAY5sTo-4GduOLS-XN-ixrlN0PSZeP-nenxHS2twJ5L6tOb7xlRIhwO5KhxYdE1--iCqTiCtJb0rCAp6TWHa7_UikCjtGYQ76P7XtuSUEdIHxzKLJZ95LgXcDxt-7pu_UalA%3D)
 
 <div id="2025" />
 #### 2025 | <a href="#top">Top</a>
-* <i class="flag-icons  GB"></i> Malysh, K., Runeson, P. & **Linåker, J.** (2025). 	
+* <i class="flag-icons  GB"></i> Malysh, K., Runeson, P. & **Linåker, J.** (2025).  
 *Preliminary Findings on Establishing a Privately Governed Data Ecosystem for MLOps Data Sharing*. IEEE 45th International Conference on Distributed Computing Systems Workshops (ICDCSW): 5th International Workshop on Distributed Infrastructure for Common Good. IEEE, p. 480 486 p.
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Lundell, B., Servant, F., Gamalielsson, J., Muto, S., & Robles, G. (2025). Public sector open source software projects-How is development organized?. Empirical Software Engineering, 30(3), 1-54.  
   - <i class="ai ai-doi-square"></i> [DOI](https://link.springer.com/article/10.1007/s10664-025-10626-0) <i class="fa fa-file-pdf"></i> [PDF](https://link.springer.com/content/pdf/10.1007/s10664-025-10626-0.pdf)
   
 <div id="2024" />
 #### 2024 | <a href="#top">Top</a>
-* <i class="flag-icons  GB"></i> **Linåker, J.**, Bjarnason, E., & Fagerholm, F. (2024). *Pre-Release Experimentation in Indie Game Development: An Interview Survey*. In 15th International Conference on Software Business. Springer.  
+* <i class="flag-icons  GB"></i> **Linåker, J.**, Bjarnason, E., & Fagerholm, F. (2024). *Pre-Release Experimentation in Indie Game Development: An Interview Survey*. In the 15th International Conference on Software Business. Springer.  
   - <i class="ai ai-doi-square"></i> [DOI](https://link.springer.com/chapter/10.1007/978-3-031-85849-9_24) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2408.06723)
-* <i class="flag-icons  GB"></i> Chren, S., Fagerholm, F., Bjarnason, E., **Linåker, J.**, Rafi, S., Lehtelä, B., Runeson, R. & Kauppinen, M. (2024). *Data-Limited Continuous Experimentation (dlCE): A Literature Review*. In 15th International Conference on Software Business. Springer.  
+* <i class="flag-icons  GB"></i> Chren, S., Fagerholm, F., Bjarnason, E., **Linåker, J.**, Rafi, S., Lehtelä, B., Runeson, R. & Kauppinen, M. (2024). *Data-Limited Continuous Experimentation (dlCE): A Literature Review*. In the 15th International Conference on Software Business. Springer.  
   - <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/en/publications/data-limited-continuous-experimentation-dlce-a-literature-review)
-* <i class="flag-icons  GB"></i> **Linåker, J.**, Link, G., & Lumbard, K. (2024). *Sustaining Maintenance Labor for Healthy Open Source Software Projects through Human Infrastructure: A Maintainer Perspective*. In 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement.
+* <i class="flag-icons  GB"></i> **Linåker, J.**, Link, G., & Lumbard, K. (2024). *Sustaining Maintenance Labor for Healthy Open Source Software Projects through Human Infrastructure: A Maintainer Perspective*. In the 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement.
   - <i class="ai ai-doi-square"></i> [DOI](https://dl.acm.org/doi/10.1145/3674805.3686667) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2408.06723)
-* <i class="flag-icons  GB"></i> Persson, P., & **Linåker, J.** (2024). *Soft-lockins in Public sector acquisitions of Open Source Software-solutions: A case study on a e-service platform for Swedish municipalites*. In 58th Hawaii International Conference on System Sciences 2024 (HICSS-58).
+* <i class="flag-icons  GB"></i> Persson, P., & **Linåker, J.** (2024). *Soft-lockins in Public sector acquisitions of Open Source Software-solutions: A case study on a e-service platform for Swedish municipalites*. In the 58th Hawaii International Conference on System Sciences 2024 (HICSS-58).
   - <i class="ai ai-doi-square"></i> <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2409.01118)
-* <i class="flag-icons  GB"></i> Larsson, J., **Linåker, J.**, & Runeson, P. (2024). *Enabling Data-sharing in Freight Logistics through Open Data Ecosystems*. In International Conference on Electronic Government. Springer, Cham.
+* <i class="flag-icons  GB"></i> Larsson, J., **Linåker, J.**, & Runeson, P. (2024). *Enabling Data-sharing in Freight Logistics through Open Data Ecosystems*. In the International Conference on Electronic Government. Springer, Cham.
   - <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/en/publications/enabling-data-sharing-in-logistics-through-open-data-ecosystems-a) <i class="fa fa-file-pdf"></i> [PDF](https://ceur-ws.org/Vol-3737/paper4.pdf)
-* <i class="flag-icons  GB"></i> Malysh, K., Ahmed, T., **Linåker, J.**, & Runeson, P. (2024). *Inter-organizational Data Sharing Processes - an exploratory analysis of incentives and challenges*. In 50th Euromicro Conference Series on Software Engineering and Advanced Applications (SEAA).
+* <i class="flag-icons  GB"></i> Malysh, K., Ahmed, T., **Linåker, J.**, & Runeson, P. (2024). *Inter-organizational Data Sharing Processes - an exploratory analysis of incentives and challenges*. In the 50th Euromicro Conference Series on Software Engineering and Advanced Applications (SEAA).
   - <i class="ai ai-doi-square"></i> [DOI](https://portal.research.lu.se/en/publications/inter-organizational-data-sharing-processes-an-exploratory-analys) <i class="fa fa-file-pdf"></i> [PDF](https://lucris.lub.lu.se/ws/portalfiles/portal/194583080/802600a080.pdf)
 * <i class="flag-icons  GB"></i> Alami, A., Pardo, R., & **Linåker, J.** (2024). *Free open source communities sustainability: Does it make a difference in software quality?*. Empirical Software Engineering, 29(5), 114.
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/s10664-024-10529-6) <i class="fa fa-file-pdf"></i> [PDF](https://link.springer.com/content/pdf/10.1007/s10664-024-10529-6.pdf)
@@ -126,9 +126,9 @@ header:
 
 <div id="2022" />
 #### 2022 | <a href="#top">Top</a>
-* <i class="flag-icons  GB"></i> **Linåker, J.**, Papatheocharous, E., & Olsson, T. (2022). *How to characterize the health of an Open Source Software project? A snowball literature review of an emerging practice*. In 18th International Symposium on Open Collaboration.
+* <i class="flag-icons  GB"></i> **Linåker, J.**, Papatheocharous, E., & Olsson, T. (2022). *How to characterize the health of an Open Source Software project? A snowball literature review of an emerging practice*. In the 18th International Symposium on Open Collaboration.
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1145/3555051.3555067) <i class="fa fa-file-pdf"></i> [PDF](https://dl.acm.org/doi/pdf/10.1145/3555051.3555067) <i class="ai ai-figshare"></i> [Data set from literature review](https://doi.org/10.6084/m9.figshare.20137175)
-* <i class="flag-icons  GB"></i> **Linåker, J.**, & Runeson, P. (2022). *Sustaining Open Data as a Digital Common-Design principles for Common Pool Resources applied to Open Data Ecosystems*. In International Symposium on Open Collaboration.
+* <i class="flag-icons  GB"></i> **Linåker, J.**, & Runeson, P. (2022). *Sustaining Open Data as a Digital Common-Design principles for Common Pool Resources applied to Open Data Ecosystems*. In the International Symposium on Open Collaboration.
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1145/3555051.3555066) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.01694.pdf)
 
 <div id="2021" />
@@ -146,7 +146,7 @@ header:
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/s10664-020-09855-2) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/abs/2208.00047) <i class="ai ai-figshare"></i> [Contribution request form questions](https://doi.org/10.6084/m9.figshare.21104167)
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Regnell, B., & Damian, D. (2020). *A method for analyzing stakeholders’ influence on an open source software ecosystem’s requirements engineering process*. Requirements Engineering, 25(1), 115-130.
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/s00766-019-00310-3) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.00062.pdf)
-* <i class="flag-icons  GB"></i> **Linåker, J.**, & Runeson, P. (2020). *Public sector platforms going open: creating and growing an ecosystem with open collaborative development*. In 16th International Symposium on Open Collaboration (pp. 1-10).
+* <i class="flag-icons  GB"></i> **Linåker, J.**, & Runeson, P. (2020). *Public sector platforms going open: creating and growing an ecosystem with open collaborative development*. In the 16th International Symposium on Open Collaboration (pp. 1-10).
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1145/3412569.3412572) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.00510.pdf)
 * <i class="flag-icons  GB"></i> **Linåker, J.**, & Runeson, P. (2020). *Collaboration in open government data ecosystems: Open cross-sector sharing and co-development of data and software*. In International Conference on Electronic Government (pp. 290-303). Springer, Cham.
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/978-3-030-57599-1\_22) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.01746.pdf)
@@ -183,7 +183,7 @@ header:
 
 <div id="2015" />
 #### 2015 | <a href="#top">Top</a>
-* <i class="flag-icons  GB"></i> **Linåker, J.**, Regnell, B., & Munir, H. (2015). *Requirements engineering in open innovation: a research agenda*. In Proceedings of the 2015 international conference on software and system process (pp. 208-212).
+* <i class="flag-icons  GB"></i> **Linåker, J.**, Regnell, B., & Munir, H. (2015). *Requirements engineering in open innovation: a research agenda*. In Proceedings of the 2015 International Conference on Software and System Process (pp. 208-212).
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1145/2785592.2795370) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.01741.pdf)
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Munir, H., Runeson, P., Regnell, B., & Schrewelius, C. (2015). *A survey on the perception of innovation in a large product-focused software organization*. In International Conference of Software Business (pp. 66-80). Springer, Cham.
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/978-3-319-19593-3\_6) <i class="fa fa-file-pdf"></i> [PDF](https://arxiv.org/pdf/2208.02002.pdf)
@@ -242,12 +242,12 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
   - <i class="ai ai-doi-square"></i> [Article](https://www.france24.com/en/europe/20260124-europe-s-digital-reliance-on-us-big-tech-does-the-eu-have-a-plan)
 * <i class="flag-icons SE"></i> *Svenska forskare: Så klarar vi en IT-krasch*. (December, 2025). Interview, Dagensps.se.
   - <i class="ai ai-doi-square"></i> [Article](https://www.dagensps.se/foretag/svenska-forskare-sa-klarar-vi-en-it-krasch/)
-* <i class="flag-icons SE"></i> *Så kan Sverige klara globalt it-haveri*. (December, 2025). Interview and co-authored blogpost, Forskning.se.
+* <i class="flag-icons SE"></i> *Så kan Sverige klara globalt it-haveri*. (December, 2025). Interview and co-authored blog post, Forskning.se.
   - <i class="ai ai-doi-square"></i> [Article](https://forskning.se/2025/12/05/sa-kan-sverige-klara-globalt-it-haveri/)
 * <i class="flag-icons SE"></i> *Interview on a lock-in situation in the City of Gothenburg*. (December, 2025). Ekot (Swedish public service radio national daily news).
-* <i class="flag-icons SE"></i> *Så ska EU räddas från digitalt mörker*. (November, 2025). Interview and co-authored blogpost, Lund university.
+* <i class="flag-icons SE"></i> *Så ska EU räddas från digitalt mörker*. (November, 2025). Interview and co-authored blog post, Lund University.
   - <i class="ai ai-doi-square"></i> [Article](https://www.lu.se/artikel/sa-ska-eu-raddas-fran-digitalt-morker)
-* <i class="flag-icons SE"></i> *Digitalt beroende gör Europa sårbart*. (October, 2025).  Interview and co-authored blogpost, RISE.
+* <i class="flag-icons SE"></i> *Digitalt beroende gör Europa sårbart*. (October, 2025).  Interview and co-authored blog post, RISE.
   - <i class="ai ai-doi-square"></i> [Article](https://www.ri.se/sv/digitalt-beroende-gor-europa-sarbart)
 * <i class="flag-icons SE"></i> *Interview on Denmark's increased focus on digital sovereignty*. (Sept, 2025). Aktuellt (Swedish public service television national evening news).
 
