@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5730537f197769fc",
+        "id": "9d80a978a12850d8",
         "type": "tabs",
         "children": [
           {
-            "id": "9a97e59a810c7c8a",
+            "id": "631b6727364adbf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-06-25-open-source-enablement-compass.md",
+                "file": "_posts/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-06-25-open-source-enablement-compass"
+              "title": "2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2026-06-25-open-source-enablement-compass.md",
+                "file": "_posts/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-06-25-open-source-enablement-compass"
+              "title": "Backlinks for 2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2026-06-25-open-source-enablement-compass.md",
+                "file": "_posts/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-06-25-open-source-enablement-compass"
+              "title": "Outgoing links from 2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2026-06-25-open-source-enablement-compass.md",
+                "file": "_posts/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-06-25-open-source-enablement-compass"
+              "title": "Outline of 2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package"
             }
           }
         ]
@@ -184,10 +184,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9a97e59a810c7c8a",
+  "active": "631b6727364adbf9",
   "lastOpenFiles": [
-    "assets/images/2026-06-25-open-source-enablement-compass/teaser.jpg",
+    "assets/images/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package/teaser.png",
+    "assets/images/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package",
+    "_posts/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package.md",
     "_posts/2026-06-25-open-source-enablement-compass.md",
+    "assets/images/2026-06-25-open-source-enablement-compass/teaser.jpg",
     "assets/jekyll-scripts/change-blog-post-date.js",
     "assets/jekyll-scripts/change-blog-post-date.txt",
     "assets/jekyll-scripts/New Text Document.txt",
@@ -200,7 +203,6 @@
     "2026-07-09-test.md",
     "_posts/2026-07-09-test2.md",
     "assets/jekyll-scripts/create-blog-image-folder.js",
-    "assets/jekyll-scripts",
     "assets/jekyll-templates/jekyll-blog-post.md",
     "assets/jekyll-blog-post.md",
     "_posts/2026-06-01-Sveriges-nya-molnpolicy-Ett-osakert-steg-i-ratt-riktning.md",
