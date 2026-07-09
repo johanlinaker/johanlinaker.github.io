@@ -1,6 +1,6 @@
 ---
-title: Open Source Enablement Compass
-seo_title: Open Source Enablement Compass
+title: The UN Open Source Enablement Compass
+seo_title: The UN Open Source Enablement Compass
 excerpt: Today, we’re announcing the launch of the Open Source Enablement Compass (OSEC) project, a collaboration between the United Nations Office for Digital and Emerging Technologies and RISE Research Institutes of Sweden, along with our first and founding partners, GitHub and the Ethereum Foundation.
 date: 2026-06-25T22:16:03+02:00
 categories:
@@ -9,11 +9,11 @@ tags:
   - open-source
   - osec
 header:
-  teaser: /assets/images/2026-06-25-open-source-enablement-compass/teaser.jpg
+  teaser: /assets/images/2026-06-25-the-un-open-source-enablement-compass/teaser.jpg
 ---
 
 <div class="thumbnail-container">
-<img src="/assets/images/2026-06-25-open-source-enablement-compass/teaser.jpg" alt=""></div>
+<img src="/assets/images/2026-06-25-the-un-open-source-enablement-compass/teaser.jpg" alt=""></div>
 
 Today, we’re announcing the launch of the Open Source Enablement Compass (OSEC) project, a collaboration between the [**United Nations Office for Digital and Emerging Technologies**](https://www.linkedin.com/company/unodet/) and [**RISE Research Institutes of Sweden**](https://www.linkedin.com/company/rise-research-institutes-of-sweden/), along with our first and founding partners, [**GitHub**](https://www.linkedin.com/company/github/) and the [**Ethereum Foundation**](https://www.linkedin.com/company/ethereum-foundation/).  
   
