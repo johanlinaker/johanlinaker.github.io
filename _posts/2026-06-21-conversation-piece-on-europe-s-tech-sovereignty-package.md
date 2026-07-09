@@ -12,7 +12,7 @@ header:
 ---
 
 <div class="thumbnail-container">
-<img src="/assets/images/2026-07-09-conversation-piece-on-europe-s-tech-sovereignty-package/teaser.png" alt=""></div>
+<img src="/assets/images/2026-07-09-conversation-piece-on-europe-s-tech-sovereignty-package/teaser.jpg" alt=""></div>
 
 Digital sovereignty is not a European issue, but one for any government or organisation. It is about who controls the digital systems our modern societies depend on – and how those systems remain resilient, secure and aligned with public values in an uncertain world. In this, however, we need to recognise that the world is interconnected, organically and by design. These connections and relationships should be valued and leveraged (rather than cut).  
   
