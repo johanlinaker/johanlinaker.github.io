@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package"
             }
+          },
+          {
+            "id": "d0eb21f02210d3af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package.md",
+                "file": "_posts/2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package"
+              "title": "Backlinks for 2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package.md",
+                "file": "_posts/2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package"
+              "title": "Outgoing links from 2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty"
             }
           },
           {
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package.md",
+                "file": "_posts/2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package"
+              "title": "Outline of 2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty"
             }
           }
         ]
@@ -184,10 +199,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "631b6727364adbf9",
+  "active": "d0eb21f02210d3af",
   "lastOpenFiles": [
-    "_posts/2026-06-25-the-un-open-source-enablement-compass.md",
+    "assets/images/2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty",
     "_posts/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package.md",
+    "_posts/2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty.md",
+    "_posts/2026-06-25-the-un-open-source-enablement-compass.md",
     "assets/images/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package/teaser.jpg",
     "assets/images/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package/teaser.png",
     "assets/images/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package",
