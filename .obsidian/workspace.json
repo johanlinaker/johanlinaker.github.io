@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "5a07396c5431c22a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5730537f197769fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a97e59a810c7c8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-06-25-open-source-enablement-compass.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-25-open-source-enablement-compass"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c8229c7beb3b674",
+    "type": "split",
+    "children": [
+      {
+        "id": "49b58fd9fe2a314c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdea5ab17dcd3fcd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "222a190af21f5ca9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1d2cefa8a360294d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "right": {
+    "id": "0d4f50c8f77ef924",
+    "type": "split",
+    "children": [
+      {
+        "id": "5724d79c5d6c0769",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "722043292c5723ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2026-06-25-open-source-enablement-compass.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-06-25-open-source-enablement-compass"
+            }
+          },
+          {
+            "id": "0d808e3447776dfb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2026-06-25-open-source-enablement-compass.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-06-25-open-source-enablement-compass"
+            }
+          },
+          {
+            "id": "3d3858156c717413",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "08de2ff30bd1c353",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4d65d9106e78faf5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2026-06-25-open-source-enablement-compass.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-06-25-open-source-enablement-compass"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "9a97e59a810c7c8a",
+  "lastOpenFiles": [
+    "assets/images/2026-06-25-open-source-enablement-compass/teaser.jpg",
+    "_posts/2026-06-25-open-source-enablement-compass.md",
+    "assets/jekyll-scripts/change-blog-post-date.js",
+    "assets/jekyll-scripts/change-blog-post-date.txt",
+    "assets/jekyll-scripts/New Text Document.txt",
+    "assets/images/2026-07-09-open-source-enablement-compass/Unconfirmed 479542.crdownload",
+    "assets/jekyll-scripts/rename-blog-post-and-assets.js",
+    "assets/images/2026-06-25-open-source-enablement-compass",
+    "faeu/2026-07-09-feuaif.md",
+    "assets/images/2026-07-09-feuaif",
+    "faeu",
+    "2026-07-09-test.md",
+    "_posts/2026-07-09-test2.md",
+    "assets/jekyll-scripts/create-blog-image-folder.js",
+    "assets/jekyll-scripts",
+    "assets/jekyll-templates/jekyll-blog-post.md",
+    "assets/jekyll-blog-post.md",
+    "_posts/2026-06-01-Sveriges-nya-molnpolicy-Ett-osakert-steg-i-ratt-riktning.md",
+    "_posts/2023-04-28-the-story-of-the-city-of-echirolles.md",
+    "_posts/2023-03-29-kommunal-samverkan-kring-oppen-programvara-varfor-ar-det-svart.md",
+    "_posts/2023-02-04-summary-from-eu-open-source-policy-summit.md"
+  ]
+}
