@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-01-21-conversation-piece-europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology.md",
+                "file": "_pages/research.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-01-21-conversation-piece-europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology"
+              "title": "research"
             }
           },
           {
@@ -277,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2026-01-21-conversation-piece-europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology.md",
+                "file": "_pages/research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +287,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-01-21-conversation-piece-europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology"
+              "title": "Backlinks for research"
             }
           },
           {
@@ -296,12 +296,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2026-01-21-conversation-piece-europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology.md",
+                "file": "_pages/research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-01-21-conversation-piece-europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology"
+              "title": "Outgoing links from research"
             }
           },
           {
@@ -339,13 +339,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2026-01-21-conversation-piece-europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology.md",
+                "file": "_pages/research.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-01-21-conversation-piece-europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology"
+              "title": "Outline of research"
             }
           },
           {
@@ -354,10 +354,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_posts/2026-01-21-conversation-piece-europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology.md"
+                "file": "_pages/research.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026-01-21-conversation-piece-europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology"
+              "title": "File properties for research"
             }
           }
         ],
@@ -381,10 +381,10 @@
   },
   "active": "e1944c05648f230c",
   "lastOpenFiles": [
+    "_posts/2026-01-21-conversation-piece-europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology.md",
     "assets/images/2026-01-21-conversation-piece-europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology/teaser.jpg",
     "assets/images/2026-01-21-conversation-piece-europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology",
     "_posts/2026-02-06-op-ed-eu-s-digital-sovereignty-depends-on-investment-in-open-source-and-talent.md",
-    "_posts/2026-01-21-conversation-piece-europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology.md",
     "assets/images/2026-02-06-op-ed-eu-s-digital-sovereignty-depends-on-investment-in-open-source-and-talent/teaser.jpg",
     "assets/images/2026-02-06-op-ed-eu-s-digital-sovereignty-depends-on-investment-in-open-source-and-talent",
     "_posts/2026-02-13-swedish-ospo-network-workshop-on-open-source-policy.md",
@@ -415,7 +415,6 @@
     "assets/images/2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val/teaser.jpg",
     "assets/images/2026-07-10-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val/Unconfirmed 412311.crdownload",
     "assets/images/2026-05-10-workshop-inom-svenska-ospo-natverket-med-tema-openchain-och-compliance/teaser.jpg",
-    "assets/images/2026-05-15-europakommentaren-samverkan-nyckel-till-starkt-europeisk-digital-suveranitet-och-kontroll/teaser.jpg",
     "_pages/research.md",
     "_posts/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package.md",
     "_posts/2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty.md",
