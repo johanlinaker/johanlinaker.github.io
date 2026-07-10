@@ -134,6 +134,34 @@
             }
           },
           {
+            "id": "407384e1635e2cc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-02-20-forstudie-annonserad-gallande-dis-for-innovativa-digitala-losningar.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-20-forstudie-annonserad-gallande-dis-for-innovativa-digitala-losningar"
+            }
+          },
+          {
+            "id": "cb760609bf882a0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-02-13-swedish-ospo-network-workshop-on-open-source-policy.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-13-swedish-ospo-network-workshop-on-open-source-policy"
+            }
+          },
+          {
             "id": "4119e68a3600cce4",
             "type": "leaf",
             "state": {
@@ -148,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -221,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2026-03-15-digital-sovereignty-top-subject-in-canada.md",
+                "file": "_posts/2026-02-13-swedish-ospo-network-workshop-on-open-source-policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +259,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-03-15-digital-sovereignty-top-subject-in-canada"
+              "title": "Backlinks for 2026-02-13-swedish-ospo-network-workshop-on-open-source-policy"
             }
           },
           {
@@ -240,12 +268,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2026-03-15-digital-sovereignty-top-subject-in-canada.md",
+                "file": "_posts/2026-02-13-swedish-ospo-network-workshop-on-open-source-policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-03-15-digital-sovereignty-top-subject-in-canada"
+              "title": "Outgoing links from 2026-02-13-swedish-ospo-network-workshop-on-open-source-policy"
             }
           },
           {
@@ -283,13 +311,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2026-03-15-digital-sovereignty-top-subject-in-canada.md",
+                "file": "_posts/2026-02-13-swedish-ospo-network-workshop-on-open-source-policy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-15-digital-sovereignty-top-subject-in-canada"
+              "title": "Outline of 2026-02-13-swedish-ospo-network-workshop-on-open-source-policy"
             }
           },
           {
@@ -298,10 +326,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_posts/2026-03-15-digital-sovereignty-top-subject-in-canada.md"
+                "file": "_posts/2026-02-13-swedish-ospo-network-workshop-on-open-source-policy.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026-03-15-digital-sovereignty-top-subject-in-canada"
+              "title": "File properties for 2026-02-13-swedish-ospo-network-workshop-on-open-source-policy"
             }
           }
         ],
@@ -323,12 +351,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "133ee46e1ecc0f1d",
+  "active": "cb760609bf882a0b",
   "lastOpenFiles": [
+    "assets/images/2026-02-13-swedish-ospo-network-workshop-on-open-source-policy/teaser.jpg",
+    "assets/images/2026-02-13-swedish-ospo-network-workshop-on-open-source-policy/Unconfirmed 4036.crdownload",
+    "assets/images/2026-02-13-swedish-ospo-network-workshop-on-open-source-policy",
+    "_posts/2026-02-20-forstudie-annonserad-gallande-dis-for-innovativa-digitala-losningar.md",
+    "_posts/2026-02-13-swedish-ospo-network-workshop-on-open-source-policy.md",
+    "assets/images/2026-02-20-forstudie-annonserad-gallande-dis-for-innovativa-digitala-losningar/teaser.jpg",
+    "assets/images/2026-02-20-forstudie-annonserad-gallande-dis-for-innovativa-digitala-losningar",
+    "_posts/2026-03-15-digital-sovereignty-top-subject-in-canada.md",
     "assets/images/2026-03-15-digital-sovereignty-top-subject-in-canada/teaser.jpg",
     "assets/images/2026-03-15-digital-sovereignty-top-subject-in-canada",
     "_posts/2026-03-30-eosa-masterclass-series-building-and-sustaining-open-source-impact.md",
-    "_posts/2026-03-15-digital-sovereignty-top-subject-in-canada.md",
     "assets/images/2026-03-30-eosa-masterclass-series-building-and-sustaining-open-source-impact/teaser.jpg",
     "assets/images/2026-03-30-eosa-masterclass-series-building-and-sustaining-open-source-impact",
     "_posts/2026-04-08-frankrike-tar-tydliga-kliv-mot-okad-digital-suveranitet.md",
@@ -348,17 +383,12 @@
     "assets/images/2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val",
     "assets/images/2026-05-10-workshop-inom-svenska-ospo-natverket-med-tema-openchain-och-compliance/teaser.jpg",
     "assets/images/2026-07-10-workshop-inom-svenska-ospo-natverket-med-tema-openchain-och-compliance/Unconfirmed 786660.crdownload",
-    "assets/images/2026-05-10-workshop-inom-svenska-ospo-natverket-med-tema-openchain-och-compliance",
     "assets/images/2026-05-15-europakommentaren-samverkan-nyckel-till-starkt-europeisk-digital-suveranitet-och-kontroll/teaser.jpg",
-    "assets/images/2026-05-15-samverkan-nyckel-till-starkt-europeisk-digital-suveranitet-och-kontroll/Unconfirmed 320517.crdownload",
-    "assets/images/2026-05-15-europakommentaren-samverkan-nyckel-till-starkt-europeisk-digital-suveranitet-och-kontroll",
     "assets/images/2026-06-04-eus-suveranitetspaket-visar-vagen-mot-digital-radighet/teaser.jpg",
     "assets/images/2026-06-10-ny-open-source-policy-fran-digg-ute/teaser.jpg",
-    "assets/images/2026-06-18-study-published-on-public-sector-open-source-program-offices/teaser.jpg",
     "_pages/research.md",
     "_posts/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package.md",
     "_posts/2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty.md",
-    "assets/images/2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty/teaser.jpg",
     "_posts/2026-06-25-the-un-open-source-enablement-compass.md",
     "faeu/2026-07-09-feuaif.md",
     "2026-07-09-test.md",
