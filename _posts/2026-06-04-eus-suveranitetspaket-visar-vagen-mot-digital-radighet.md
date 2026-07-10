@@ -14,10 +14,11 @@ header:
 <div class="thumbnail-container">
 <img src="/assets/images/2026-06-04-eus-suveranitetspaket-visar-vagen-mot-digital-radighet/teaser.jpg" alt=""></div>
 
-## TL;DR / Summary
+## TL;DR / Sammanfattning
 EU:s suveränitetspaket markerar en strategisk förflyttning mot ökad kontroll över moln, AI och data. Med satsningar på öppen källkod och minskade beroenden av tredjeland vill unionen bygga en mer konkurrenskraftig, säker och resilient digital infrastruktur i Europa. Här följer en analys jag ursprungligen skrev på [RI.se](https://www.ri.se/sv/bloggpost/eus-suveranitetspaket-visar-vagen-mot-digital-radighet).
 
-## Longer version
+## Längre version
+
 
 EU:s suveränitetspaket markerar en strategisk förflyttning mot ökad kontroll över moln, AI och data. Med satsningar på öppen källkod och minskade beroenden av tredjeland vill unionen bygga en mer konkurrenskraftig, säker och resilient digital infrastruktur i Europa.
 

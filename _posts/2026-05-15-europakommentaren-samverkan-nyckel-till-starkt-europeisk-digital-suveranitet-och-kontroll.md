@@ -14,11 +14,11 @@ header:
 <div class="thumbnail-container">
 <img src="/assets/images/2026-05-15-europakommentaren-samverkan-nyckel-till-starkt-europeisk-digital-suveranitet-och-kontroll/teaser.jpg" alt=""></div>
 
-## TL;DR / Summary
+## TL;DR / Sammanfattning
 
 Europa har under lång tid byggt sin digitala infrastruktur på teknik från ett fåtal utomeuropeiska leverantörer. I ett allt mer osäkert geopolitiskt läge har detta blivit en strategisk sårbarhet. Nu växer nya former av europeiskt samarbete fram kring öppna digitala lösningar och här finns viktiga möjligheter tillika lärdomar för Sverige. Och de potentiella vinsterna för Sverige ska inte underskattas. Nedan följer en analys jag nyligen skrev på [Europakommentaren](https://europakommentaren.se/2026/05/15/samverkan-nyckel-till-starkt-europeisk-digital-suveranitet-och-kontroll/).
 
-## Longer version
+## Längre version
 
 Under de senaste fyra åren har vi sett en tydlig och snabb förskjutning i hur offentliga verksamheter i Europa förhåller sig till IT-system och områden som länge dominerats av [enskilda leverantörer](https://www.zdnet.com/article/microsoft-poses-threat-to-germanys-digital-sovereignty-warns-study/). I de fall där leverantörerna varit utomeuropeiska har intresset för alternativa lösningar fått extra bränsle på grund av de rådande [geopolitiska omvälvningarna](https://truthsocial.com/@realDonaldTrump/posts/115092243259973570). Tidigare risker, kopplade till stigande licenskostnader, har nu kompletterats med mer långtgående risker kring tillgången till – och integriteten hos – de digitala tjänster som Europa är beroende av. Detta har uppmärksammats och markerats av både [EU-kommissionen](https://www.weforum.org/stories/2026/01/davos-2026-special-address-ursula-von-der-leyen/) och [Europaparlamentet](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/2007\(INI\)), samt flertalet länder (såsom [Tyskland](https://www.cdu.de/app/uploads/2025/04/Koalitionsvertrag-%E2%80%93-barrierefreie-Version.pdf), [Frankrike](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000033203039) och [Nederländerna](https://www.rijksoverheid.nl/documenten/rapporten/2023/10/17/bijlage-agenda-dosa-tgpdfa)) genom både strategier och lagstiftning.
 

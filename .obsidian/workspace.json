@@ -78,6 +78,62 @@
             }
           },
           {
+            "id": "f3c2bc948caa6019",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-04-17-eu-kommissionen-gor-molnupphandling-med-digital-suveranitet-som-grundkrav.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-17-eu-kommissionen-gor-molnupphandling-med-digital-suveranitet-som-grundkrav"
+            }
+          },
+          {
+            "id": "09a7cc7ccc3fe863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-04-08-frankrike-tar-tydliga-kliv-mot-okad-digital-suveranitet.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-08-frankrike-tar-tydliga-kliv-mot-okad-digital-suveranitet"
+            }
+          },
+          {
+            "id": "15d242d56607509d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-03-30-eosa-masterclass-series-building-and-sustaining-open-source-impact.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-30-eosa-masterclass-series-building-and-sustaining-open-source-impact"
+            }
+          },
+          {
+            "id": "133ee46e1ecc0f1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-03-15-digital-sovereignty-top-subject-in-canada.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-15-digital-sovereignty-top-subject-in-canada"
+            }
+          },
+          {
             "id": "4119e68a3600cce4",
             "type": "leaf",
             "state": {
@@ -92,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -165,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val.md",
+                "file": "_posts/2026-03-15-digital-sovereignty-top-subject-in-canada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +231,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val"
+              "title": "Backlinks for 2026-03-15-digital-sovereignty-top-subject-in-canada"
             }
           },
           {
@@ -184,12 +240,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val.md",
+                "file": "_posts/2026-03-15-digital-sovereignty-top-subject-in-canada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val"
+              "title": "Outgoing links from 2026-03-15-digital-sovereignty-top-subject-in-canada"
             }
           },
           {
@@ -227,13 +283,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val.md",
+                "file": "_posts/2026-03-15-digital-sovereignty-top-subject-in-canada.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val"
+              "title": "Outline of 2026-03-15-digital-sovereignty-top-subject-in-canada"
             }
           },
           {
@@ -242,10 +298,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_posts/2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val.md"
+                "file": "_posts/2026-03-15-digital-sovereignty-top-subject-in-canada.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val"
+              "title": "File properties for 2026-03-15-digital-sovereignty-top-subject-in-canada"
             }
           }
         ],
@@ -267,38 +323,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4119e68a3600cce4",
+  "active": "133ee46e1ecc0f1d",
   "lastOpenFiles": [
+    "assets/images/2026-03-15-digital-sovereignty-top-subject-in-canada/teaser.jpg",
+    "assets/images/2026-03-15-digital-sovereignty-top-subject-in-canada",
+    "_posts/2026-03-30-eosa-masterclass-series-building-and-sustaining-open-source-impact.md",
+    "_posts/2026-03-15-digital-sovereignty-top-subject-in-canada.md",
+    "assets/images/2026-03-30-eosa-masterclass-series-building-and-sustaining-open-source-impact/teaser.jpg",
+    "assets/images/2026-03-30-eosa-masterclass-series-building-and-sustaining-open-source-impact",
+    "_posts/2026-04-08-frankrike-tar-tydliga-kliv-mot-okad-digital-suveranitet.md",
+    "assets/images/2026-04-08-frankrike-tar-tydliga-kliv-mot-okad-digital-suveranitet/teaser.jpg",
+    "assets/images/2026-04-08-frankrike-tar-tydliga-kliv-mot-okad-digital-suveranitet",
+    "_posts/2026-04-17-eu-kommissionen-gor-molnupphandling-med-digital-suveranitet-som-grundkrav.md",
+    "assets/images/2026-04-17-eu-kommissionen-gor-molnupphandling-med-digital-suveranitet-som-grundkrav/teaser.jpg",
+    "assets/images/2026-04-17-eu-kommissionen-gor-molnupphandling-med-digital-suveranitet-som-grundkrav",
+    "_posts/2026-05-10-workshop-inom-svenska-ospo-natverket-med-tema-openchain-och-compliance.md",
+    "_posts/2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val.md",
+    "_posts/2026-06-18-study-published-on-public-sector-open-source-program-offices.md",
+    "_posts/2026-06-10-ny-open-source-policy-fran-digg-ute.md",
+    "_posts/2026-06-04-eus-suveranitetspaket-visar-vagen-mot-digital-radighet.md",
+    "_posts/2026-05-15-europakommentaren-samverkan-nyckel-till-starkt-europeisk-digital-suveranitet-och-kontroll.md",
     "assets/images/2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val/teaser.jpg",
     "assets/images/2026-07-10-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val/Unconfirmed 412311.crdownload",
     "assets/images/2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val",
-    "_posts/2026-05-10-workshop-inom-svenska-ospo-natverket-med-tema-openchain-och-compliance.md",
-    "_posts/2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val.md",
     "assets/images/2026-05-10-workshop-inom-svenska-ospo-natverket-med-tema-openchain-och-compliance/teaser.jpg",
     "assets/images/2026-07-10-workshop-inom-svenska-ospo-natverket-med-tema-openchain-och-compliance/Unconfirmed 786660.crdownload",
     "assets/images/2026-05-10-workshop-inom-svenska-ospo-natverket-med-tema-openchain-och-compliance",
-    "_posts/2026-05-15-europakommentaren-samverkan-nyckel-till-starkt-europeisk-digital-suveranitet-och-kontroll.md",
     "assets/images/2026-05-15-europakommentaren-samverkan-nyckel-till-starkt-europeisk-digital-suveranitet-och-kontroll/teaser.jpg",
     "assets/images/2026-05-15-samverkan-nyckel-till-starkt-europeisk-digital-suveranitet-och-kontroll/Unconfirmed 320517.crdownload",
     "assets/images/2026-05-15-europakommentaren-samverkan-nyckel-till-starkt-europeisk-digital-suveranitet-och-kontroll",
-    "_posts/2026-06-04-eus-suveranitetspaket-visar-vagen-mot-digital-radighet.md",
     "assets/images/2026-06-04-eus-suveranitetspaket-visar-vagen-mot-digital-radighet/teaser.jpg",
-    "assets/images/2026-07-10-eus-suveranitetspaket-visar-vagen-mot-digital-radighet/Unconfirmed 7455.crdownload",
-    "assets/images/2026-06-04-eus-suveranitetspaket-visar-vagen-mot-digital-radighet",
-    "_posts/2026-06-10-ny-open-source-policy-fran-digg-ute.md",
     "assets/images/2026-06-10-ny-open-source-policy-fran-digg-ute/teaser.jpg",
-    "assets/images/2026-06-10-ny-open-source-policy-fran-digg-ute",
-    "_posts/2026-06-18-study-published-on-public-sector-open-source-program-offices.md",
     "assets/images/2026-06-18-study-published-on-public-sector-open-source-program-offices/teaser.jpg",
-    "assets/images/2026-07-10-study-published-on-public-sector-open-source-program-offices/Unconfirmed 662183.crdownload",
     "_pages/research.md",
     "_posts/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package.md",
     "_posts/2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty.md",
     "assets/images/2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty/teaser.jpg",
     "_posts/2026-06-25-the-un-open-source-enablement-compass.md",
-    "assets/images/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package/teaser.jpg",
-    "assets/images/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package/teaser.png",
-    "assets/images/2026-06-25-the-un-open-source-enablement-compass/teaser.jpg",
     "faeu/2026-07-09-feuaif.md",
     "2026-07-09-test.md",
     "_posts/2026-07-09-test2.md",
