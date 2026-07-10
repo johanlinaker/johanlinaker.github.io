@@ -1,19 +1,19 @@
 ---
-title: "Digital suveränitet – från osynliga beroenden till strategiska val"
-seo_title: "Digital suveränitet – från osynliga beroenden till strategiska val"
-excerpt: "Digital suveränitet har gått från nischbegrepp till fråga om säkerhet, beredskap och konkurrenskraft för både offentlig sektor och företag. Här följer en längre analys jag ursprungligen skrev på [RI.se](https://www.ri.se/sv/bloggpost/digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val) där vi lyfter initiativ i Sverige och Europa – och varför mer samordnat, långsiktigt arbete nu är nödvändigt."
-date: 2026-07-10T10:27:40+02:00
+title: Digital suveränitet – från osynliga beroenden till strategiska val
+seo_title: Digital suveränitet – från osynliga beroenden till strategiska val
+excerpt: Digital suveränitet har gått från nischbegrepp till fråga om säkerhet, beredskap och konkurrenskraft för både offentlig sektor och företag. Här följer en längre analys jag ursprungligen skrev på [RI.se](https://www.ri.se/sv/bloggpost/digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val) där vi lyfter initiativ i Sverige och Europa – och varför mer samordnat, långsiktigt arbete nu är nödvändigt.
+date: 2026-03-27T10:27:40+02:00
 categories:
   - blog
 tags:
   - open-source
   - digital-sovereignty
 header:
-  teaser: "/assets/images/2026-07-10-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val/teaser.jpg"
+  teaser: /assets/images/2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val/teaser.jpg
 ---
 
 <div class="thumbnail-container">
-<img src="/assets/images/2026-07-10-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val/teaser.jpg" alt=""></div>
+<img src="/assets/images/2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val/teaser.jpg" alt=""></div>
 
 Digital suveränitet har gått från nischbegrepp till fråga om säkerhet, beredskap och konkurrenskraft för både offentlig sektor och företag. Här följer en längre analys jag ursprungligen skrev på [RI.se](https://www.ri.se/sv/bloggpost/digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val) där vi lyfter initiativ i Sverige och Europa – och varför mer samordnat, långsiktigt arbete nu är nödvändigt.
 
