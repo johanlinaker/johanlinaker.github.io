@@ -315,8 +315,6 @@ Areas Johan is currently investigating include:
 
         <li>Facilitation of two national networks focused on Open Source Software and Data in Swedish Industry and Public Sector.</li>
 
-        <li>Research and design of Governance structure for the European mobility data space (EMDS). </li>
-
     </ul></li>
 
 </ul>

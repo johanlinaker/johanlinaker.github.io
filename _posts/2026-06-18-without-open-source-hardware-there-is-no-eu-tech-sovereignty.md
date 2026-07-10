@@ -6,7 +6,8 @@ date: 2026-06-18T22:53:20+02:00
 categories:
   - blog
 tags:
-  - open-source
+  - open-source-hardware
+  - digital-sovereignty
 header:
   teaser: /assets/images/2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty/teaser.jpg
 ---

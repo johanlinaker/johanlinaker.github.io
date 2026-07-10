@@ -4,39 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "9d80a978a12850d8",
+        "id": "76b8ff33ba478325",
         "type": "tabs",
         "children": [
           {
-            "id": "631b6727364adbf9",
+            "id": "ff097cc017e4b6e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package.md",
+                "file": "_posts/2026-06-18-study-published-on-public-sector-open-source-program-offices.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package"
+              "title": "2026-06-18-study-published-on-public-sector-open-source-program-offices"
             }
           },
           {
-            "id": "d0eb21f02210d3af",
+            "id": "6eb0b6c3bccffd6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty.md",
+                "file": "_posts/2026-06-10-ny-open-source-policy-fran-digg-ute.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty"
+              "title": "2026-06-10-ny-open-source-policy-fran-digg-ute"
+            }
+          },
+          {
+            "id": "2153016e9bf0784a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-06-04-eus-suveranitetspaket-visar-vagen-mot-digital-radighet.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-04-eus-suveranitetspaket-visar-vagen-mot-digital-radighet"
+            }
+          },
+          {
+            "id": "9f82185176137a3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-05-15-europakommentaren-samverkan-nyckel-till-starkt-europeisk-digital-suveranitet-och-kontroll.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-15-europakommentaren-samverkan-nyckel-till-starkt-europeisk-digital-suveranitet-och-kontroll"
+            }
+          },
+          {
+            "id": "c1467ee0c6374232",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-05-10-workshop-inom-svenska-ospo-natverket-med-tema-openchain-och-compliance.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-10-workshop-inom-svenska-ospo-natverket-med-tema-openchain-och-compliance"
+            }
+          },
+          {
+            "id": "4119e68a3600cce4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-07-10-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-10-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -109,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty.md",
+                "file": "_posts/2026-07-10-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty"
+              "title": "Backlinks for 2026-07-10-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val"
             }
           },
           {
@@ -128,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty.md",
+                "file": "_posts/2026-07-10-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty"
+              "title": "Outgoing links from 2026-07-10-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val"
             }
           },
           {
@@ -171,21 +227,33 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty.md",
+                "file": "_posts/2026-07-10-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty"
+              "title": "Outline of 2026-07-10-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val"
+            }
+          },
+          {
+            "id": "56b6a6cd6a255e3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "_posts/2026-07-10-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 2026-07-10-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,26 +267,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d0eb21f02210d3af",
+  "active": "4119e68a3600cce4",
   "lastOpenFiles": [
-    "assets/images/2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty/teaser.jpg",
-    "assets/images/2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty",
+    "assets/images/2026-07-10-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val/teaser.jpg",
+    "assets/images/2026-07-10-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val/Unconfirmed 412311.crdownload",
+    "assets/images/2026-07-10-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val",
+    "_posts/2026-05-10-workshop-inom-svenska-ospo-natverket-med-tema-openchain-och-compliance.md",
+    "_posts/2026-07-10-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val.md",
+    "assets/images/2026-05-10-workshop-inom-svenska-ospo-natverket-med-tema-openchain-och-compliance/teaser.jpg",
+    "assets/images/2026-07-10-workshop-inom-svenska-ospo-natverket-med-tema-openchain-och-compliance/Unconfirmed 786660.crdownload",
+    "assets/images/2026-05-10-workshop-inom-svenska-ospo-natverket-med-tema-openchain-och-compliance",
+    "_posts/2026-05-15-europakommentaren-samverkan-nyckel-till-starkt-europeisk-digital-suveranitet-och-kontroll.md",
+    "assets/images/2026-05-15-europakommentaren-samverkan-nyckel-till-starkt-europeisk-digital-suveranitet-och-kontroll/teaser.jpg",
+    "assets/images/2026-05-15-samverkan-nyckel-till-starkt-europeisk-digital-suveranitet-och-kontroll/Unconfirmed 320517.crdownload",
+    "assets/images/2026-05-15-europakommentaren-samverkan-nyckel-till-starkt-europeisk-digital-suveranitet-och-kontroll",
+    "_posts/2026-06-04-eus-suveranitetspaket-visar-vagen-mot-digital-radighet.md",
+    "assets/images/2026-06-04-eus-suveranitetspaket-visar-vagen-mot-digital-radighet/teaser.jpg",
+    "assets/images/2026-07-10-eus-suveranitetspaket-visar-vagen-mot-digital-radighet/Unconfirmed 7455.crdownload",
+    "assets/images/2026-06-04-eus-suveranitetspaket-visar-vagen-mot-digital-radighet",
+    "_posts/2026-06-10-ny-open-source-policy-fran-digg-ute.md",
+    "assets/images/2026-06-10-ny-open-source-policy-fran-digg-ute/teaser.jpg",
+    "assets/images/2026-06-10-ny-open-source-policy-fran-digg-ute",
+    "_posts/2026-06-18-study-published-on-public-sector-open-source-program-offices.md",
+    "assets/images/2026-06-18-study-published-on-public-sector-open-source-program-offices/teaser.jpg",
+    "assets/images/2026-07-10-study-published-on-public-sector-open-source-program-offices/Unconfirmed 662183.crdownload",
+    "_pages/research.md",
     "_posts/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package.md",
     "_posts/2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty.md",
+    "assets/images/2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty/teaser.jpg",
     "_posts/2026-06-25-the-un-open-source-enablement-compass.md",
     "assets/images/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package/teaser.jpg",
     "assets/images/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package/teaser.png",
-    "assets/images/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package",
     "assets/images/2026-06-25-the-un-open-source-enablement-compass/teaser.jpg",
-    "assets/jekyll-scripts/change-blog-post-date.js",
-    "assets/jekyll-scripts/change-blog-post-date.txt",
-    "assets/jekyll-scripts/New Text Document.txt",
-    "assets/images/2026-07-09-open-source-enablement-compass/Unconfirmed 479542.crdownload",
-    "assets/jekyll-scripts/rename-blog-post-and-assets.js",
-    "assets/images/2026-06-25-the-un-open-source-enablement-compass",
     "faeu/2026-07-09-feuaif.md",
-    "assets/images/2026-07-09-feuaif",
-    "faeu",
     "2026-07-09-test.md",
     "_posts/2026-07-09-test2.md",
     "assets/jekyll-templates/jekyll-blog-post.md",
