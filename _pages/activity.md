@@ -16,7 +16,6 @@ header:
  <li><a href="#organizing-committee-memberships">Organizing committee memberships</a></li>
  <li><a href="#maintainerships">Maintainerships</a></li>
  <li><a href="#program-committee-memberships">Program committee memberships</a></li>
- <li><a href="#">Program committee memberships</a>
   <ul>
    <li><a href="#conferences-main-research-paper-tracks">Conferences (main research paper tracks)</a></li>
    <li><a href="#conferences-other-tracks-and-workshops">Conferences (other tracks) and workshops</a></li>
