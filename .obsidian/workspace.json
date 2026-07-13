@@ -181,12 +181,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/research.md",
+                "file": "_pages/publications.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "research"
+              "title": "publications"
+            }
+          },
+          {
+            "id": "7e340692204ebf55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators"
             }
           },
           {
@@ -204,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -354,10 +368,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_pages/research.md"
+                "file": "_posts/2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for research"
+              "title": "File properties for 2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators"
             }
           }
         ],
@@ -369,6 +383,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -379,11 +394,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e1944c05648f230c",
+  "active": "7e340692204ebf55",
   "lastOpenFiles": [
+    "assets/images/2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators/teaser.jpg",
+    "assets/images/2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators",
+    "_pages/publications.md",
+    "_posts/2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators.md",
+    "_pages/research.md",
     "_pages/activity.md",
     "_pages/talks.md",
-    "_pages/research.md",
     "_posts/2026-01-21-conversation-piece-europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology.md",
     "assets/images/2026-01-21-conversation-piece-europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology/teaser.jpg",
     "assets/images/2026-01-21-conversation-piece-europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology",
@@ -416,16 +435,12 @@
     "_posts/2026-06-04-eus-suveranitetspaket-visar-vagen-mot-digital-radighet.md",
     "_posts/2026-05-15-europakommentaren-samverkan-nyckel-till-starkt-europeisk-digital-suveranitet-och-kontroll.md",
     "assets/images/2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val/teaser.jpg",
-    "assets/images/2026-07-10-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val/Unconfirmed 412311.crdownload",
     "assets/images/2026-05-10-workshop-inom-svenska-ospo-natverket-med-tema-openchain-och-compliance/teaser.jpg",
     "_posts/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package.md",
     "_posts/2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty.md",
     "_posts/2026-06-25-the-un-open-source-enablement-compass.md",
     "faeu/2026-07-09-feuaif.md",
     "2026-07-09-test.md",
-    "_posts/2026-07-09-test2.md",
-    "assets/jekyll-templates/jekyll-blog-post.md",
-    "assets/jekyll-blog-post.md",
-    "_posts/2026-06-01-Sveriges-nya-molnpolicy-Ett-osakert-steg-i-ratt-riktning.md"
+    "_posts/2026-07-09-test2.md"
   ]
 }
