@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/publications.md",
+                "file": "_posts/2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "publications"
+              "title": "2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators"
             }
           },
           {
@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators.md",
+                "file": "_pages/activity.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators"
+              "title": "activity"
             }
           },
           {
@@ -218,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -394,14 +394,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7e340692204ebf55",
+  "active": "bdea5ab17dcd3fcd",
   "lastOpenFiles": [
+    "_pages/publications.md",
+    "_pages/activity.md",
+    "_posts/2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val.md",
+    "_posts/2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators.md",
     "assets/images/2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators/teaser.jpg",
     "assets/images/2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators",
-    "_pages/publications.md",
-    "_posts/2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators.md",
     "_pages/research.md",
-    "_pages/activity.md",
     "_pages/talks.md",
     "_posts/2026-01-21-conversation-piece-europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology.md",
     "assets/images/2026-01-21-conversation-piece-europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology/teaser.jpg",
@@ -429,13 +430,11 @@
     "assets/images/2026-04-17-eu-kommissionen-gor-molnupphandling-med-digital-suveranitet-som-grundkrav/teaser.jpg",
     "assets/images/2026-04-17-eu-kommissionen-gor-molnupphandling-med-digital-suveranitet-som-grundkrav",
     "_posts/2026-05-10-workshop-inom-svenska-ospo-natverket-med-tema-openchain-och-compliance.md",
-    "_posts/2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val.md",
     "_posts/2026-06-18-study-published-on-public-sector-open-source-program-offices.md",
     "_posts/2026-06-10-ny-open-source-policy-fran-digg-ute.md",
     "_posts/2026-06-04-eus-suveranitetspaket-visar-vagen-mot-digital-radighet.md",
     "_posts/2026-05-15-europakommentaren-samverkan-nyckel-till-starkt-europeisk-digital-suveranitet-och-kontroll.md",
     "assets/images/2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val/teaser.jpg",
-    "assets/images/2026-05-10-workshop-inom-svenska-ospo-natverket-med-tema-openchain-och-compliance/teaser.jpg",
     "_posts/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package.md",
     "_posts/2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty.md",
     "_posts/2026-06-25-the-un-open-source-enablement-compass.md",

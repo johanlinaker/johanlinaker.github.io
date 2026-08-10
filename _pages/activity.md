@@ -20,7 +20,6 @@ header:
    <li><a href="#conferences-main-research-paper-tracks">Conferences (main research paper tracks)</a></li>
    <li><a href="#conferences-other-tracks-and-workshops">Conferences (other tracks) and workshops</a></li>
   </ul>
- </li>
  <li><a href="#journal-reviewing">Journal reviewing</a></li>
  <li><a href="#grant-proposal-reviewing">Grant proposal reviewing</a></li>
  <li><a href="#opponent-discussant">PhD Student Opponent/Discussant/Committee</a></li>

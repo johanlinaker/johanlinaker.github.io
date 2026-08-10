@@ -1,7 +1,7 @@
 ---
 title: "New Paper - Advancing Digital Government through Open Source Indicators"
 seo_title: "New Paper - Advancing Digital Government through Open Source Indicators"
-excerpt: ""
+excerpt: "[New paper out](https://www.sciencedirect.com/science/article/pii/S016412122600264) where Sachiko Muto and I argue that if we want to enable the many opportunities Open Source Software (OSS) offers for digital government, we need to start measuring how governments actually use and support OSS, and enable knowledge-sharing and benchmarking by baking those measures into global digital maturity indexes."
 date: 2026-07-13T20:48:48+02:00
 categories:
   - blog
