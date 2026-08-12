@@ -209,16 +209,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val.md",
+                "file": "_posts/2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val"
+              "title": "2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -238,7 +238,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -371,7 +373,7 @@
                 "file": "_posts/2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators"
+              "title": "File properties"
             }
           }
         ],
@@ -394,11 +396,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bdea5ab17dcd3fcd",
+  "active": "4119e68a3600cce4",
   "lastOpenFiles": [
+    "_posts/2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val.md",
     "_pages/publications.md",
     "_pages/activity.md",
-    "_posts/2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val.md",
     "_posts/2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators.md",
     "assets/images/2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators/teaser.jpg",
     "assets/images/2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators",
