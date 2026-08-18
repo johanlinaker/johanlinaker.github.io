@@ -212,6 +212,8 @@ in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund Univ
 
 <div id="media" />
 ## Media | <a href="#top">Top</a>
+* <i class="flag-icons SE"></i> *Microsoft kliver in i Europas AI-bygge – experten varnar för nytt beroende*. (July, 2026). Interview, Techtidningen.
+  - <i class="ai ai-doi-square"></i> [Article](https://techtidningen.se/microsoft-kliver-in-i-europas-ai-bygge-experten-varnar-for-nytt-beroende/)
 * <i class="flag-icons SE"></i> *Digital suveränitet kräver mer än datalagring – strategiska vägval formar framtidens digitala landskap*. (June, 2026). Interview, NyTeknik.
   - <i class="ai ai-doi-square"></i> [Article](https://www.nyteknik.se/nyteducation/digital-suveraenitet-kraever-mer-aen-datalagring-strategiska-vaegval-formar-framtidens-digitala-landskap/4465321)
 * <i class="flag-icons GB"></i> *Europeans want less dependence on foreign technologies, study finds*. (June, 2026). Interview, Euronews.
