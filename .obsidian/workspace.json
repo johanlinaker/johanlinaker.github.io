@@ -216,9 +216,21 @@
               "icon": "lucide-file",
               "title": "2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators"
             }
+          },
+          {
+            "id": "fa7133c8cc31c921",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.6"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -369,9 +381,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "_posts/2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators.md"
-              },
+              "state": {},
               "icon": "lucide-info",
               "title": "File properties"
             }
@@ -396,7 +406,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4119e68a3600cce4",
+  "active": "bdea5ab17dcd3fcd",
   "lastOpenFiles": [
     "_posts/2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val.md",
     "_pages/publications.md",

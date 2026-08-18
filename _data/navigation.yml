@@ -1,7 +1,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "Research"
+  - title: "Research & Bio"
     url: /research/
   - title: "Talks"
     url: /talks/
