@@ -78,6 +78,7 @@ header:
 * Government information quarterly
 * Technological Forecasting & Social Change
 * Technovation
+* International Journal of the Commons
 * eJournal of eDemocracy and open government
 * Data & knowledge engineering
 * Computer Law and Security
