@@ -26,6 +26,7 @@ header:
 
 <div id="2026" />
 ## 2026 | <a href="#top">Top</a>
+* <i class="flag-icons  DK"></i> *OPEN - vi deler*. (2026, Aug). Vilde Teknologier, Aarhus municipality, Denmark. Invited panel, Aarhus, Denmark.
 * <i class="flag-icons  GB"></i> *Öppenhet och Digtal Suveränitet i en Skiftande Omvärld*. (2026, June). Region Örebro län. Invited talk, virtual.
   - <i class="fa fa-file-pdf"></i> <a href="/assets/slides/Digital-suveränitet-Orebro.pdf">Slides</a>
 * <i class="flag-icons  GB"></i> *Balancing Digital Sovereignty and Openness in a Changing World*. (2026, May). Nordic National Government Service Centres. Invited talk, virtual.
