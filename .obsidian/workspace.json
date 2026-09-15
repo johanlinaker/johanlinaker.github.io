@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-09-15-new-report-national-support-structures-and-capabilities-for-growing-digital-sovereignty-through-sharing-and-reuse-of-open-source-software-in-the-public-sector.md",
+                "file": "_pages/publications.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-09-15-new-report-national-support-structures-and-capabilities-for-growing-digital-sovereignty-through-sharing-and-reuse-of-open-source-software-in-the-public-sector"
+              "title": "publications"
             }
           }
         ],
@@ -370,7 +370,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_posts/2026-09-15-new-report-national-support-structures-and-capabilities-for-growing-digital-sovereignty-through-sharing-and-reuse-of-open-source-software-in-the-public-sector.md"
+                "file": "_pages/publications.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -396,8 +396,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4119e68a3600cce4",
+  "active": "bdea5ab17dcd3fcd",
   "lastOpenFiles": [
+    "_pages/activity.md",
+    "_posts/2026-09-15-new-report-national-support-structures-and-capabilities-for-growing-digital-sovereignty-through-sharing-and-reuse-of-open-source-software-in-the-public-sector.md",
     "assets/images/2026-09-15-new-report-national-support-structures-and-capabilities-for-growing-digital-sovereignty-through-sharing-and-reuse-of-open-source-software-in-the-public-sector/teaser.jpg",
     "assets/images/2026-09-15-new-report-national-support-structures-and-capabilities-for-growing-digital-sovereignty-through-sharing-and-reuse-of-open-source-software-in-the-public-sector/clip_themedata.thmx",
     "assets/images/2026-09-15-new-report-national-support-structures-and-capabilities-for-growing-digital-sovereignty-through-sharing-and-reuse-of-open-source-software-in-the-public-sector/clip_image024.png",
@@ -409,14 +411,11 @@
     "assets/images/2026-09-15-new-report-national-support-structures-and-capabilities-for-growing-digital-sovereignty-through-sharing-and-reuse-of-open-source-software-in-the-public-sector/clip_image018.png",
     "assets/images/2026-09-15-new-report-national-support-structures-and-capabilities-for-growing-digital-sovereignty-through-sharing-and-reuse-of-open-source-software-in-the-public-sector/clip_image014.png",
     "assets/images/2026-09-15-new-report-national-support-structures-and-capabilities-for-growing-digital-sovereignty-through-sharing-and-reuse-of-open-source-software-in-the-public-sector/clip_image013.png",
-    "assets/images/2026-09-15-new-report-national-support-structures-and-capabilities-for-growing-digital-sovereignty-through-sharing-and-reuse-of-open-source-software-in-the-public-sector/clip_image012.png",
     "assets/images/2026-09-15-new-report-national-support-structures-and-capabilities-for-growing-digital-sovereignty-through-sharing-and-reuse-of-open-source-software-in-the-public-sector/clip_colorschememapping.xml",
     "assets/images/2026-09-15-new-report-national-support-structures-and-capabilities-for-growing-digital-sovereignty-through-sharing-and-reuse-of-open-source-software-in-the-public-sector",
     "assets/images/New folder",
-    "_posts/2026-09-15-new-report-national-support-structures-and-capabilities-for-growing-digital-sovereignty-through-sharing-and-reuse-of-open-source-software-in-the-public-sector.md",
     "_posts/2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val.md",
     "_pages/publications.md",
-    "_pages/activity.md",
     "_posts/2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators.md",
     "assets/images/2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators",
     "_pages/research.md",
