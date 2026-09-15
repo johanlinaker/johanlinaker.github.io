@@ -155,4 +155,25 @@ The scope of this report has been limited to investigating how OSS can be suppor
 
 ## References
 
-- 
+- Aarhus Kommune. (2014). Handlingsplan for open source i Aarhus Kommune: En del af vores it‑strategi. https://gambit.aakb.dk/opensource/Handlingsplan_for_OpenSource_i_Aarhus_Kommune.pdf
+- Asterès. (2025, April). Technological dependence on American software and cloud services: An assessment of the economic consequences in Europe [PDF]. Cigref. https://www.cigref.fr/wp/wp-content/uploads/2025/05/TECHNOLOGICAL-DEPENDENCE-ON-AMERICAN-SOFTWARE-AND-CLOUD-SERVICES-AN-ASSESSMENT-OF-THE-ECONOMIC-CONSEQUENCES.pdf
+- Blind, K., Böhm, M., Grzegorzewska, P., Katz, A., Muto, S., Pätsch, S., & Schubert, T. (2021). The impact of open source software and hardware on technological independence, competitiveness and innovation in the EU economy (Final Study Report). European Commission.
+- Digitaliseringsstyrelsen. (2025). Open source i den offentlige sektor. https://digst.dk/media/2zlfki2v/open-source-i-den-offentlige-sektor.pdf
+- Di Marco, D., Thabit, S., Kotsev, A., Christensen, A., & Minghini, M., et al. (2025). Open but not powerless: Towards a common understanding of EU digital sovereignty (JRC144908). European Commission.
+- Edler, J., Blind, K., Kroll, H., & Schubert, T. (2023). Technology sovereignty as an emerging frame for innovation policy. Research Policy, 52(6), 104765.
+- European Commission. (2017a). Tallinn Declaration on eGovernment. https://digital-strategy.ec.europa.eu/en/news/ministerial-declaration-egovernment-tallinn-declaration
+- European Commission. (2020a). Berlin Declaration on Digital Society and Value‑based Digital Government. https://digital-strategy.ec.europa.eu/en/news/berlin-declaration-digital-society-and-value-based-digital-government
+- European Commission. (2020b). Open Source Software Strategy 2020–2023: Think Open. https://commission.europa.eu/system/files/2023-02/en_ec_open_source_strategy_2020-2023.pdf
+- European Commission. (2022). Strasbourg Declaration on the Common values and challenges of European Public Administrations. https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/new-strasbourg-declaration
+- European Commission. (2026, January 12). Commission opens call for evidence on open‑source digital ecosystems. https://digital-strategy.ec.europa.eu/en/news/commission-opens-call-evidence-open-source-digital-ecosystemsEuropean Parliament. (2026, January 22).
+- European technological sovereignty and digital infrastructure (2025/2007(INI)). https://www.europarl.europa.eu/doceo/document/TA-9-2026-0022_EN.pdf
+- Færdselsstyrelsen. (2025). Færdselsstyrelsen tager første skridt mod open source‑pc’er i staten. https://www.fstyr.dk/nyheder/2025/dec/faerdselsstyrelsen-tager-foerste-skridt-mod-open-source-pc’er-i-staten
+- Folketinget. (2025, April 23). DIU høring digital suverænitet. https://www.ft.dk/da/aktuelt/nyheder/2025/04/diu-hoering-digital-suveraenitet
+- Kummer, C. (2025, June 18). Aarhus and Copenhagen choose open source. Interoperable Europe Portal. https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/aarhus-and-copenhagen-choose-open-source
+- Laursen, J. (2025, October 22). Aarhus udfaser Microsoftpakken. HK Kommunal. https://www.hk.dk/aktuelt/nyheder/2025/10/22/aarhus-udfaser-microsoftpakken
+- Linåker, J., & Muto, S. (2024). Software reuse through open source software in the public sector: A qualitative survey on policy and practice. RISE Research Institutes of Sweden.
+- Linåker, J., Nummelin Carlberg, A., & O’Riordan, C. (2024). Public Sector Open Source Program Offices – Archetypes for how to grow (common) institutional capabilities. European Commission, DIGIT. https://arxiv.org/pdf/2603.04891OS2. (2025, December 3).
+- OS2skole – en ny digital platform. https://boks.os2.eu/PA Consulting. (2026, January). Digital suverænitet i den offentlige sektor: Sammenfattende analyse. KL. https://www.kl.dk/
+- Regeringen, KL, & Danske Regioner. (2025). Den fællesoffentlige digitaliseringsstrategi 2026–2029. Digitaliseringsstyrelsen. https://digst.dk/
+- Ruff, N. (2022). The rise of the Open Source Program Offices (OSPO). In A. Brock (Ed.), Open source law, policy and practice. Oxford University Press.
+- von der Leyen, U. (2026, January 20). Special address at the World Economic Forum (SPEECH_26_150). European Commission. https://ec.europa.eu/
