@@ -17,11 +17,24 @@ header:
 
 ## TL;DR / Summary
 
-Denmark faces a growing need to strengthen digital sovereignty as dependencies on dominant technology vendors limit choice, transparency, and long‑term control over critical digital infrastructure. Open Source Software (OSS) emerges as a practical lever to address these challenges, enabling greater autonomy, interoperability, and shared innovation across the public sector. However, Danish public‑sector organisations currently lack the common capabilities required to adopt, steward, and collaborate effectively on OSS at scale. Years of outsourcing, fragmented procurement practices, and uneven technical maturity have created structural barriers that hinder reuse and collective development.
+My study ["National Support Structures and Capabilities for growing Digital Sovereignty through Sharing and Reuse of Open Source Software in the Public Sector"](https://arkitektur.digst.dk/sites/default/fileuploads/Danish-OSPO-Study-Final.pdf) is now out, commissioned by the Danish Agency for Digital Government (Digitaliseringsstyrelsen) and Local Government Denmark (KL). "Support structures" here means Open Source Program Offices (OSPOs) - the support functions that help organisations adopt, develop, and collaborate on open source in a structured, sustainable way.
 
-This report proposes a federated national support structure based on Open Source Program Offices (OSPOs) operating at national, regional, municipal, and institutional levels. The model combines policy translation, procurement and compliance support, shared digital collaboration infrastructure, community stewardship, training, and cross‑government coordination. It emphasises proximity‑based support, reusable artefacts, and scalable governance, organised through a national OSPO network, anchored in a National Government OSPO that provides strategic direction, shared tools, and alignment with European initiatives.
+Denmark, like much of Europe, increasingly frames digital sovereignty as a policy priority - and open source software as a practical lever for it, alongside interoperability, cost efficiency, and reduced vendor lock-in. But Danish public-sector organisations currently lack the shared capabilities needed to collaborate on OSS at scale.
 
-A phased maturity model outlines how Denmark can move from today’s fragmented efforts to a coherent ecosystem where OSS and open collaboration are embedded practices. Through coordinated investment, strengthened stewardship, and long‑term capability building, Denmark can enhance digital sovereignty while fostering transparency, resilience, and sustainable innovation across the public sector.
+Based on several interviews and workshops with Danish and European stakeholders, [the study](https://arkitektur.digst.dk/sites/default/fileuploads/Danish-OSPO-Study-Final.pdf) identifies ten capabilities public-sector organisations need to build - spanning policy translation, procurement guidance, license compliance, investment and prioritisation, shared digital infrastructure, stewardship of OSS projects, measurement, inner source enablement, community building, and training. Rather than a checklist, these span the full arc from strategy to day-to-day practice, and rarely fit within a single organisation working alone.
+
+To grow and provision these capabilities, the study proposes a federated OSPO structure across levels of government:
+
+- a national government OSPO anchoring policy translation and shared infrastructure
+- a regional government OSPO coordinating across the five regions
+- an association-based OSPO (through OS2) pooling municipal needs and resources
+- local government OSPOs embedded where capacity allows
+- institution-centric OSPOs for large public bodies with specific needs
+- supporting national functions, including stewards, a project brokerage, procurement bodies, and funding programmes, that ensure the long-term sustainability, discoverability, and operationalisation of shared OSS projects
+
+Recurring barriers were rarely about the technology itself. Years of outsourcing eroded internal technical capacity, procurement remains risk-averse toward OSS, and leadership support across government levels is inconsistent - reinforcing a status quo where incumbent vendors retain the advantage.
+
+[The study](https://arkitektur.digst.dk/sites/default/fileuploads/Danish-OSPO-Study-Final.pdf) proposes a staged roadmap - from foundational planning to a fully embedded, "open-by-default" ecosystem - and argues throughout that closing these gaps takes practical infrastructure (catalogues, templates, funding mechanisms, stewardship models), not policy statements alone.
 
 ## Longer version
 
