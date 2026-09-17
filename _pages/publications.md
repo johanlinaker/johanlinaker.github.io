@@ -53,7 +53,7 @@ header:
 <div id="technical-reports" />
 ## Technical reports | <a href="#top">Top</a>
 * <i class="flag-icons GB"></i> **Linåker, J.** (2026). *National Support Structures and Capabilities for growing Digital Sovereignty  through Sharing and Reuse of Open Source Software in the Public Sector*. RISE Research Institutes of Sweden, Lund, Sweden. Commissioned by the Danish Agency of Digital Government and Local Government Denmark.
-  - <i class="fa fa-file-pdf"></i> [PDF](https://arkitektur.digst.dk/sites/default/fileuploads/Danish-OSPO-Study-Final.pdf)
+  - <i class="ai ai-doi-square"></i> [DOI](https://ri.diva-portal.org/smash/record.jsf?pid=diva2%3A2102281&dswid=-9676) <i class="fa fa-file-pdf"></i> [PDF](https://ri.diva-portal.org/smash/get/diva2:2102281/FULLTEXT01.pdf)
 * <i class="flag-icons GB"></i> **Linåker, J.**, Gates, N., Chourmouziadis, Y., & Weber, S. (2025). *Open Source Software Adoption and Reuse in European Local Governments A Multiple-Case Study*. Directorate-General for Digital Services (DIGIT). 
    - <i class="ai ai-doi-square"></i> [DOI](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/multiple-case-study-public-sector-open-source) <i class="fa fa-file-pdf"></i> [PDF](/assets/slides/open-source-software-adoption-and-reuse-in-european-local-governments-a-multiple-case-study.pdf)
 * <i class="flag-icons GB"></i>Lundahl, J., Benmayor, A., **Linåker, J.**, Östling, A., Nordell, E., Wernicke, P., Burden H., & Stenberg, S. (2025). *Report on existing regulatory frameworks and governance mechanisms for mobility data sharing*. deployEMDS Consortium. 
