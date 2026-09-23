@@ -1,8 +1,13 @@
 ---
 permalink: /blog/
 title: "Blog"
+description: "Posts by Johan Linåker on open source software, open source AI, data sharing and digital sovereignty, in English and Swedish."
 layout: archive
 ---
+
+<p><em>Notes, thoughts and summaries of talks, papers and reports. Some in English, some in Swedish, depending on the context :)</em></p>
+
+{% include home-search.html %}
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
