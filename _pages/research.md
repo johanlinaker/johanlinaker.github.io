@@ -241,9 +241,9 @@ Areas Johan is currently investigating include:
 
         <li>Funded by the Swedish Public Employment Service.</li>
 
-        <li>Johan drafted and enabled the project through personal contacts and negotiations with the Employment Service. Johan was the prinicpal investigator for the project, driving research and collaboration with the employment service under the mentorship of Prof. Dr. Per Runeson.</li>
+        <li>Johan drafted and enabled the project through personal contacts and negotiations with the Employment Service. Johan was the principal investigator for the project, driving research and collaboration with the employment service under the mentorship of Prof. Dr. Per Runeson.</li>
 
-        <li>Lund University (SE/Coordinator), Swedish Public Employment Service.</li>
+        <li>Consortium: Lund University (SE/Coordinator), Swedish Public Employment Service.</li>
 
     </ul></li>
 

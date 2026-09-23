@@ -23,12 +23,6 @@ types:
 - id: paper-presentation
   label: Paper presentations
   short: Paper presentations
-- id: lecture
-  label: Guest lectures
-  short: Guest lectures
-- id: other
-  label: Other
-  short: Other
 items:
 - type: invited-talk
   year: 2026
@@ -131,7 +125,7 @@ items:
 - type: panel
   year: 2025
   text: '*Open Source for Europe’s Tech Sovereignty*. (2025, December). Cognit Day 2025. Invited panel, virtual.'
-- type: other
+- type: paper-presentation
   year: 2025
   text: '*Enabling PhD student collaboration in research groups*. (2025, December). Pedagogiska inspirationskonferensen-Genombrottet. Lund University, Lund, Sweden.'
   links:
@@ -232,13 +226,13 @@ items:
   links:
   - label: Recording
     url: https://www.youtube.com/watch?v=uPNxfkMJNHI&t=1s
-- type: lecture
+- type: invited-talk
   year: 2025
   text: '*Open Source Software and AI - The What, the Why, the How, and the When*. (2025, June). Part of an external course on AI engineering. RISE, Kisa, Sweden.'
   links:
   - label: Slides
     url: https://www.linaker.se/assets/slides/Open-Source-AI-External-course.pdf
-- type: lecture
+- type: invited-talk
   year: 2025
   text: '*Qualitative Data Analysis*. (2025, June). Part of Theory and methods of Software Engineering, PhD student course. Lund University, Lund, Sweden.'
   links:
