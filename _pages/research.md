@@ -3,14 +3,14 @@ permalink: /research/
 title: "Research & Bio"
 description: "Johan Linåker's research on open source software, open source AI and data sharing for digital sovereignty, interoperability and open innovation."
 header:
-  image: "/assets/images/research/teaser.jpg"
+  og_image: "/assets/images/research/teaser.jpg"
 ---
 
 <div id="top" />
 
 <div class="thumbnail-container">
 
-<img src="/assets/images/research/teaser.jpg" alt="https://unsplash.com/photos/group-of-people-with-signages-nKNrOZ5MXZY"></div>
+<img src="/assets/images/research/teaser.jpg" alt="A crowd of people holding up signs"></div>
 
 {% include research-sections.html %}
 

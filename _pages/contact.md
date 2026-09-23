@@ -3,12 +3,12 @@ permalink: /contact/
 title: "Ways of getting in touch"
 description: "How to reach Johan Linåker about research collaboration, talks, interviews and media requests."
 header:
-  image: "/assets/images/contact/teaser.jpg"
+  og_image: "/assets/images/contact/teaser.jpg"
 ---
 
 
 <div class="thumbnail-container">
-<img src="/assets/images/contact/teaser.jpg" alt="https://unsplash.com/photos/flat-screen-tv-0bTdk1u42KY"></div>
+<img src="/assets/images/contact/teaser.jpg" alt="Telephones hanging on wall"></div>
 
 <p><span><i class="fa fa-envelope"></i><b> E-mail</b><br />
 <a href="mailto:johan [dot] linaker [at] ri [dot] se" target="_blank">johan [dot] linaker [at] ri [dot] se</a></span></p>
