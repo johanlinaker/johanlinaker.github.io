@@ -1,0 +1,66 @@
+# Checks every page of www.linaker.se for broken links once a month,
+# and keeps a single GitHub issue up to date with anything it finds.
+# Run it by hand any time: Actions tab → "Check links" → "Run workflow".
+name: Check links
+
+on:
+  schedule:
+    - cron: "0 6 1 * *"   # 06:00 UTC on the 1st of every month
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5   # needed so lychee can read .lycheeignore
+
+      - name: Collect page URLs from the sitemap
+        id: pages
+        run: |
+          sitemap=$(curl -sfL https://www.linaker.se/sitemap.xml || true)
+          # Take every <loc>, skip PDFs, and point them all at www.linaker.se
+          # (the sitemap may still use the johanlinaker.github.io address)
+          urls=$(printf '%s' "$sitemap" \
+            | grep -o '<loc>[^<]*</loc>' \
+            | sed -E 's#</?loc>##g; s#^https?://[^/]+/+#https://www.linaker.se/#' \
+            | grep -vi '\.pdf$' | sort -u | tr '\n' ' ' || true)
+          [ -z "$urls" ] && urls="https://www.linaker.se/"
+          echo "Checking $(wc -w <<< "$urls") pages"
+          echo "urls=$urls" >> "$GITHUB_OUTPUT"
+
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          fail: false
+          output: ./lychee/out.md
+          args: >-
+            --no-progress
+            --max-concurrency 8
+            --max-retries 3
+            --timeout 30
+            --accept '200..=299,403,429'
+            --user-agent 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36'
+            ${{ steps.pages.outputs.urls }}
+
+      - name: Find an open broken-links issue
+        if: steps.lychee.outputs.exit_code != 0
+        id: existing
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          n=$(gh issue list --repo "$GITHUB_REPOSITORY" --label broken-links --state open --json number --jq '.[0].number // empty')
+          echo "number=$n" >> "$GITHUB_OUTPUT"
+
+      - name: Create or update the issue
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v6
+        with:
+          title: Broken links on linaker.se
+          content-filepath: ./lychee/out.md
+          labels: broken-links
+          issue-number: ${{ steps.existing.outputs.number }}
