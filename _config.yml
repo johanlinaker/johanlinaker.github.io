@@ -23,6 +23,7 @@ search: true
 search_full_content: true
 url: 'https://www.linaker.se' # your main domain
 baseurl: '' # if you're using custom domain keep this blank example: baseurl: ''
+google_site_verification: 3kejuat6GlH0Ye_WRYP9HsaMkmepF2-x6m03o-q5F1s
 
 # Build settings
 markdown: kramdown
