@@ -3,6 +3,7 @@ title: "Evig nyttjanderätt = evig inlåsning"
 seo_title: "Evig nyttjanderätt = evig inlåsning"
 excerpt: "Att offentlig sektor lider av leverantörssinlåsningar är ingen löpsedelsnyhet. Dock börjar det bli dags att vi tar tag i detta grundläggande problem när vissa av våra beroenden helt plötsligt har börjat utvecklas till brickor i ett geopolitiskt spel."
 date: 2025-12-08T01:00:00-04:00
+locale: "sv-SE"
 categories:
   - blog
 Tags:

@@ -3,6 +3,7 @@ title: EUs suveränitetspaket visar vägen mot digital rådighet
 seo_title: EUs suveränitetspaket visar vägen mot digital rådighet
 excerpt: "EU:s suveränitetspaket markerar en strategisk förflyttning mot ökad kontroll över moln, AI och data. Med satsningar på öppen källkod och minskade beroenden av tredjeland vill unionen bygga en mer konkurrenskraftig, säker och resilient digital infrastruktur i Europa. Här följer en analys jag ursprungligen skrev på RI.se."
 date: 2026-06-04T10:10:02+02:00
+locale: "sv-SE"
 categories:
   - blog
 tags:

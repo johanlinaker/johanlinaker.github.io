@@ -3,6 +3,7 @@ title: EU Kommissionen gör molnupphandling med digital suveränitet som grundkr
 seo_title: EU Kommissionen gör molnupphandling med digital suveränitet som grundkrav
 excerpt: Roliga nyheter från Kommissionen som nyligen annonserade [utfallet av sin upphandling av digitalt suveräna molnleverantörer](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_833), totalt värt €180 million. Post Telecom tillsammans med CleverCloud and OVHcloud, StackIT, Scaleway, samt Proximus, tillsammans med S3NS (ett joint venture mellan Thales och Google Cloud (?!)), Clarence och Mistral.
 date: 2026-04-17T10:37:57+02:00
+locale: "sv-SE"
 categories:
   - blog
 tags:

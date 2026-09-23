@@ -3,6 +3,7 @@ title: Europakommentaren - Samverkan nyckel till stärkt europeisk digital suver
 seo_title: Europakommentaren - Samverkan nyckel till stärkt europeisk digital suveränitet och kontroll
 excerpt: Europa har under lång tid byggt sin digitala infrastruktur på teknik från ett fåtal utomeuropeiska leverantörer. I ett allt mer osäkert geopolitiskt läge har detta blivit en strategisk sårbarhet. Nu växer nya former av europeiskt samarbete fram kring öppna digitala lösningar och här finns viktiga möjligheter tillika lärdomar för Sverige. Och de potentiella vinsterna för Sverige ska inte underskattas. Nedan följer en analys jag nyligen skrev på Europakommentaren.
 date: 2026-05-15T10:14:02+02:00
+locale: "sv-SE"
 categories:
   - blog
 tags:
