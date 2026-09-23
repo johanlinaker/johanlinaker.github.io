@@ -1,0 +1,623 @@
+# Talks data for /talks/
+# The page is sectioned by year (section_by: year); the chips filter by format (`types`).
+# Add a new talk by copying an existing one under `items`; keep the newest first.
+#   type:  one of the ids under `types` (the talk format)
+#   year:  the section it appears in
+#   text:  the entry, in Markdown
+#   links: optional list of {label, url}
+section_by: year
+type_label: Format
+types:
+- id: keynote
+  label: Keynotes
+  short: Keynotes
+- id: invited-talk
+  label: Invited talks
+  short: Invited talks
+- id: submitted-talk
+  label: Submitted talks
+  short: Submitted talks
+- id: panel
+  label: Panels
+  short: Panels
+- id: paper-presentation
+  label: Paper presentations
+  short: Paper presentations
+- id: lecture
+  label: Guest lectures
+  short: Guest lectures
+- id: other
+  label: Other
+  short: Other
+items:
+- type: invited-talk
+  year: 2026
+  text: '*Öppenhet och Digital Suveränitet i en Skiftande Omvärld*. (2026, September). SeniorNet. Invited talk, virtual.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Digital-suveränitet-SeniorNet.pdf
+- type: panel
+  year: 2026
+  text: '*OPEN - vi deler*. (2026, Aug). Vilde Teknologier, Aarhus municipality, Denmark. Invited panel, Aarhus, Denmark.'
+- type: invited-talk
+  year: 2026
+  text: '*Öppenhet och Digital Suveränitet i en Skiftande Omvärld*. (2026, June). Region Örebro län. Invited talk, virtual.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Digital-suveränitet-Orebro.pdf
+- type: invited-talk
+  year: 2026
+  text: '*Balancing Digital Sovereignty and Openness in a Changing World*. (2026, May). Nordic National Government Service Centres. Invited talk, virtual.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Digital-sov-SSC.pdf
+- type: invited-talk
+  year: 2026
+  text: '*Balancing Digital Sovereignty and Openness in a Changing World*. (2026, May). Dutch Embassy trade delegation. Invited talk, virtual.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Digital-sov-NL.pdf
+- type: invited-talk
+  year: 2026
+  text: '*Making Impact Visible in Funding of Open Source Software: A Study of the Funders Perspective*. (2026, May). NGI Commons Taskforce. Invited talk, virtual.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Funding-Impact-DC-taskforce.pdf
+- type: invited-talk
+  year: 2026
+  text: '*Öppenhet och Digital Suveränitet i en Skiftande Omvärld*. (2026, May). LTH:s Näringslivsråd. Invited talk, Lund, Sweden.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Digital-suveränitet-lth-naringslivsråd.pdf
+- type: submitted-talk
+  year: 2026
+  text: '*Digital Sovereignty through Open Source Enabling Europe’s strategic opportunity*. (2026, April). FOSS-North. Submitted talk, Gothenburg, Sweden.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Digital-sov-foss-north
+  - label: Recording
+    url: https://www.youtube.com/watch?v=6XPJOHyBKeY
+- type: invited-talk
+  year: 2026
+  text: '*Offentlig upphandling som verktyg för att främja digital suveränitet och svensk/europeisk utveckling*. (2026, April). Cybernoden. Invited talk, virtual.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Upphandling%20som%20drivkraft%20för%20digital%20suveränitet%20-%20cybernoden.pdf
+- type: invited-talk
+  year: 2026
+  text: '*Öppenhet och Digital Suveränitet i en Skiftande Omvärld*. (2026, March). eSam Utvecklingsforum. Invited talk, virtual.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Digital-suveränitet-eSam.pdf
+- type: panel
+  year: 2026
+  text: '*OSPOs for Public Good*. (2026, February). Invited panellist, National Open Source Innovation Summit 2026, Dublin, Ireland.'
+  links:
+  - label: Recording
+    url: https://www.youtube.com/watch?v=Ucyqgg5GZZ8
+- type: panel
+  year: 2026
+  text: '*Making Open Source Work in the Public Sector*. (2026, Febuary). Panel moderator, National Open Source Innovation Summit 2026, Dublin, Ireland.'
+- type: invited-talk
+  year: 2026
+  text: '*Digital suveränitet och beredskap inom hälso och sjukvård*. (2026, January). Hälso- och Sjukvårdsnätverket. Invited talk, virtual.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Digital-suveränitet-HSVN.pdf
+- type: submitted-talk
+  year: 2026
+  text: '*Securing the Next Grant: Early Insights on Aligning FOSS and Funders*. (2026, January). Funding the FOSS Ecosystem Devroom. Submitted talk, FOSDEM, Brussels, Belgium.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Funding%20Devroom%20FOSDEM%202026.pdf
+- type: submitted-talk
+  year: 2026
+  text: '*Forging Digital Sovereignty Ground Up through Local Governments with Open Source Public Digital Infrastructure*. (2026, January). Building Europe’s Public Digital Infrastructure Devroom. Submitted talk, FOSDEM, Brussels, Belgium.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Local-Gov-OSOR-FOSDEM-v2.pdf
+- type: panel
+  year: 2026
+  text: '*OSPOs as Sovereignty Engines*. (2026, January). Panel moderator, EU Open Source Policy Summit, Brussels, Belgium.'
+  links:
+  - label: Recording
+    url: https://www.youtube.com/watch?v=qcxaBetVrLc
+- type: invited-talk
+  year: 2026
+  text: '*Varför, vad och när bör ni dela programvara?*. (2026, January). Frukostseminarie - Skapa värde med Open Source. Invited talk, Great IT/Redpill Linpro, Gothenburg, Sweden.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSS-Contribution-Strategies-Great-IT-GBG.pdf
+- type: panel
+  year: 2025
+  text: '*Open Source for Europe’s Tech Sovereignty*. (2025, December). Cognit Day 2025. Invited panel, virtual.'
+- type: other
+  year: 2025
+  text: '*Enabling PhD student collaboration in research groups*. (2025, December). Pedagogiska inspirationskonferensen-Genombrottet. Lund University, Lund, Sweden.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/PPT%20LTH%202025%20pedagog%20conference.pdf
+- type: submitted-talk
+  year: 2025
+  text: '*A Cartography of Collaboration in Open Source AI: Mapping Collaboration in the Development and Reuse Lifecycle of 12 Open Large Language Models*. (2025, November). OpenForum Academy. Submitted talk, Rio de Janeiro, Brazil.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Open-Source-AI-Collab-OFA.pdf
+  - label: Recording
+    url: https://www.youtube.com/watch?v=1vx2PEM5hYc
+- type: submitted-talk
+  year: 2025
+  text: '*Public sector open source software projects – How is development organized?*. (2025, November). OpenForum Academy. Submitted talk, Rio de Janeiro, Brazil.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Government-Collaboration-OFA.pdf
+- type: invited-talk
+  year: 2025
+  text: '*Hälsa och säkerhet hos öppen programvara vid utveckling och anskaffning*. (2025, November). Arkitekturnätverket hos Skatteverket. Invited talk, virtual, Sweden.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSS-health-public-sector-TRV.pdf
+- type: invited-talk
+  year: 2025
+  text: '*Public sector Open Source Program Offices - Archetypes and practices*. (2025, November). Invited talk, OSPO training for the Cambodian Public Administrations, part of the UNDP Open Source Ecosystem Enabler (OSEE) program, virtual, Cambodia.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSPO-training-UNDP.pdf
+- type: invited-talk
+  year: 2025
+  text: '*Digital suveränitet genom öppenhet*. (2025, October). Invited talk, Informationssäkerhetsnätverket inom Dataföreningen, virtual, Sweden.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Digital-suveränitet-Dataföreningen.pdf
+- type: panel
+  year: 2025
+  text: '*The Danish Public Sector & Open Source: What is Missing?*. (2025, October). Invited Panel Moderator, OFE Capital Series Denmark, Folketinget, Copenhagen, Denmark.'
+- type: panel
+  year: 2025
+  text: '*Open Source Software in Research*. (2025, October). Invited panel, Lund University National Open Science community, virtual, Sweden.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSS-as-open-science-SciLifeLab-panel.pdf
+- type: invited-talk
+  year: 2025
+  text: '*Hälsa och säkerhet hos öppen programvara vid utveckling och anskaffning*. (2025, October). Inner/open sourcing inom Svensk offentlig sektor. Invited talk, Trafikverket, Stockholm, Sweden.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSS-health-public-sector-TRV.pdf
+- type: invited-talk
+  year: 2025
+  text: '*Open Source Software Adoption and Reuse in European Local Governments: A Multiple-Case Study*. (2025, October). OSOR Webinar on Open Source Software Adoption and Reuse in European Local Governments. Invited talk, Virtual.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Local-gov-OSOR.pdf
+  - label: Recording
+    url: https://www.youtube.com/watch?v=LD40hS8y_yg&t=525s
+- type: invited-talk
+  year: 2025
+  text: '*Digital Sovereignty through Open Source - Enabling Europe’s strategic opportunity*. (2025, October). Luxembourg Open Source Conference. Invited talk, Luxembourg.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Open-Source-for-digita-sovereignty-LUX.pdf
+- type: invited-talk
+  year: 2025
+  text: '*Open Source Software Adoption and Reuse in European Local Governments: A Multiple-Case Study*. (2025, October). Luxembourg Open Source Conference. Invited talk, Luxembourg.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Local-gov-OSOR-Luxembourg.pdf
+- type: keynote
+  year: 2025
+  text: '*Digital Sovereignty through Open Source - Enabling Europe’s strategic opportunity*. (2025, September). OSPOs for EUROPE 2025, hosted by Digital-Hub.SH, Schleswig-Holstein. Keynote, Brussels, Belgium.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Keynote-OSPOs-for-Europe-Brussels.pdf
+- type: submitted-talk
+  year: 2025
+  text: '*Health Check-ups on Open Source Software Projects - Managing Risks while Promoting (Re)use*. (2025, August). Linux Foundation Open Source Summit Europe. Submitted talk, Amsterdam, Netherlands.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSS-health-HASMOSS-OSSEU-2025.pdf
+  - label: Recording
+    url: https://www.youtube.com/watch?v=7qlGQReMCoQ
+- type: submitted-talk
+  year: 2025
+  text: '*How Development and Collaboration is Done in Public Sector Open Source Software Projects*. (2025, August). Linux Foundation Open Source Summit Europe. Submitted talk (together with Sachiko Muto), Amsterdam, Netherlands.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Government-Collaboration-LFOSSEU-Amsterdam.pdf
+  - label: Recording
+    url: https://www.youtube.com/watch?v=mhRvNprPzCw
+- type: panel
+  year: 2025
+  text: '*Panel Discussion: Driving the UN Digital Compact With Open Source*. (2025, August). Linux Foundation Open Source Summit Europe. Submitted panel (together with Sachiko Muto), Amsterdam, Netherlands.'
+  links:
+  - label: Recording
+    url: https://www.youtube.com/watch?v=uPNxfkMJNHI&t=1s
+- type: lecture
+  year: 2025
+  text: '*Open Source Software and AI - The What, the Why, the How, and the When*. (2025, June). Part of an external course on AI engineering. RISE, Kisa, Sweden.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Open-Source-AI-External-course.pdf
+- type: lecture
+  year: 2025
+  text: '*Qualitative Data Analysis*. (2025, June). Part of Theory and methods of Software Engineering, PhD student course. Lund University, Lund, Sweden.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Qualitative-Data-Analysis-LU.pdf
+- type: invited-talk
+  year: 2025
+  text: '*Public Sector Open Source Program Offices Archetypes for how to Grow (Common) Institutional Capabilities*. (2025, May). OSOR Webinar on OSPOs - Public Sector Open Source Programme Offices - The role of Open Source Programme Offices (OSPOs) in transforming public services with open source. Invited talk, Virtual.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Public-sector-OSPOs-OSOR-webinar-2025.pdf
+  - label: Recording
+    url: https://www.youtube.com/watch?v=OiFfQP4-23g
+- type: keynote
+  year: 2025
+  text: '*Growing the courage to change what “works”*. (2025, May). OS2 and OpenData.DK Annual Summit. Keynote, Vejle, Denmark.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Keynote-OS2-OpendataDK-final.pdf
+- type: invited-talk
+  year: 2025
+  text: '*Procurement and acquisition of Open Source Software Challenges and Practices from a Swedish context*. (2025, May). Open Ireland Network workshop on public procurement of open source. Invited talk, Dublin, Ireland.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSS-procurement-Dublin.pdf
+- type: invited-talk
+  year: 2025
+  text: '*Hur offentlig sektor använder öppen programvara för att stärka Europas digital suveränitet*. (2025, March). Sambruk. Invited talk, Virtual.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSS-and-Digital-sovereignty-Sambruk.pdf
+- type: invited-talk
+  year: 2025
+  text: '*Open Source Strategy and Risk Management - A birds-eye view*. (2025, Feb). The Turing Way, Alan Turing Institute. Invited talk, virtual.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSS-intro-turing-way.pdf
+- type: submitted-talk
+  year: 2025
+  text: '*How is Development and Collaboration Done in Public Sector Open Source Software Projects? Insights from Six Mature Case Studies*. (2025, Feb). Government Collaboration Devroom, FOSDEM. Submitted talk, Brussels, Belgium.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Government-Collaboration-FOSDEM.pdf
+- type: submitted-talk
+  year: 2025
+  text: '*What do maintainers need from funders and others? We asked Maintainers to find out.*. (2025, Feb). Funding the FOSS Ecosystem Devroom, FOSDEM. Submitted talk, Brussels, Belgium.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Maintainer-Funding-FOSDEM.pdf
+- type: invited-talk
+  year: 2025
+  text: '*Health Check-ups on Open Source Software Projects Managing Risks while Promoting (Re)use*. (2025, Jan). Avancerad Digitalisering - Vinnova. Invited talk, Gothenburg, Sweden.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSS-health-HASMOSS-Avancerad-Digitalisering.pdf
+  - label: Recording
+    url: https://www.youtube.com/watch?v=n38MpFqEdXU&t=303s
+- type: invited-talk
+  year: 2025
+  text: '*Public Sector Open Source Program Offices - Archetypes for how to Grow (Common) Institutional Capabilities*. (2025, Jan). Helmholtz Open Science Seminar. Invited talk, Virtual.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Public-sector-OSPOs-Helmholtz-Open-Science-2024-OSOR-final.pdf
+  - label: Recording
+    url: https://av.tib.eu/media/69822
+- type: invited-talk
+  year: 2024
+  text: '*Opening up for share and reuse of data - Why is it so hard?*. (2024, Nov). AI and Digitalisation seminar at the Faculty of Engineering, Lund University. Invited talk, Lund, Sweden.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Opening-up-for-share-and-reuse-of-data-AID-LTH.pdf
+- type: submitted-talk
+  year: 2024
+  text: '*Public Sector Open Source Program Offices - Archetypes for how to Grow (Common) Institutional Capabilities*. (2024, Nov). OpenForum Academy Symposium. Submitted talk, Boston, US.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Public-sector-OSPOs-OFA-Symposium-2024-OSOR-final.pdf
+- type: paper-presentation
+  year: 2024
+  text: '*Sustaining Maintenance Labor for Healthy Open Source Software Projects through Human Infrastructure - A Maintainer Perspective*. (2024, Oct). 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement. Paper presentation, Barcelona, Spain.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSS-Health-and-Human-Infrastructure-ESEM.pdf
+  - label: Paper DOI
+    url: https://dl.acm.org/doi/10.1145/3674805.3686667
+  - label: Paper PDF
+    url: https://arxiv.org/pdf/2408.06723
+- type: invited-talk
+  year: 2024
+  text: '*Software Reuse through Open Source Software in the Public Sector: A qualitative survey on Policy and Practice*. (2024, Sept). Fællesoffentlig Digital Arkitektur Konference. Invited talk, Copenhagen, Denmark.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSS-for-reuse-Faellesoffentlig-Digital-Arkitektur.pdf
+- type: invited-talk
+  year: 2024
+  text: '*Health Check-ups on Open Source Software Projects Managing Risks while Promoting (Re)use*. (2024, May). Linux Foundation OSPOlogy Workshop. Invited talk, Malmö, Sweden.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSS-health-HASMOSS-OSPOlogy-Malmo.pdf
+- type: invited-talk
+  year: 2024
+  text: '*Navigating the Future with OSS in the Automotive Industry*. (2024, May). Eclipse SDV Working Group. Invited talk, Virtual.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Automotive-OSS-Vision-Paper-AOSS.pdf
+  - label: Underpinning report
+    url: https://www.linaker.se/assets/slides/VISION%20PAPER_%20Open%20Source%20Software%20in%20the%20Automotive%20Industry.pdf
+  - label: Recording
+    url: https://www.youtube.com/watch?v=A4Nl7PfcG0Y
+- type: invited-talk
+  year: 2024
+  text: '*Time to Rethink Collaboration and Competition - A Study on the Role of Open Source Software in Enabling Tomorrow’s Automotive Industry*. (2024, May). Automotive Open Source Summit. Invited talk, Starnberg, Germany.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Automotive-OSS-Vision-Paper-AOSS.pdf
+  - label: Underpinning report
+    url: https://www.linaker.se/assets/slides/VISION%20PAPER_%20Open%20Source%20Software%20in%20the%20Automotive%20Industry.pdf
+- type: invited-talk
+  year: 2024
+  text: '*Öppna (Upphandlings)data - Verktyg och möjlighet till transparens och innovation*. (2024, April). Skånska kommuners Öppna Data nätverk. Invited talk, Lund, Sweden.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Open-Procurement-Data.pdf
+- type: submitted-talk
+  year: 2024
+  text: '*Software Reuse through Open Source Software in the Public Sector A qualitative survey on Policy and Practice*. (2024, April). FOSS-North Conference. Submitted talk, Gothenburg, Sweden.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSS-for-reuse-foss-north.pdf
+  - label: Underpinning report
+    url: https://www.diva-portal.org/smash/get/diva2:1848137/FULLTEXT01.pdf
+  - label: Recording
+    url: https://www.youtube.com/watch?v=3fXwcizsK4g&t=2563s
+- type: invited-talk
+  year: 2024
+  text: '*Open Source Software and Open Science*. (2024, April). AIoTwins Research Workshop. Invited talk, Stockholm, Sweden.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSS-intro-open-science.pdf
+- type: invited-talk
+  year: 2024
+  text: '*Municipal collaboration on Open Source Software - A lever for innovation in Smart Cities*. (2024, April). Nordic Connected Society. Invited talk, Malmö, Sweden.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Nordic-Connected-Society-Malmoe.pdf
+  - label: Recording
+    url: https://www.youtube.com/watch?v=r70K1JUSlNc&t=3s
+- type: invited-talk
+  year: 2024
+  text: '*Open Source AI – An undefined divide between community and vendor development*. (2024, March). RISE AI Network. Invited talk, Virtual.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Open-Source-AI.pdf
+- type: invited-talk
+  year: 2023
+  text: '*Municipal collaboration on Open Source Software - A lever for innovation, transparency and sovereignty*. (2023, November). Coding Cities. Invited talk, Malmö, Sweden.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Coding-Cities-Malmoe.pdf
+- type: invited-talk
+  year: 2023
+  text: '*Supporting Open Source Software in the European Public Sector The Role of Open Source Programme Offices (OSPOs)*. (2023, October). European Commission’s Open Source Observatory (OSOR) turns 15 Awards. Invited talk, Brussels, Belgium.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Public-sector-OSPOs-OSOR-Awards-2023-OSOR-final.pdf
+  - label: Recording
+    url: https://www.youtube.com/watch?v=GHbI0Aoj3Z0&t=938s
+- type: submitted-talk
+  year: 2023
+  text: '*Behind the Scenes of Open Source Program Offices in the Public Sector: Insights and Guidelines*. (2023, September). Linux Foundation Open Source Summit Europe. Submitted talk, Bilbao, Spain.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Public-sector-OSPOs-OSSEU-2023.pdf
+- type: submitted-talk
+  year: 2023
+  text: '*Municipal collaboration on Open Source Software - Why is it so hard?*. (2023, April). The International Symposium on Open Collaboration. Submitted talk, Virtual.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Municipal-OSS-OpenSym-OSS-2023.pdf
+- type: panel
+  year: 2023
+  text: '*Förvaltningsmodeller Öppen Källkod*. (2023, June). NOSAD workshop. Invited panel and talk, Hybrid.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSS-governance-NOSAD-final.pdf
+- type: submitted-talk
+  year: 2023
+  text: '*Municipal collaboration on Open Source Software - Why is it so hard?*. (2023, April). FOSS-North Conference. Submitted talk, Gothenburg, Sweden.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Municipal-OSS-FOSS-North.pdf
+  - label: Recording
+    url: https://www.youtube.com/watch?v=P5i8P8EJr_c
+- type: panel
+  year: 2023
+  text: '*Cybersecurity: Understanding the Role of Open Source in Society*. (2023, April). OpenForum Europe Seminar. Open Source Driving the European Digital Decade. Panel, Stockholm, Sweden.'
+- type: invited-talk
+  year: 2023
+  text: '*A Study on OSPOs in the European Public Sector*. (2023, March). Open Source Observatory (OSOR) webinar on Public services open-source governance and collaboration. Invited talk, Virtual.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Public-sector-OSPOs-OSOR-virtual.pdf
+- type: invited-talk
+  year: 2023
+  text: '*HASMOSS - Health and Security Management for Open Source Software project presentation*. (2023, January). Cybernode Collaboration Conference. Invited talk, Stockholm, Sweden.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/HASMOSS-CyberSecDay-Sthlm-RI.pdf
+- type: paper-presentation
+  year: 2022
+  text: '*How to characterize the health of an Open Source Software project? A snowball literature review of an emerging practice*. (2022, September). Open Source Systems (OSS) Conference. Paper presentation, Madrid, Spain.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSS-health-HASMOSS-OSS22-Madrid-RI.pdf
+  - label: Paper DOI
+    url: https://doi.org/10.1145/3555051.3555067
+  - label: Paper PDF
+    url: https://dl.acm.org/doi/pdf/10.1145/3555051.3555067
+  - label: Data set from literature review
+    url: https://doi.org/10.6084/m9.figshare.20137175
+- type: paper-presentation
+  year: 2022
+  text: '*Sustaining Open Data as a Digital Common Design principles for Common Pool Resources applied to Open Data Ecosystems*. (2022, September). International Symposium on Open Collaboration (OpenSym). Paper presentation, Madrid, Spain.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Digital-Commons-OpenSym22-Madrid-RI.pdf
+- type: invited-talk
+  year: 2022
+  text: '*What to Share, When, and Where - Creating a Distributed and Efficient Contribution Process While Balancing Value and Risk*. (2022, September). Linux Foundation OSPOlogy Workshop. Invited talk, Stockholm, Sweden.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSS-Contribution-Strategies-OSPOlogy-Sthlm-RI.pdf
+  - label: Paper DOI
+    url: https://doi.org/10.1007/s10664-020-09855-2
+  - label: Paper PDF
+    url: https://arxiv.org/abs/2208.00047
+  - label: Contribution request form questions
+    url: https://doi.org/10.6084/m9.figshare.21104167
+- type: submitted-talk
+  year: 2022
+  text: '*What to Share, When, and Where - Creating a Distributed and Efficient Contribution Process While Balancing Value and Risk*. (2022, September). Linux Foundation Open Source Summit Europe. Submitted talk, Dublin, Ireland.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSS-Contribution-Strategies-OSSEU-Dublin-RI.pdf
+  - label: Paper DOI
+    url: https://doi.org/10.1007/s10664-020-09855-2
+  - label: Paper PDF
+    url: https://arxiv.org/abs/2208.00047
+  - label: Contribution request form questions
+    url: https://doi.org/10.6084/m9.figshare.21104167
+  - label: Recording
+    url: https://www.youtube.com/watch?v=z7v7VOCSqJg
+- type: submitted-talk
+  year: 2022
+  text: '*How to Identify and Avoid Cracks and Bumps in your Digital Infrastructure? -> By Considering the Health of Open Source in your Intake Process*. (2022, September). Linux Foundation Open Source Summit Europe. Submitted talk, Dublin, Ireland.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSS-health-HASMOSS-OSSEU-Dublin-RI.pdf
+  - label: Paper DOI
+    url: https://doi.org/10.1145/3555051.3555067
+  - label: Paper PDF
+    url: https://dl.acm.org/doi/pdf/10.1145/3555051.3555067
+  - label: Data set from literature review
+    url: https://doi.org/10.6084/m9.figshare.20137175
+  - label: Recording
+    url: https://www.youtube.com/watch?v=uVIeRMBiTLY
+- type: invited-talk
+  year: 2022
+  text: '*Öppen programvara och upphandling*. (2022, September). Offentliga Affärer. Invited talk, Virtual.'
+- type: panel
+  year: 2022
+  text: '*Hur ska vi ha råd och hur ska vi orka hålla i? Är öppen utveckling och samverkan svaret? - dialog på Tema Data, AI och hållbar digitalisering*. (2022, September). En framtidssäkrad allmännytta. Sveriges Allmännytta. Panel, Virtual.'
+- type: panel
+  year: 2022
+  text: '*OSPOs! New Approaches to Public Sector Open Source*. (2022, June). OpenForum Europe Seminar. EU Digital Assembly. Panel, Toulouse, France.'
+- type: invited-talk
+  year: 2022
+  text: '*Acquisition and Development of Open Source Software in the Public Sector*. (2022, May). Open Source Observatory (OSOR) webinar on Public Procurement of Open Source Software. Invited talk, Virtual.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSS-development-and-acquisition-OSOR-webinar.pdf
+  - label: Recording
+    url: https://www.youtube.com/watch?v=GanPngEGS6U
+- type: panel
+  year: 2022
+  text: '*Open Strategic Autonomy: Public and Private Sector Perspectives*. (March, 2022). OpenForum Europe seminar. Panel, Virtual.'
+- type: invited-talk
+  year: 2022
+  text: '*Proaktiv riskhantering för sårbarheter inom öppna programvaruprojekt*. (2022, March). NOSAD workshop. Invited talk, Virtual.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSS-health-NOSAD.pdf
+- type: invited-talk
+  year: 2022
+  text: '*JobTech Dev – Exempel på Delning och Samverkan inom Myndighets-drivna Öppna Data-ekosystem*. (February, 2022). Swedish Jobtech. Invited talk, Virtual.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Swedish%20JobTech%20seminar.pdf
+  - label: Recording
+    url: https://www.youtube.com/watch?v=WHkZFibyFkM
+- type: invited-talk
+  year: 2021
+  text: '*Utveckling och anskaffning av Öppen programvara inom och av offentlig sektor*. (2021, September). Open Source - Enabler för Resurseffektiv Offentlig Digitalisering och Ökad Kommunal Samverkan. Sambruk. Invited talk, Virtual.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSS-utveckling-och-anskaffning-no-OBS-Sambruk.pdf
+- type: invited-talk
+  year: 2021
+  text: '*Health and Sustainability of Open Source Software from a Public Sector Perspective*. (2021, May). Open Source Observatory (OSOR) webinar on Sustainability of Open Source Software communities. Invited talk, Virtual.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSS-health-OSOR-no-obs.pdf
+- type: invited-talk
+  year: 2020
+  text: '*Hållbara digitala plattformar och ekosystem*. (2020, November). Internetdagarna. Invited talk, Stockholm, Sweden.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Internetdagarna.pdf
+- type: invited-talk
+  year: 2020
+  text: '*MyData – Datadelning med individen i centrum*. (2020, October). AILund. Invited talk, Lund, Sweden.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/MyData
+- type: invited-talk
+  year: 2020
+  text: '*Samverkan inom Ekosystem för Myndighetsdrivna Öppna Data-plattformar*. (2020, October). NOSAD workshop. Invited talk, Virtual.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Dataekosystem_presentation.pdf
+- type: invited-talk
+  year: 2020
+  text: '*Myndigheter som öppna plattformsbyggare*. (2020, October). Föreningen för arkiv och informationsförvaltning. Invited talk, Virtual.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/FAI.pdf
+- type: invited-talk
+  year: 2020
+  text: '*Myndigheter som öppna plattformsbyggare*. (2020, October). Svenska Koha-Nätverket. Invited talk, Lund, Sweden.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/FAI.pdf
+  - label: Recording
+    url: https://www.youtube.com/watch?v=NTg_pgrG9K8
+- type: submitted-talk
+  year: 2020
+  text: '*Opening up the Swedish Labour Market Through Cross-sector Collaboration*. (2020, February). Foss-North. Submitted talk, Gothenburg, Sweden.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Fossnorth.pdf
+- type: submitted-talk
+  year: 2020
+  text: '*Application of Health metrics on a Cross-sector software ecosystem*. (2020, January). Community Health Analytics Open Source Software Conference Europe (CHAOSSCon EU). Submitted talk, Brussels, Belgium.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/ChaossCon2020.pdf
+  - label: Recording
+    url: https://www.youtube.com/watch?v=G6cdkn44RRs&t=70s
+- type: submitted-talk
+  year: 2019
+  text: '*Opening up the Swedish Labour Market Through Cross-sector Collaboration*. (2019, October). Linux Foundation Open Source Summit Europe. Submitted talk, Lyon, France.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSS_Public_Sector.pdf
+- type: submitted-talk
+  year: 2019
+  text: '*Grounding Contributions and Community Engagement in Your Business Goals*. (2019, October). Linux Foundation Open Source Summit Europe. Submitted talk, Lyon, France.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSSEU19_ThesisTalkFinal.pdf
+- type: submitted-talk
+  year: 2018
+  text: '*Purpose-Driven Contribution Decisions*. (2018, March). Linux Foundation Open Source Leadership Summit. Submitted talk. San Francisco, US.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSLS_Purpose-driven_Contribution_Decisionsnarv2.pdf
+- type: submitted-talk
+  year: 2017
+  text: '*Purpose-Driven Community Engagement*. (2017, October). Linux Foundation Open Source Summit Europe. Submitted talk. Prague, Czech Republic.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSS%20EuropePDCV3NAR1023.pdf

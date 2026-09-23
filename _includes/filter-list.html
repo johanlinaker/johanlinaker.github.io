@@ -11,7 +11,7 @@
 <input type="search" id="pubs-q" placeholder="{{ include.placeholder | default: 'Search…' }}" autocomplete="off">
 </div>
 <div class="pubs-filter__row" role="group" aria-labelledby="pubs-l-type">
-<span class="pubs-filter__label" id="pubs-l-type">Type</span>
+<span class="pubs-filter__label" id="pubs-l-type">{{ d.type_label | default: "Type" }}</span>
 <div class="pubs-filter__chips">
 <button type="button" class="pubs-chip" data-filter="type" data-value="">All <span class="pubs-chip__n"></span></button>
 {%- for t in d.types -%}
@@ -33,18 +33,32 @@
 <p class="pubs-filter__status"><span id="pubs-status" aria-live="polite"></span> <button type="button" class="pubs-filter__clear" id="pubs-clear" hidden>Clear filters</button></p>
 </div>
 <div class="pubs" id="pubs">
-{%- for t in d.types -%}
-{%- assign items = d.items | where: "type", t.id -%}
-{%- if items.size > 0 -%}
+{%- assign section_field = d.section_by | default: "type" -%}
+{%- assign sections = d.items | group_by: section_field -%}
+{%- if section_field == "type" -%}
+{%- comment -%} Sections follow the order of `types`, not the order entries happen to appear in {%- endcomment -%}
+{%- assign section_keys = d.types | map: "id" -%}
+{%- else -%}
+{%- assign section_keys = sections | map: "name" -%}
+{%- endif -%}
+{%- for key in section_keys -%}
+{%- assign s = sections | where: "name", key | first -%}
+{%- if s -%}
+{%- if section_field == "type" -%}
+{%- assign t = d.types | where: "id", key | first -%}
+{%- assign s_label = t.label -%}{%- assign s_by_year = t.by_year -%}{%- assign s_note = t.note -%}
+{%- else -%}
+{%- assign s_label = key -%}{%- assign s_by_year = false -%}{%- assign s_note = "" -%}
+{%- endif -%}
 <section class="pubs__section">
-<h2 id="{{ t.id }}">{{ t.label }}</h2>
-{%- if t.by_year -%}{%- assign groups = items | group_by: "year" -%}{%- else -%}{%- assign groups = items | group_by: "group" -%}{%- endif -%}
+<h2 id="{{ key }}">{{ s_label }}</h2>
+{%- if s_by_year -%}{%- assign groups = s.items | group_by: "year" -%}{%- else -%}{%- assign groups = s.items | group_by: "group" -%}{%- endif -%}
 {%- for g in groups -%}
 <div class="pubs__group">
-{%- if g.name != "" -%}{%- if t.by_year -%}<h4 id="{{ g.name }}">{{ g.name }}</h4>{%- else -%}<h3 id="{{ g.name | slugify }}">{{ g.name }}</h3>{%- endif -%}{%- endif -%}
+{%- if g.name != "" -%}{%- if s_by_year -%}<h4 id="{{ g.name }}">{{ g.name }}</h4>{%- else -%}<h3 id="{{ g.name | slugify }}">{{ g.name }}</h3>{%- endif -%}{%- endif -%}
 <ul>
 {%- for p in g.items -%}
-<li class="pub" data-type="{{ p.type }}" {% if p.year %} data-year="{{ p.year }}"{% endif %}>{{ p.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}
+<li class="pub" data-type="{{ p.type }}"{% if p.year %} data-year="{{ p.year }}"{% endif %}>{{ p.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}
 {%- if p.links or p.note -%}
 <span class="pub__links">{%- for l in p.links -%}<a href="{{ l.url | escape }}">{{ l.label }}</a>{%- endfor -%}{%- if p.note -%}<em>{{ p.note }}</em>{%- endif -%}</span>
 {%- endif -%}
@@ -53,7 +67,7 @@
 </ul>
 </div>
 {%- endfor -%}
-{%- if t.note -%}<p class="pubs__note">{{ t.note | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>{%- endif -%}
+{%- if s_note != "" and s_note -%}<p class="pubs__note">{{ s_note | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>{%- endif -%}
 </section>
 {%- endif -%}
 {%- endfor -%}
@@ -90,7 +104,7 @@
 .pubs__note { font-size: .85em; }
 @media (min-width: 48em) {
   .pubs-filter__row { display: flex; align-items: baseline; gap: 1em; }
-  .pubs-filter__label { flex: 0 0 3.5em; margin: 0; }
+  .pubs-filter__label { flex: 0 0 4.5em; margin: 0; }
 }
 </style>
 <script>

@@ -129,8 +129,6 @@ items:
 - type: journal-reviewing
   text: Computers and Industrial Engineering
 - type: journal-reviewing
-  text: Computer Law and Security
-- type: journal-reviewing
   text: 'Transportation Research Part E: Logistics and Transportation Review'
 - type: journal-reviewing
   text: Communications of the Association for Information Systems
@@ -153,7 +151,7 @@ items:
 - type: other-reviewing
   text: Subject Matter Expert and reviewer. OSPOs in the Public Sector study. OpenForum Europe (2022).
 - type: other-reviewing
-  text: External review committee member of the PhD program at Blekinge Institue of Technology (2019).
+  text: External review committee member of the PhD program at Blekinge Institute of Technology (2019).
 - type: other-reviewing
   text: Subject Matter Expert and reviewer of the Swedish translations of IREB certification training and examination material (2016-2020).
 - type: other-reviewing
