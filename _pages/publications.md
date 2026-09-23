@@ -4,7 +4,6 @@ title: "Publications"
 description: "Papers, reports and popular writing by Johan Linåker on open source software, open source AI and data sharing for digital sovereignty and interoperability."
 header:
   image: /assets/images/publications/teaser.jpg
-  image_description: "Glasses resting on an open book"
 ---
 <div id="top" />
 

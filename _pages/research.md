@@ -4,7 +4,6 @@ title: "Research & Bio"
 description: "Johan Linåker's research on open source software, open source AI and data sharing for digital sovereignty, interoperability and open innovation."
 header:
   image: /assets/images/research/teaser.jpg
-  image_description: "A crowd of people holding up signs"
 ---
 
 <div id="top" />
