@@ -12,7 +12,9 @@
 .home-search[hidden] { display: none !important; }
 </style>
 <script>
-(function () {
+// Run after the whole page has loaded: the theme's search panel sits further down
+// the page than this box, so it doesn't exist yet when this script is first read.
+document.addEventListener('DOMContentLoaded', function () {
   var box = document.getElementById('home-search');
   var input = document.getElementById('home-search-input');
   var toggle = document.querySelector('.search__toggle');
@@ -38,5 +40,5 @@
   input.addEventListener('keydown', function (e) {
     if (e.key === 'Enter') { e.preventDefault(); openWith(input.value); }
   });
-})();
+});
 </script>
