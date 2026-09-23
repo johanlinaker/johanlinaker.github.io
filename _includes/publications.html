@@ -18,15 +18,6 @@
 {%- endfor -%}
 </div>
 </div>
-<div class="pubs-filter__row" role="group" aria-labelledby="pubs-l-topic">
-<span class="pubs-filter__label" id="pubs-l-topic">Topic</span>
-<div class="pubs-filter__chips">
-<button type="button" class="pubs-chip" data-filter="topic" data-value="">All <span class="pubs-chip__n"></span></button>
-{%- for tp in pubs.topics -%}
-<button type="button" class="pubs-chip" data-filter="topic" data-value="{{ tp.id }}">{{ tp.label }} <span class="pubs-chip__n"></span></button>
-{%- endfor -%}
-</div>
-</div>
 <div class="pubs-filter__row" role="group" aria-labelledby="pubs-l-year">
 <span class="pubs-filter__label" id="pubs-l-year">Year</span>
 <div class="pubs-filter__chips">
@@ -50,7 +41,7 @@
 {%- if t.by_year -%}<h4 id="{{ g.name }}">{{ g.name }}</h4>{%- endif -%}
 <ul>
 {%- for p in g.items -%}
-<li class="pub" data-type="{{ p.type }}" data-year="{{ p.year }}" data-topics="{{ p.topics | join: ' ' }}">{{ p.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}
+<li class="pub" data-type="{{ p.type }}" data-year="{{ p.year }}">{{ p.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}
 {%- if p.links or p.note -%}
 <span class="pub__links">{%- for l in p.links -%}<a href="{{ l.url | escape }}">{{ l.label }}</a>{%- endfor -%}{%- if p.note -%}<em>{{ p.note }}</em>{%- endif -%}</span>
 {%- endif -%}
@@ -119,23 +110,21 @@
       el: li,
       type: li.getAttribute('data-type'),
       year: li.getAttribute('data-year'),
-      topics: (li.getAttribute('data-topics') || '').split(' ').filter(Boolean),
       text: norm(li.textContent)
     };
   });
 
-  var state = { type: '', year: '', topic: '', q: '' };
+  var state = { type: '', year: '', q: '' };
   var terms = [];
 
   function has(it, filter, value) {
     if (!value) return true;
-    if (filter === 'topic') return it.topics.indexOf(value) !== -1;
     return it[filter] === value;
   }
 
   // Does an item pass every active filter, optionally ignoring one filter group?
   function passes(it, skip) {
-    for (var f in { type: 1, year: 1, topic: 1 }) {
+    for (var f in { type: 1, year: 1 }) {
       if (f !== skip && !has(it, f, state[f])) return false;
     }
     return terms.every(function (t) { return it.text.indexOf(t) !== -1; });
@@ -163,7 +152,7 @@
       c.classList.toggle('is-empty', n === 0 && state[f] !== v);
     });
 
-    var active = state.type || state.year || state.topic || terms.length;
+    var active = state.type || state.year || terms.length;
     clearBtn.hidden = !active;
     statusEl.textContent = !active ? items.length + ' items'
       : shown ? 'Showing ' + shown + ' of ' + items.length
@@ -171,7 +160,7 @@
 
     // Keep filters in the URL so a filtered view can be linked to
     var params = new URLSearchParams();
-    ['type', 'topic', 'year'].forEach(function (k) { if (state[k]) params.set(k, state[k]); });
+    ['type', 'year'].forEach(function (k) { if (state[k]) params.set(k, state[k]); });
     if (state.q.trim()) params.set('q', state.q.trim());
     var qs = params.toString();
     history.replaceState(null, '', location.pathname + (qs ? '?' + qs : '') + location.hash);
@@ -191,7 +180,7 @@
   });
 
   clearBtn.addEventListener('click', function () {
-    state = { type: '', year: '', topic: '', q: '' };
+    state = { type: '', year: '', q: '' };
     input.value = '';
     apply();
     input.focus();
@@ -199,7 +188,7 @@
 
   // Restore filters from the URL; old section links like #media also select that type
   var p = new URLSearchParams(location.search);
-  ['type', 'topic', 'year', 'q'].forEach(function (k) { if (p.get(k)) state[k] = p.get(k); });
+  ['type', 'year', 'q'].forEach(function (k) { if (p.get(k)) state[k] = p.get(k); });
   var hash = decodeURIComponent(location.hash.slice(1));
   var typeIds = chips.filter(function (c) { return c.getAttribute('data-filter') === 'type'; })
                      .map(function (c) { return c.getAttribute('data-value'); });
