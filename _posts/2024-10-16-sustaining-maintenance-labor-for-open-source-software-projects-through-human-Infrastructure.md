@@ -15,7 +15,7 @@ categories:
   - blog
 tags:
   - open-source-software
-  - sustainability
+  - open-source-health
 header:
   teaser: "/assets/images/2024-10-16-sustaining-maintenance-labor-for-open-source-software-projects-through-human-Infrastructure/teaser.jpg"
 ---

@@ -8,6 +8,9 @@ categories:
 tags:
   - open-source-software
   - public-sector
+  - ospo
+  - policy
+  - public procurement
 header:
   teaser: "/assets/images/2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators/teaser.jpg"
 ---

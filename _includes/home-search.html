@@ -2,6 +2,7 @@
   Homepage search box and topic chips.
   The search box opens the theme's own search with the typed text (needs search: true in _config.yml).
   The chips link to the most-used blog tags on the tags page. Change topic_limit to show more or fewer.
+  Tag names are shown in plain words; set exact spellings (OSPO, AI) in _data/tag_labels.yml.
 {%- endcomment -%}
 {%- assign topic_limit = 10 -%}
 <div class="home-search">
@@ -19,7 +20,9 @@
 {%- for i in (1..tags_max) reversed -%}
 {%- for tag in site.tags -%}
 {%- if tag[1].size == i and shown < topic_limit -%}
-<a class="home-topic" href="{{ '/tags/' | relative_url }}#{{ tag[0] | slugify }}">{{ tag[0] | replace: '-', ' ' | capitalize }} <span class="home-topic__n">{{ i }}</span></a>
+{%- assign topic_label = tag[0] | replace: '-', ' ' | capitalize -%}
+{%- if site.data.tag_labels[tag[0]] -%}{%- assign topic_label = site.data.tag_labels[tag[0]] -%}{%- endif -%}
+<a class="home-topic" href="{{ '/tags/' | relative_url }}#{{ tag[0] | slugify }}">{{ topic_label }} <span class="home-topic__n">{{ i }}</span></a>
 {%- assign shown = shown | plus: 1 -%}
 {%- endif -%}
 {%- endfor -%}

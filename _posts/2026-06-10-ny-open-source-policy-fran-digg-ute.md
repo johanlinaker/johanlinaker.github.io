@@ -9,6 +9,7 @@ categories:
 tags:
   - open-source-software
   - public-sector
+  - policy
 header:
   teaser: /assets/images/2026-06-10-ny-open-source-policy-fran-digg-ute/teaser.jpg
 ---

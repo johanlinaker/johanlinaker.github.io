@@ -9,6 +9,7 @@ categories:
 tags:
   - open-source-software
   - digital-sovereignty
+  - policy
 header:
   teaser: /assets/images/2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val/teaser.jpg
 ---

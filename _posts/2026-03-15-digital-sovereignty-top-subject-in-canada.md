@@ -8,6 +8,7 @@ categories:
 tags:
   - open-source-software
   - digital-sovereignty
+  - policy
 header:
   teaser: /assets/images/2026-03-15-digital-sovereignty-top-subject-in-canada/teaser.jpg
 ---

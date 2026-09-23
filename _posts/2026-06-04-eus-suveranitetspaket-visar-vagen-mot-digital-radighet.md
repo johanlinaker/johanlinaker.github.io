@@ -9,6 +9,7 @@ categories:
 tags:
   - open-source-software
   - digital-sovereignty
+  - policy
 header:
   teaser: /assets/images/2026-06-04-eus-suveranitetspaket-visar-vagen-mot-digital-radighet/teaser.jpg
 ---

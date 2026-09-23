@@ -9,6 +9,7 @@ categories:
 tags:
   - open-source-software
   - public-sector
+  - digital-sovereignty
 header:
   teaser: /assets/images/2026-05-15-europakommentaren-samverkan-nyckel-till-starkt-europeisk-digital-suveranitet-och-kontroll/teaser.jpg
 ---

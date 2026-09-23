@@ -9,6 +9,7 @@ tags:
   - open-source-software
   - public-sector
   - ospo
+  - policy
 header:
   teaser: /assets/images/2026-06-18-study-published-on-public-sector-open-source-program-offices/teaser.jpg
 aliases:

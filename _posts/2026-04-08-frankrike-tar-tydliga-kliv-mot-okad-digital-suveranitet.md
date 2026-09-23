@@ -9,6 +9,7 @@ categories:
 tags:
   - open-source-software
   - digital-sovereignty
+  - policy
 header:
   teaser: /assets/images/2026-04-08-frankrike-tar-tydliga-kliv-mot-okad-digital-suveranitet/teaser.jpg
 ---
