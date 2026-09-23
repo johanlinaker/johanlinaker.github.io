@@ -50,4 +50,4 @@ Johan Linåker är senior forskare vid RISE Research Institutes of Sweden och ad
 
 ## Online
 
-You can also find me on [ORCID](https://orcid.org/0000-0001-9851-1404), [Google Scholar](https://scholar.google.com/citations?user=InMNgF0AAAAJ), [LinkedIn](https://www.linkedin.com/in/johanlinaker/), [Mastodon](https://mastodon.acm.org/@johanlinaker) and [GitHub](https://github.com/johanlinaker).
+You can also find me or read about my work on [ORCID](https://orcid.org/0000-0001-9851-1404), [Google Scholar](https://scholar.google.com/citations?user=InMNgF0AAAAJ), [LinkedIn](https://www.linkedin.com/in/johanlinaker/), [Mastodon](https://mastodon.acm.org/@johanlinaker) and [GitHub](https://github.com/johanlinaker).
