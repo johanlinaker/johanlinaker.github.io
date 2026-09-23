@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Virtual Home of Johan Linåker
 email: johan [dot] linaker [at] ri [dot] se
-description: >- # this means to ignore newlines until "baseurl:"
-  Johan Linåker is a Senior Researcher at RISE Research Institutes of Sweden. His research interests include empirical software engineering in the context of open technologies. Open technologies refer to technology-related artifacts that is shared, reused and collaboratively developed between its users and stakeholders. Here, Johan is specifically interested in how actors in public and private sector can use, develop, and collaborate on Open Source Software, Open and shared data, and Open Standards to enable and promote interoperability, technological independence, and open innovation.
+description: "Johan Linåker researches open source software, open source AI and data sharing as levers for digital sovereignty, interoperability and open innovation."
 locale: 'en-GB'
 github_username: johanlinaker
 minimal_mistakes_skin: default

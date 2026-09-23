@@ -1,6 +1,7 @@
 ---
 permalink: /contact/
 title: "Ways of getting in touch"
+description: "How to reach Johan Linåker about research collaboration, talks, interviews and media requests."
 header:
   teaser: "/assets/images/contact/teaser.jpg"
 ---

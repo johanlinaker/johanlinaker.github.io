@@ -1,6 +1,7 @@
 ---
 permalink: /research/
 title: "Research & Bio"
+description: "Johan Linåker's research on open source software, open source AI and data sharing for digital sovereignty, interoperability and open innovation."
 header:
   teaser: "/assets/images/research/teaser.jpg"
 ---
