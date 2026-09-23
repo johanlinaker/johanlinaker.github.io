@@ -72,7 +72,7 @@ header:
 <div id="book-chapters" />
 ## Book chapters | <a href="#top">Top</a>
 * <i class="flag-icons  GB"></i> Bjarnason, E., **Linåker, J.**, & Fagerholm, F. (2025). *Experimentation practice in indie game startups*. In: Advances in software startups: generative AI, product engineering and business development (pp. 137-152). Springer Nature. 
-  - <i class="ai ai-doi-square"></i> [DOI](https://link.springer.com/chapter/10.1007/978-3-032-04294-1_8)
+  - <i class="ai ai-doi-square"></i> [DOI](https://link.springer.com/chapter/10.1007/978-3-032-04294-1_8) <i class="fa fa-file-pdf"></i> [PDF](Book_chapter__Pre_Release_Experimentation_in_Indie_Game_Development__An_Interview_Survey.pdf)
 * <i class="flag-icons  GB"></i> **Linåker, J.**, Rudmark, D., Östling, A. (2025). *Lessons Learnt from Horizontal Coordination of Data Ecosystems in the Swedish Public Transport Sector*. In: Behnke, N., Petersohn, B. (eds) Horizontal Intergovernmental Coordination at Local and Regional Levels. Palgrave Macmillan, Cham. 
   - <i class="ai ai-doi-square"></i> [DOI](https://doi.org/10.1007/978-3-031-83567-4_20) <i class="fa fa-file-pdf"></i> [PDF](https://link.springer.com/content/pdf/10.1007/978-3-031-83567-4_20.pdf?pdf=inline%20link)
 * <i class="flag-icons  GB"></i> Germonprez, M. & **Linåker, J.** (2024). *Chapter 5: Measuring and Communicating Impact by your OSPO*. The Open Source (Program) Office Book. The TODO Group/Linux Foundation.
