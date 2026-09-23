@@ -3,7 +3,7 @@ permalink: /talks/
 title: "Talks and panels (selected)"
 description: "Selected talks, keynotes and panels by Johan Linåker on open source, digital sovereignty and public-sector collaboration, with slides and recordings."
 header:
-  image: /assets/images/talks/teaser.jpg
+  image: "/assets/images/talks/teaser.jpg"
 ---
 
 <div id="top" />

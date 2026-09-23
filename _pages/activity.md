@@ -3,7 +3,7 @@ permalink: /activity/
 title: "Activity"
 description: "Editorial, organising, programme committee and reviewing roles held by Johan Linåker, including the NOSAD and Swedish OSPO networks."
 header:
-  image: /assets/images/activity/teaser.jpg
+  image: "/assets/images/activity/teaser.jpg"
 ---
 
 <div id="top" />

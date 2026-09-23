@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 description: "Courses, guest lectures and supervision by Johan Linåker at Lund University in software engineering, requirements engineering and research methods."
 header:
-  image: /assets/images/teaching/teaser.jpg
+  image: "/assets/images/teaching/teaser.jpg"
 ---
 
 
