@@ -41,22 +41,22 @@ items:
   - label: DOI
     url: https://doi.org/10.1109/MS.2023.3266105
   - label: PDF
-    url: https://arxiv.org/ftp/arxiv/papers/2308/2308.04766.pdf
+    url: https://arxiv.org/pdf/2308.04766
 - type: editorial-assignments
   text: '**Linåker, J.**, Runeson, P., Zuiderwijk, A., & Brock, A. (2022). Collaborative Aspects of Open Data in Software Engineering. IEEE Software, 39(1), 31-35.'
   links:
   - label: DOI
     url: https://doi.org/10.1109/MS.2021.3118123
   - label: PDF
-    url: https://arxiv.org/ftp/arxiv/papers/2208/2208.00488.pdf
+    url: https://arxiv.org/pdf/2208.00488
 - type: organizing-committee-memberships
   text: '[UN Open Source Week Community Side events](https://www.un.org/digital-emerging-technologies/content/open-source-week-2025). Organising and program committee, collaborating closely with the UN Office for Digital and Emerging Technology, for the planning and execution of the multi-track community side events during the UN Open Source week. 2025-2026.'
 - type: organizing-committee-memberships
   text: '[The Swedish OSPO network](https://swedish-ospo-network.se/). A national network for companies and public administrations with support functions for promoting and enabling the use and collaboration of open source software. Arranging regular physical workshops and online webinars to share knowledge and establish common practice. 2023-ongoing.'
 - type: organizing-committee-memberships
-  text: '[Öppen källkod som strategi för en hållbar infrastruktur](https://internetdagarna.se/event/oppen-kallkod-som-strategi-for-en-hallbar-infrastruktur/). Theme track. Internetdagarna ([The Internet Days](https://internetdagarna.se/en/)), 2022.'
+  text: 'Öppen källkod som strategi för en hållbar infrastruktur. Theme track. Internetdagarna (The Internet Days), 2022.'
 - type: organizing-committee-memberships
-  text: '[Digitala allmänningar: så skapar vi samhällsnytta](https://arkiv.internetdagarna.se/2021/index.html%3Fp=422.html). Theme track. Internetdagarna ([The Internet Days](https://internetdagarna.se/en/)), 2021.'
+  text: 'Digitala allmänningar: så skapar vi samhällsnytta. Theme track. Internetdagarna (The Internet Days), 2021.'
 - type: organizing-committee-memberships
   text: Öppen källkod som grund för den digitala allemansrätten. Theme track. [Foss-north](https://foss-north.se/), 2021.
 - type: organizing-committee-memberships

@@ -271,7 +271,9 @@ items:
   text: 'Chren, S., Fagerholm, F., Bjarnason, E., **Linåker, J.**, Rafi, S., Lehtelä, B., Runeson, R. & Kauppinen, M. (2024). *Data-Limited Continuous Experimentation (dlCE): A Literature Review*. In the 15th International Conference on Software Business. Springer.'
   links:
   - label: DOI
-    url: https://portal.research.lu.se/en/publications/data-limited-continuous-experimentation-dlce-a-literature-review
+    url: https://doi.org/10.1007/978-3-031-85849-9_26
+  - label: PDF
+    url: https://www.researchgate.net/profile/Per-Runeson/publication/390101816_Data-Limited_Continuous_Experimentation_dlCE_A_Literature_Review/links/67f38c439b1c6c48778052ae/Data-Limited-Continuous-Experimentation-dlCE-A-Literature-Review.pdf
   topics:
   - experimentation
 - type: peer-reviewed-papers
@@ -342,7 +344,7 @@ items:
   - label: DOI
     url: https://doi.org/10.1016/j.giq.2022.101763
   - label: PDF
-    url: https://reader.elsevier.com/reader/sd/pii/S0740624X22000995?token=185D0600332918FD933E510095C05E7264A3DB891792EB8A369D8FA4AA38048D6A4D2E1E24441E7BDB03210329016940&originRegion=eu-west-1&originCreation=20221014180306
+    url: https://www.sciencedirect.com/science/article/pii/S0740624X22000995
   topics:
   - open-data
 - type: peer-reviewed-papers
@@ -464,7 +466,7 @@ items:
   text: '**Linåker, J.**, Munir, H., Wnuk, K., & Mols, C. E. (2018). *Motivating the contributions: An open innovation perspective on what to share as open source software*. Journal of Systems and Software, 135, 17-36.'
   links:
   - label: DOI
-    url: https://doi.org/10.1016/j.jss.2017.09.032F
+    url: https://doi.org/10.1016/j.jss.2017.09.032
   - label: PDF
     url: https://arxiv.org/pdf/2208.00308.pdf
   topics:
@@ -591,7 +593,7 @@ items:
   - label: DOI
     url: https://doi.org/10.1109/MS.2023.3266105
   - label: PDF
-    url: https://arxiv.org/ftp/arxiv/papers/2308/2308.04766.pdf
+    url: https://arxiv.org/pdf/2308.04766
   topics:
   - open-source
   - public-sector
@@ -602,7 +604,7 @@ items:
   - label: DOI
     url: https://doi.org/10.1109/MS.2021.3118123
   - label: PDF
-    url: https://arxiv.org/ftp/arxiv/papers/2208/2208.00488.pdf
+    url: https://arxiv.org/pdf/2208.00488
   topics:
   - open-data
 - type: media

@@ -68,7 +68,7 @@ items:
   text: '*Digital Sovereignty through Open Source Enabling Europe’s strategic opportunity*. (2026, April). FOSS-North. Submitted talk, Gothenburg, Sweden.'
   links:
   - label: Slides
-    url: https://www.linaker.se/assets/slides/Digital-sov-foss-north
+    url: https://www.linaker.se/assets/slides/Digital-sov-foss-north.pdf
   - label: Recording
     url: https://www.youtube.com/watch?v=6XPJOHyBKeY
 - type: invited-talk
@@ -556,7 +556,7 @@ items:
   text: '*MyData – Datadelning med individen i centrum*. (2020, October). AILund. Invited talk, Lund, Sweden.'
   links:
   - label: Slides
-    url: https://www.linaker.se/assets/slides/MyData
+    url: https://www.linaker.se/assets/slides/MyData.pdf
 - type: invited-talk
   year: 2020
   text: '*Samverkan inom Ekosystem för Myndighetsdrivna Öppna Data-plattformar*. (2020, October). NOSAD workshop. Invited talk, Virtual.'
