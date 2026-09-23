@@ -64,6 +64,8 @@
 {%- endfor -%}
 </div>
 <style>
+/* Make hiding win over any theme rule that sets display on sections, lists or headings */
+.pubs [hidden], .pubs-filter[hidden], .pubs-filter [hidden] { display: none !important; }
 .pubs-filter { margin: 0 0 2.5em; font-size: .8em; }
 .pubs-filter__search { margin-bottom: 1em; }
 .pubs-filter__search label, .pubs-filter__label { display: block; font-weight: bold; margin-bottom: .35em; }

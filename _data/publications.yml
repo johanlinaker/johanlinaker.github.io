@@ -263,7 +263,7 @@ items:
   - label: DOI
     url: https://link.springer.com/chapter/10.1007/978-3-031-85849-9_24
   - label: PDF
-    url: https://arxiv.org/pdf/2408.06723
+    url: https://arxiv.org/pdf/2411.17183
   topics:
   - experimentation
 - type: peer-reviewed-papers
@@ -812,7 +812,7 @@ items:
   text: '*#12 - Open data, open source, open standards, open innovation*. (Dec, 2019). IT Talks.'
   links:
   - label: Recording
-    url: https://ittalks.libsyn.com/67-rebroadcast-open-data-open-source-open-standards-open-innovation-with-johan-linker-swe
+    url: https://ittalks.libsyn.com/12-open-data-open-source-open-standards-open-innovation-with-johan-linker-swe
   topics:
   - open-source
   - open-data
@@ -831,7 +831,7 @@ items:
   text: '**Linåker, J.** *Europe wants to limit its reliance on foreign tech – but funding is limited and the proposed rules are weak*. (June, 2026). News piece, self-authored, The Conversation UK.'
   links:
   - label: Article
-    url: https://doi.org/10.64628/AB.mv7yhkqae
+    url: https://theconversation.com/europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology-274042
   topics:
   - digital-sovereignty
 - type: popular-writing
@@ -892,8 +892,8 @@ items:
   topics:
   - digital-sovereignty
 - type: popular-writing
-  year: 2026
-  text: '**Linåker, J.** *Open Source AI as Sweden’s Path to an Independent Digital Future*. (December, 2026). Blog post, self-authored, RISE.'
+  year: 2025
+  text: '**Linåker, J.** *Open Source AI as Sweden’s Path to an Independent Digital Future*. (December, 2025). Blog post, self-authored, RISE.'
   links:
   - label: Article
     url: https://www.ri.se/en/artificial-intelligence/blogpost/open-source-ai-as-swedens-path-to-an-independent-digital-future
@@ -925,7 +925,7 @@ items:
   text: Nyman, L., Nyström Holm, M., & **Linåker, J.**. (2021). *Utvecklas och förvaltas tillsammans*. Series on public procurement and Open Source Software - pt3. Inköpsrådet.
   links:
   - label: DOI
-    url: https://inkopsradet.se/dela-kostnader-och-undvik-inlasningar/
+    url: https://inkopsradet.se/utvecklas-och-forvaltas-tillsammans/
   topics:
   - open-source
   - public-sector
