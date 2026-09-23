@@ -1,0 +1,8 @@
+{%- comment -%}
+  Prints the display label for a tag: the spelling from _data/tag_labels.yml if listed there
+  (matched regardless of upper/lower case), otherwise dashes become spaces and the first letter is capitalised.
+  Usage: include tag-label.html tag=some-tag
+{%- endcomment -%}
+{%- assign tag_key = include.tag | downcase -%}
+{%- assign tag_label = site.data.tag_labels[include.tag] | default: site.data.tag_labels[tag_key] -%}
+{%- if tag_label -%}{{ tag_label }}{%- else -%}{{ include.tag | replace: '-', ' ' | capitalize }}{%- endif -%}
