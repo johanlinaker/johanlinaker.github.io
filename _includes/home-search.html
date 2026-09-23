@@ -20,7 +20,7 @@
 {%- for i in (1..tags_max) reversed -%}
 {%- for tag in site.tags -%}
 {%- if tag[1].size == i and shown < topic_limit -%}
-<a class="home-topic" href="{{ '/tags/' | relative_url }}#{{ tag[0] | slugify }}">{% include tag-label.html tag=tag[0] %} <span class="home-topic__n">{{ i }}</span></a>
+<a class="home-topic" href="{{ '/tags/' | relative_url }}#{{ tag[0] | slugify }}">{% include tag-label.html tag=tag.first %} <span class="home-topic__n">{{ i }}</span></a>
 {%- assign shown = shown | plus: 1 -%}
 {%- endif -%}
 {%- endfor -%}
