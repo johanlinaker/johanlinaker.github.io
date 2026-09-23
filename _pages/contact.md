@@ -39,10 +39,10 @@ I regularly give interviews, keynotes and panel contributions in English and Swe
 
 Previous talks, with slides and recordings, are listed on the [Talks](/talks/) page, and interviews under Media on the [Publications](/publications/) page.
 
-**Short bio (English)**  
+**Short bio**  
 Johan Linåker is a Senior Researcher at RISE Research Institutes of Sweden and an Adjunct Assistant Professor at Lund University. His research focuses on how open source software, open source AI and data sharing can strengthen digital sovereignty, interoperability and open innovation in the public and private sectors. He advises governments and organisations across Europe and internationally, including within the EU and the UN.
 
-**Kort presentation (svenska)**  
+**Kort presentation**  
 Johan Linåker är senior forskare vid RISE Research Institutes of Sweden och adjungerad universitetslektor vid Lunds universitet. Hans forskning handlar om hur öppen programvara, öppen AI och datadelning kan stärka digital suveränitet, interoperabilitet och öppen innovation inom offentlig och privat sektor. Han ger råd till myndigheter och organisationer i Europa och internationellt, bland annat inom EU och FN.
 
 **Photo**  
