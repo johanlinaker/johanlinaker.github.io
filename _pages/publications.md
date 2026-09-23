@@ -9,4 +9,4 @@ header:
 <div class="thumbnail-container">
 <img src="/assets/images/publications/teaser.jpg" alt="https://unsplash.com/photos/black-framed-eyeglasses-on-white-book-page-GWbIHT51VT4"></div>
 
-{% include publications.html %}
+{% include filter-list.html data=site.data.publications placeholder="Title, author, venue…" %}

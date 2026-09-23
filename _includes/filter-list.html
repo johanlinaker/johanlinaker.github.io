@@ -1,0 +1,207 @@
+{%- comment -%}
+  Filterable list rendered from a data file, used by the Publications and Activity pages.
+  Parameters: data (required), placeholder (optional text for the search box).
+  Edit the data files in _data/, not this one, to add entries.
+{%- endcomment -%}
+{%- assign d = include.data -%}
+{%- assign years = d.items | map: "year" | compact | uniq | sort | reverse -%}
+<div class="pubs-filter" id="pubs-filter" hidden>
+<div class="pubs-filter__search">
+<label for="pubs-q">Search</label>
+<input type="search" id="pubs-q" placeholder="{{ include.placeholder | default: 'Search…' }}" autocomplete="off">
+</div>
+<div class="pubs-filter__row" role="group" aria-labelledby="pubs-l-type">
+<span class="pubs-filter__label" id="pubs-l-type">Type</span>
+<div class="pubs-filter__chips">
+<button type="button" class="pubs-chip" data-filter="type" data-value="">All <span class="pubs-chip__n"></span></button>
+{%- for t in d.types -%}
+<button type="button" class="pubs-chip" data-filter="type" data-value="{{ t.id }}">{{ t.short | default: t.label }} <span class="pubs-chip__n"></span></button>
+{%- endfor -%}
+</div>
+</div>
+{%- if years.size > 0 -%}
+<div class="pubs-filter__row" role="group" aria-labelledby="pubs-l-year">
+<span class="pubs-filter__label" id="pubs-l-year">Year</span>
+<div class="pubs-filter__chips">
+<button type="button" class="pubs-chip" data-filter="year" data-value="">All <span class="pubs-chip__n"></span></button>
+{%- for y in years -%}
+<button type="button" class="pubs-chip" data-filter="year" data-value="{{ y }}">{{ y }} <span class="pubs-chip__n"></span></button>
+{%- endfor -%}
+</div>
+</div>
+{%- endif -%}
+<p class="pubs-filter__status"><span id="pubs-status" aria-live="polite"></span> <button type="button" class="pubs-filter__clear" id="pubs-clear" hidden>Clear filters</button></p>
+</div>
+<div class="pubs" id="pubs">
+{%- for t in d.types -%}
+{%- assign items = d.items | where: "type", t.id -%}
+{%- if items.size > 0 -%}
+<section class="pubs__section">
+<h2 id="{{ t.id }}">{{ t.label }}</h2>
+{%- if t.by_year -%}{%- assign groups = items | group_by: "year" -%}{%- else -%}{%- assign groups = items | group_by: "group" -%}{%- endif -%}
+{%- for g in groups -%}
+<div class="pubs__group">
+{%- if g.name != "" -%}{%- if t.by_year -%}<h4 id="{{ g.name }}">{{ g.name }}</h4>{%- else -%}<h3 id="{{ g.name | slugify }}">{{ g.name }}</h3>{%- endif -%}{%- endif -%}
+<ul>
+{%- for p in g.items -%}
+<li class="pub" data-type="{{ p.type }}" {% if p.year %} data-year="{{ p.year }}"{% endif %}>{{ p.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}
+{%- if p.links or p.note -%}
+<span class="pub__links">{%- for l in p.links -%}<a href="{{ l.url | escape }}">{{ l.label }}</a>{%- endfor -%}{%- if p.note -%}<em>{{ p.note }}</em>{%- endif -%}</span>
+{%- endif -%}
+</li>
+{%- endfor -%}
+</ul>
+</div>
+{%- endfor -%}
+{%- if t.note -%}<p class="pubs__note">{{ t.note | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>{%- endif -%}
+</section>
+{%- endif -%}
+{%- endfor -%}
+</div>
+<style>
+/* Make hiding win over any theme rule that sets display on sections, lists or headings */
+.pubs [hidden], .pubs-filter[hidden], .pubs-filter [hidden] { display: none !important; }
+.pubs-filter { margin: 0 0 2.5em; font-size: .8em; }
+.pubs-filter__search { margin-bottom: 1em; }
+.pubs-filter__search label, .pubs-filter__label { display: block; font-weight: bold; margin-bottom: .35em; }
+.pubs-filter__search input { width: 100%; max-width: 30em; padding: .5em .75em; margin: 0; }
+.pubs-filter__row { margin-bottom: .9em; }
+.pubs-filter__chips { display: flex; flex-wrap: wrap; gap: .4em; }
+.pubs-chip {
+  font: inherit; font-size: .9em; line-height: 1.2; color: inherit; cursor: pointer;
+  padding: .35em .75em; border-radius: 999px; background: transparent;
+  border: 1px solid rgba(127, 127, 127, .45);
+}
+.pubs-chip:hover { border-color: currentColor; }
+.pubs-chip[aria-pressed="true"] {
+  border-color: currentColor; font-weight: bold;
+  background: rgba(127, 127, 127, .18);
+  background: color-mix(in srgb, currentColor 14%, transparent);
+}
+.pubs-chip:focus-visible, .pubs-filter__clear:focus-visible { outline: 2px solid currentColor; outline-offset: 2px; }
+.pubs-chip__n { opacity: .6; font-weight: normal; font-variant-numeric: tabular-nums; }
+.pubs-chip.is-empty { opacity: .4; }
+.pubs-filter__status { margin: .5em 0 0; min-height: 1.5em; }
+.pubs-filter__clear { font: inherit; color: inherit; background: none; border: 0; padding: 0; margin-left: .5em; text-decoration: underline; cursor: pointer; }
+.pub { margin-bottom: .6em; }
+.pub__links { display: block; font-size: .85em; }
+.pub__links a { margin-right: .9em; }
+.pub__links em { opacity: .8; }
+.pubs__note { font-size: .85em; }
+@media (min-width: 48em) {
+  .pubs-filter__row { display: flex; align-items: baseline; gap: 1em; }
+  .pubs-filter__label { flex: 0 0 3.5em; margin: 0; }
+}
+</style>
+<script>
+(function () {
+  var root = document.getElementById('pubs-filter');
+  if (!root) return;
+  root.hidden = false;
+
+  var input = document.getElementById('pubs-q');
+  var statusEl = document.getElementById('pubs-status');
+  var clearBtn = document.getElementById('pubs-clear');
+  var chips = Array.prototype.slice.call(root.querySelectorAll('.pubs-chip'));
+  var blocks = Array.prototype.slice.call(document.querySelectorAll('#pubs .pubs__group, #pubs .pubs__section'));
+
+  // Lowercase and strip accents, so "linaker" finds Linåker and "oppen" finds öppen
+  function norm(s) {
+    return s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  }
+
+  var items = Array.prototype.map.call(document.querySelectorAll('#pubs .pub'), function (li) {
+    return {
+      el: li,
+      type: li.getAttribute('data-type'),
+      year: li.getAttribute('data-year'),
+      text: norm(li.textContent)
+    };
+  });
+
+  var state = { type: '', year: '', q: '' };
+  var terms = [];
+
+  function has(it, filter, value) {
+    if (!value) return true;
+    return it[filter] === value;
+  }
+
+  // Does an item pass every active filter, optionally ignoring one filter group?
+  function passes(it, skip) {
+    for (var f in { type: 1, year: 1 }) {
+      if (f !== skip && !has(it, f, state[f])) return false;
+    }
+    return terms.every(function (t) { return it.text.indexOf(t) !== -1; });
+  }
+
+  function apply() {
+    terms = norm(state.q).trim().split(/\s+/).filter(Boolean);
+
+    var shown = 0;
+    items.forEach(function (it) {
+      var ok = passes(it);
+      it.el.hidden = !ok;
+      if (ok) shown++;
+    });
+
+    // Hide year groups and sections with nothing left in them
+    blocks.forEach(function (b) { b.hidden = !b.querySelector('.pub:not([hidden])'); });
+
+    // Each chip shows how many items it would give, combined with the other active filters
+    chips.forEach(function (c) {
+      var f = c.getAttribute('data-filter'), v = c.getAttribute('data-value');
+      var n = items.filter(function (it) { return passes(it, f) && has(it, f, v); }).length;
+      c.querySelector('.pubs-chip__n').textContent = n;
+      c.setAttribute('aria-pressed', String(state[f] === v));
+      c.classList.toggle('is-empty', n === 0 && state[f] !== v);
+    });
+
+    var active = state.type || state.year || terms.length;
+    clearBtn.hidden = !active;
+    statusEl.textContent = !active ? items.length + ' items'
+      : shown ? 'Showing ' + shown + ' of ' + items.length
+      : 'Nothing matches these filters.';
+
+    // Keep filters in the URL so a filtered view can be linked to
+    var params = new URLSearchParams();
+    ['type', 'year'].forEach(function (k) { if (state[k]) params.set(k, state[k]); });
+    if (state.q.trim()) params.set('q', state.q.trim());
+    var qs = params.toString();
+    history.replaceState(null, '', location.pathname + (qs ? '?' + qs : '') + location.hash);
+  }
+
+  chips.forEach(function (c) {
+    c.addEventListener('click', function () {
+      var f = c.getAttribute('data-filter'), v = c.getAttribute('data-value');
+      state[f] = (state[f] === v) ? '' : v;   // clicking the active chip turns it off
+      apply();
+    });
+  });
+
+  input.addEventListener('input', function () { state.q = input.value; apply(); });
+  input.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') { input.value = ''; state.q = ''; apply(); }
+  });
+
+  clearBtn.addEventListener('click', function () {
+    state = { type: '', year: '', q: '' };
+    input.value = '';
+    apply();
+    input.focus();
+  });
+
+  // Restore filters from the URL; old section links like #media also select that type
+  // Only accept filter values that have a chip on this page
+  function valid(f, v) {
+    return chips.some(function (c) { return c.getAttribute('data-filter') === f && c.getAttribute('data-value') === v; });
+  }
+  var p = new URLSearchParams(location.search);
+  ['type', 'year'].forEach(function (k) { if (p.get(k) && valid(k, p.get(k))) state[k] = p.get(k); });
+  if (p.get('q')) state.q = p.get('q');
+  var hash = decodeURIComponent(location.hash.slice(1));
+  if (!state.type && hash && valid('type', hash)) state.type = hash;
+  input.value = state.q;
+  apply();
+})();
+</script>
