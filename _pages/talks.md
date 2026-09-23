@@ -5,7 +5,6 @@ description: "Selected talks, keynotes and panels by Johan Linåker on open sour
 header:
   image: /assets/images/talks/teaser.jpg
   image_description: "White ice on a blue surface"
-  caption: "Photo: [Unsplash](https://unsplash.com/photos/white-ice-on-blue-surface-H9lcNEmlEyY)"
 ---
 
 <div id="top" />

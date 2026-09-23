@@ -1,0 +1,42 @@
+<!-- Visible search box for the homepage. Typing here opens the theme's own search
+     (the magnifying-glass overlay) with the same text, so results work exactly as before.
+     Requires `search: true` in _config.yml. -->
+<div class="home-search" id="home-search" role="search" hidden>
+<label for="home-search-input">Search the blog</label>
+<input type="search" id="home-search-input" placeholder="Topic, title, keyword…" autocomplete="off">
+</div>
+<style>
+.home-search { margin: 1.5em 0 2em; font-size: .8em; }
+.home-search label { display: block; font-weight: bold; margin-bottom: .35em; }
+.home-search input { width: 100%; max-width: 30em; padding: .5em .75em; margin: 0; }
+.home-search[hidden] { display: none !important; }
+</style>
+<script>
+(function () {
+  var box = document.getElementById('home-search');
+  var input = document.getElementById('home-search-input');
+  var toggle = document.querySelector('.search__toggle');
+  var overlay = document.querySelector('.search-content');
+  if (!box || !toggle || !overlay) return;   // theme search not enabled: keep the box hidden
+  box.hidden = false;
+
+  function openWith(text) {
+    if (!overlay.classList.contains('is--visible')) toggle.click();
+    var field = overlay.querySelector('input[type="search"], input#search');
+    if (!field) return;
+    field.value = text;
+    field.focus();
+    field.setSelectionRange(text.length, text.length);
+    field.dispatchEvent(new KeyboardEvent('keyup', { bubbles: true }));  // runs the theme's search
+    input.value = '';
+  }
+
+  // Move to the full search as soon as someone starts typing
+  input.addEventListener('input', function () {
+    if (input.value) openWith(input.value);
+  });
+  input.addEventListener('keydown', function (e) {
+    if (e.key === 'Enter') { e.preventDefault(); openWith(input.value); }
+  });
+})();
+</script>

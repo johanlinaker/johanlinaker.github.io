@@ -5,7 +5,6 @@ description: "Johan Linåker's research on open source software, open source AI 
 header:
   image: /assets/images/research/teaser.jpg
   image_description: "A crowd of people holding up signs"
-  caption: "Photo: [Unsplash](https://unsplash.com/photos/group-of-people-with-signages-nKNrOZ5MXZY)"
 ---
 
 <div id="top" />

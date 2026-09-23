@@ -5,7 +5,6 @@ description: "How to reach Johan Linåker about research collaboration, talks, i
 header:
   image: /assets/images/contact/teaser.jpg
   image_description: "A flat-screen TV"
-  caption: "Photo: [Unsplash](https://unsplash.com/photos/flat-screen-tv-0bTdk1u42KY)"
 ---
 
 

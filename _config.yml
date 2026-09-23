@@ -20,6 +20,7 @@ locale: 'en-GB'
 github_username: johanlinaker
 minimal_mistakes_skin: default
 search: true
+search_full_content: true
 url: 'https://www.linaker.se' # your main domain
 baseurl: '' # if you're using custom domain keep this blank example: baseurl: ''
 

@@ -5,7 +5,6 @@ description: "Papers, reports and popular writing by Johan Linåker on open sour
 header:
   image: /assets/images/publications/teaser.jpg
   image_description: "Glasses resting on an open book"
-  caption: "Photo: [Unsplash](https://unsplash.com/photos/black-framed-eyeglasses-on-white-book-page-GWbIHT51VT4)"
 ---
 <div id="top" />
 
