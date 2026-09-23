@@ -6,8 +6,6 @@ header:
   og_image: "/assets/images/research/teaser.jpg"
 ---
 
-<div id="top" />
-
 <div class="thumbnail-container">
 
 <img src="/assets/images/research/teaser.jpg" alt="A crowd of people holding up signs"></div>
@@ -16,7 +14,7 @@ header:
 
 <div id="research-scope-and-philosophy" />
 
-<h3>General bio and research philosophy | <a href="#top">Top</a></h3>
+<h3>General bio and research philosophy</h3>
 
 Johan is a Senior Researcher at <a href="http://ri.se" target="_blank">RISE Research Institutes of Sweden</a> and an Adjunct Assistant Professor at <a href="http://lu.se" target="_blank">Lund University</a>, working at the intersection of empirical software engineering, open technologies, and digital sovereignty. His work focuses on how public- and private-sector organisations can use, develop, and govern open source software, open and shared data, and open standards to strengthen interoperability, reduce lock-in, and enable sustainable digital transformation.
 
@@ -30,7 +28,7 @@ His research often addresses the human and social aspects of software engineerin
 
 <div id="main-research-questions" />
 
-<h3>Main research questions | <a href="#top">Top</a></h3>
+<h3>Main research questions</h3>
 
 Areas Johan is currently investigating include:
 
@@ -50,7 +48,7 @@ Areas Johan is currently investigating include:
 
 <div id="ongoing-projects" />
 
-<h3>Ongoing projects | <a href="#top">Top</a></h3>
+<h3>Ongoing projects</h3>
 
 <ul>
 
@@ -106,7 +104,7 @@ Areas Johan is currently investigating include:
 
 <div id="ended-projects" />
 
-<h3>Ended projects | <a href="#top">Top</a></h3>
+<h3>Ended projects</h3>
 
 <ul>
 
@@ -234,7 +232,7 @@ Areas Johan is currently investigating include:
 
 <div id="supervision" />
 
-<h3>Supervision in third cycle studies | <a href="#top">Top</a></h3>
+<h3>Supervision in third cycle studies</h3>
 
 <ul>
 
@@ -246,7 +244,7 @@ Areas Johan is currently investigating include:
 
 <div id="education" />
 
-<h3>Education | <a href="#top">Top</a></h3>
+<h3>Education</h3>
 
 <ul>
 
@@ -282,7 +280,7 @@ Areas Johan is currently investigating include:
 
 <div id="appointments" />
 
-<h3>Appointments | <a href="#top">Top</a></h3>
+<h3>Appointments</h3>
 
 <ul>
 

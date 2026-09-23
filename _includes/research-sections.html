@@ -41,7 +41,19 @@
 document.addEventListener('DOMContentLoaded', function () {
   var nav = document.getElementById('section-chips');
   if (!nav) return;
-  var container = nav.parentElement;
+  var container = nav.closest('.page__content') || nav.parentElement;
+
+  // Anchors written as <div id="..." /> are never closed by the browser, so each one swallows
+  // everything after it. Undo that nesting first: move each anchor's contents out to follow it.
+  function unwrap(el) {
+    if (!el || !el.parentNode || !/^(DIV|SPAN|A)$/.test(el.tagName)) return;
+    while (el.lastChild) el.parentNode.insertBefore(el.lastChild, el.nextSibling);
+  }
+  // The chips themselves may be caught inside such an anchor (e.g. <div id="top" />): lift them out too
+  var guard = 0, p = nav.parentElement;
+  while (p && p !== container && guard++ < 50) {
+    if (p.id) { unwrap(p); p = nav.parentElement; } else { p = p.parentElement; }
+  }
   var allChip = nav.querySelector('[data-all]');
   var chips = Array.prototype.slice.call(nav.querySelectorAll('.section-chip:not([data-all])'));
 
@@ -50,6 +62,9 @@ document.addEventListener('DOMContentLoaded', function () {
     while (el && el.parentElement !== container) el = el.parentElement;
     return el;
   }
+  chips.forEach(function (chip) {
+    unwrap(document.getElementById(decodeURIComponent(chip.getAttribute('href').slice(1))));
+  });
   var sections = chips.map(function (chip) {
     var id = decodeURIComponent(chip.getAttribute('href').slice(1));
     return { id: id, chip: chip, start: topLevel(document.getElementById(id)) };
