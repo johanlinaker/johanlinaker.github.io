@@ -1,0 +1,972 @@
+# Publications data for /publications/
+# Add a new entry by copying an existing one under `items`. Order within a type is kept as written.
+#   type:   one of the ids under `types`
+#   year:   used for the year filter (and the year headings for peer-reviewed papers)
+#   text:   the reference, in Markdown
+#   links:  optional list of {label, url}
+#   note:   optional short italic note shown after the links
+#   topics: optional list of ids under `topics`; these drive the topic filter
+types:
+- id: ongoing
+  label: Ongoing work / In submission
+  short: In submission
+- id: technical-reports
+  label: Technical reports
+  short: Reports
+- id: book-chapters
+  label: Book chapters
+  short: Book chapters
+- id: peer-reviewed-papers
+  label: Peer-reviewed papers
+  short: Peer-reviewed
+  by_year: true
+- id: pedagogic-papers
+  label: Pedagogic papers
+  short: Pedagogic
+- id: editorials
+  label: Editorials
+  short: Editorials
+- id: media
+  label: Media
+  short: Media
+- id: pods
+  label: Pods
+  short: Podcasts
+- id: popular-writing
+  label: Popular writing
+  short: Popular writing
+- id: doctoral-dissertation
+  label: Doctoral dissertation
+  short: Dissertation
+topics:
+- id: open-source
+  label: Open source
+- id: open-data
+  label: Open data
+- id: public-sector
+  label: Public sector
+- id: digital-sovereignty
+  label: Digital sovereignty
+- id: ai
+  label: AI
+- id: requirements
+  label: Requirements engineering
+- id: experimentation
+  label: Experimentation & games
+- id: innovation
+  label: Open innovation
+- id: teaching
+  label: Teaching
+items:
+- type: ongoing
+  year: 2026
+  text: 'Chren, S.. Fagerholm, F., Bjarnason, E., **Linåker, J.**, Rafi. S., & Lehtelä, B. (2026). *Exploring Experiment Cases in Continuous Experimentation: A Systematic Literature Review*. In submission.'
+  topics:
+  - experimentation
+- type: ongoing
+  year: 2026
+  text: 'Larsson, J., **Linåker, J.**, & Runeson, P. (2026). *Exploring public-private data sharing practices through the lens of Open Data Ecosystems: A multiple case study on municipal and regional freight logistics*. In submission.'
+  topics:
+  - open-data
+  - public-sector
+- type: ongoing
+  year: 2026
+  text: '**Linåker, J.**, Bjarnason, E., & Fagerholm, F. (2026). *Experimentation in Game Development: An Interview Survey*. In submission.'
+  topics:
+  - experimentation
+- type: ongoing
+  year: 2025
+  text: '**Linåker, J.**, Osborne, C., Ding, J., & Burthenshaw, B. (2025). *A cartography of open collaboration in open source ai: Mapping practices, motivations, and governance in 14 open large language model projects*. In submission.'
+  links:
+  - label: DOI
+    url: https://doi.org/10.48550/arXiv.2509.25397
+  - label: PDF
+    url: https://arxiv.org/pdf/2509.25397
+  topics:
+  - open-source
+  - ai
+- type: technical-reports
+  year: 2026
+  text: '**Linåker, J.** (2026). *National Support Structures and Capabilities for growing Digital Sovereignty through Sharing and Reuse of Open Source Software in the Public Sector*. RISE Research Institutes of Sweden, Lund, Sweden. Commissioned by the Danish Agency of Digital Government and Local Government Denmark.'
+  links:
+  - label: DOI
+    url: https://ri.diva-portal.org/smash/record.jsf?pid=diva2%3A2102281&dswid=-9676
+  - label: PDF
+    url: https://ri.diva-portal.org/smash/get/diva2:2102281/FULLTEXT01.pdf
+  topics:
+  - open-source
+  - public-sector
+  - digital-sovereignty
+- type: technical-reports
+  year: 2025
+  text: '**Linåker, J.**, Gates, N., Chourmouziadis, Y., & Weber, S. (2025). *Open Source Software Adoption and Reuse in European Local Governments A Multiple-Case Study*. Directorate-General for Digital Services (DIGIT).'
+  links:
+  - label: DOI
+    url: https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/multiple-case-study-public-sector-open-source
+  - label: PDF
+    url: https://www.linaker.se/assets/slides/open-source-software-adoption-and-reuse-in-european-local-governments-a-multiple-case-study.pdf
+  topics:
+  - open-source
+  - public-sector
+- type: technical-reports
+  year: 2025
+  text: Lundahl, J., Benmayor, A., **Linåker, J.**, Östling, A., Nordell, E., Wernicke, P., Burden H., & Stenberg, S. (2025). *Report on existing regulatory frameworks and governance mechanisms for mobility data sharing*. deployEMDS Consortium.
+  links:
+  - label: DOI
+    url: https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A2024670&dswid=-6328
+  - label: PDF
+    url: https://www.diva-portal.org/smash/get/diva2:2024670/FULLTEXT01.pdf
+  topics:
+  - open-data
+- type: technical-reports
+  year: 2024
+  text: '**Linåker, J.**, & Muto, S. (2024). *Software Reuse through Open Source Software in the Public Sector: A qualitative survey on Policy and Practice*. RISE Research Institutes of Sweden, Lund, Sweden. Commissioned by the Danish Agency of Digital Government and Local Government Denmark.'
+  links:
+  - label: DOI
+    url: https://urn.kb.se/resolve?urn=urn:nbn:se:ri:diva-72465
+  - label: PDF
+    url: https://www.diva-portal.org/smash/get/diva2:1848137/FULLTEXT01.pdf
+  topics:
+  - open-source
+  - public-sector
+- type: technical-reports
+  year: 2024
+  text: '**Linåker, J.**, & Nummelin Carlberg, A. (2024). *Open Source Software in the Automotive Industry - A Vision Paper*. Eclipse Software Defined Vehicle Working Group, Brussels, Belgium.'
+  links:
+  - label: PDF
+    url: https://www.linaker.se/assets/slides/VISION%20PAPER_%20Open%20Source%20Software%20in%20the%20Automotive%20Industry.pdf
+  topics:
+  - open-source
+- type: technical-reports
+  year: 2024
+  text: '**Linåker, J.**, Nummelin Carlberg, A., & O’Riordan, C. (2024). *Institutionalising Support for Open Source Software in the European Public Sector*. Directorate-General Informatics, European Commission, Brussels, Belgium.'
+  note: Under internal publication process of the EC
+  topics:
+  - open-source
+  - public-sector
+- type: technical-reports
+  year: 2022
+  text: '**Linåker, J.**, & Runeson, P. (2022). *Rekommendationer för samverkan och delning av data, teknik och kunskap inom myndighetsdrivna öppna data-ekosystem*. Lund University, Lund, Sweden.'
+  links:
+  - label: DOI
+    url: https://portal.research.lu.se/sv/publications/rekommendationer-f%C3%B6r-samverkan-och-delning-av-data-teknik-och-kun
+  - label: PDF
+    url: https://lucris.lub.lu.se/ws/portalfiles/portal/112560914/Rapport_Rekommendationer_f_r_samverkan_och_delning_av_data_teknik_och_kunskap_inom_myndighetsdrivna_ppna_data_ekosystem.pdf
+  topics:
+  - open-data
+  - public-sector
+- type: technical-reports
+  year: 2015
+  text: '**Linåker, J.**, Sulaman, S. M., Maiani de Mello, R., & Höst, M. (2015). *Guidelines for conducting surveys in software engineering*. Lund University, Lund, Sweden.'
+  links:
+  - label: DOI
+    url: https://portal.research.lu.se/sv/publications/guidelines-for-conducting-surveys-in-software-engineering
+  - label: PDF
+    url: https://lucris.lub.lu.se/ws/portalfiles/portal/6062997/5463412.pdf
+  topics: []
+- type: book-chapters
+  year: 2025
+  text: 'Bjarnason, E., **Linåker, J.**, & Fagerholm, F. (2025). *Experimentation practice in indie game startups*. In: Advances in software startups: generative AI, product engineering and business development (pp. 137-152). Springer Nature.'
+  links:
+  - label: DOI
+    url: https://link.springer.com/chapter/10.1007/978-3-032-04294-1_8
+  topics:
+  - experimentation
+- type: book-chapters
+  year: 2025
+  text: '**Linåker, J.**, Rudmark, D., Östling, A. (2025). *Lessons Learnt from Horizontal Coordination of Data Ecosystems in the Swedish Public Transport Sector*. In: Behnke, N., Petersohn, B. (eds) Horizontal Intergovernmental Coordination at Local and Regional Levels. Palgrave Macmillan, Cham.'
+  links:
+  - label: DOI
+    url: https://doi.org/10.1007/978-3-031-83567-4_20
+  - label: PDF
+    url: https://link.springer.com/content/pdf/10.1007/978-3-031-83567-4_20.pdf?pdf=inline%20link
+  topics:
+  - open-data
+  - public-sector
+- type: book-chapters
+  year: 2024
+  text: 'Germonprez, M. & **Linåker, J.** (2024). *Chapter 5: Measuring and Communicating Impact by your OSPO*. The Open Source (Program) Office Book. The TODO Group/Linux Foundation.'
+  links:
+  - label: PDF
+    url: https://github.com/todogroup/ospology/blob/cca7e569864f243138e921177e2103dae781e4cc/ospo-book/content/en/05-chapter.md
+  topics:
+  - open-source
+- type: peer-reviewed-papers
+  year: 2026
+  text: '**Linåker, J.**, Lumbard, K., & Link, G. (2026). *Making Impact Visible in Funding of Open Source Software: A Study of the Funders Perspective*. In Proceedings of the 20th International Symposium on Empirical Software Engineering and Measurement.'
+  topics:
+  - open-source
+- type: peer-reviewed-papers
+  year: 2026
+  text: 'Alami, A., Klockmann, S., Rehder Sörensen, L., Pardo, R., & **Linåker, J.** (2026). *Incubation and Beyond: A Comparative Analysis of ASF Projects Sustainability Impacts on Software Quality*. Accepted for publication in Empirical Software Engineering.'
+  topics:
+  - open-source
+- type: peer-reviewed-papers
+  year: 2026
+  text: '**Linåker, J.**, & Muto, S. (2025). *Advancing Digital Government: Integrating Open Source Software Enablement Indicators in Maturity Indexes*. Accepted for publication in the Journal of Software and Systems.'
+  links:
+  - label: DOI
+    url: https://doi.org/10.1016/j.jss.2026.113031
+  - label: PDF
+    url: https://doi.org/10.1016/j.jss.2026.113031
+  topics:
+  - open-source
+  - public-sector
+- type: peer-reviewed-papers
+  year: 2026
+  text: 'Usman, M., **Linåker, J.**, Badampudi, D., & Sahlin, H. (2026). *Adopting InnerSource in a Public Sector Organization: An Exploratory Case Study*. Accepted for publication at EuroMicro.'
+  topics:
+  - open-source
+  - public-sector
+- type: peer-reviewed-papers
+  year: 2026
+  text: '**Linåker, J.**, Nummelin Carlberg, A., & O’Riordan, C. (2025). *Public Sector Open Source Program Offices - Archetypes for how to Grow (Common) Institutional Capabilities*. Accepted for publication in the Journal of Software and Systems.'
+  links:
+  - label: DOI
+    url: https://doi.org/10.1016/j.jss.2026.112998
+  - label: PDF
+    url: https://www.sciencedirect.com/science/article/pii/S0164121226002311/pdfft?md5=613aff71ef7ab7eaa2a0eb117ed94ecd&pid=1-s2.0-S0164121226002311-main.pdf
+  topics:
+  - open-source
+  - public-sector
+- type: peer-reviewed-papers
+  year: 2026
+  text: '**Linåker, J.**, Olsson, T., & Papatheocharous, E. (2026). *Assessing open source software health in organizations’ intake processes: A qualitative study on the practitioners’ perspective*. Empirical Software Engineering, 31(105), 1-54.'
+  links:
+  - label: DOI
+    url: https://doi.org/10.1007/s10664-026-10846-y
+  - label: PDF
+    url: https://link.springer.com/epdf/10.1007/s10664-026-10846-y?sharing_token=9V-iaT7CToXM70FDQr93vfe4RwlQNchNByi7wbcMAY5sTo-4GduOLS-XN-ixrlN0PSZeP-nenxHS2twJ5L6tOb7xlRIhwO5KhxYdE1--iCqTiCtJb0rCAp6TWHa7_UikCjtGYQ76P7XtuSUEdIHxzKLJZ95LgXcDxt-7pu_UalA%3D
+  topics:
+  - open-source
+- type: peer-reviewed-papers
+  year: 2025
+  text: 'Malysh, K., Runeson, P. & **Linåker, J.** (2025). *Preliminary Findings on Establishing a Privately Governed Data Ecosystem for MLOps Data Sharing*. IEEE 45th International Conference on Distributed Computing Systems Workshops (ICDCSW): 5th International Workshop on Distributed Infrastructure for Common Good. IEEE, p. 480 486 p.'
+  topics:
+  - open-data
+  - ai
+- type: peer-reviewed-papers
+  year: 2025
+  text: '**Linåker, J.**, Lundell, B., Servant, F., Gamalielsson, J., Muto, S., & Robles, G. (2025). Public sector open source software projects-How is development organized?. Empirical Software Engineering, 30(3), 1-54.'
+  links:
+  - label: DOI
+    url: https://link.springer.com/article/10.1007/s10664-025-10626-0
+  - label: PDF
+    url: https://link.springer.com/content/pdf/10.1007/s10664-025-10626-0.pdf
+  topics:
+  - open-source
+  - public-sector
+- type: peer-reviewed-papers
+  year: 2024
+  text: '**Linåker, J.**, Bjarnason, E., & Fagerholm, F. (2024). *Pre-Release Experimentation in Indie Game Development: An Interview Survey*. In the 15th International Conference on Software Business. Springer.'
+  links:
+  - label: DOI
+    url: https://link.springer.com/chapter/10.1007/978-3-031-85849-9_24
+  - label: PDF
+    url: https://arxiv.org/pdf/2408.06723
+  topics:
+  - experimentation
+- type: peer-reviewed-papers
+  year: 2024
+  text: 'Chren, S., Fagerholm, F., Bjarnason, E., **Linåker, J.**, Rafi, S., Lehtelä, B., Runeson, R. & Kauppinen, M. (2024). *Data-Limited Continuous Experimentation (dlCE): A Literature Review*. In the 15th International Conference on Software Business. Springer.'
+  links:
+  - label: DOI
+    url: https://portal.research.lu.se/en/publications/data-limited-continuous-experimentation-dlce-a-literature-review
+  topics:
+  - experimentation
+- type: peer-reviewed-papers
+  year: 2024
+  text: '**Linåker, J.**, Link, G., & Lumbard, K. (2024). *Sustaining Maintenance Labor for Healthy Open Source Software Projects through Human Infrastructure: A Maintainer Perspective*. In the 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement.'
+  links:
+  - label: DOI
+    url: https://dl.acm.org/doi/10.1145/3674805.3686667
+  - label: PDF
+    url: https://arxiv.org/pdf/2408.06723
+  topics:
+  - open-source
+- type: peer-reviewed-papers
+  year: 2024
+  text: 'Persson, P., & **Linåker, J.** (2024). *Soft-lockins in Public sector acquisitions of Open Source Software-solutions: A case study on a e-service platform for Swedish municipalites*. In the 58th Hawaii International Conference on System Sciences 2024 (HICSS-58).'
+  links:
+  - label: PDF
+    url: https://arxiv.org/pdf/2409.01118
+  topics:
+  - open-source
+  - public-sector
+  - digital-sovereignty
+- type: peer-reviewed-papers
+  year: 2024
+  text: Larsson, J., **Linåker, J.**, & Runeson, P. (2024). *Enabling Data-sharing in Freight Logistics through Open Data Ecosystems*. In the International Conference on Electronic Government. Springer, Cham.
+  links:
+  - label: DOI
+    url: https://portal.research.lu.se/en/publications/enabling-data-sharing-in-logistics-through-open-data-ecosystems-a
+  - label: PDF
+    url: https://ceur-ws.org/Vol-3737/paper4.pdf
+  topics:
+  - open-data
+- type: peer-reviewed-papers
+  year: 2024
+  text: Malysh, K., Ahmed, T., **Linåker, J.**, & Runeson, P. (2024). *Inter-organizational Data Sharing Processes - an exploratory analysis of incentives and challenges*. In the 50th Euromicro Conference Series on Software Engineering and Advanced Applications (SEAA).
+  links:
+  - label: DOI
+    url: https://portal.research.lu.se/en/publications/inter-organizational-data-sharing-processes-an-exploratory-analys
+  - label: PDF
+    url: https://lucris.lub.lu.se/ws/portalfiles/portal/194583080/802600a080.pdf
+  topics:
+  - open-data
+- type: peer-reviewed-papers
+  year: 2024
+  text: 'Alami, A., Pardo, R., & **Linåker, J.** (2024). *Free open source communities sustainability: Does it make a difference in software quality?*. Empirical Software Engineering, 29(5), 114.'
+  links:
+  - label: DOI
+    url: https://doi.org/10.1007/s10664-024-10529-6
+  - label: PDF
+    url: https://link.springer.com/content/pdf/10.1007/s10664-024-10529-6.pdf
+  topics:
+  - open-source
+- type: peer-reviewed-papers
+  year: 2024
+  text: Schweik, C., & **Linåker, J.** (2024). *Enabling sustainable collaboration on open source software in and among European Union municipalities*. Workshop on the Ostrom Workshop 7, Indiana University, Bloomington.
+  links:
+  - label: DOI
+    url: https://dlc.dlib.indiana.edu/dlc/items/3fcc713e-ab4b-46b0-beae-bd1fd781ea04/full
+  - label: PDF
+    url: https://dlc.dlib.indiana.edu/dlcrest/api/core/bitstreams/0acc0646-6a43-4cc3-bec7-21f5c1542ca6/content
+  topics:
+  - open-source
+  - public-sector
+- type: peer-reviewed-papers
+  year: 2023
+  text: 'Susha, I., van den Broek, T.A., van Veenstra, A.F., & **Linåker, J.** (2023). *An ecosystem perspective on developing data collaboratives for addressing societal issues: The role of conveners*. Government Information Quarterly. 101763.'
+  links:
+  - label: DOI
+    url: https://doi.org/10.1016/j.giq.2022.101763
+  - label: PDF
+    url: https://reader.elsevier.com/reader/sd/pii/S0740624X22000995?token=185D0600332918FD933E510095C05E7264A3DB891792EB8A369D8FA4AA38048D6A4D2E1E24441E7BDB03210329016940&originRegion=eu-west-1&originCreation=20221014180306
+  topics:
+  - open-data
+- type: peer-reviewed-papers
+  year: 2022
+  text: '**Linåker, J.**, Papatheocharous, E., & Olsson, T. (2022). *How to characterize the health of an Open Source Software project? A snowball literature review of an emerging practice*. In the 18th International Symposium on Open Collaboration.'
+  links:
+  - label: DOI
+    url: https://doi.org/10.1145/3555051.3555067
+  - label: PDF
+    url: https://dl.acm.org/doi/pdf/10.1145/3555051.3555067
+  - label: Data set from literature review
+    url: https://doi.org/10.6084/m9.figshare.20137175
+  topics:
+  - open-source
+- type: peer-reviewed-papers
+  year: 2022
+  text: '**Linåker, J.**, & Runeson, P. (2022). *Sustaining Open Data as a Digital Common-Design principles for Common Pool Resources applied to Open Data Ecosystems*. In the International Symposium on Open Collaboration.'
+  links:
+  - label: DOI
+    url: https://doi.org/10.1145/3555051.3555066
+  - label: PDF
+    url: https://arxiv.org/pdf/2208.01694.pdf
+  topics:
+  - open-data
+- type: peer-reviewed-papers
+  year: 2021
+  text: Runeson, P., Olsson, T., & **Linåker, J.** (2021). *Open Data Ecosystems—An empirical investigation into an emerging industry collaboration concept*. Journal of Systems and Software, 182, 111088.
+  links:
+  - label: DOI
+    url: https://doi.org/10.1016/j.jss.2021.111088
+  - label: PDF
+    url: https://arxiv.org/pdf/2109.01378.pdf
+  topics:
+  - open-data
+- type: peer-reviewed-papers
+  year: 2021
+  text: '**Linåker, J.**, & Runeson, P. (2021). *How to Enable Collaboration in Open Government Data Ecosystems: A Public Platform Provider’s Perspective*. eJournal of eDemocracy & Open Government, 13(1).'
+  links:
+  - label: DOI
+    url: https://doi.org/10.29379/jedem.v13i1.634
+  - label: PDF
+    url: https://arxiv.org/pdf/2208.00305.pdf
+  topics:
+  - open-data
+  - public-sector
+- type: peer-reviewed-papers
+  year: 2021
+  text: Damian, D., **Linåker, J.**, Johnson, D., Clear, T., & Blincoe, K. (2021). *Challenges and Strategies for Managing Requirements Selection in Software Ecosystems*. IEEE Software, 38(6), 76-87.
+  links:
+  - label: DOI
+    url: https://doi.org/10.1109/MS.2021.3105044
+  topics:
+  - requirements
+- type: peer-reviewed-papers
+  year: 2020
+  text: '**Linåker, J.**, & Regnell, B. (2020). *What to share, when, and where: balancing the objectives and complexities of open source software contributions*. Empirical Software Engineering, 25(5), 3799-3840.'
+  links:
+  - label: DOI
+    url: https://doi.org/10.1007/s10664-020-09855-2
+  - label: PDF
+    url: https://arxiv.org/abs/2208.00047
+  - label: Contribution request form questions
+    url: https://doi.org/10.6084/m9.figshare.21104167
+  topics:
+  - open-source
+- type: peer-reviewed-papers
+  year: 2020
+  text: '**Linåker, J.**, Regnell, B., & Damian, D. (2020). *A method for analyzing stakeholders’ influence on an open source software ecosystem’s requirements engineering process*. Requirements Engineering, 25(1), 115-130.'
+  links:
+  - label: DOI
+    url: https://doi.org/10.1007/s00766-019-00310-3
+  - label: PDF
+    url: https://arxiv.org/pdf/2208.00062.pdf
+  topics:
+  - open-source
+  - requirements
+- type: peer-reviewed-papers
+  year: 2020
+  text: '**Linåker, J.**, & Runeson, P. (2020). *Public sector platforms going open: creating and growing an ecosystem with open collaborative development*. In the 16th International Symposium on Open Collaboration (pp. 1-10).'
+  links:
+  - label: DOI
+    url: https://doi.org/10.1145/3412569.3412572
+  - label: PDF
+    url: https://arxiv.org/pdf/2208.00510.pdf
+  topics:
+  - public-sector
+- type: peer-reviewed-papers
+  year: 2020
+  text: '**Linåker, J.**, & Runeson, P. (2020). *Collaboration in open government data ecosystems: Open cross-sector sharing and co-development of data and software*. In International Conference on Electronic Government (pp. 290-303). Springer, Cham.'
+  links:
+  - label: DOI
+    url: https://doi.org/10.1007/978-3-030-57599-1_22
+  - label: PDF
+    url: https://arxiv.org/pdf/2208.01746.pdf
+  topics:
+  - open-data
+  - public-sector
+- type: peer-reviewed-papers
+  year: 2019
+  text: '**Linåker, J.**, Regnell, B., & Damian, D. (2019). *A Community Strategy Framework–How to obtain influence on requirements in meritocratic open source software communities?*. Information and Software Technology, 112, 102-114.'
+  links:
+  - label: DOI
+    url: https://doi.org/10.1016/j.infsof.2019.04.010
+  - label: PDF
+    url: https://arxiv.org/pdf/2208.03302.pdf
+  topics:
+  - open-source
+  - requirements
+- type: peer-reviewed-papers
+  year: 2019
+  text: 'Blincoe, K., Dehghan, A., Salaou, A. D., Neal, A., **Linåker, J.**, & Damian, D. (2019). *High-level software requirements and iteration changes: a predictive model*. Empirical Software Engineering, 24(3), 1610-1648.'
+  links:
+  - label: DOI
+    url: https://doi.org/10.1007/s10664-018-9656-z
+  topics:
+  - requirements
+- type: peer-reviewed-papers
+  year: 2018
+  text: '**Linåker, J.**, Munir, H., Wnuk, K., & Mols, C. E. (2018). *Motivating the contributions: An open innovation perspective on what to share as open source software*. Journal of Systems and Software, 135, 17-36.'
+  links:
+  - label: DOI
+    url: https://doi.org/10.1016/j.jss.2017.09.032F
+  - label: PDF
+    url: https://arxiv.org/pdf/2208.00308.pdf
+  topics:
+  - open-source
+  - innovation
+- type: peer-reviewed-papers
+  year: 2018
+  text: 'Munir, H., **Linåker, J.**, Wnuk, K., Runeson, P., & Regnell, B. (2018). *Open innovation using open source tools: A case study at Sony Mobile*. Empirical Software Engineering, 23(1), 186-223.'
+  links:
+  - label: DOI
+    url: https://doi.org/10.1007/s10664-017-9511-7
+  - label: PDF
+    url: https://arxiv.org/pdf/2208.01406.pdf
+  topics:
+  - open-source
+  - innovation
+- type: peer-reviewed-papers
+  year: 2017
+  text: 'Dehghan, A., Neal, A., Blincoe, K., **Linåker, J.**, & Damian, D. (2017). *Predicting likelihood of requirement implementation within the planned iteration: an empirical study at IBM.* In 2017 IEEE/ACM 14th International Conference on Mining Software Repositories (MSR) (pp. 124-134). IEEE.'
+  links:
+  - label: DOI
+    url: https://doi.org/10.1109/MSR.2017.53
+  topics:
+  - requirements
+- type: peer-reviewed-papers
+  year: 2017
+  text: '**Linåker, J.**, & Regnell, B. (2017). *A contribution management framework for firms engaged in open source software ecosystems-a research preview*. In International Working Conference on Requirements Engineering: Foundation for Software Quality (pp. 50-57). Springer, Cham.'
+  links:
+  - label: DOI
+    url: https://doi.org/10.1007/978-3-319-54045-0_4
+  - label: PDF
+    url: https://arxiv.org/pdf/2208.02630.pdf
+  topics:
+  - open-source
+- type: peer-reviewed-papers
+  year: 2017
+  text: Mols, C. E., Wnuk, K., & **Linåker, J.** (2017, May). *The open source officer role–experiences*. In IFIP International Conference on Open Source Systems (pp. 55-59). Springer, Cham.
+  links:
+  - label: DOI
+    url: https://doi.org/10.1007/978-3-319-57735-7_6
+  topics:
+  - open-source
+- type: peer-reviewed-papers
+  year: 2016
+  text: '**Linåker, J.**, Rempel, P., Regnell, B., & Mäder, P. (2016). *How firms adapt and interact in open source ecosystems: Analyzing stakeholder influence and collaboration patterns*. In International Working Conference on Requirements Engineering: Foundation for Software Quality (pp. 63-81). Springer, Cham.'
+  links:
+  - label: DOI
+    url: https://doi.org/10.1007/978-3-319-30282-9_5
+  - label: PDF
+    url: https://arxiv.org/pdf/2208.02628.pdf
+  topics:
+  - open-source
+- type: peer-reviewed-papers
+  year: 2016
+  text: '**Linåker, J.**, & Wnuk, K. (2016). *Requirements analysis and management for benefiting openness*. In 2016 IEEE 24th International Requirements Engineering Conference Workshops (REW) (pp. 344-349). IEEE.'
+  links:
+  - label: DOI
+    url: https://doi.org/10.1109/REW.2016.062
+  - label: PDF
+    url: https://arxiv.org/pdf/2208.02629.pdf
+  topics:
+  - requirements
+- type: peer-reviewed-papers
+  year: 2015
+  text: '**Linåker, J.**, Regnell, B., & Munir, H. (2015). *Requirements engineering in open innovation: a research agenda*. In Proceedings of the 2015 International Conference on Software and System Process (pp. 208-212).'
+  links:
+  - label: DOI
+    url: https://doi.org/10.1145/2785592.2795370
+  - label: PDF
+    url: https://arxiv.org/pdf/2208.01741.pdf
+  topics:
+  - requirements
+  - innovation
+- type: peer-reviewed-papers
+  year: 2015
+  text: '**Linåker, J.**, Munir, H., Runeson, P., Regnell, B., & Schrewelius, C. (2015). *A survey on the perception of innovation in a large product-focused software organization*. In International Conference of Software Business (pp. 66-80). Springer, Cham.'
+  links:
+  - label: DOI
+    url: https://doi.org/10.1007/978-3-319-19593-3_6
+  - label: PDF
+    url: https://arxiv.org/pdf/2208.02002.pdf
+  topics:
+  - innovation
+- type: peer-reviewed-papers
+  year: 2014
+  text: '**Linåker, J.**, Krantz, M., & Höst, M. (2014). *On infrastructure for facilitation of inner source in small development teams*. In International Conference on Product-Focused Software Process Improvement (pp. 149-163). Springer, Cham.'
+  links:
+  - label: DOI
+    url: https://doi.org/10.1007/978-3-319-13835-0_11
+  - label: PDF
+    url: https://arxiv.org/pdf/2208.00037.pdf
+  topics:
+  - open-source
+- type: pedagogic-papers
+  year: 2025
+  text: '**Linåker, J.**, Alce, G., Eom, N., Niklewski, J., and Iao-Jörgensen, J. (2025). *Enabling PhD student collaboration in research groups*. Pedagogiska inspirationskonferensen-Genombrottet. Lund University, Lund, Sweden.'
+  links:
+  - label: PDF
+    url: https://www.linaker.se/assets/slides/PedKonf-2025.pdf
+  topics:
+  - teaching
+- type: pedagogic-papers
+  year: 2019
+  text: '**Linåker, J.**, Bjarnasson, E., & Regnell, B. (2019). *Involving real-world stakeholders in course group projects: Opportunities and challenges [extended abstract].* Lund University’s Teaching and Learning Conference. Lund, Sweden.'
+  links:
+  - label: PDF
+    url: https://www.linaker.se/assets/slides/Involving_real_world_stakeholders_in_course_group_projects__Opportunities_and_challenges_.pdf
+  topics:
+  - teaching
+- type: pedagogic-papers
+  year: 2016
+  text: Bjarnasson, E., & **Linåker, J.** (2016). *Teaching Academic Writing to Large Classes of Engineering Students*. Pedagogiska inspirationskonferensen-Genombrottet. Lund University, Lund, Sweden.
+  links:
+  - label: DOI
+    url: https://journals.lub.lu.se/pige/article/view/21207
+  - label: PDF
+    url: https://journals.lub.lu.se/pige/article/view/21207/19114
+  topics:
+  - teaching
+- type: editorials
+  year: 2023
+  text: '**Linåker, J.**, Robles, G., Bryant, D., & Muto, S. (2023). *Open Source Software in the Public Sector: 25 Years and Still in Its Infancy*. IEEE Software, 40(4), 39-44.'
+  links:
+  - label: DOI
+    url: https://doi.org/10.1109/MS.2023.3266105
+  - label: PDF
+    url: https://arxiv.org/ftp/arxiv/papers/2308/2308.04766.pdf
+  topics:
+  - open-source
+  - public-sector
+- type: editorials
+  year: 2022
+  text: '**Linåker, J.**, Runeson, P., Zuiderwijk, A., & Brock, A. (2022). *Collaborative Aspects of Open Data in Software Engineering*. IEEE Software, 39(1), 31-35.'
+  links:
+  - label: DOI
+    url: https://doi.org/10.1109/MS.2021.3118123
+  - label: PDF
+    url: https://arxiv.org/ftp/arxiv/papers/2208/2208.00488.pdf
+  topics:
+  - open-data
+- type: media
+  year: 2026
+  text: '*Microsoft kliver in i Europas AI-bygge – experten varnar för nytt beroende*. (July, 2026). Interview, Techtidningen.'
+  links:
+  - label: Article
+    url: https://techtidningen.se/microsoft-kliver-in-i-europas-ai-bygge-experten-varnar-for-nytt-beroende/
+  topics:
+  - digital-sovereignty
+  - ai
+- type: media
+  year: 2026
+  text: '*Digital suveränitet kräver mer än datalagring – strategiska vägval formar framtidens digitala landskap*. (June, 2026). Interview, NyTeknik.'
+  links:
+  - label: Article
+    url: https://www.nyteknik.se/nyteducation/digital-suveraenitet-kraever-mer-aen-datalagring-strategiska-vaegval-formar-framtidens-digitala-landskap/4465321
+  topics:
+  - digital-sovereignty
+- type: media
+  year: 2026
+  text: '*Europeans want less dependence on foreign technologies, study finds*. (June, 2026). Interview, Euronews.'
+  links:
+  - label: Article
+    url: https://www.euronews.com/my-europe/2026/06/24/europeans-want-less-dependence-on-foreign-technologies-study-finds
+  topics:
+  - digital-sovereignty
+- type: media
+  year: 2026
+  text: '*Open source heeft ondersteunend ecosysteem nodig*. (June, 2026). Article, iBestuur.'
+  links:
+  - label: Article
+    url: https://ibestuur.nl/overheid-in-transitie/management-en-bedrijfsvoering/open-source-heeft-ondersteunend-ecosysteem-nodig
+  topics:
+  - open-source
+- type: media
+  year: 2026
+  text: '*The EU turns to ‘Made in Europe’ tech solutions*. (April, 2026). Interview, The Parliament Magazine.'
+  links:
+  - label: Article
+    url: https://www.theparliamentmagazine.eu/news/article/european-governments-turn-to-made-in-europe-tech-solutions
+  topics:
+  - digital-sovereignty
+- type: media
+  year: 2026
+  text: '*Oro för USA-samarbete: ”Otroligt märkligt”*. (March, 2026). Interview, Svenska Dagbladet.'
+  links:
+  - label: Article
+    url: https://www.svd.se/a/gkk0g5/usa-samarbetet-pax-silica-vacker-hard-kritik-otroligt-markligt
+  topics:
+  - digital-sovereignty
+- type: media
+  year: 2026
+  text: '*Så blir du fri från amerikanska tjänster – här är alternativen*. (March, 2026). Interview, PC för Alla.'
+  links:
+  - label: Article
+    url: https://www.pcforalla.se/article/3087044/amerikanska-tekniktjanster-alternativ.html
+  topics:
+  - digital-sovereignty
+- type: media
+  year: 2026
+  text: '*Så försöker länder lösa techberoendet av USA – och det kan man göra själv*. (March, 2026). Interview, Omni.'
+  links:
+  - label: Article
+    url: https://omni.se/sa-forsoker-lander-losa-techberoendet-av-usa-och-det-kan-man-gora-sjalv/a/0pQmg0
+  topics:
+  - digital-sovereignty
+- type: media
+  year: 2026
+  text: '*Canada and Europe are breaking away from US tech. Can they collaborate?*. (February, 2026). Interview, Cybernews.'
+  links:
+  - label: Article
+    url: https://cybernews.com/tech/canada-eu-digital-sovereignty/
+  topics:
+  - digital-sovereignty
+- type: media
+  year: 2026
+  text: '*What Europe really thinks of Mark Carney’s new world order*. (February, 2026). Interview, The Logic.'
+  links:
+  - label: Article
+    url: https://thelogic.co/news/the-big-read/canada-europe-uk-trade-new-world-order/
+  topics:
+  - digital-sovereignty
+- type: media
+  year: 2026
+  text: '*Digital sovereignty (2/3): Can Europe’s businesses survive without US Big Tech?*. (February, 2026). Interview, France24.'
+  links:
+  - label: Article
+    url: https://www.france24.com/en/technology/20260203-digital-sovereignty-can-european-businesses-survive-without-us-big-tech
+  topics:
+  - digital-sovereignty
+- type: media
+  year: 2026
+  text: '*Digital sovereignty (1/3): Have Trump’s threats spurred a European awakening?*. (February, 2026). Interview, France24.'
+  links:
+  - label: Article
+    url: https://www.france24.com/en/technology/20260202-digital-sovereignty-have-trump-threats-spurred-european-awakening
+  topics:
+  - digital-sovereignty
+- type: media
+  year: 2026
+  text: '*Regionen börjar med AI-journaler – trots avrådan?*. (Febuary, 2026). Interview, Dagens Nyheter.'
+  links:
+  - label: Article
+    url: https://www.dn.se/sverige/regionen-borjar-med-ai-journaler-trots-avradan/
+  topics:
+  - public-sector
+  - ai
+- type: media
+  year: 2026
+  text: '*Vad händer om USA drar ur sladden – och släcker molnen?*. (January, 2026). Interview, Ekonomikanalen (EFN).'
+  links:
+  - label: Article
+    url: https://efn.se/vad-hander-om-usa-drar-ur-sladden-och-slacker-molnen
+  topics:
+  - digital-sovereignty
+- type: media
+  year: 2026
+  text: '*Europe’s digital reliance on US Big Tech: Does the EU have a plan?*. (January, 2026). Interview, France24.'
+  links:
+  - label: Article
+    url: https://www.france24.com/en/europe/20260124-europe-s-digital-reliance-on-us-big-tech-does-the-eu-have-a-plan
+  topics:
+  - digital-sovereignty
+- type: media
+  year: 2025
+  text: '*Svenska forskare: Så klarar vi en IT-krasch*. (December, 2025). Interview, Dagensps.se.'
+  links:
+  - label: Article
+    url: https://www.dagensps.se/foretag/svenska-forskare-sa-klarar-vi-en-it-krasch/
+  topics:
+  - digital-sovereignty
+- type: media
+  year: 2025
+  text: '*Så kan Sverige klara globalt it-haveri*. (December, 2025). Interview and co-authored blog post, Forskning.se.'
+  links:
+  - label: Article
+    url: https://forskning.se/2025/12/05/sa-kan-sverige-klara-globalt-it-haveri/
+  topics:
+  - digital-sovereignty
+- type: media
+  year: 2025
+  text: '*Interview on a lock-in situation in the City of Gothenburg*. (December, 2025). Ekot (Swedish public service radio national daily news).'
+  topics:
+  - public-sector
+  - digital-sovereignty
+- type: media
+  year: 2025
+  text: '*Så ska EU räddas från digitalt mörker*. (November, 2025). Interview and co-authored blog post, Lund University.'
+  links:
+  - label: Article
+    url: https://www.lu.se/artikel/sa-ska-eu-raddas-fran-digitalt-morker
+  topics:
+  - digital-sovereignty
+- type: media
+  year: 2025
+  text: '*Digitalt beroende gör Europa sårbart*. (October, 2025). Interview and co-authored blog post, RISE.'
+  links:
+  - label: Article
+    url: https://www.ri.se/sv/digitalt-beroende-gor-europa-sarbart
+  topics:
+  - digital-sovereignty
+- type: media
+  year: 2025
+  text: '*Interview on Denmark’s increased focus on digital sovereignty*. (Sept, 2025). Aktuellt (Swedish public service television national evening news).'
+  topics:
+  - digital-sovereignty
+- type: pods
+  year: 2026
+  text: '*Using Metrics in your OSPO*. (Mar, 2026). CHAOSSCast.'
+  links:
+  - label: Recording
+    url: https://podcast.chaoss.community/129
+  topics:
+  - open-source
+- type: pods
+  year: 2024
+  text: '*#212 Software Reuse through Open Source Software in the Public Sector*. (Jun, 2024). IT Talks.'
+  links:
+  - label: Recording
+    url: https://ittalks.libsyn.com/212-software-reuse-through-open-source-software-in-the-public-sector-with-sachiko-muto-and-johan-linker-from-rise-swe
+  topics:
+  - open-source
+  - public-sector
+- type: pods
+  year: 2021
+  text: '*#78 - Open Source, open data, and co-operation – a success factor for the public sector*. (May, 2021). IT Talks.'
+  links:
+  - label: Recording
+    url: https://ittalks.libsyn.com/78-open-source-open-data-and-co-operation-a-success-factor-for-the-public-sector-with-johan-linker-lund-university-swe
+  topics:
+  - open-source
+  - open-data
+  - public-sector
+- type: pods
+  year: 2021
+  text: '*#67 Rebroadcast - Open data, open source, open standards, open innovation*. (Feb, 2021). IT Talks.'
+  links:
+  - label: Recording
+    url: https://ittalks.libsyn.com/67-rebroadcast-open-data-open-source-open-standards-open-innovation-with-johan-linker-swe
+  topics:
+  - open-source
+  - open-data
+  - innovation
+- type: pods
+  year: 2019
+  text: '*#12 - Open data, open source, open standards, open innovation*. (Dec, 2019). IT Talks.'
+  links:
+  - label: Recording
+    url: https://ittalks.libsyn.com/67-rebroadcast-open-data-open-source-open-standards-open-innovation-with-johan-linker-swe
+  topics:
+  - open-source
+  - open-data
+  - innovation
+- type: popular-writing
+  year: 2026
+  text: Serrano, J., Gates, N., and **Linåker, J.** *Without Open-Source Hardware, There Is No EU Tech Sovereignty*. (June, 2026). Op-Ed, TechPolicy.press.
+  links:
+  - label: Article
+    url: https://www.techpolicy.press/without-opensource-hardware-there-is-no-eu-tech-sovereignty/
+  topics:
+  - open-source
+  - digital-sovereignty
+- type: popular-writing
+  year: 2026
+  text: '**Linåker, J.** *Europe wants to limit its reliance on foreign tech – but funding is limited and the proposed rules are weak*. (June, 2026). News piece, self-authored, The Conversation UK.'
+  links:
+  - label: Article
+    url: https://doi.org/10.64628/AB.mv7yhkqae
+  topics:
+  - digital-sovereignty
+- type: popular-writing
+  year: 2026
+  text: '*EU:s suveränitetspaket visar vägen mot digital rådighet*. (Juni, 2026). Blogpost, RISE.'
+  links:
+  - label: Article
+    url: https://www.ri.se/sv/bloggpost/eus-suveranitetspaket-visar-vagen-mot-digital-radighet
+  topics:
+  - digital-sovereignty
+- type: popular-writing
+  year: 2026
+  text: '*Samverkan nyckel till stärkt europeisk digital suveränitet och kontroll*. (Maj, 2026). Blogpost, Europakommentaren, Centrum för Europaforskning vid Lunds universitet.'
+  links:
+  - label: Article
+    url: https://europakommentaren.se/2026/05/15/samverkan-nyckel-till-starkt-europeisk-digital-suveranitet-och-kontroll/
+  topics:
+  - digital-sovereignty
+- type: popular-writing
+  year: 2026
+  text: '*Digital suveränitet – från osynliga beroenden till strategiska val*. (April, 2026). Blogpost, RISE.'
+  links:
+  - label: Article
+    url: https://www.ri.se/sv/bloggpost/digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val
+  topics:
+  - digital-sovereignty
+- type: popular-writing
+  year: 2026
+  text: Le Pape, A., Gates, N., **Linåker, J.**, Neuhäusler, P., Luiz Darold, D., & Väliharju, T. *EU’s Digital Sovereignty Depends On Investment In Open-Source And Talent*. (January, 2026). Op-Ed, TechPolicy.press.
+  links:
+  - label: Article
+    url: https://www.techpolicy.press/eus-digital-sovereignty-depends-on-investment-in-opensource-and-talent/
+  topics:
+  - open-source
+  - digital-sovereignty
+- type: popular-writing
+  year: 2026
+  text: '**Linåker, J.** *Europa vil gøre op med farlig afhængighed af amerikansk internet-teknologi*. (January, 2026). News piece, self-authored, Videnskab.dk (translated and republished from The Conversation UK).'
+  links:
+  - label: Article
+    url: https://videnskab.dk/teknologi/europa-vil-goere-op-med-farlig-afhaengighed-af-amerikansk-internet-teknologi/
+  topics:
+  - digital-sovereignty
+- type: popular-writing
+  year: 2026
+  text: '**Linåker, J.** *Så kan vi alla bidra till Europas digitala oberoende*. (January, 2026). News piece, self-authored, Forskning och Framsteg (translated and republished from The Conversation UK).'
+  links:
+  - label: Article
+    url: https://fof.se/artikel/sa-kan-vi-alla-bidra-till-europas-digitala-oberoende/
+  topics:
+  - digital-sovereignty
+- type: popular-writing
+  year: 2026
+  text: '**Linåker, J.** *Europe wants to end its dangerous reliance on US internet technology*. (January, 2026). News piece, self-authored, The Conversation UK.'
+  links:
+  - label: Article
+    url: https://fof.se/artikel/sa-kan-vi-alla-bidra-till-europas-digitala-oberoende/
+  topics:
+  - digital-sovereignty
+- type: popular-writing
+  year: 2026
+  text: '**Linåker, J.** *Open Source AI as Sweden’s Path to an Independent Digital Future*. (December, 2026). Blog post, self-authored, RISE.'
+  links:
+  - label: Article
+    url: https://www.ri.se/en/artificial-intelligence/blogpost/open-source-ai-as-swedens-path-to-an-independent-digital-future
+  topics:
+  - open-source
+  - digital-sovereignty
+  - ai
+- type: popular-writing
+  year: 2021
+  text: Nyman, L., Nyström Holm, M., & **Linåker, J.**. (2021). *Dela kostnader och undvik inlåsningar*. Series on public procurement and Open Source Software - pt1. Inköpsrådet.
+  links:
+  - label: DOI
+    url: https://inkopsradet.se/dela-kostnader-och-undvik-inlasningar/
+  topics:
+  - open-source
+  - public-sector
+  - digital-sovereignty
+- type: popular-writing
+  year: 2021
+  text: Nyman, L., Nyström Holm, M., & **Linåker, J.**. (2021). *Hitta öppen källkod som klarar kraven*. Series on public procurement and Open Source Software - pt2. Inköpsrådet.
+  links:
+  - label: DOI
+    url: https://inkopsradet.se/hitta-oppen-kallkod-som-klarar-kraven/
+  topics:
+  - open-source
+  - public-sector
+- type: popular-writing
+  year: 2021
+  text: Nyman, L., Nyström Holm, M., & **Linåker, J.**. (2021). *Utvecklas och förvaltas tillsammans*. Series on public procurement and Open Source Software - pt3. Inköpsrådet.
+  links:
+  - label: DOI
+    url: https://inkopsradet.se/dela-kostnader-och-undvik-inlasningar/
+  topics:
+  - open-source
+  - public-sector
+- type: popular-writing
+  year: 2021
+  text: Nyman, L., Nyström Holm, M., & **Linåker, J.**. (2021). *Undvik inlåsning vid it-upphandling*. Series on public procurement and Open Source Software - pt4. Inköpsrådet.
+  links:
+  - label: DOI
+    url: https://inkopsradet.se/undvik-inlasning-vid-it-upphandling/
+  topics:
+  - open-source
+  - public-sector
+  - digital-sovereignty
+- type: popular-writing
+  year: 2021
+  text: '**Linåker, J**., Dalhage, M., Södergren, J., & Nummelin Carlberg, A. (2021). *”Öppen källkod och bättre samarbete behövs för digitaliseringen av offentlig sektor”*. Op-Ed, Computer Sweden.'
+  links:
+  - label: DOI
+    url: https://computersweden.idg.se/2.2683/1.748296/oppen-kallkod-samverkan-nosad
+  topics:
+  - open-source
+  - public-sector
+- type: popular-writing
+  year: 2015
+  text: Regnell, B., Runeson, P., Höst, M., and **Linåker, J.** (2015, May). *Innovation med öppen källkod ger konkurrensfördelar*. Management of Innovation and Technology, volume 2.
+  links:
+  - label: DOI
+    url: https://portal.research.lu.se/sv/publications/innovation-through-open-source-gives-competitive-advantages
+  - label: PDF
+    url: https://lucris.lub.lu.se/ws/portalfiles/portal/5577180/5367353.pdf
+  topics:
+  - open-source
+  - innovation
+- type: doctoral-dissertation
+  year: 2019
+  text: '**Linåker, J.** (2019). *Guiding Development of Contribution and Community Strategies in Open Source Software Requirements Engineering*. Doctoral dissertation. Lund University, Lund, Sweden.'
+  links:
+  - label: DOI
+    url: https://portal.research.lu.se/sv/publications/guiding-development-of-contribution-and-community-strategies-in-o
+  - label: PDF
+    url: https://cs.lth.se/fileadmin/cs/johan_linaker/Thesis.pdf
+  topics:
+  - open-source
+  - requirements
