@@ -40,6 +40,8 @@ header:
 </ul>
 
 
+{% include pub-filter.html %}
+
 <div id="ongoing" />
 ## Ongoing work/In submission | <a href="#top">Top</a>
 
