@@ -7,7 +7,6 @@ categories:
   - blog
 Tags:
   - open-source-software
-  - digital-commons
   - public-sector
   - digital-sovereigenty
 header:

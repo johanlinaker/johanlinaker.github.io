@@ -8,6 +8,7 @@ categories:
 tags:
   - open-source
   - policy
+  - digital-sovereignty
 header:
   teaser: /assets/images/2026-01-21-conversation-piece-europe-wants-to-end-its-dangerous-reliance-on-us-internet-technology/teaser.jpg
 ---

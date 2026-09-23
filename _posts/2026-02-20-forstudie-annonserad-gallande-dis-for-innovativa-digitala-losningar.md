@@ -3,10 +3,11 @@ title: Förstudie annonserad gällande DIS för innovativa digitala lösningar
 seo_title: Förstudie annonserad gällande DIS för innovativa digitala lösningar
 excerpt: "För några år sedan utforskade [Christian Landgren](https://www.linkedin.com/in/christianlandgren/), [Ted Stalte](https://www.linkedin.com/in/ted-stalte-1b67597/) och jag möjligheterna för att upphandla utveckling inkrementellt i en open source-modell med hjälp av Dynamiska Inköpssystem (DIS). Intresset var stort men mognad och mottaglighet att gå till verkstad begränsad. Det jag framför allt stött på sedan dess i digitalt sammanhang är dynamisk upphandling av utvecklingsresurser för att stärka intern kapacitet, samtidigt som många ser en bredare potential. "
 date: 2026-02-20T11:10:16+02:00
+locale: sv-SE
 categories:
   - blog
 tags:
-  - open-source
+  - open-source-software
   - public procurement
 header:
   teaser: /assets/images/2026-02-20-forstudie-annonserad-gallande-dis-for-innovativa-digitala-losningar/teaser.jpg

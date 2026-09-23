@@ -3,11 +3,12 @@ title: Ny Open Source policy från DIGG ute
 seo_title: Ny Open Source policy från DIGG ute
 excerpt: "Hatten av för Digg – Myndigheten för digital förvaltning med Josef Andersson och andra involverade för arbetet med deras policy för öppen programvara, samt tillhörande dokumentation. Även om den är intern för DIGG ger den en bra grund för andra myndigheter, kommuner och regioner att ta efter. Tillhörande riktlinjer lyfter bidragsprocesser, hälsoaspekter, säkerhet och underhåll som ofta glöms bort. Likaså ger deras handbok för att arbeta med öppen programvara en god grund för utvecklare men även mindre tekniska att sätta sig in och förstå sammanhanget kring öppen programvara och processer för anskaffning, utveckling och samverkan. Börja sprid och dela! "
 date: 2026-06-10T10:05:56+02:00
-locale: "sv-SE"
+locale: sv-SE
 categories:
   - blog
 tags:
-  - open-source
+  - open-source-software
+  - public-sector
 header:
   teaser: /assets/images/2026-06-10-ny-open-source-policy-fran-digg-ute/teaser.jpg
 ---

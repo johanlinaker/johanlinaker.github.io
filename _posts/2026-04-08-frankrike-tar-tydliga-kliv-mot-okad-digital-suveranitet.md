@@ -3,11 +3,11 @@ title: Frankrike tar tydliga kliv mot ökad digital suveränitet
 seo_title: Frankrike tar tydliga kliv mot ökad digital suveränitet
 excerpt: "Intressant [utveckling i Frankrike](https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/) som redan är långt gånget i sitt arbete kring digital suveränitet. Det nämns hur DINUM kommer att samordna en interministeriell handlingsplan för att minska de utomeuropeiska beroendena. Vidare ska enskilda ministerier (inklusive dess myndigheter och bolag) i sin tur ta fram egna handlingsplaner senast i höst. Dessa planer ska omfatta områden som operativsystem, samarbetsverktyg, antivirus, artificiell intelligens, databaser, virtualisering och nätverksutrustning. Målet är att skapa transparens gentemot den digitala industrin och stärka europeiska leverantörers position vid offentlig upphandling. "
 date: 2026-04-08T10:54:42+02:00
-locale: "sv-SE"
+locale: sv-SE
 categories:
   - blog
 tags:
-  - open-source
+  - open-source-software
   - digital-sovereignty
 header:
   teaser: /assets/images/2026-04-08-frankrike-tar-tydliga-kliv-mot-okad-digital-suveranitet/teaser.jpg

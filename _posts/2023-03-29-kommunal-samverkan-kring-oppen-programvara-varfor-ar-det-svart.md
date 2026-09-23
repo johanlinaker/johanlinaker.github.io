@@ -4,7 +4,7 @@ seo_title: "Kommunal samverkan kring öppen programvara - Varför är det så sv
 excerpt: "Kommuner delar många typer av uppgifter och har en enormt stor potential att tjäna på (åter)användning, delning och samverkan kring öppen programvara (öppen källkod eller eng. Open Source Software). Samtidigt är utmaningarna många. Några exempel inkluderar: bristande intern förmåga, kapacitet och kultur, osäkerheter kring hur öppen programvara kan beaktas och utvärderas, luckor och missuppfattningar kring ex. legala och säkerhetsrelaterade aspekter, avsaknad av koordinering, samt process för långsiktig förvaltning."
 seo_description: "Kommuner delar många typer av uppgifter och har en enormt stor potential att tjäna på (åter)användning, delning och samverkan kring öppen programvara (öppen källkod eller eng. Open Source Software). Samtidigt är utmaningarna många. Några exempel inkluderar: bristande intern förmåga, kapacitet och kultur, osäkerheter kring hur öppen programvara kan beaktas och utvärderas, luckor och missuppfattningar kring ex. legala och säkerhetsrelaterade aspekter, avsaknad av koordinering, samt process för långsiktig förvaltning."
 date: 2023-03-29T15:34:30-04:00
-locale: "sv-SE"
+locale: sv-SE
 categories:
   - blog
 tags:

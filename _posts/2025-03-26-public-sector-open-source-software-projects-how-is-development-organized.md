@@ -7,8 +7,7 @@ categories:
   - blog
 tags:
   - open-source-software
-  - digital-commons
-  - publi-sector
+  - public-sector
 header:
   teaser: "/assets/images/2025-03-26-public-sector-open-source-software-projects-how-is-development-organized/teaser.png"
 ---

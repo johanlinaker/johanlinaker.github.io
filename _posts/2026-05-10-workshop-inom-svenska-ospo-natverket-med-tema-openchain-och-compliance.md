@@ -3,11 +3,11 @@ title: Workshop inom Svenska OSPO-nätverket med tema OpenChain och Compliance
 seo_title: Workshop inom Svenska OSPO-nätverket med tema OpenChain och Compliance
 excerpt: "Förra veckan träffades Svenska OSPO‑nätverket för en workshop med fokus på OpenChain Project, open source‑compliance och OSPO‑arbete i praktiken – med särskilda perspektiv från starkt reglerade miljöer som fordonsindustrin."
 date: 2026-05-10T10:24:46+02:00
-locale: "sv-SE"
+locale: sv-SE
 categories:
   - blog
 tags:
-  - open-source
+  - open-source-software
   - ospo
 header:
   teaser: /assets/images/2026-05-10-workshop-inom-svenska-ospo-natverket-med-tema-openchain-och-compliance/teaser.jpg

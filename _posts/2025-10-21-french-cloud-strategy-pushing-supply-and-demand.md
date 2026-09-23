@@ -7,8 +7,8 @@ categories:
   - blog
 Tags:
   - open-source-software
-  - academia
-  - open-science
+  - digital sovereignty
+  - clouds
 header:
   teaser: "/assets/images/2025-10-21-french-cloud-strategy-pushing-supply-and-demand/teaser.png"
 ---

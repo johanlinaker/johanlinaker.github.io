@@ -9,6 +9,7 @@ tags:
   - open-source-software
   - public-sector
   - policy
+  - public-procurement
 header:
   teaser: "/assets/images/2026-02-01-Public-Procurement-An-Enabler-for-Digital-Sovereignty/teaser.jpg"
 ---

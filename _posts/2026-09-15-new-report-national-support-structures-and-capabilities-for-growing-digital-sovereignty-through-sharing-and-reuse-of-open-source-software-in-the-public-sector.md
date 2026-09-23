@@ -6,8 +6,9 @@ date: 2026-09-15T06:03:57+02:00
 categories:
   - blog
 tags:
-  - open-source
-  - open-government
+  - open-source-software
+  - public-sector
+  - digital-sovereignty
 header:
   teaser: "/assets/images/2026-09-15-new-report-national-support-structures-and-capabilities-for-growing-digital-sovereignty-through-sharing-and-reuse-of-open-source-software-in-the-public-sector/teaser.jpg"
 ---

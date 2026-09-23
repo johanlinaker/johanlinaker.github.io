@@ -10,6 +10,7 @@ tags:
   - open-source-software
   - public-sector
   - policy
+  - OSPO
 header:
   teaser: "/assets/images/2024-05-02-public-sector-open-source-program-offices/teaser.png"
 ---

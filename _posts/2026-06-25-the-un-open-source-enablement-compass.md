@@ -6,7 +6,8 @@ date: 2026-06-25T22:16:03+02:00
 categories:
   - blog
 tags:
-  - open-source
+  - open-source-software
+  - UN
   - osec
 header:
   teaser: /assets/images/2026-06-25-the-un-open-source-enablement-compass/teaser.jpg

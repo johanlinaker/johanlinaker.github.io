@@ -1,6 +1,4 @@
 ---
-
-
 title: "Paper: Sustaining Availability of the Maintenance Labor with Human Infrastructure Key for Healthy Open Source Software Projects"
 seo_title: "Paper: Sustaining Availability of the Maintenance Labor with Human Infrastructure Key for Healthy Open Source Software Projects"
 excerpt: "We (Me, Georg Link, and Kevin Lumbard) explore how the health and sustainability of Open Source Software projects depends on the human activity invested by project maintainers and contributors. 
@@ -17,8 +15,6 @@ categories:
   - blog
 tags:
   - open-source-software
-  - digital-commons
-  - health
   - sustainability
 header:
   teaser: "/assets/images/2024-10-16-sustaining-maintenance-labor-for-open-source-software-projects-through-human-Infrastructure/teaser.jpg"

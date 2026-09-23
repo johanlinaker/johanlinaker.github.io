@@ -6,7 +6,7 @@ date: 2026-03-15T11:03:19+02:00
 categories:
   - blog
 tags:
-  - open-source
+  - open-source-software
   - digital-sovereignty
 header:
   teaser: /assets/images/2026-03-15-digital-sovereignty-top-subject-in-canada/teaser.jpg

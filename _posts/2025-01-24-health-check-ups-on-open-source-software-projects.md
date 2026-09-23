@@ -9,8 +9,6 @@ categories:
   - blog
 tags:
   - open-source-software
-  - digital-commons
-  - health
   - sustainability
 header:
   teaser: "/assets/images/2025-01-24-health-check-ups-on-open-source-software-projects/teaser.jpg"

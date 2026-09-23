@@ -6,7 +6,7 @@ date: 2026-03-30T10:59:14+02:00
 categories:
   - blog
 tags:
-  - open-source
+  - open-source-software
 header:
   teaser: /assets/images/2026-03-30-eosa-masterclass-series-building-and-sustaining-open-source-impact/teaser.jpg
 ---

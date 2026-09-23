@@ -6,10 +6,8 @@ date: 2025-09-15T01:00:00-04:00
 categories:
   - blog
 Tags:
+  - open-source-ai
   - open-source-software
-  - digital-commons
-  - public-sector
-  - digital-sovereigenty
 header:
   teaser: "/assets/images/2025-10-06-a-cartography-of-open-collaboration-in-open-source-ai/teaser.png"
 ---

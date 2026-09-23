@@ -3,13 +3,13 @@ title: "Riskanalys och hantering av hälsan hos öppna programvaruprojekt"
 seo_title: "Riskanalys och hantering av hälsan hos öppna programvaruprojekt"
 excerpt: ""
 date: 2026-12-26T01:00:00-04:00
-locale: "sv-SE"
+locale: sv-SE
 categories:
   - blog
 Tags:
   - open-source-software
   - ospo
-  - health
+  - sustainability
 header:
   teaser: "/assets/images/2025-11-26-halsa-som-risk/teaser.png"
 ---

@@ -6,8 +6,8 @@ date: 2026-07-13T20:48:48+02:00
 categories:
   - blog
 tags:
-  - open-source
-  - digital-government
+  - open-source-software
+  - public-sector
 header:
   teaser: "/assets/images/2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators/teaser.jpg"
 ---

@@ -6,7 +6,7 @@ date: 2026-02-13T11:13:02+02:00
 categories:
   - blog
 tags:
-  - open-source
+  - open-source-software
   - ospo
 header:
   teaser: /assets/images/2026-02-13-swedish-ospo-network-workshop-on-open-source-policy/teaser.jpg

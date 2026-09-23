@@ -6,8 +6,8 @@ date: 2026-06-18T10:01:07+02:00
 categories:
   - blog
 tags:
-  - open-source
-  - open-government
+  - open-source-software
+  - public-sector
   - ospo
 header:
   teaser: /assets/images/2026-06-18-study-published-on-public-sector-open-source-program-offices/teaser.jpg

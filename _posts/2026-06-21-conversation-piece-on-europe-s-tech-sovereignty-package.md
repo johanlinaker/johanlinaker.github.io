@@ -6,7 +6,8 @@ date: 2026-06-21T22:36:53+02:00
 categories:
   - blog
 tags:
-  - open-source
+  - open-source-software
+  - digital-sovereignty
 header:
   teaser: /assets/images/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package/teaser.jpg
 ---

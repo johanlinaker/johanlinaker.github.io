@@ -6,7 +6,7 @@ date: 2026-02-06T11:15:19+02:00
 categories:
   - blog
 tags:
-  - open-source
+  - open-source-software
   - digital-sovereignty
 header:
   teaser: /assets/images/2026-02-06-op-ed-eu-s-digital-sovereignty-depends-on-investment-in-open-source-and-talent/teaser.jpg
