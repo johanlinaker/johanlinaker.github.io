@@ -10,7 +10,7 @@ tags:
   - public-sector
   - digital-sovereignty
   - ospo
-  public-procurement
+  - public-procurement
 header:
   teaser: "/assets/images/2026-09-15-new-report-national-support-structures-and-capabilities-for-growing-digital-sovereignty-through-sharing-and-reuse-of-open-source-software-in-the-public-sector/teaser.jpg"
 ---
