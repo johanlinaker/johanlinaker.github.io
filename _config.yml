@@ -81,7 +81,7 @@ author:
       icon: "ai ai-orcid"
       url: "https://orcid.org/0000-0001-9851-1404"
     - label: "Hugging Face"
-      icon: "facepalm"
+      icon: "icon-hugging-face fa-fw"
       url: "https://huggingface.co/johanlinaker"
       
 social:
