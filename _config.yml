@@ -81,6 +81,21 @@ author:
     - label: "Hugging Face"
       icon: "facepalm"
       url: "https://huggingface.co/johanlinaker"
+      
+social:
+  type: Person
+  name: "Johan Linåker"
+  links:
+    - "https://orcid.org/0000-0001-9851-1404"
+    - "https://scholar.google.com/citations?user=InMNgF0AAAAJ"
+    - "https://www.ri.se/en/person/johan-linaker"
+    - "https://portal.research.lu.se/sv/persons/johan-lin%C3%A5ker"
+    - "https://github.com/johanlinaker"
+    - "https://www.linkedin.com/in/johanlinaker/"
+    - "https://mastodon.acm.org/@johanlinaker"
+    - "https://huggingface.co/johanlinaker"
+
+og_image: "/assets/images/bio-photo.jpg"
 
 footer:
 

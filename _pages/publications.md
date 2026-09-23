@@ -3,7 +3,9 @@ permalink: /publications/
 title: "Publications"
 description: "Papers, reports and popular writing by Johan Linåker on open source software, open source AI and data sharing for digital sovereignty and interoperability."
 header:
-  teaser: "/assets/images/publications/teaser.jpg"
+  image: /assets/images/publications/teaser.jpg
+  image_description: "Glasses resting on an open book"
+  caption: "Photo: [Unsplash](https://unsplash.com/photos/black-framed-eyeglasses-on-white-book-page-GWbIHT51VT4)"
 ---
 <div id="top" />
 
