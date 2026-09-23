@@ -1,0 +1,30 @@
+<!-- Section links for the Research & Bio page, styled like the filter chips on the other pages.
+     Each href must match a heading id on the page. -->
+<nav class="section-chips" aria-labelledby="section-chips-label">
+<span class="section-chips__label" id="section-chips-label">Sections</span>
+<div class="section-chips__list">
+<a class="section-chip" href="#research-scope-and-philosophy">General bio and research philosophy</a>
+<a class="section-chip" href="#main-research-questions">Main research questions</a>
+<a class="section-chip" href="#ongoing-projects">Ongoing projects</a>
+<a class="section-chip" href="#ended-projects">Ended projects</a>
+<a class="section-chip" href="#supervision">Supervision in third cycle studies</a>
+<a class="section-chip" href="#education">Education</a>
+<a class="section-chip" href="#appointments">Appointments</a>
+</div>
+</nav>
+<style>
+.section-chips { margin: 0 0 2.5em; font-size: .8em; }
+.section-chips__label { display: block; font-weight: bold; margin-bottom: .35em; }
+.section-chips__list { display: flex; flex-wrap: wrap; gap: .4em; }
+.section-chips a.section-chip {
+  font-size: .9em; line-height: 1.2; color: inherit; text-decoration: none;
+  padding: .35em .75em; border-radius: 999px;
+  border: 1px solid rgba(127, 127, 127, .45);
+}
+.section-chips a.section-chip:hover { border-color: currentColor; }
+.section-chips a.section-chip:focus-visible { outline: 2px solid currentColor; outline-offset: 2px; }
+@media (min-width: 48em) {
+  .section-chips { display: flex; align-items: baseline; gap: 1em; }
+  .section-chips__label { flex: 0 0 4.5em; margin: 0; }
+}
+</style>

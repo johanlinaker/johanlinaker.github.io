@@ -11,25 +11,7 @@ header:
 
 <img src="/assets/images/research/teaser.jpg" alt="https://unsplash.com/photos/group-of-people-with-signages-nKNrOZ5MXZY"></div>
 
-<h3>Sections</h3>
-
-<ul>
-
- <li><a href="#research-scope-and-philosophy">General bio and research philosophy</a></li>
-
- <li><a href="#main-research-questions">Main research questions</a></li>
-
- <li><a href="#ongoing-projects">Ongoing projects</a></li>
-
- <li><a href="#ended-projects">Ended projects</a></li>
-
- <li><a href="#supervision">Supervision in third cycle studies</a></li>
-
- <li><a href="#education">Education</a></li>
-
- <li><a href="#appointments">Appointments</a></li>
-
-</ul>
+{% include research-sections.html %}
 
 <div id="research-scope-and-philosophy" />
 
