@@ -1,15 +1,50 @@
-<!-- Visible search box for the homepage. Typing here opens the theme's own search
-     (the magnifying-glass overlay) with the same text, so results work exactly as before.
-     Requires `search: true` in _config.yml. -->
-<div class="home-search" id="home-search" role="search" hidden>
+{%- comment -%}
+  Homepage search box and topic chips.
+  The search box opens the theme's own search with the typed text (needs search: true in _config.yml).
+  The chips link to the most-used blog tags on the tags page. Change topic_limit to show more or fewer.
+{%- endcomment -%}
+{%- assign topic_limit = 10 -%}
+<div class="home-search">
+<div class="home-search__field" id="home-search" role="search" hidden>
 <label for="home-search-input">Search the blog</label>
 <input type="search" id="home-search-input" placeholder="Topic, title, keyword…" autocomplete="off">
 </div>
+{%- if site.tags.size > 0 -%}
+{%- assign tags_max = 0 -%}
+{%- for tag in site.tags -%}{%- if tag[1].size > tags_max -%}{%- assign tags_max = tag[1].size -%}{%- endif -%}{%- endfor -%}
+{%- assign shown = 0 -%}
+<nav class="home-topics" aria-labelledby="home-topics-label">
+<span class="home-topics__label" id="home-topics-label">Topics</span>
+<div class="home-topics__list">
+{%- for i in (1..tags_max) reversed -%}
+{%- for tag in site.tags -%}
+{%- if tag[1].size == i and shown < topic_limit -%}
+<a class="home-topic" href="{{ '/tags/' | relative_url }}#{{ tag[0] | slugify }}">{{ tag[0] | replace: '-', ' ' | capitalize }} <span class="home-topic__n">{{ i }}</span></a>
+{%- assign shown = shown | plus: 1 -%}
+{%- endif -%}
+{%- endfor -%}
+{%- endfor -%}
+<a class="home-topic home-topic--all" href="{{ '/tags/' | relative_url }}">All topics</a>
+</div>
+</nav>
+{%- endif -%}
+</div>
 <style>
 .home-search { margin: 1.5em 0 2em; font-size: .8em; }
-.home-search label { display: block; font-weight: bold; margin-bottom: .35em; }
-.home-search input { width: 100%; max-width: 30em; padding: .5em .75em; margin: 0; }
-.home-search[hidden] { display: none !important; }
+.home-search__field { margin-bottom: 1em; }
+.home-search__field label, .home-topics__label { display: block; font-weight: bold; margin-bottom: .35em; }
+.home-search__field input { width: 100%; max-width: 30em; padding: .5em .75em; margin: 0; }
+.home-search [hidden] { display: none !important; }
+.home-topics__list { display: flex; flex-wrap: wrap; gap: .4em; }
+.home-search a.home-topic {
+  font-size: .9em; line-height: 1.2; color: inherit; text-decoration: none;
+  padding: .35em .75em; border-radius: 999px;
+  border: 1px solid rgba(127, 127, 127, .45);
+}
+.home-search a.home-topic:hover { border-color: currentColor; }
+.home-search a.home-topic:focus-visible { outline: 2px solid currentColor; outline-offset: 2px; }
+.home-topic__n { opacity: .6; font-variant-numeric: tabular-nums; }
+.home-search a.home-topic--all { text-decoration: underline; border-color: transparent; }
 </style>
 <script>
 // Run after the whole page has loaded: the theme's search panel sits further down
