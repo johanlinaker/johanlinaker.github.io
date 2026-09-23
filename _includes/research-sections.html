@@ -1,8 +1,11 @@
-<!-- Section links for the Research & Bio page, styled like the filter chips on the other pages.
-     Each href must match a heading id on the page. -->
-<nav class="section-chips" aria-labelledby="section-chips-label">
+<!-- Section chips for the Research & Bio page, styled like the filters on the other pages.
+     Clicking a chip shows only that section; clicking it again (or "All") shows everything.
+     Without JavaScript the chips work as ordinary links that jump to each section.
+     Each href must match an id on the page. -->
+<nav class="section-chips" id="section-chips" aria-labelledby="section-chips-label">
 <span class="section-chips__label" id="section-chips-label">Sections</span>
 <div class="section-chips__list">
+<a class="section-chip" href="#" data-all hidden>All</a>
 <a class="section-chip" href="#research-scope-and-philosophy">General bio and research philosophy</a>
 <a class="section-chip" href="#main-research-questions">Main research questions</a>
 <a class="section-chip" href="#ongoing-projects">Ongoing projects</a>
@@ -23,8 +26,68 @@
 }
 .section-chips a.section-chip:hover { border-color: currentColor; }
 .section-chips a.section-chip:focus-visible { outline: 2px solid currentColor; outline-offset: 2px; }
+.section-chips a.section-chip[aria-pressed="true"] {
+  border-color: currentColor; font-weight: bold;
+  background: rgba(127, 127, 127, .18);
+  background: color-mix(in srgb, currentColor 14%, transparent);
+}
+.section-chips [hidden] { display: none !important; }
 @media (min-width: 48em) {
   .section-chips { display: flex; align-items: baseline; gap: 1em; }
   .section-chips__label { flex: 0 0 4.5em; margin: 0; }
 }
 </style>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var nav = document.getElementById('section-chips');
+  if (!nav) return;
+  var container = nav.parentElement;
+  var allChip = nav.querySelector('[data-all]');
+  var chips = Array.prototype.slice.call(nav.querySelectorAll('.section-chip:not([data-all])'));
+
+  // For each chip, find where its section starts: the top-level element of the page that holds its target id
+  function topLevel(el) {
+    while (el && el.parentElement !== container) el = el.parentElement;
+    return el;
+  }
+  var sections = chips.map(function (chip) {
+    var id = decodeURIComponent(chip.getAttribute('href').slice(1));
+    return { id: id, chip: chip, start: topLevel(document.getElementById(id)) };
+  }).filter(function (s) { return s.start; });
+  if (!sections.length) return;
+
+  // A section runs from its start up to the next section's start (or the end of the page)
+  var starts = sections.map(function (s) { return s.start; });
+  sections.forEach(function (s) {
+    s.nodes = [];
+    for (var n = s.start; n && (n === s.start || starts.indexOf(n) === -1); n = n.nextElementSibling) {
+      if (n !== nav) s.nodes.push(n);
+    }
+  });
+
+  var current = '';
+  function show(id) {
+    current = id;
+    sections.forEach(function (s) {
+      var visible = !id || s.id === id;
+      s.nodes.forEach(function (n) { n.style.display = visible ? '' : 'none'; });
+      s.chip.setAttribute('aria-pressed', String(s.id === id));
+    });
+    allChip.hidden = !id;
+    history.replaceState(null, '', location.pathname + location.search + (id ? '#' + id : ''));
+  }
+
+  chips.forEach(function (chip) {
+    chip.addEventListener('click', function (e) {
+      e.preventDefault();
+      var id = decodeURIComponent(chip.getAttribute('href').slice(1));
+      show(current === id ? '' : id);   // clicking the active chip shows everything again
+    });
+  });
+  allChip.addEventListener('click', function (e) { e.preventDefault(); show(''); });
+
+  // Links like /research/#education open with that section selected
+  var hash = decodeURIComponent(location.hash.slice(1));
+  show(sections.some(function (s) { return s.id === hash; }) ? hash : '');
+});
+</script>
