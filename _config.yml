@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Virtual Home of Johan Linåker
-email: johan [dot] linaker [at] ri [dot] se
+title: Johan Linåker
+email: johan.linaker@ri.se
 description: "Johan Linåker researches open source software, open source AI and data sharing as levers for digital sovereignty, interoperability and open innovation."
 locale: 'en-GB'
 github_username: johanlinaker
