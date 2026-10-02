@@ -109,7 +109,9 @@ items:
 - type: journal-reviewing
   text: Requirements Engineering Journal
 - type: journal-reviewing
-  text: Government information quarterly
+  text: Long Range Planning
+- type: journal-reviewing
+  text: Government Information Quarterly
 - type: journal-reviewing
   text: Technological Forecasting & Social Change
 - type: journal-reviewing
@@ -119,7 +121,7 @@ items:
 - type: journal-reviewing
   text: eJournal of eDemocracy and open government
 - type: journal-reviewing
-  text: Data & knowledge engineering
+  text: Data & Knowledge Engineering
 - type: journal-reviewing
   text: Computer Law and Security
 - type: journal-reviewing

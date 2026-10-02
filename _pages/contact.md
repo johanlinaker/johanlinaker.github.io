@@ -35,7 +35,7 @@ I regularly give interviews, keynotes and panel contributions in English and Swe
 - Public procurement of open source software
 - Health and security of open source software projects
 - Open source AI and open collaboration
-- Data sharing and data ecosystems
+- Data sharing, open data and data ecosystems
 
 Previous talks, with slides and recordings, are listed on the [Talks](/talks/) page, and interviews under Media on the [Publications](/publications/) page.
 
