@@ -829,7 +829,7 @@ items:
   - innovation
 - type: popular-writing
   year: 2026
-  text: **Linåker, J.**, Magnusson, J., Svensson, F., and Nummelin-Carlberg, A. *Without Open-Source Hardware, There Is No EU Tech Sovereignty*. (Oct, 2026). Op-Ed, NyTeknik.
+  text: '**Linåker, J.**, Magnusson, J., Svensson, F., and Nummelin-Carlberg, A. *Without Open-Source Hardware, There Is No EU Tech Sovereignty*. (Oct, 2026). Op-Ed, NyTeknik.'
   links:
   - label: Article
     url: https://www.nyteknik.se/debatt/budskap-till-en-ny-regering-infoer-regeln-oeppen-programvara-foerst/4500693
@@ -838,7 +838,7 @@ items:
   - digital-sovereignty
 - type: popular-writing
   year: 2026
-  text: Serrano, J., Gates, N., and **Linåker, J.** *Without Open-Source Hardware, There Is No EU Tech Sovereignty*. (June, 2026). Op-Ed, TechPolicy.press.
+  text: 'Serrano, J., Gates, N., and **Linåker, J.** *Without Open-Source Hardware, There Is No EU Tech Sovereignty*. (June, 2026). Op-Ed, TechPolicy.press.'
   links:
   - label: Article
     url: https://www.techpolicy.press/without-opensource-hardware-there-is-no-eu-tech-sovereignty/
