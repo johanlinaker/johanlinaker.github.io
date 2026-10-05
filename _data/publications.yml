@@ -194,6 +194,11 @@ items:
 - type: peer-reviewed-papers
   year: 2026
   text: '**Linåker, J.**, Lumbard, K., & Link, G. (2026). *Making Impact Visible in Funding of Open Source Software: A Study of the Funders Perspective*. In Proceedings of the 20th International Symposium on Empirical Software Engineering and Measurement.'
+  links:
+  - label: DOI
+    url: https://doi.org/10.4230/LIPIcs.ESEM.2026.8
+  - label: PDF
+    url: https://drops.dagstuhl.de/storage/00lipics/lipics-vol394-esem2026/LIPIcs.ESEM.2026.8/LIPIcs.ESEM.2026.8.pdf
   topics:
   - open-source
 - type: peer-reviewed-papers
