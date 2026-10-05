@@ -219,7 +219,10 @@ items:
   - public-sector
 - type: peer-reviewed-papers
   year: 2026
-  text: 'Usman, M., **Linåker, J.**, Badampudi, D., & Sahlin, H. (2026). *Adopting InnerSource in a Public Sector Organization: An Exploratory Case Study*. Accepted for publication at EuroMicro.'
+  text: 'Usman, M., **Linåker, J.**, Badampudi, D., & Sahlin, H. (2026). *Adopting InnerSource in a Public Sector Organization: An Exploratory Case Study*. In Proceedings of the Euromicro Conference on Software Engineering and Advanced Applications.'
+  links:
+  - label: DOI
+    url: https://doi.org/10.1007/978-3-032-36587-3_26
   topics:
   - open-source
   - public-sector
@@ -824,6 +827,15 @@ items:
   - open-source
   - open-data
   - innovation
+- type: popular-writing
+  year: 2026
+  text: **Linåker, J.**, Magnusson, J., Svensson, F., and Nummelin-Carlberg, A. *Without Open-Source Hardware, There Is No EU Tech Sovereignty*. (Oct, 2026). Op-Ed, NyTeknik.
+  links:
+  - label: Article
+    url: https://www.nyteknik.se/debatt/budskap-till-en-ny-regering-infoer-regeln-oeppen-programvara-foerst/4500693
+  topics:
+  - open-source
+  - digital-sovereignty
 - type: popular-writing
   year: 2026
   text: Serrano, J., Gates, N., and **Linåker, J.** *Without Open-Source Hardware, There Is No EU Tech Sovereignty*. (June, 2026). Op-Ed, TechPolicy.press.
