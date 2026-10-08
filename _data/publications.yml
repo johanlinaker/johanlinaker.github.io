@@ -170,6 +170,8 @@ items:
   links:
   - label: DOI
     url: https://link.springer.com/chapter/10.1007/978-3-032-04294-1_8
+  - label: PDF
+    url: https://arxiv.org/pdf/2610.06004
   topics:
   - experimentation
 - type: book-chapters
@@ -223,6 +225,8 @@ items:
   links:
   - label: DOI
     url: https://doi.org/10.1007/978-3-032-36587-3_26
+  - label: PDF
+    url: https://arxiv.org/pdf/2610.05947
   topics:
   - open-source
   - public-sector

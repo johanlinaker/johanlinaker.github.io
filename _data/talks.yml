@@ -24,6 +24,15 @@ types:
   label: Paper presentations
   short: Paper presentations
 items:
+- type: panel
+  year: 2026
+  text: '*Global Cooperation: Free and Open Source (FOSS) and Digital Sovereignty*. (2026, October). Digital Sovereignty in the Age of AI - WASP HS, Stockholm Sweden.'
+- type: Keynotes
+  year: 2026
+  text: '*Open Source At The Crossroads And The Fight To Stay Open*. (2026, October). Linux Foundation Open Source Summit Europe. Keynote, Prague, Czech Republic.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/lfosseu2026.pdf
 - type: invited-talk
   year: 2026
   text: '*Öppenhet och Digital Suveränitet i en Skiftande Omvärld*. (2026, September). SeniorNet. Invited talk, virtual.'
