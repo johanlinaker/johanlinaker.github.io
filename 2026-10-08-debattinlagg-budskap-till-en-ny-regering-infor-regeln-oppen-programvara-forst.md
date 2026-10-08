@@ -2,7 +2,7 @@
 title: "Debattinlägg: Budskap till en ny regering: Inför regeln öppen programvara först"
 seo_title: "Debattinlägg: Budskap till en ny regering: Inför regeln öppen programvara först"
 excerpt: Öppen programvara är ett centralt och högst strategiskt verktyg (av flera) för att stärka och bygga digital rådighet och handlingsfrihet, både på kort och lång sikt. Det är väldigt tydligt när man ser till EUs open source strategi tillika föreslagna Cloud and AI Development Act. Allt fler länder inom Europa går mot en open-by-default/unless policy i upphandling och anskaffning för att stärka transparens, interoperabilitet och rådighet, aspekter som blir än mer kritiskt om vi ser till framväxande behov och beroenden AI-system och modeller. Sverige behöver, i våran mening, gå åt ett liknande håll för att vi ska få bukt på våra beroenden och högst begränsade digitala autonomi. Se hela debattinlägget på NyTeknik, skrivet tillsammans med Johan Magnusson, Fredrik Svensson och Astor Nummelin Carlberg.
-date: 2026-10-08T11:11:33+02:00
+date: 2026-10-07T11:11:33+02:00
 categories:
   - blog
 tags:

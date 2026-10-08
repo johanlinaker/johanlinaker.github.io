@@ -24,6 +24,12 @@ types:
   label: Paper presentations
   short: Paper presentations
 items:
+- type: paper-presentation
+  year: 2026
+  text: '*Making Impact Visible in Funding of Open Source Software: A Study of the Funders’ Perspective*. (2026, October). Linux Foundation Open Source Summit Europe. 20th International Symposium on Empirical Software Engineering and Measurement. Paper presentation, Munich, Germany.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Funding-Impact-ESEM2026.pdf
 - type: panel
   year: 2026
   text: '*Global Cooperation: Free and Open Source (FOSS) and Digital Sovereignty*. (2026, October). Digital Sovereignty in the Age of AI - WASP HS, Stockholm Sweden.'
