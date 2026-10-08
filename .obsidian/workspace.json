@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-10-08-debattinlagg-budskap-till-en-ny-regering-infor-regeln-oppen-programvara-forst.md",
+                "file": "2026-10-08-new-paper-making-impact-visible-in-funding-of-open-source-software.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-10-08-debattinlagg-budskap-till-en-ny-regering-infor-regeln-oppen-programvara-forst"
+              "title": "2026-10-08-new-paper-making-impact-visible-in-funding-of-open-source-software"
             }
           }
         ],
@@ -370,7 +370,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2026-10-08-debattinlagg-budskap-till-en-ny-regering-infor-regeln-oppen-programvara-forst.md"
+                "file": "2026-10-08-new-paper-making-impact-visible-in-funding-of-open-source-software.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -398,19 +398,21 @@
   },
   "active": "4119e68a3600cce4",
   "lastOpenFiles": [
+    "assets/images/2026-10-08-new-paper-making-impact-visible-in-funding-of-open-source-software",
+    "assets/images/New folder",
+    "2026-10-08-debattinlagg-budskap-till-en-ny-regering-infor-regeln-oppen-programvara-forst.md",
+    "2026-10-08-new-paper-making-impact-visible-in-funding-of-open-source-software.md",
+    "assets/slides/Funding-Impact-ESEM2026.pdf",
+    "assets/slides/msoF085.tmp",
     "assets/images/2026-10-08-debattinlagg-budskap-till-en-ny-regering-infor-regeln-oppen-programvara-forst/teaser.jpg",
     "assets/images/2026-10-08-debattinlagg-budskap-till-en-ny-regering-infor-regeln-oppen-programvara-forst",
-    "assets/images/New folder",
     "_pages/publications.md",
-    "2026-10-08-debattinlagg-budskap-till-en-ny-regering-infor-regeln-oppen-programvara-forst.md",
     "assets/slides/lfosseu2026.pdf",
     "assets/slides/Unconfirmed 212817.crdownload",
     "_data/publications.yml",
     "_data/Unconfirmed 668188.crdownload",
     "_includes/publications.html",
     "_includes/Unconfirmed 400124.crdownload",
-    "_includes/Unconfirmed 187637.crdownload",
-    "_includes/pub-filter.html",
     "_pages/activity.md",
     "_posts/2026-09-15-new-report-national-support-structures-and-capabilities-for-growing-digital-sovereignty-through-sharing-and-reuse-of-open-source-software-in-the-public-sector.md",
     "assets/images/2026-09-15-new-report-national-support-structures-and-capabilities-for-growing-digital-sovereignty-through-sharing-and-reuse-of-open-source-software-in-the-public-sector/teaser.jpg",
@@ -422,7 +424,6 @@
     "assets/images/2026-09-15-new-report-national-support-structures-and-capabilities-for-growing-digital-sovereignty-through-sharing-and-reuse-of-open-source-software-in-the-public-sector/clip_image019.png",
     "assets/images/2026-09-15-new-report-national-support-structures-and-capabilities-for-growing-digital-sovereignty-through-sharing-and-reuse-of-open-source-software-in-the-public-sector/clip_image018.png",
     "assets/images/2026-09-15-new-report-national-support-structures-and-capabilities-for-growing-digital-sovereignty-through-sharing-and-reuse-of-open-source-software-in-the-public-sector/clip_image014.png",
-    "assets/images/2026-09-15-new-report-national-support-structures-and-capabilities-for-growing-digital-sovereignty-through-sharing-and-reuse-of-open-source-software-in-the-public-sector/clip_image013.png",
     "_posts/2026-03-27-digital-suveranitet-fran-osynliga-beroenden-till-strategiska-val.md",
     "_posts/2026-07-13-new-paper-advancing-digital-government-through-open-source-indicators.md",
     "_pages/research.md",
@@ -442,7 +443,6 @@
     "_posts/2026-05-15-europakommentaren-samverkan-nyckel-till-starkt-europeisk-digital-suveranitet-och-kontroll.md",
     "_posts/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package.md",
     "_posts/2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty.md",
-    "_posts/2026-06-25-the-un-open-source-enablement-compass.md",
-    "faeu/2026-07-09-feuaif.md"
+    "_posts/2026-06-25-the-un-open-source-enablement-compass.md"
   ]
 }
