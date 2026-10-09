@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-10-08-debattinlagg-budskap-till-en-ny-regering-infor-regeln-oppen-programvara-forst.md",
+                "file": "_posts/2026-10-08-new-paper-making-impact-visible-in-funding-of-open-source-software.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2026-10-08-debattinlagg-budskap-till-en-ny-regering-infor-regeln-oppen-programvara-forst"
+              "title": "2026-10-08-new-paper-making-impact-visible-in-funding-of-open-source-software"
             }
           }
         ],
@@ -370,7 +370,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_posts/2026-10-08-debattinlagg-budskap-till-en-ny-regering-infor-regeln-oppen-programvara-forst.md"
+                "file": "_posts/2026-10-08-new-paper-making-impact-visible-in-funding-of-open-source-software.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -396,10 +396,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4119e68a3600cce4",
+  "active": "bdea5ab17dcd3fcd",
   "lastOpenFiles": [
-    "_posts/2026-10-08-considering-open-source-software-in-public-procurement.md",
     "_posts/2026-10-08-debattinlagg-budskap-till-en-ny-regering-infor-regeln-oppen-programvara-forst.md",
+    "_posts/2026-10-08-considering-open-source-software-in-public-procurement.md",
     "_posts/2026-10-08-new-paper-making-impact-visible-in-funding-of-open-source-software.md",
     "assets/images/2026-10-08-new-paper-making-impact-visible-in-funding-of-open-source-software/teaser.jpg",
     "assets/images/2026-10-08-new-paper-making-impact-visible-in-funding-of-open-source-software",
