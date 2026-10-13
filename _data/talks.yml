@@ -24,6 +24,12 @@ types:
   label: Paper presentations
   short: Paper presentations
 items:
+- type: invited-talk
+  year: 2026
+  text: '*Variations and interplay between governance and platforms in open data ecosystems*. (2026, October). Cross-Disciplinary Workshop on Decentral Protocols and Digital Infrastructures at ITU. Invited talk, Copenhagen, Denmark.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/data-ecosystems-ITU.pdf
 - type: paper-presentation
   year: 2026
   text: '*Making Impact Visible in Funding of Open Source Software: A Study of the Funders’ Perspective*. (2026, October). Linux Foundation Open Source Summit Europe. 20th International Symposium on Empirical Software Engineering and Measurement. Paper presentation, Munich, Germany.'
