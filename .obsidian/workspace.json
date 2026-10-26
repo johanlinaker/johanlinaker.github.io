@@ -396,8 +396,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bdea5ab17dcd3fcd",
+  "active": "4119e68a3600cce4",
   "lastOpenFiles": [
+    "assets/slides/data-ecosystems-ITU.pdf",
+    "assets/slides/mso32D0.tmp",
     "_posts/2026-10-08-debattinlagg-budskap-till-en-ny-regering-infor-regeln-oppen-programvara-forst.md",
     "_posts/2026-10-08-considering-open-source-software-in-public-procurement.md",
     "_posts/2026-10-08-new-paper-making-impact-visible-in-funding-of-open-source-software.md",
@@ -413,7 +415,6 @@
     "assets/slides/Unconfirmed 212817.crdownload",
     "_data/publications.yml",
     "_data/Unconfirmed 668188.crdownload",
-    "_includes/publications.html",
     "_pages/activity.md",
     "_posts/2026-09-15-new-report-national-support-structures-and-capabilities-for-growing-digital-sovereignty-through-sharing-and-reuse-of-open-source-software-in-the-public-sector.md",
     "assets/images/2026-09-15-new-report-national-support-structures-and-capabilities-for-growing-digital-sovereignty-through-sharing-and-reuse-of-open-source-software-in-the-public-sector/teaser.jpg",
@@ -442,7 +443,6 @@
     "_posts/2026-06-04-eus-suveranitetspaket-visar-vagen-mot-digital-radighet.md",
     "_posts/2026-05-15-europakommentaren-samverkan-nyckel-till-starkt-europeisk-digital-suveranitet-och-kontroll.md",
     "_posts/2026-06-21-conversation-piece-on-europe-s-tech-sovereignty-package.md",
-    "_posts/2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty.md",
-    "_posts/2026-06-25-the-un-open-source-enablement-compass.md"
+    "_posts/2026-06-18-without-open-source-hardware-there-is-no-eu-tech-sovereignty.md"
   ]
 }

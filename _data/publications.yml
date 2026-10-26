@@ -210,7 +210,7 @@ items:
   - open-source
 - type: peer-reviewed-papers
   year: 2026
-  text: '**Linåker, J.**, & Muto, S. (2025). *Advancing Digital Government: Integrating Open Source Software Enablement Indicators in Maturity Indexes*. Accepted for publication in the Journal of Software and Systems.'
+  text: '**Linåker, J.**, & Muto, S. (2025). *Advancing Digital Government: Integrating Open Source Software Enablement Indicators in Maturity Indexes*. Journal of Systems and Software, 113031.'
   links:
   - label: DOI
     url: https://doi.org/10.1016/j.jss.2026.113031
@@ -232,7 +232,7 @@ items:
   - public-sector
 - type: peer-reviewed-papers
   year: 2026
-  text: '**Linåker, J.**, Nummelin Carlberg, A., & O’Riordan, C. (2025). *Public Sector Open Source Program Offices - Archetypes for how to Grow (Common) Institutional Capabilities*. Accepted for publication in the Journal of Software and Systems.'
+  text: '**Linåker, J.**, Nummelin Carlberg, A., & O’Riordan, C. (2025). *Public Sector Open Source Program Offices - Archetypes for how to Grow (Common) Institutional Capabilities*. Journal of Systems and Software, 112998.'
   links:
   - label: DOI
     url: https://doi.org/10.1016/j.jss.2026.112998
@@ -619,6 +619,14 @@ items:
     url: https://arxiv.org/pdf/2208.00488
   topics:
   - open-data
+- type: media
+  year: 2026
+  text: '*The alarming reality of the worldwide website emergency: As a PHP weakness sparks a global cybersecurity alert, experts warn this is going to happen again*. (July, 2026). Interview, Daily Main.'
+  links:
+  - label: Article
+    url: https://www.dailymail.com/sciencetech/article-16232471/PHP-weakness-global-cybersecurity-alert.html
+  topics:
+  - open-source
 - type: media
   year: 2026
   text: '*Microsoft kliver in i Europas AI-bygge – experten varnar för nytt beroende*. (July, 2026). Interview, Techtidningen.'

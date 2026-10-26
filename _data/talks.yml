@@ -24,6 +24,12 @@ types:
   label: Paper presentations
   short: Paper presentations
 items:
+- type: submitted-talk
+  year: 2026
+  text: '*Extending Digital Sovereignty Down the Stack - The Role of Open Source Hardware*. (2026, October). Open Technology Research Symposium. Submitted talk, Barcelona, Spain.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/OSH_Digital_Sovereignty_OTR_Barcelona.pdf
 - type: invited-talk
   year: 2026
   text: '*Variations and interplay between governance and platforms in open data ecosystems*. (2026, October). Cross-Disciplinary Workshop on Decentral Protocols and Digital Infrastructures at ITU. Invited talk, Copenhagen, Denmark.'

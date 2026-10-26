@@ -139,6 +139,8 @@ items:
 - type: journal-reviewing
   text: Journal of Internet Services and Applications
 - type: grant-proposal-reviewing
+  text: Swiss National Science Foundation (2026)
+- type: grant-proposal-reviewing
   text: Austrian Science Fund (2023)
 - type: grant-proposal-reviewing
   text: Deutsche Forschungsgemeinschaft (2022, 2026)
