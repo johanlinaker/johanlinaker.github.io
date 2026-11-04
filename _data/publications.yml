@@ -206,6 +206,7 @@ items:
 - type: peer-reviewed-papers
   year: 2026
   text: 'Alami, A., Klockmann, S., Rehder Sörensen, L., Pardo, R., & **Linåker, J.** (2026). *Incubation and Beyond: A Comparative Analysis of ASF Projects Sustainability Impacts on Software Quality*. Accepted for publication in Empirical Software Engineering.'
+  links:
   - label: DOI
     url: https://doi.org/10.1007/s10664-026-10952-x
   topics:
