@@ -24,6 +24,15 @@ types:
   label: Paper presentations
   short: Paper presentations
 items:
+- type: panel
+  year: 2026
+  text: '*How can the Nordic and Baltic countries strengthen their digital agency?*. (2026, November). Conference: Pathways to Digital Sovereignty - Tænketanken Digital Infrastruktur and Nordic Council of Ministers. Invited panelist, Copenhagen, Denmark.'
+- type: invited-talk
+  year: 2026
+  text: '*Öppen programvara och rådighet i anskaffning och upphandling av IT-system*. (2026, November). Region Örebro län. Invited talk, virtual.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Oppen-programvara-och-suveranitet-i-upphandling-Orebro-lan.pdf
 - type: submitted-talk
   year: 2026
   text: '*Extending Digital Sovereignty Down the Stack - The Role of Open Source Hardware*. (2026, October). Open Technology Research Symposium. Submitted talk, Barcelona, Spain.'
@@ -151,7 +160,7 @@ items:
     url: https://www.linaker.se/assets/slides/OSS-Contribution-Strategies-Great-IT-GBG.pdf
 - type: panel
   year: 2025
-  text: '*Open Source for Europe’s Tech Sovereignty*. (2025, December). Cognit Day 2025. Invited panel, virtual.'
+  text: '*Open Source for Europe’s Tech Sovereignty*. (2025, December). Cognit Day 2025. Invited panelist, virtual.'
 - type: paper-presentation
   year: 2025
   text: '*Enabling PhD student collaboration in research groups*. (2025, December). Pedagogiska inspirationskonferensen-Genombrottet. Lund University, Lund, Sweden.'
