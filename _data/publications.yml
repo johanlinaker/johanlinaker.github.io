@@ -844,6 +844,15 @@ items:
   - innovation
 - type: popular-writing
   year: 2026
+  text: '**Linåker, J.** * Europe’s digital reliance on US Big Tech*. (November, 2026). Article, Baltic Rim Economies #3/2026.'
+  links:
+  - label: Article
+    url: https://centrumbalticum.org/europes-digital-reliance-on-us-big-tech
+  topics:
+  - open-source
+  - digital-sovereignty
+- type: popular-writing
+  year: 2026
   text: '**Linåker, J.**, Magnusson, J., Svensson, F., and Nummelin-Carlberg, A. *Without Open-Source Hardware, There Is No EU Tech Sovereignty*. (Oct, 2026). Op-Ed, NyTeknik.'
   links:
   - label: Article
