@@ -24,6 +24,18 @@ types:
   label: Paper presentations
   short: Paper presentations
 items:
+- type: keynote
+  year: 2026
+  text: '*Promoting a sovereign and robust digital infrastructure. Strategic dilemmas in digital governance*. (2026, November). Beyond GovTech and Ministry of Foreign Affairs. Keynote, Copenhagen, Denmark.'
+  links:
+  - label: Slides
+    url: https://www.linaker.se/assets/slides/Digital-sov-Beyond-GovTech.pdf
+- type: panel
+  year: 2026
+  text: '*The opportunities of open source for digital sovereignty*. (2026, November). Beyond GovTech. Invited moderator, Copenhagen, Denmark.'
+- type: panel
+  year: 2026
+  text: '*Digital Commons and Open Source as Foundations of European Digital Sovereignty*. (2026, November). Open Technology Day - Ministry of Digital Affairs. Invited panelist, Warsaw, Polen.'
 - type: panel
   year: 2026
   text: '*How can the Nordic and Baltic countries strengthen their digital agency?*. (2026, November). Conference: Pathways to Digital Sovereignty - Tænketanken Digital Infrastruktur and Nordic Council of Ministers. Invited panelist, Copenhagen, Denmark.'
